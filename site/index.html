@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Publication Record</title>
+<meta name="description" content="Publications, preprints, citations and peer reviews, updated daily from ORCID, Crossref, OpenAlex and Google Scholar.">
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f6f5f2;
+  --surface: #fcfcfb;
+  --surface-2: #f0efeb;
+  --border: #e2e0da;
+  --text: #0b0b0b;
+  --text-2: #52514e;
+  --text-3: #7a7873;
+  --accent: #2a78d6;
+  --accent-ink: #1d5fae;
+  --bar: #2a78d6;
+  --bar-hover: #1d5fae;
+  --pos-1: #2a78d6; --pos-2: #79aae8; --pos-3: #bcd5f3;
+  --grid: #e7e5e0;
+  --chip: #ebe9e4;
+  --good: #0b7a3e;
+  --good-bg: #e3f3e9;
+  --radius: 10px;
+  --shadow: 0 1px 2px rgba(0,0,0,.04), 0 1px 1px rgba(0,0,0,.03);
+  --font: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --bg: #121211;
+    --surface: #1a1a19;
+    --surface-2: #222220;
+    --border: #2f2e2b;
+    --text: #f0efec;
+    --text-2: #c3c2b7;
+    --text-3: #8e8d85;
+    --accent: #6aa7f0;
+    --accent-ink: #8dbcf4;
+    --bar: #3987e5;
+    --bar-hover: #6aa7f0;
+    --pos-1: #3987e5; --pos-2: #2b64a8; --pos-3: #24456d;
+    --grid: #2b2a27;
+    --chip: #2a2927;
+    --good: #5fd08f;
+    --good-bg: #15301f;
+    --shadow: none;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121211; --surface: #1a1a19; --surface-2: #222220; --border: #2f2e2b;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8e8d85;
+  --accent: #6aa7f0; --accent-ink: #8dbcf4; --bar: #3987e5; --bar-hover: #6aa7f0;
+  --pos-1: #3987e5; --pos-2: #2b64a8; --pos-3: #24456d;
+  --grid: #2b2a27; --chip: #2a2927; --good: #5fd08f; --good-bg: #15301f; --shadow: none;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 64px; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.55 var(--font); -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent-ink); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+
+header.top { padding: 40px 0 20px; }
+header.top h1 { font: 600 30px/1.2 var(--serif); margin: 0 0 6px; letter-spacing: -.01em; }
+header.top .sub { color: var(--text-2); margin: 0; }
+header.top .links { margin-top: 10px; display: flex; gap: 16px; flex-wrap: wrap; font-size: 14px; }
+
+nav.tabs {
+  position: sticky; top: 0; z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(8px); border-bottom: 1px solid var(--border);
+}
+nav.tabs .wrap { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; }
+nav.tabs a {
+  padding: 12px 12px; color: var(--text-2); font-size: 14px; font-weight: 500; white-space: nowrap;
+  border-bottom: 2px solid transparent;
+}
+nav.tabs a:hover { color: var(--text); text-decoration: none; }
+nav.tabs a.active { color: var(--text); border-bottom-color: var(--accent); }
+
+section { padding: 28px 0 8px; }
+h2 { font: 600 20px/1.3 var(--serif); margin: 0 0 4px; }
+.section-note { color: var(--text-3); font-size: 13px; margin: 0 0 16px; }
+
+.tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.tile {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 14px 16px; box-shadow: var(--shadow);
+}
+.tile .v { font: 600 28px/1.1 var(--font); font-variant-numeric: tabular-nums; letter-spacing: -.02em; }
+.tile .l { color: var(--text-2); font-size: 13px; margin-top: 4px; }
+.tile .s { color: var(--text-3); font-size: 12px; margin-top: 2px; }
+
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 12px; }
+@media (max-width: 760px) { .grid2 { grid-template-columns: 1fr; } }
+.card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 16px; box-shadow: var(--shadow); min-width: 0;
+}
+.card h3 { margin: 0 0 12px; font-size: 14px; font-weight: 600; }
+
+/* bar chart */
+.chart { position: relative; }
+.chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.chart .bar { fill: var(--bar); }
+.chart .hit { fill: transparent; cursor: default; }
+.chart g.col:hover .bar, .chart g.col:focus .bar { fill: var(--bar-hover); }
+.chart text { fill: var(--text-3); font: 11px var(--font); }
+.chart text.val { fill: var(--text-2); font-weight: 600; }
+.chart line.grid { stroke: var(--grid); stroke-width: 1; }
+.chart line.base { stroke: var(--text-3); stroke-width: 1; opacity: .5; }
+.tip {
+  position: absolute; pointer-events: none; background: var(--text); color: var(--bg);
+  font-size: 12px; padding: 5px 8px; border-radius: 6px; white-space: nowrap;
+  transform: translate(-50%, calc(-100% - 8px)); opacity: 0; transition: opacity .1s;
+}
+.tip.on { opacity: 1; }
+
+/* split bar for author position */
+.split { display: flex; height: 14px; border-radius: 4px; overflow: hidden; gap: 2px; margin: 4px 0 12px; }
+.split span { display: block; }
+.legend { display: grid; gap: 6px; font-size: 13px; }
+.legend div { display: flex; align-items: center; gap: 8px; }
+.legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; flex: none; }
+.legend b { margin-left: auto; font-variant-numeric: tabular-nums; }
+
+/* filters */
+.filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+.filters input, .filters select {
+  font: inherit; font-size: 14px; color: var(--text); background: var(--surface);
+  border: 1px solid var(--border); border-radius: 8px; padding: 7px 10px;
+}
+.filters input { flex: 1 1 220px; min-width: 0; }
+.filters input:focus, .filters select:focus { outline: 2px solid var(--accent); outline-offset: 0; border-color: transparent; }
+.count { color: var(--text-3); font-size: 13px; margin: 0 0 8px; }
+
+/* publication list */
+.pubs { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.pub {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 14px 16px; box-shadow: var(--shadow);
+}
+.pub .t { font: 600 16px/1.4 var(--serif); margin: 0 0 4px; }
+.pub .t a { color: var(--text); }
+.pub .t a:hover { color: var(--accent-ink); }
+.pub .au { color: var(--text-2); font-size: 13.5px; margin: 0 0 4px; }
+.pub .au strong { color: var(--text); font-weight: 600; }
+.pub .meta { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; font-size: 13px; color: var(--text-3); }
+.pub .venue { color: var(--text-2); font-style: italic; }
+.chip {
+  display: inline-flex; align-items: center; gap: 4px; padding: 1px 8px; border-radius: 999px;
+  background: var(--chip); color: var(--text-2); font-size: 12px; font-style: normal; white-space: nowrap;
+}
+.chip.oa { background: var(--good-bg); color: var(--good); }
+.chip.pos1 { background: color-mix(in srgb, var(--accent) 16%, transparent); color: var(--accent-ink); }
+.cites { font-variant-numeric: tabular-nums; }
+details.abs { margin-top: 8px; }
+details.abs summary { cursor: pointer; color: var(--accent-ink); font-size: 13px; width: fit-content; }
+details.abs p { margin: 8px 0 0; color: var(--text-2); font-size: 14px; }
+
+/* tables */
+.tbl-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+th { color: var(--text-3); font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
+tr:last-child td { border-bottom: none; }
+.inline-bar { display: inline-block; height: 8px; border-radius: 0 4px 4px 0; background: var(--bar); vertical-align: middle; margin-right: 8px; }
+
+footer { color: var(--text-3); font-size: 13px; padding: 32px 0 48px; border-top: 1px solid var(--border); margin-top: 32px; }
+footer ul { padding-left: 18px; margin: 6px 0; }
+.status-ok { color: var(--good); }
+.status-skip { color: var(--text-3); }
+.empty { color: var(--text-3); font-style: italic; }
+.err { background: var(--surface); border: 1px solid var(--border); padding: 16px; border-radius: var(--radius); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <h1 id="name">Publication Record</h1>
+    <p class="sub" id="subtitle">Loading…</p>
+    <div class="links" id="links"></div>
+  </div>
+</header>
+
+<nav class="tabs" aria-label="Sections">
+  <div class="wrap">
+    <a href="#overview" class="active">Overview</a>
+    <a href="#publications">Publications</a>
+    <a href="#preprints">Preprints</a>
+    <a href="#journals">Journals</a>
+    <a href="#reviews">Peer reviews</a>
+  </div>
+</nav>
+
+<main class="wrap" id="main">
+  <section id="overview">
+    <h2>Overview</h2>
+    <p class="section-note">Counts cover published works on ORCID; preprints are listed separately and not counted.</p>
+    <div class="tiles" id="tiles"></div>
+    <div class="grid2">
+      <div class="card">
+        <h3>Citations per year <span class="section-note" style="font-weight:400">(Google Scholar)</span></h3>
+        <div class="chart" id="chart-cites"></div>
+      </div>
+      <div class="card">
+        <h3>Author position</h3>
+        <div id="positions"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="publications">
+    <h2>Publications</h2>
+    <p class="section-note">Newest first. Citation counts from Google Scholar, with OpenAlex where Scholar has none.</p>
+    <div class="filters">
+      <label class="visually-hidden" for="q">Search publications</label>
+      <input id="q" type="search" placeholder="Search title, author, journal…">
+      <label class="visually-hidden" for="f-pos">Author position</label>
+      <select id="f-pos">
+        <option value="">Any position</option>
+        <option value="first">First author</option>
+        <option value="second">Second author</option>
+        <option value="third_or_later">Third or later</option>
+      </select>
+      <label class="visually-hidden" for="f-type">Type</label>
+      <select id="f-type"><option value="">All types</option></select>
+      <label class="visually-hidden" for="f-sort">Sort</label>
+      <select id="f-sort">
+        <option value="date">Newest first</option>
+        <option value="cites">Most cited</option>
+      </select>
+    </div>
+    <p class="count" id="pub-count"></p>
+    <ul class="pubs" id="pub-list"></ul>
+  </section>
+
+  <section id="preprints">
+    <h2>Preprints &amp; other works</h2>
+    <p class="section-note">Found on ORCID or Google Scholar; not included in the counts above.</p>
+    <ul class="pubs" id="pre-list"></ul>
+  </section>
+
+  <section id="journals">
+    <h2>Journals</h2>
+    <p class="section-note">Where the counted publications appeared.</p>
+    <div class="card tbl-wrap"><table id="journal-table"></table></div>
+  </section>
+
+  <section id="reviews">
+    <h2>Peer reviews</h2>
+    <p class="section-note">Verified reviews on ORCID. Reviewed manuscripts are confidential and not listed.</p>
+    <div class="tiles" id="review-tiles"></div>
+    <div class="grid2">
+      <div class="card">
+        <h3>Reviews per year</h3>
+        <div class="chart" id="chart-reviews"></div>
+      </div>
+      <div class="card">
+        <h3>Verified by</h3>
+        <div class="legend" id="review-sources"></div>
+      </div>
+    </div>
+    <div class="card tbl-wrap" style="margin-top:12px"><table id="review-table"></table></div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap" id="footer"></div>
+</footer>
+
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const fmt = (n) => (n == null ? "–" : Number(n).toLocaleString("en-US"));
+  const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  const fmtDate = (d) => {
+    if (!d) return "";
+    const [y, m, day] = String(d).split("-");
+    if (day) return `${MONTHS[+m - 1]} ${+day}, ${y}`;
+    if (m) return `${MONTHS[+m - 1]} ${y}`;
+    return y;
+  };
+  const TYPE_LABEL = {
+    "journal-article": "Journal article", "proceedings-article": "Conference paper",
+    "edited-book": "Report / book", "book": "Book", "book-chapter": "Book chapter",
+    "posted-content": "Preprint", "preprint": "Preprint", "report": "Report",
+  };
+  const typeLabel = (t) => TYPE_LABEL[t] || (t ? t.replace(/-/g, " ") : "Other");
+  const ordinal = (n) => n + (["th","st","nd","rd"][(n % 100 - 20) % 10] || ["th","st","nd","rd"][n % 100] || "th");
+  const cites = (p) => p.citations_scholar ?? p.citations_openalex ?? null;
+
+  async function load(name) {
+    const r = await fetch(name, { cache: "no-cache" });
+    if (!r.ok) throw new Error(`${name}: HTTP ${r.status}`);
+    return r.json();
+  }
+
+  // ---------- bar chart (single series, no legend; hover tooltip) ----------
+  function barChart(el, data, unit) {
+    const entries = Object.entries(data).map(([k, v]) => [String(k), +v || 0]).sort((a, b) => a[0].localeCompare(b[0]));
+    if (!entries.length) { el.innerHTML = '<p class="empty">No data yet.</p>'; return; }
+    const W = 460, H = 180, padL = 4, padR = 4, padT = 22, padB = 22;
+    const max = Math.max(...entries.map((e) => e[1]), 1);
+    const step = (W - padL - padR) / entries.length;
+    const bw = Math.min(56, step * 0.6);
+    const y = (v) => padT + (H - padT - padB) * (1 - v / max);
+    const r = 4;
+    let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(unit)} per year">`;
+    [0.5, 1].forEach((f) => { const gy = y(max * f); s += `<line class="grid" x1="${padL}" x2="${W - padR}" y1="${gy}" y2="${gy}"/>`; });
+    entries.forEach(([k, v], i) => {
+      const cx = padL + step * i + step / 2, x = cx - bw / 2, top = y(v), base = H - padB, h = base - top;
+      const path = h <= 0 ? "" : h < r
+        ? `M${x},${base}V${top}H${x + bw}V${base}Z`
+        : `M${x},${base}V${top + r}Q${x},${top} ${x + r},${top}H${x + bw - r}Q${x + bw},${top} ${x + bw},${top + r}V${base}Z`;
+      s += `<g class="col" tabindex="0" data-k="${esc(k)}" data-v="${v}" data-x="${cx}" data-y="${top}">
+        <rect class="hit" x="${cx - step / 2}" y="${padT - 18}" width="${step}" height="${H - padT - padB + 18}"/>
+        ${path ? `<path class="bar" d="${path}"/>` : ""}
+        <text class="val" x="${cx}" y="${top - 6}" text-anchor="middle">${fmt(v)}</text>
+        <text x="${cx}" y="${H - 6}" text-anchor="middle">${esc(k)}</text></g>`;
+    });
+    s += `<line class="base" x1="${padL}" x2="${W - padR}" y1="${H - padB}" y2="${H - padB}"/></svg><div class="tip"></div>`;
+    el.innerHTML = s;
+    const tip = el.querySelector(".tip"), svg = el.querySelector("svg");
+    const show = (g) => {
+      const sc = svg.getBoundingClientRect().width / W;
+      tip.textContent = `${g.dataset.k}: ${fmt(g.dataset.v)} ${unit}`;
+      tip.style.left = `${g.dataset.x * sc}px`; tip.style.top = `${g.dataset.y * sc}px`;
+      tip.classList.add("on");
+    };
+    el.querySelectorAll("g.col").forEach((g) => {
+      g.addEventListener("mouseenter", () => show(g)); g.addEventListener("focus", () => show(g));
+      g.addEventListener("mouseleave", () => tip.classList.remove("on")); g.addEventListener("blur", () => tip.classList.remove("on"));
+    });
+  }
+
+  // ---------- rendering ----------
+  function authorsHtml(p) {
+    if (p.authors && p.authors.length) {
+      return p.authors.map((a) => (a.is_me ? `<strong>${esc(a.name)}</strong>` : esc(a.name))).join(", ");
+    }
+    return esc(p.authors_text || "");
+  }
+
+  function pubItem(p, { preprint = false } = {}) {
+    const c = cites(p);
+    const date = fmtDate(p.date_online || p.date_issue || p.year);
+    const pos = p.my_position;
+    const posChip = pos ? `<span class="chip ${pos === 1 ? "pos1" : ""}">${pos === 1 ? "First author" : ordinal(pos) + " author"}</span>` : "";
+    const venue = p.venue ? `<span class="venue">${esc(p.venue)}</span>` : "";
+    const vol = [p.volume && `vol. ${esc(p.volume)}`, p.issue && `no. ${esc(p.issue)}`, p.pages && esc(p.pages)].filter(Boolean).join(", ");
+    const oa = p.is_open_access && p.oa_url ? `<a class="chip oa" href="${esc(p.oa_url)}" target="_blank" rel="noopener">Free to read</a>` : "";
+    const citeTxt = c != null ? `<span class="cites">${fmt(c)} citation${c === 1 ? "" : "s"}</span>` : "";
+    const kind = preprint ? `<span class="chip">${p.kind === "preprint" ? "Preprint" : "Not on ORCID"}</span>` : `<span class="chip">${esc(typeLabel(p.type))}</span>`;
+    const doi = p.doi ? `<a href="https://doi.org/${esc(p.doi)}" target="_blank" rel="noopener">DOI</a>` : "";
+    const sch = p.scholar_url ? `<a href="${esc(p.scholar_url)}" target="_blank" rel="noopener">Scholar</a>` : "";
+    const abs = p.abstract ? `<details class="abs"><summary>Abstract</summary><p>${esc(p.abstract)}</p></details>` : "";
+    const href = p.url || (p.doi ? `https://doi.org/${p.doi}` : p.scholar_url);
+    return `<li class="pub">
+      <p class="t">${href ? `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(p.title)}</a>` : esc(p.title)}</p>
+      <p class="au">${authorsHtml(p)}</p>
+      <div class="meta">${venue}${vol ? `<span>${vol}</span>` : ""}${date ? `<span>${esc(date)}</span>` : ""}
+        ${kind}${posChip}${citeTxt}${oa}${doi}${sch}</div>${abs}</li>`;
+  }
+
+  function renderOverview(sum, pubs, pre, rev) {
+    const sp = sum.scholar_profile || {};
+    const m = sp.metrics || {};
+    const ap = sum.author_position || {};
+    if (sp.name) { $("#name").textContent = sp.name; document.title = `${sp.name} – Publication Record`; }
+    $("#subtitle").textContent = `${sum.total_publications} publications · ${sum.unique_journals} journals · ${rev.total} peer reviews`;
+    const links = [];
+    if (sum.orcid_id) links.push(`<a href="https://orcid.org/${esc(sum.orcid_id)}" target="_blank" rel="noopener">ORCID ${esc(sum.orcid_id)}</a>`);
+    if (sp.profile_url) links.push(`<a href="${esc(sp.profile_url)}" target="_blank" rel="noopener">Google Scholar</a>`);
+    $("#links").innerHTML = links.join("");
+
+    const tiles = [
+      [sum.total_publications, "Publications", `${sum.by_type?.["journal-article"] ?? 0} journal articles`],
+      [ap.first, "First-author", `${ap.second ?? 0} second-author`],
+      [m.citations?.all, "Citations", "Google Scholar, all works"],
+      [m.h_index?.all, "h-index", `i10-index ${fmt(m.i10_index?.all)}`],
+      [sum.unique_journals, "Journals", "unique venues"],
+      [rev.total, "Peer reviews", `${rev.unique_journals} journals`],
+    ];
+    $("#tiles").innerHTML = tiles.map(([v, l, s]) => `<div class="tile"><div class="v">${fmt(v)}</div><div class="l">${l}</div><div class="s">${s}</div></div>`).join("");
+
+    barChart($("#chart-cites"), sp.citations_per_year || {}, "citations");
+
+    const parts = [
+      ["First author", ap.first || 0, "var(--pos-1)"],
+      ["Second author", ap.second || 0, "var(--pos-2)"],
+      ["Third or later", ap.third_or_later || 0, "var(--pos-3)"],
+    ];
+    const total = parts.reduce((a, p) => a + p[1], 0) || 1;
+    $("#positions").innerHTML =
+      `<div class="split" role="img" aria-label="${parts.map((p) => `${p[0]} ${p[1]}`).join(", ")}">` +
+      parts.filter((p) => p[1]).map((p) => `<span style="width:${(p[1] / total) * 100}%;background:${p[2]}" title="${p[0]}: ${p[1]}"></span>`).join("") +
+      `</div><div class="legend">` +
+      parts.map((p) => `<div><i style="background:${p[2]}"></i>${p[0]}<b>${p[1]} <span style="color:var(--text-3);font-weight:400">(${Math.round((p[1] / total) * 100)}%)</span></b></div>`).join("") +
+      `</div>`;
+  }
+
+  function renderPubs(pubs) {
+    const types = [...new Set(pubs.map((p) => p.type))];
+    $("#f-type").innerHTML += types.map((t) => `<option value="${esc(t)}">${esc(typeLabel(t))}</option>`).join("");
+    const bucket = (p) => (p.my_position === 1 ? "first" : p.my_position === 2 ? "second" : p.my_position ? "third_or_later" : "");
+    const hay = pubs.map((p) => [p.title, p.venue, ...(p.authors || []).map((a) => a.name), p.primary_topic, ...(p.keywords || [])].join(" ").toLowerCase());
+    const draw = () => {
+      const q = $("#q").value.trim().toLowerCase(), pos = $("#f-pos").value, type = $("#f-type").value, sort = $("#f-sort").value;
+      let list = pubs.filter((p, i) => (!q || hay[i].includes(q)) && (!pos || bucket(p) === pos) && (!type || p.type === type));
+      if (sort === "cites") list = [...list].sort((a, b) => (cites(b) ?? -1) - (cites(a) ?? -1));
+      $("#pub-count").textContent = `Showing ${list.length} of ${pubs.length}`;
+      $("#pub-list").innerHTML = list.length ? list.map((p) => pubItem(p)).join("") : '<li class="empty">No publications match.</li>';
+    };
+    ["#q", "#f-pos", "#f-type", "#f-sort"].forEach((s) => $(s).addEventListener("input", draw));
+    draw();
+  }
+
+  function renderPreprints(pre) {
+    $("#pre-list").innerHTML = pre.length ? pre.map((p) => pubItem(p, { preprint: true })).join("") : '<li class="empty">None.</li>';
+  }
+
+  function renderJournals(sum) {
+    const rows = Object.entries(sum.journals || {});
+    const max = Math.max(...rows.map((r) => r[1]), 1);
+    const other = Object.entries(sum.other_venues || {});
+    $("#journal-table").innerHTML =
+      `<thead><tr><th>Journal</th><th class="n">Articles</th></tr></thead><tbody>` +
+      rows.map(([j, n]) => `<tr><td>${esc(j)}</td><td class="n"><span class="inline-bar" style="width:${(n / max) * 80}px"></span>${n}</td></tr>`).join("") +
+      other.map(([j, n]) => `<tr><td style="color:var(--text-2)">${esc(j.replace(/ \(([^)]+)\)$/, (_, t) => ` (${typeLabel(t)})`))}</td><td class="n">${n}</td></tr>`).join("") +
+      `</tbody>`;
+  }
+
+  function renderReviews(rev) {
+    const years = Object.keys(rev.by_year || {});
+    $("#review-tiles").innerHTML = [
+      [rev.total, "Reviews", years.length ? `${years[0]}–${years[years.length - 1]}` : ""],
+      [rev.unique_journals, "Journals", "reviewed for"],
+      [rev.by_journal?.[0]?.reviews, "Most for one journal", rev.by_journal?.[0]?.journal || ""],
+    ].map(([v, l, s]) => `<div class="tile"><div class="v">${fmt(v)}</div><div class="l">${l}</div><div class="s">${esc(s)}</div></div>`).join("");
+
+    barChart($("#chart-reviews"), rev.by_year || {}, "reviews");
+
+    const src = {};
+    (rev.reviews || []).forEach((r) => { const k = r.verified_by || "Unknown"; src[k] = (src[k] || 0) + 1; });
+    $("#review-sources").innerHTML = Object.entries(src).sort((a, b) => b[1] - a[1])
+      .map(([k, n]) => `<div>${esc(k)}<b>${n}</b></div>`).join("");
+
+    const max = Math.max(...(rev.by_journal || []).map((j) => j.reviews), 1);
+    const allYears = [...new Set((rev.by_journal || []).flatMap((j) => Object.keys(j.by_year || {})))].sort();
+    $("#review-table").innerHTML =
+      `<thead><tr><th>Journal</th><th>Publisher</th>${allYears.map((y) => `<th class="n">${y}</th>`).join("")}<th class="n">Total</th></tr></thead><tbody>` +
+      (rev.by_journal || []).map((j) => `<tr><td>${esc(j.journal)}</td><td style="color:var(--text-2)">${esc(j.publisher || "")}</td>` +
+        allYears.map((y) => `<td class="n">${j.by_year?.[y] || ""}</td>`).join("") +
+        `<td class="n"><span class="inline-bar" style="width:${(j.reviews / max) * 60}px"></span>${j.reviews}</td></tr>`).join("") +
+      `</tbody>`;
+  }
+
+  function renderFooter(last, sum) {
+    const steps = (last?.steps || []).map((s) =>
+      `<li><code>${esc(s.step)}</code> <span class="${s.ok ? "status-ok" : "status-skip"}">${s.ok ? "ok" : "skipped"}</span></li>`).join("");
+    const when = last?.finished_at ? new Date(last.finished_at).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" }) : "unknown";
+    const sch = sum.scholar_profile?.fetched_at ? new Date(sum.scholar_profile.fetched_at).toLocaleDateString("en-US", { dateStyle: "medium" }) : null;
+    $("#footer").innerHTML =
+      `<p>Last updated ${esc(when)}${sch ? ` · Scholar data from ${esc(sch)}` : ""}. Sources: ORCID, Crossref, OpenAlex, Google Scholar.</p>
+       <details><summary>Last run</summary><ul>${steps}</ul></details>
+       <p>Data: <a href="publications.json">publications.json</a> · <a href="preprints.json">preprints.json</a> ·
+       <a href="peer_reviews.json">peer_reviews.json</a> · <a href="summary.json">summary.json</a> · <a href="last_run.json">last_run.json</a></p>`;
+  }
+
+  // highlight the section in view
+  function navSpy() {
+    const links = [...document.querySelectorAll("nav.tabs a")];
+    const io = new IntersectionObserver((es) => {
+      es.forEach((e) => { if (e.isIntersecting) links.forEach((a) => a.classList.toggle("active", a.getAttribute("href") === `#${e.target.id}`)); });
+    }, { rootMargin: "-40% 0px -55% 0px" });
+    document.querySelectorAll("main section").forEach((s) => io.observe(s));
+  }
+
+  Promise.all([load("summary.json"), load("publications.json"), load("preprints.json"), load("peer_reviews.json"),
+               load("last_run.json").catch(() => null)])
+    .then(([sum, pubs, pre, rev, last]) => {
+      renderOverview(sum, pubs, pre, rev);
+      renderPubs(pubs);
+      renderPreprints(pre);
+      renderJournals(sum);
+      renderReviews(rev);
+      renderFooter(last, sum);
+      navSpy();
+    })
+    .catch((e) => {
+      $("#subtitle").textContent = "";
+      $("#main").innerHTML = `<div class="err"><strong>Could not load the data.</strong><p>${esc(e.message)}</p>
+        <p>If you opened this file directly from disk, serve the folder instead (e.g. <code>python -m http.server</code> in <code>public/</code>).</p></div>`;
+    });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,1109 @@
+{
+  "doi": "10.1016/j.aap.2025.108382",
+  "fetched_at": "2026-11-27T05:57:07+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T11:46:41Z",
+      "timestamp": 1791373601832,
+      "version": "4.3.1"
+    },
+    "reference-count": 75,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100004932",
+        "name": "Texas Department of Transportation",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100004932",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Accident Analysis &amp; Prevention"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.aap.2025.108382",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          2
+        ]
+      ],
+      "date-time": "2026-01-02T04:58:56Z",
+      "timestamp": 1767329936000
+    },
+    "page": "108382",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "special_numbering": "C",
+    "title": [
+      "Uncovering latent structures of crash typology in narcotic-involved fatal crashes for safe system interventions"
+    ],
+    "prefix": "10.1016",
+    "volume": "227",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0001-5102-5182",
+        "authenticated-orcid": false,
+        "given": "Anannya Ghosh",
+        "family": "Tusti",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rohit",
+        "family": "Chakraborty",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-2385-8719",
+        "authenticated-orcid": false,
+        "given": "Tausif Islam",
+        "family": "Chowdhury",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-8534-3633",
+        "authenticated-orcid": false,
+        "given": "Mahmuda Sultana",
+        "family": "Mimi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.aap.2025.108382_b0005",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0293138",
+        "article-title": "Substance use and pre-hospital crash injury severity among U.S. older adults: A five-year national cross-sectional study",
+        "volume": "18",
+        "author": "Adeyemi",
+        "year": "2023",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0010",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Agresti, A., Kateri, M., 2011. Categorical data analysis, in: International Encyclopedia of Statistical Science. Springer, pp. 206–208.",
+        "DOI": "10.1007/978-3-642-04898-2_161"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1177/03611981221082582",
+        "article-title": "Using cluster correspondence analysis to explore rainy weather crashes in Louisiana",
+        "volume": "2676",
+        "author": "Ashifur Rahman",
+        "year": "2022",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "1331",
+        "DOI": "10.1016/S0140-6736(98)04087-2",
+        "article-title": "Association of road-traffic accidents with benzodiazepine use",
+        "volume": "352",
+        "author": "Barbone",
+        "year": "1998",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0030",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2022.106713",
+        "article-title": "Impacts of alcohol and opioid polysubstance use on road safety: Systematic review",
+        "volume": "173",
+        "author": "Beaulieu",
+        "year": "2022",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "456",
+        "DOI": "10.1080/15389588.2016.1262540",
+        "article-title": "The effects of drug and alcohol consumption on driver injury severities in single-vehicle crashes",
+        "volume": "18",
+        "author": "Behnood",
+        "year": "2017",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1086/718511",
+        "article-title": "Do opioid prescriptions lead to fatal car crashes?",
+        "volume": "8",
+        "author": "Betz",
+        "year": "2022",
+        "journal-title": "American J. Health Economics"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1016/0001-4575(74)90013-X",
+        "article-title": "Narcotic use and driving behavior",
+        "volume": "6",
+        "author": "Blomberg",
+        "year": "1974",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0050",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Brady, J.E., Li, G., 2014. Trends in Alcohol and Other Drugs Detected in Fatally Injured Drivers in the United States, 1999–2010. American Journal of Epidemiology 8p. https://doi.org/10.1093/aje/kwt327.",
+        "DOI": "10.1093/aje/kwt327"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1016/j.aap.2018.10.012",
+        "article-title": "Use of multiple data sources to identify specific drugs and other factors associated with drug and alcohol screening of fatally injured motor vehicle drivers",
+        "volume": "122",
+        "author": "Bunn",
+        "year": "2019",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1016/0001-4575(85)90031-4",
+        "article-title": "The influence of analgesic drugs in road crashes",
+        "volume": "17",
+        "author": "Chesher",
+        "year": "1985",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0065",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2022.106686",
+        "article-title": "Effects of automatic emergency braking systems on pedestrian crash risk",
+        "volume": "172",
+        "author": "Cicchino",
+        "year": "2022",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0070",
+        "first-page": "29",
+        "article-title": "Drug and Alcohol Crash Risk *",
+        "volume": "11",
+        "author": "Compton",
+        "year": "2015",
+        "journal-title": "J. Drug Addiction, Education, Eradication"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0075",
+        "series-title": "Mathematical methods of statistics",
+        "author": "Cramér",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.2165/11539050-000000000-00000",
+        "article-title": "Effects of benzodiazepines, antidepressants and opioids on driving",
+        "volume": "34",
+        "author": "Dassanayake",
+        "year": "2011",
+        "journal-title": "Drug-Safety"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0085",
+        "series-title": "Estimating crash modification factors for lane departure countermeasures in Kansas",
+        "author": "Dissanayake",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "195",
+        "DOI": "10.1080/15389588.2021.1889528",
+        "article-title": "Drug use and pattern of injuries sustained by drivers involved in road traffic crashes",
+        "volume": "22",
+        "author": "Divsalar",
+        "year": "2021",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0095",
+        "series-title": "Reducing roadway departure crashes at horizontal curve sections on two-lane rural highways",
+        "author": "Donnell",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "404",
+        "DOI": "10.1080/15389580802161943",
+        "article-title": "The Impact of Benzodiazepines on Safe Driving",
+        "volume": "9",
+        "author": "Dubois",
+        "year": "2008",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1016/j.aap.2009.06.030",
+        "article-title": "The association between opioid analgesics and unsafe driving actions preceding fatal crashes",
+        "volume": "42",
+        "author": "Dubois",
+        "year": "2010",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0110",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.treng.2020.100038",
+        "article-title": "Variable categories influencing single-vehicle run-off-road crashes and their severity",
+        "volume": "2",
+        "author": "Duddu",
+        "year": "2020",
+        "journal-title": "Transp. Eng."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1177/002204260903900101",
+        "article-title": "Reflections on the early history of national institute on drug abuse (NIDA): Implications for today",
+        "volume": "39",
+        "author": "DuPont",
+        "year": "2009",
+        "journal-title": "J. Drug Issues"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_bib378",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.aap.2019.01.012",
+        "article-title": "Geographic variation and trends in opioid-involved crash deaths in Maryland: 2006–2017",
+        "volume": "125",
+        "author": "Duren",
+        "year": "2019",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0120",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2021.106066",
+        "article-title": "Drug presence in driving deaths in Maryland: Comparing trends and prevalence in medical examiner and FARS data",
+        "volume": "154",
+        "author": "Ehsani",
+        "year": "2021",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "254",
+        "DOI": "10.1016/j.aap.2012.06.017",
+        "article-title": "Risk of road accident associated with the use of drugs: A systematic review and meta-analysis of evidence from epidemiological studies",
+        "volume": "60",
+        "author": "Elvik",
+        "year": "2013",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_bib377",
+        "unstructured": "FARS, 2025. Fatality Analysis Reporting System (FARS) | NHTSA. https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.1016/j.aap.2017.02.014",
+        "article-title": "Modeling single-vehicle run-off-road crash severity in rural areas: Accounting for unobserved heterogeneity and age difference",
+        "volume": "101",
+        "author": "Gong",
+        "year": "2017",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0135",
+        "series-title": "Drugs and Driving",
+        "first-page": "3",
+        "article-title": "Influence of Narcotic Drugs on Highway Safety",
+        "author": "Gordon",
+        "year": "1976"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1016/j.aap.2017.11.014",
+        "article-title": "Impact of roadway geometric features on crash severity on rural two-lane highways",
+        "volume": "111",
+        "author": "Haghighi",
+        "year": "2018",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0150",
+        "series-title": "Evaluation of dynamic speed feedback signs on curves: a national demonstration Project",
+        "author": "Hallmark",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1177/0361198120935872",
+        "article-title": "Evaluation of sequential dynamic chevron warning systems on rural two-lane curves",
+        "volume": "2674",
+        "author": "Hallmark",
+        "year": "2020",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "494",
+        "DOI": "10.1177/1060028014520882",
+        "article-title": "Medications and impaired driving: A review of the literature",
+        "volume": "48",
+        "author": "Hetland",
+        "year": "2014",
+        "journal-title": "Ann. Pharmacother."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "659",
+        "DOI": "10.1177/03611981221076120",
+        "article-title": "Applying association rules mining to investigate pedestrian fatal and injury crash patterns under different lighting conditions",
+        "volume": "2676",
+        "author": "Hossain",
+        "year": "2022",
+        "journal-title": "Trans. Res. Record: J. Trans. Res. Board"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0165",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2022.106882",
+        "article-title": "A before-after evaluation of protected right-turn signal phasings by applying Empirical Bayes and Full Bayes approaches with heterogenous count data models",
+        "volume": "179",
+        "author": "Howlader",
+        "year": "2023",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "379",
+        "DOI": "10.1080/15389588.2023.2188435",
+        "article-title": "Driving under the influence of substances and motor vehicle fatalities among older adults in the United States",
+        "volume": "24",
+        "author": "Kedia",
+        "year": "2023",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1080/09595230412331289482",
+        "article-title": "A review of drug use and driving: epidemiology, impairment, risk factors and risk perceptions",
+        "volume": "23",
+        "author": "Kelly",
+        "year": "2004",
+        "journal-title": "Drug Alcohol Rev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1016/j.jsr.2017.12.016",
+        "article-title": "Estimating safety effects of adaptive signal control technology using the Empirical Bayes method",
+        "volume": "64",
+        "author": "Khattak",
+        "year": "2018",
+        "journal-title": "J. Saf. Res."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3141/2398-01",
+        "article-title": "Safety evaluation of discontinuing late nighttime flash operations at signalized intersections",
+        "volume": "2398",
+        "author": "Lan",
+        "year": "2013",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0195",
+        "author": "Le",
+        "year": "2018",
+        "journal-title": "Safety Evaluation of Multiple Strategies at Signalized Intersections"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1177/87551225211059926",
+        "article-title": "Opioids and the risk of motor vehicle collision: A systematic review",
+        "volume": "38",
+        "author": "Leon",
+        "year": "2022",
+        "journal-title": "J. Pharm. Technol."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1016/j.aap.2013.09.001",
+        "article-title": "Drug use and fatal motor vehicle crashes: A case-control study",
+        "volume": "60",
+        "author": "Li",
+        "year": "2013",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "230",
+        "DOI": "10.1016/j.aap.2019.04.001",
+        "article-title": "Using latent class analysis and mixed logit model to explore risk factors on driver injury severity in single-vehicle crashes",
+        "volume": "129",
+        "author": "Li",
+        "year": "2019",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0210",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2021.106279",
+        "article-title": "Development of crash modification factors for roadway illuminance: A matched case-control study",
+        "volume": "159",
+        "author": "Li",
+        "year": "2021",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1016/S0001-4575(99)00111-6",
+        "article-title": "The prevalence of alcohol, cannabinoids, benzodiazepines and stimulants amongst injured drivers and their role in driver culpability: Part I: the prevalence of drug use in drivers, and characteristics of the drug-positive group",
+        "volume": "32",
+        "author": "Longo",
+        "year": "2000",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "313",
+        "DOI": "10.1097/00005373-200102000-00019",
+        "article-title": "Drugs and traffic crash responsibility: A study of injured motorists in colorado",
+        "volume": "50",
+        "author": "Lowenstein",
+        "year": "2001",
+        "journal-title": "J. Trauma Acute Care Surg."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0230",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0187320",
+        "article-title": "Cannabis, alcohol and fatal road accidents",
+        "volume": "12",
+        "author": "Martin",
+        "year": "2017",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0235",
+        "article-title": "NCHRP Report 650 - Median intersection design for rural high-speed divided highways",
+        "author": "Maze",
+        "year": "2010",
+        "journal-title": "Transp. Res. Board"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/j.neubiorev.2021.01.003",
+        "article-title": "Determining the magnitude and duration of acute Δ9-tetrahydrocannabinol (Δ9-THC)-induced driving and cognitive impairment: A systematic and meta-analytic review",
+        "volume": "126",
+        "author": "McCartney",
+        "year": "2021",
+        "journal-title": "Neurosci. Biobehav. Rev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1016/j.aap.2014.11.022",
+        "article-title": "Effects on speed and safety of point-to-point speed enforcement systems: Evaluation on the urban motorway A56 Tangenziale di Napoli",
+        "volume": "75",
+        "author": "Montella",
+        "year": "2015",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "185",
+        "DOI": "10.1080/15389580490465201",
+        "article-title": "Effects of alcohol and other drugs on driver performance",
+        "volume": "5",
+        "author": "Ogden",
+        "year": "2004",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0255",
+        "series-title": "Benefit/cost evaluation of MoDOT’s total striping and delineation program: phase II",
+        "author": "Potts",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "870",
+        "DOI": "10.1080/15389588.2024.2350695",
+        "article-title": "Generation of nighttime pedestrian fatal precrash scenarios at junctions in Tamil Nadu, India, using cluster correspondence analysis",
+        "volume": "25",
+        "author": "Rangam",
+        "year": "2024",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1186/s40510-016-0126-0",
+        "article-title": "Maxillary molar distalization with aligners in adult patients: a multicenter retrospective study",
+        "volume": "17",
+        "author": "Ravera",
+        "year": "2016",
+        "journal-title": "Prog. Orthod."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0270",
+        "series-title": "Designing and conducting survey research: A comprehensive guide",
+        "author": "Rea",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "154",
+        "DOI": "10.1016/j.forsciint.2013.11.005",
+        "article-title": "Examining the impact of opioid analgesics on crash responsibility in truck drivers involved in fatal crashes",
+        "volume": "234",
+        "author": "Reguly",
+        "year": "2014",
+        "journal-title": "Forensic Sci. Int."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "1428",
+        "DOI": "10.1111/add.12180",
+        "article-title": "Patterns of drug use in fatal crashes",
+        "volume": "108",
+        "author": "Romano",
+        "year": "2013",
+        "journal-title": "Addiction"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "178",
+        "DOI": "10.1016/j.aap.2014.04.003",
+        "article-title": "Trends in drug use among drivers killed in U.S. traffic crashes, 1999–2010",
+        "volume": "70",
+        "author": "Rudisill",
+        "year": "2014",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "753",
+        "DOI": "10.1177/03611981221108386",
+        "article-title": "Dynamic all-red extension: an innovative safety countermeasure to treat red light running crashes",
+        "volume": "2677",
+        "author": "Simpson",
+        "year": "2023",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0295",
+        "article-title": "Drug and Alcohol use among injured motor vehicle drivers in Sweden: Prevalence, driver, crash, and injury characteristics",
+        "author": "Sjögren",
+        "year": "2006",
+        "journal-title": "Alcohol. Clin. Exp. Res."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "122",
+        "DOI": "10.1016/j.aap.2016.03.015",
+        "article-title": "Differences in state drug testing and reporting by driver type in U.S. fatal traffic crashes",
+        "volume": "92",
+        "author": "Slater",
+        "year": "2016",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "638",
+        "DOI": "10.1016/j.jclinepi.2009.08.008",
+        "article-title": "Correspondence analysis is a useful tool to uncover the relationships among categorical variables",
+        "volume": "63",
+        "author": "Sourial",
+        "year": "2010",
+        "journal-title": "J. Clin. Epidemiol."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0310",
+        "article-title": "Evaluation of safety strategies at signalized intersections",
+        "author": "Srinivasan",
+        "year": "2011",
+        "journal-title": "Transp. Res. Board"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1080/15389588.2016.1230672",
+        "article-title": "The effectiveness of lane departure warning systems—A reduction in real-world passenger car injury crashes",
+        "volume": "18",
+        "author": "Sternlund",
+        "year": "2017",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0320",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sun, M., Zhou, R., 2023. Investigation on Hazardous Material Truck Involved Fatal Crashes Using Cluster Correspondence Analysis.",
+        "DOI": "10.3390/su15129369"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/j.trf.2019.05.003",
+        "article-title": "The effects of simulated acuity and contrast sensitivity impairments on detection of pedestrian hazards in a driving simulator",
+        "volume": "64",
+        "author": "Swan",
+        "year": "2019",
+        "journal-title": "Transport. Res. F: Traffic Psychol. Behav."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0330",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2020.105885",
+        "article-title": "Differential effects of stimulant versus opiate drugs on driving performance",
+        "volume": "150",
+        "author": "Tabibi",
+        "year": "2021",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0335",
+        "unstructured": "Terhune, K.W., Ippolito, C.A., Hendricks, D.L., Michalovic, J.G., Bogema, S.C., Santinga, P., Blomberg, R.D., Preusser, D.F., 1992. The Incidence and Role of Drugs in Fatally Injured Drivers [WWW Document]. https://doi.org/10.21949/1525574."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0340",
+        "doi-asserted-by": "crossref",
+        "first-page": "1838",
+        "DOI": "10.1111/j.1530-0277.1998.tb03990.x",
+        "article-title": "Crash responsibility versus drug and alcohol use among fatally injured and hospitalized motor vehicle drivers in Sweden",
+        "volume": "22",
+        "author": "Timby",
+        "year": "1998",
+        "journal-title": "Alcohol. Clin. Exp. Res."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1016/j.aap.2019.06.014",
+        "article-title": "Driver-related risk factors of fatal road traffic crashes associated with alcohol or drug impairment",
+        "volume": "131",
+        "author": "Valen",
+        "year": "2019",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0350",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2020.105822",
+        "article-title": "The use of machine learning improves the assessment of drug-induced driving behaviour",
+        "volume": "148",
+        "author": "van der Wall",
+        "year": "2020",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "158",
+        "DOI": "10.1007/s11336-016-9514-0",
+        "article-title": "Cluster correspondence analysis",
+        "volume": "82",
+        "author": "van de Velden",
+        "year": "2017",
+        "journal-title": "Psychometrika"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "483",
+        "DOI": "10.1016/0001-4575(95)00004-J",
+        "article-title": "Rollovers on sideslopes and ditches",
+        "volume": "27",
+        "author": "Viner",
+        "year": "1995",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1080/15389580490465292",
+        "article-title": "Drugs and driving",
+        "volume": "5",
+        "author": "Walsh",
+        "year": "2004",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0370",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.1016/j.trf.2007.01.001",
+        "article-title": "Effect of restricted sight distances on driver behaviors during unprotected left-turn phase at signalized intersections",
+        "volume": "10",
+        "author": "Yan",
+        "year": "2007",
+        "journal-title": "Transport. Res. F: Traffic Psychol. Behav."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108382_b0375",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.1016/j.aap.2018.07.031",
+        "article-title": "Approach-level real-time crash risk analysis for signalized intersections",
+        "volume": "119",
+        "author": "Yuan",
+        "year": "2018",
+        "journal-title": "Accid. Anal. Prev."
+      }
+    ],
+    "container-title": [
+      "Accident Analysis &amp; Prevention"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0001457525004701?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0001457525004701?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T21:43:57Z",
+      "timestamp": 1773956637000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0001457525004701"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "references-count": 75,
+    "alternative-id": [
+      "S0001457525004701"
+    ],
+    "URL": "https://doi.org/10.1016/j.aap.2025.108382",
+    "relation": {},
+    "ISSN": [
+      "0001-4575"
+    ],
+    "issn-type": [
+      {
+        "value": "0001-4575",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Uncovering latent structures of crash typology in narcotic-involved fatal crashes for safe system interventions",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Accident Analysis & Prevention",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.aap.2025.108382",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "108382"
+  }
+}

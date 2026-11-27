@@ -1,0 +1,309 @@
+{
+  "issn": "0952-1976",
+  "title": "Engineering Applications of Artificial Intelligence",
+  "publisher": "Elsevier",
+  "issns": [
+    "0952-1976"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1795717615723,
+    "counts": {
+      "current-dois": 8572,
+      "backfile-dois": 6557,
+      "total-dois": 15129
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2026,
+          3369
+        ],
+        [
+          2025,
+          3001
+        ],
+        [
+          2024,
+          2070
+        ],
+        [
+          2023,
+          1575
+        ],
+        [
+          2022,
+          504
+        ],
+        [
+          2021,
+          372
+        ],
+        [
+          2020,
+          369
+        ],
+        [
+          2013,
+          234
+        ],
+        [
+          2015,
+          230
+        ],
+        [
+          2019,
+          226
+        ],
+        [
+          2018,
+          223
+        ],
+        [
+          2017,
+          223
+        ],
+        [
+          2014,
+          207
+        ],
+        [
+          2016,
+          195
+        ],
+        [
+          2012,
+          157
+        ],
+        [
+          2011,
+          141
+        ],
+        [
+          2010,
+          136
+        ],
+        [
+          2027,
+          132
+        ],
+        [
+          2009,
+          127
+        ],
+        [
+          2008,
+          125
+        ],
+        [
+          2004,
+          111
+        ],
+        [
+          2007,
+          104
+        ],
+        [
+          2006,
+          97
+        ],
+        [
+          2005,
+          92
+        ],
+        [
+          1996,
+          82
+        ],
+        [
+          1995,
+          80
+        ],
+        [
+          1997,
+          77
+        ],
+        [
+          1998,
+          76
+        ],
+        [
+          1991,
+          75
+        ],
+        [
+          1994,
+          74
+        ],
+        [
+          2001,
+          73
+        ],
+        [
+          1993,
+          73
+        ],
+        [
+          1988,
+          72
+        ],
+        [
+          2003,
+          71
+        ],
+        [
+          2000,
+          70
+        ],
+        [
+          1992,
+          68
+        ],
+        [
+          2002,
+          63
+        ],
+        [
+          1999,
+          60
+        ],
+        [
+          1990,
+          50
+        ],
+        [
+          1989,
+          45
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.0001166588894073728,
+      "funders-backfile": 0.3066951349702608,
+      "licenses-backfile": 0.9754460881500686,
+      "funders-current": 0.6805879608026132,
+      "affiliations-backfile": 0.0,
+      "resource-links-backfile": 1.0,
+      "orcids-backfile": 0.3022723806618881,
+      "funder-ror-ids-current": 0.0001166588894073728,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.001067561384779625,
+      "orcids-current": 0.8038964069062063,
+      "similarity-checking-backfile": 0.0,
+      "references-backfile": 0.9267957907579686,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.2350160134207717,
+      "update-policies-backfile": 0.6455696202531646,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.560079328044797,
+      "abstracts-backfile": 0.0,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.001067561384779625,
+      "abstracts-current": 0.0,
+      "references-current": 0.9770181987867476
+    },
+    "title": "Engineering Applications of Artificial Intelligence",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1795717615723,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.5864895234318197,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9893581862647896,
+        "references": 0.9552515037345495,
+        "funders": 0.5185405512591711,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0005287857756626347,
+        "award-numbers": 0.4191949236565536,
+        "ror-ids": 0.0005287857756626347,
+        "update-policies": 0.8463877321700046,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1795717615723,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.3022723806618881,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9754460881500686,
+        "references": 0.9267957907579686,
+        "funders": 0.3066951349702608,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.001067561384779625,
+        "award-numbers": 0.2350160134207717,
+        "ror-ids": 0.001067561384779625,
+        "update-policies": 0.6455696202531646,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1795717615723,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.8038964069062063,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9770181987867476,
+        "funders": 0.6805879608026132,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0001166588894073728,
+        "award-numbers": 0.560079328044797,
+        "ror-ids": 0.0001166588894073728,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": false,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": false,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": true,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": true,
+      "deposits-ror-ids-backfile": true,
+      "deposits-abstracts-backfile": false,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": true,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": false,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "0952-1976"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0952-1976"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:30+00:00"
+}

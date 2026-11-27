@@ -1,0 +1,398 @@
+{
+  "doi": "10.17226/29551",
+  "fetched_at": "2026-11-27T06:43:06+00:00",
+  "work": {
+    "id": "https://openalex.org/W7222639796",
+    "doi": "https://doi.org/10.17226/29551",
+    "title": "Traffic Analysis Practices for Nonmotorized Modes",
+    "display_name": "Traffic Analysis Practices for Nonmotorized Modes",
+    "alternate_titles": [],
+    "publication_year": 2026,
+    "publication_date": "2026-10-16",
+    "ids": {
+      "openalex": "https://openalex.org/W7222639796",
+      "doi": "https://doi.org/10.17226/29551"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.17226/29551",
+      "doi": "https://doi.org/10.17226/29551",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.17226/29551",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306463641",
+        "display_name": "National Academies Press eBooks",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/P4324046967",
+        "host_organization_name": "National Academies Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4324046967"
+        ],
+        "host_organization_lineage_names": [
+          "National Academies Press"
+        ],
+        "type": "ebook platform"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": null,
+      "raw_type": "edited-book"
+    },
+    "parent_works": [],
+    "lineage": [
+      "https://openalex.org/W7222639796"
+    ],
+    "child_works_count": 0,
+    "pull_notice_works": [],
+    "type": "book",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5158901805",
+          "display_name": "Subasish Das",
+          "type": null,
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Subasish Das",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5058550807",
+          "display_name": "Amir Rafe",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0002-4089-2088",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4089-2088"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Amir Rafe",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5095770339",
+          "display_name": "Mahmuda Sultana Mimi",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0007-8534-3633",
+          "observed_orcids": [
+            "https://orcid.org/0009-0007-8534-3633"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Mahmuda Sultana Mimi",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5075991528",
+          "display_name": "Swastika Barua",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0008-4894-9131",
+          "observed_orcids": [
+            "https://orcid.org/0009-0008-4894-9131"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Swastika Barua",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5158861903",
+          "display_name": "Md Monzurul Islam",
+          "type": null,
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Md Monzurul Islam",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5096302995",
+          "display_name": "Engineering National Academies of Sciences",
+          "type": null,
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "National Academies of Sciences, Engineering, and Medicine",
+        "raw_affiliation_strings": [],
+        "raw_orcid": null,
+        "affiliations": []
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 0,
+    "institutions_distinct_count": 0,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 0.0,
+    "is_authors_truncated": false,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "reviewed_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.0,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": null,
+      "issue": null,
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_pulled": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10298",
+      "display_name": "Urban Transport and Accessibility",
+      "score": 0.6758000254631042,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3313",
+        "display_name": "Transportation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10298",
+        "display_name": "Urban Transport and Accessibility",
+        "score": 0.6758000254631042,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3313",
+          "display_name": "Transportation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10370",
+        "display_name": "Traffic and Road Safety",
+        "score": 0.10419999808073044,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2213",
+          "display_name": "Safety, Risk, Reliability and Quality"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10698",
+        "display_name": "Transportation Planning and Optimization",
+        "score": 0.0617000013589859,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3313",
+          "display_name": "Transportation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/nonmotorized-travel",
+        "display_name": "nonmotorized travel",
+        "score": 0.7419999837875366
+      },
+      {
+        "id": "https://openalex.org/keywords/pedestrian-flow",
+        "display_name": "pedestrian flow",
+        "score": 0.44200000166893005
+      },
+      {
+        "id": "https://openalex.org/keywords/bicycle-traffic",
+        "display_name": "bicycle traffic",
+        "score": 0.9049999713897705
+      },
+      {
+        "id": "https://openalex.org/keywords/traffic-analysis",
+        "display_name": "traffic analysis",
+        "score": 0.7210000157356262
+      },
+      {
+        "id": "https://openalex.org/keywords/travel-demand-modeling",
+        "display_name": "travel demand modeling",
+        "score": 0.5879999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/pedestrian-safety",
+        "display_name": "pedestrian safety",
+        "score": 0.38199999928474426
+      },
+      {
+        "id": "https://openalex.org/keywords/cycling-safety",
+        "display_name": "cyclist safety",
+        "score": 0.6349999904632568
+      }
+    ],
+    "concepts": [],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.17226/29551",
+        "doi": "https://doi.org/10.17226/29551",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.17226/29551",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463641",
+          "display_name": "National Academies Press eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4324046967",
+          "host_organization_name": "National Academies Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4324046967"
+          ],
+          "host_organization_lineage_names": [
+            "National Academies Press"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "edited-book"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/11",
+        "score": 0.761900007724762,
+        "display_name": "Sustainable cities and communities"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W3205097452",
+      "https://openalex.org/W6982035903",
+      "https://openalex.org/W633461930",
+      "https://openalex.org/W2043186812",
+      "https://openalex.org/W2971843517",
+      "https://openalex.org/W2799461599",
+      "https://openalex.org/W2131708881",
+      "https://openalex.org/W1429045116",
+      "https://openalex.org/W566921491",
+      "https://openalex.org/W2505633800"
+    ],
+    "abstract_inverted_index": null,
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7222639796",
+    "counts_by_year": [],
+    "updated_date": "2026-11-14T11:04:58.165337",
+    "created_date": "2026-10-17T00:00:00"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "issn": "1077-291X",
+  "title": "Journal of Public Transportation",
+  "publisher": "Elsevier",
+  "issns": [
+    "1077-291X",
+    "2375-0901"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1791250824442,
+    "counts": {
+      "current-dois": 103,
+      "backfile-dois": 683,
+      "total-dois": 786
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2016,
+          43
+        ],
+        [
+          2006,
+          42
+        ],
+        [
+          2023,
+          39
+        ],
+        [
+          2026,
+          38
+        ],
+        [
+          2014,
+          37
+        ],
+        [
+          2024,
+          33
+        ],
+        [
+          2015,
+          33
+        ],
+        [
+          2013,
+          33
+        ],
+        [
+          2012,
+          33
+        ],
+        [
+          2011,
+          33
+        ],
+        [
+          2025,
+          32
+        ],
+        [
+          2007,
+          32
+        ],
+        [
+          2022,
+          31
+        ],
+        [
+          2005,
+          31
+        ],
+        [
+          2009,
+          29
+        ],
+        [
+          2010,
+          28
+        ],
+        [
+          2008,
+          26
+        ],
+        [
+          2004,
+          25
+        ],
+        [
+          2001,
+          25
+        ],
+        [
+          2003,
+          24
+        ],
+        [
+          2018,
+          22
+        ],
+        [
+          2002,
+          22
+        ],
+        [
+          1997,
+          20
+        ],
+        [
+          2017,
+          18
+        ],
+        [
+          1999,
+          18
+        ],
+        [
+          2021,
+          12
+        ],
+        [
+          2020,
+          7
+        ],
+        [
+          2000,
+          7
+        ],
+        [
+          1996,
+          7
+        ],
+        [
+          1998,
+          6
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.0,
+      "funders-backfile": 0.02781844802342606,
+      "licenses-backfile": 0.102489019033675,
+      "funders-current": 0.6310679611650485,
+      "affiliations-backfile": 0.02196193265007321,
+      "resource-links-backfile": 0.102489019033675,
+      "orcids-backfile": 0.04685212298682284,
+      "funder-ror-ids-current": 0.0,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.0,
+      "orcids-current": 0.5533980582524272,
+      "similarity-checking-backfile": 0.0,
+      "references-backfile": 0.1010248901903367,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.01903367496339678,
+      "update-policies-backfile": 0.102489019033675,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.3980582524271845,
+      "abstracts-backfile": 0.02196193265007321,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.0,
+      "abstracts-current": 0.0,
+      "references-current": 1.0
+    },
+    "title": "Journal of Public Transportation",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1791250824442,
+        "affiliations": 0.01905972045743329,
+        "abstracts": 0.01905972045743329,
+        "orcids": 0.1130876747141042,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.2198221092757306,
+        "references": 0.2185514612452351,
+        "funders": 0.1067344345616264,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.06861499364675985,
+        "ror-ids": 0.0,
+        "update-policies": 0.2198221092757306,
+        "resource-links": 0.2198221092757306,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1791250824442,
+        "affiliations": 0.02196193265007321,
+        "abstracts": 0.02196193265007321,
+        "orcids": 0.04685212298682284,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.102489019033675,
+        "references": 0.1010248901903367,
+        "funders": 0.02781844802342606,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.01903367496339678,
+        "ror-ids": 0.0,
+        "update-policies": 0.102489019033675,
+        "resource-links": 0.102489019033675,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1791250824442,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.5533980582524272,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 1.0,
+        "funders": 0.6310679611650485,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.3980582524271845,
+        "ror-ids": 0.0,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": true,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": false,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": false,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": false,
+      "deposits-ror-ids-backfile": false,
+      "deposits-abstracts-backfile": true,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": false,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": false,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "1077-291X",
+      "2375-0901"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1077-291X"
+      },
+      {
+        "type": "electronic",
+        "value": "2375-0901"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:31+00:00"
+}

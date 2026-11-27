@@ -1,0 +1,1192 @@
+{
+  "doi": "10.1016/j.neucom.2026.135736",
+  "fetched_at": "2026-11-27T05:57:08+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T19:15:33Z",
+      "timestamp": 1795720533496,
+      "version": "4.11.3"
+    },
+    "reference-count": 99,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2027,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2027-02-01T00:00:00Z",
+          "timestamp": 1801440000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2027,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2027-02-01T00:00:00Z",
+          "timestamp": 1801440000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2027,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2027-02-01T00:00:00Z",
+          "timestamp": 1801440000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2027,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2027-02-01T00:00:00Z",
+          "timestamp": 1801440000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2027,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2027-02-01T00:00:00Z",
+          "timestamp": 1801440000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2027,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2027-02-01T00:00:00Z",
+          "timestamp": 1801440000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2027,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2027-02-01T00:00:00Z",
+          "timestamp": 1801440000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Neurocomputing"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2027,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.neucom.2026.135736",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          21
+        ]
+      ],
+      "date-time": "2026-11-21T23:02:11Z",
+      "timestamp": 1795302131000
+    },
+    "page": "135736",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": [
+      "Advancing intelligent sequence modeling: Evolution, trade-offs, and applications of state-space architectures from S4 to Mamba—A survey"
+    ],
+    "prefix": "10.1016",
+    "volume": "713",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-3723-0607",
+        "authenticated-orcid": false,
+        "given": "Shriyank",
+        "family": "Somvanshi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-8534-3633",
+        "authenticated-orcid": false,
+        "given": "Mahmuda Sultana",
+        "family": "Mimi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-5505-4174",
+        "authenticated-orcid": false,
+        "given": "Sazzad Bin Bashar",
+        "family": "Polock",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-0124-4814",
+        "authenticated-orcid": false,
+        "given": "Gaurab",
+        "family": "Chhetri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-7279-7752",
+        "authenticated-orcid": false,
+        "given": "Anandi",
+        "family": "Dutta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4089-2088",
+        "authenticated-orcid": false,
+        "given": "Amir",
+        "family": "Rafe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "2",
+        "key": "10.1016/j.neucom.2026.135736_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1007/s00371-019-01630-9",
+        "article-title": "Using CNN for facial expression recognition: a study of the effects of kernel size and number of filters on accuracy",
+        "volume": "36",
+        "author": "Agrawal",
+        "year": "2020",
+        "journal-title": "Vis. Comput."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0010",
+        "series-title": "2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR)",
+        "first-page": "369",
+        "article-title": "MambaTab: a plug-and-play model for learning tabular data",
+        "author": "Ahamed",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0015",
+        "series-title": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+        "first-page": "1728",
+        "article-title": "Frozen in time: a joint video and image encoder for end-to-end retrieval",
+        "author": "Bain",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0020",
+        "series-title": "A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond",
+        "author": "Bansal",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0025",
+        "author": "Bao"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0030",
+        "series-title": "KalMamba: Towards Efficient Probabilistic State Space Models for RL Under Uncertainty",
+        "author": "Becker",
+        "year": "2024"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.neucom.2026.135736_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1109/72.279181",
+        "article-title": "Learning long-term dependencies with gradient descent is difficult",
+        "volume": "5",
+        "author": "Bengio",
+        "year": "1994",
+        "journal-title": "IEEE Trans. Neural Netw."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0040",
+        "series-title": "Mathematical Formalism for Memory Compression in Selective State Space Models",
+        "author": "Bhat",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0045",
+        "series-title": "Advances in Neural Information Processing Systems 37 (NeurIPS 2024)",
+        "article-title": "Transformers to SSMs: distilling quadratic knowledge to subquadratic models",
+        "author": "Bick",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0050",
+        "author": "Botev"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0055",
+        "series-title": "Advances in Neural Information Processing Systems",
+        "first-page": "1877",
+        "article-title": "Language models are few-shot learners",
+        "volume": "vol. 33",
+        "author": "Brown",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0060",
+        "series-title": "Science and Information Conference",
+        "first-page": "771",
+        "article-title": "A comparison of LSTM and GRU networks for learning symbolic sequences",
+        "author": "Cahuantzi",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0065",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.patcog.2026.114536",
+        "article-title": "MambaTS: improved selective state space models for long-term time series forecasting",
+        "volume": "180",
+        "author": "Cai",
+        "year": "2026",
+        "journal-title": "Pattern Recognit."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0070",
+        "series-title": "Advances in Neural Information Processing Systems",
+        "article-title": "Neural ordinary differential equations",
+        "volume": "vol. 31",
+        "author": "Chen",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0075",
+        "author": "Chung"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "127226",
+        "DOI": "10.52202/079017-4041",
+        "article-title": "Theoretical foundations of deep selective state-space models",
+        "volume": "37",
+        "author": "Cirone",
+        "year": "2024",
+        "journal-title": "Adv. Neural Inf. Process. Syst."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0085",
+        "series-title": "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+        "first-page": "2978",
+        "article-title": "Transformer-XL: attentive language models beyond a fixed-length context",
+        "author": "Dai",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0090",
+        "series-title": "Proceedings of the 41st International Conference on Machine Learning, Volume 235, Proceedings of Machine Learning Research",
+        "first-page": "10041",
+        "article-title": "Transformers are SSMs: generalized models and efficient algorithms through structured state space duality",
+        "author": "Dao",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0095",
+        "author": "De"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0100",
+        "article-title": "DyGMamba: efficiently modeling long-term temporal dependency on continuous-time dynamic graphs with state space models",
+        "volume": "2025",
+        "author": "Ding",
+        "year": "2025",
+        "journal-title": "Trans. Mach. Learn. Res."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0105",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Hymba: a hybrid-head architecture for small language models",
+        "author": "Dong",
+        "year": "2025"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.neucom.2026.135736_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1207/s15516709cog1402_1",
+        "article-title": "Finding structure in time",
+        "volume": "14",
+        "author": "Elman",
+        "year": "1990",
+        "journal-title": "Cogn. Sci."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0115",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Hungry hungry hippos: towards language modeling with state space models",
+        "author": "Fu",
+        "year": "2023"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.neucom.2026.135736_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "3599",
+        "DOI": "10.1109/TCYB.2022.3159661",
+        "article-title": "A novel representation learning for dynamic graphs based on graph convolutional networks",
+        "volume": "53",
+        "author": "Gao",
+        "year": "2023",
+        "journal-title": "IEEE Trans. Cybern."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0125",
+        "author": "Glorioso"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0130",
+        "series-title": "International Conference on Machine Learning",
+        "first-page": "3734",
+        "article-title": "Spectral normalisation for deep reinforcement learning: an optimisation perspective",
+        "author": "Gogianu",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0135",
+        "series-title": "2013 IEEE International Conference on Acoustics, Speech and Signal Processing",
+        "first-page": "6645",
+        "article-title": "Speech recognition with deep recurrent neural networks",
+        "author": "Graves",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0140",
+        "series-title": "First Conference on Language Modeling (COLM)",
+        "article-title": "Mamba: linear-time sequence modeling with selective state spaces",
+        "author": "Gu",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0145",
+        "series-title": "Advances in Neural Information Processing Systems 33 (NeurIPS 2020)",
+        "article-title": "HiPPO: recurrent memory with optimal polynomial projections",
+        "volume": "vol. 33",
+        "author": "Gu",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0150",
+        "series-title": "Advances in Neural Information Processing Systems 34 (NeurIPS 2021)",
+        "first-page": "572",
+        "article-title": "Combining recurrent, convolutional, and continuous-time models with linear state-space layers",
+        "volume": "vol. 34",
+        "author": "Gu",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0155",
+        "series-title": "Advances in Neural Information Processing Systems 35 (NeurIPS 2022)",
+        "article-title": "On the parameterization and initialization of diagonal state space models",
+        "volume": "vol. 35",
+        "author": "Gu",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0160",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Efficiently modeling long sequences with structured state spaces",
+        "author": "Gu",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0165",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "How to train your HiPPO: state space models with generalized orthogonal Basis projections",
+        "author": "Gu",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0170",
+        "series-title": "Advances in Neural Information Processing Systems 35 (NeurIPS 2022)",
+        "article-title": "Diagonal state spaces are as effective as structured state spaces",
+        "volume": "vol. 35",
+        "author": "Gupta",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0175",
+        "series-title": "Time Series Analysis",
+        "author": "Hamilton",
+        "year": "1994"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0180",
+        "series-title": "Analysis and Control of Nonlinear Process Systems",
+        "author": "Hangos",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0185",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Liquid structural state-space models",
+        "author": "Hasani",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0190",
+        "series-title": "Advances in Neural Information Processing Systems",
+        "first-page": "71162",
+        "article-title": "MambaAD: exploring state space models for multi-class unsupervised anomaly detection",
+        "volume": "vol. 37",
+        "author": "He",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0195",
+        "series-title": "Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis",
+        "author": "Heidari",
+        "year": "2024"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.neucom.2026.135736_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "1735",
+        "DOI": "10.1162/neco.1997.9.8.1735",
+        "article-title": "Long short-term memory",
+        "volume": "9",
+        "author": "Hochreiter",
+        "year": "1997",
+        "journal-title": "Neural Comput."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0205",
+        "series-title": "Advances in Neural Information Processing Systems",
+        "article-title": "GPipe: efficient training of giant neural networks using pipeline parallelism",
+        "volume": "vol. 32",
+        "author": "Huang",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0215",
+        "series-title": "Advances in Psychology",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1016/S0166-4115(97)80111-2",
+        "article-title": "Serial order: a parallel distributed processing approach",
+        "volume": "vol. 121",
+        "author": "Jordan",
+        "year": "1997"
+      },
+      {
+        "issue": "7873",
+        "key": "10.1016/j.neucom.2026.135736_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "583",
+        "DOI": "10.1038/s41586-021-03819-2",
+        "article-title": "Highly accurate protein structure prediction with AlphaFold",
+        "volume": "596",
+        "author": "Jumper",
+        "year": "2021",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0225",
+        "series-title": "Linear Systems",
+        "volume": "vol. 156",
+        "author": "Kailath",
+        "year": "1980"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.neucom.2026.135736_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1115/1.3662552",
+        "article-title": "A new approach to linear filtering and prediction problems",
+        "volume": "82",
+        "author": "Kalman",
+        "year": "1960",
+        "journal-title": "Trans. ASME–J. Basic Eng."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0235",
+        "series-title": "International Conference on Machine Learning",
+        "first-page": "5156",
+        "article-title": "Transformers are RNNs: fast autoregressive transformers with linear attention",
+        "author": "Katharopoulos",
+        "year": "2020"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.neucom.2026.135736_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "541",
+        "DOI": "10.1162/neco.1989.1.4.541",
+        "article-title": "Backpropagation applied to handwritten zip code recognition",
+        "volume": "1",
+        "author": "LeCun",
+        "year": "1989",
+        "journal-title": "Neural Comput."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.neucom.2026.135736_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "2278",
+        "DOI": "10.1109/5.726791",
+        "article-title": "Gradient-based learning applied to document recognition",
+        "volume": "86",
+        "author": "LeCun",
+        "year": "1998",
+        "journal-title": "Proc. IEEE"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0250",
+        "series-title": "The Thirteenth International Conference on Learning Representations (ICLR)",
+        "article-title": "Jamba: hybrid Transformer-Mamba language models",
+        "author": "Lenz",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0255",
+        "series-title": "Advances in Neural Information Processing Systems 37 (NeurIPS 2024)",
+        "first-page": "59808",
+        "article-title": "Coupled Mamba: enhanced multimodal fusion with coupled state space model",
+        "author": "Li",
+        "year": "2024"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.neucom.2026.135736_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "2658",
+        "DOI": "10.1109/TETCI.2025.3543389",
+        "article-title": "A survey of multimodal fake news detection: a cross-modal interaction perspective",
+        "volume": "9",
+        "author": "Li",
+        "year": "2025",
+        "journal-title": "IEEE Trans. Emerg. Top. Comput. Intell."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0265",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.neucom.2025.130711",
+        "article-title": "A survey of RWKV",
+        "volume": "649",
+        "author": "Li",
+        "year": "2025",
+        "journal-title": "Neurocomputing",
+        "ISSN": "https://id.crossref.org/issn/0925-2312",
+        "issn-type": "print"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.neucom.2026.135736_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "1748",
+        "DOI": "10.1016/j.ijforecast.2021.03.012",
+        "article-title": "Temporal fusion transformers for interpretable multi-horizon time series forecasting",
+        "volume": "37",
+        "author": "Lim",
+        "year": "2021",
+        "journal-title": "Int. J. Forecast."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0275",
+        "series-title": "System Identification: Theory for the User",
+        "author": "Ljung",
+        "year": "1987"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0280",
+        "series-title": "Proceedings of the 32nd ACM International Conference on Multimedia",
+        "first-page": "3607",
+        "article-title": "DGMamba: domain generalization via generalized state space model",
+        "author": "Long",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0285",
+        "author": "Ma"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0290",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Mega: moving average equipped gated attention",
+        "author": "Ma",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0295",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Long range language modeling via gated state spaces",
+        "author": "Mehta",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0300",
+        "series-title": "International Conference on Learning Representations",
+        "article-title": "Spectral normalization for generative adversarial networks",
+        "author": "Miyato",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0305",
+        "series-title": "Interspeech 2024",
+        "first-page": "237",
+        "article-title": "Exploring the capability of Mamba in speech applications",
+        "author": "Miyazaki",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0310",
+        "series-title": "Advances in Neural Information Processing Systems 35 (NeurIPS 2022)",
+        "article-title": "S4ND: modeling images and videos as multidimensional signals with state spaces",
+        "volume": "vol. 35",
+        "author": "Nguyen",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0315",
+        "series-title": "Proceedings of the 40th International Conference on Machine Learning (ICML), Volume 202, Proceedings of Machine Learning Research",
+        "first-page": "26670",
+        "article-title": "Resurrecting recurrent neural networks for long sequences",
+        "author": "Orvieto",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0320",
+        "series-title": "SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time Series",
+        "author": "Patro",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0325",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.engappai.2025.111279",
+        "article-title": "Mamba-360: survey of state space models as transformer alternative for long sequence modelling: methods, applications, and challenges",
+        "volume": "159",
+        "author": "Patro",
+        "year": "2025",
+        "journal-title": "Eng. Appl. Artif. Intell.",
+        "ISSN": "https://id.crossref.org/issn/0952-1976",
+        "issn-type": "print"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0330",
+        "series-title": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+        "first-page": "14048",
+        "article-title": "RWKV: reinventing RNNs for the transformer era",
+        "author": "Peng",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0335",
+        "series-title": "Proceedings of the 40th International Conference on Machine Learning (ICML), Volume 202, Proceedings of Machine Learning Research",
+        "first-page": "28043",
+        "article-title": "Hyena hierarchy: towards larger convolutional language models",
+        "author": "Poli",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0340",
+        "series-title": "Proceedings of the 4th NeurIPS Efficient Natural Language and Speech Processing Workshop, Volume 262, Proceedings of Machine Learning Research",
+        "first-page": "102",
+        "article-title": "VL-Mamba: exploring state space models for multimodal learning",
+        "author": "Qiao",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0345",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Toeplitz neural network for sequence modeling",
+        "author": "Qin",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0350",
+        "series-title": "Advances in Neural Information Processing Systems 36 (NeurIPS 2023)",
+        "article-title": "Hierarchically gated recurrent neural network for sequence modeling",
+        "volume": "vol. 36",
+        "author": "Qin",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0355",
+        "series-title": "Proceedings of the Conference on Language Modeling (COLM)",
+        "article-title": "HGRN2: gated linear RNNs with state expansion",
+        "author": "Qin",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0360",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/3819582",
+        "article-title": "A survey of Mamba",
+        "author": "Qu",
+        "year": "2026",
+        "journal-title": "ACM Trans. Intell. Syst. Technol."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0365",
+        "series-title": "International Conference on Machine Learning",
+        "first-page": "28492",
+        "article-title": "Robust speech recognition via large-scale weak supervision",
+        "author": "Radford",
+        "year": "2023"
+      },
+      {
+        "issue": "140",
+        "key": "10.1016/j.neucom.2026.135736_bib0370",
+        "first-page": "1",
+        "article-title": "Exploring the limits of transfer learning with a unified text-to-text transformer",
+        "volume": "21",
+        "author": "Raffel",
+        "year": "2020",
+        "journal-title": "J. Mach. Learn. Res."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0375",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Samba: simple hybrid state space models for efficient unlimited context language modeling",
+        "author": "Ren",
+        "year": "2025"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.neucom.2026.135736_bib0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1109/MC.2025.3571322",
+        "article-title": "A comprehensive survey on Mamba: architectures, challenges, and opportunities",
+        "volume": "58",
+        "author": "Salam",
+        "year": "2025",
+        "journal-title": "Computer"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0385",
+        "author": "Shoeybi"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0390",
+        "doi-asserted-by": "crossref",
+        "first-page": "80690",
+        "DOI": "10.52202/075280-3538",
+        "article-title": "Convolutional state space models for long-range spatiotemporal modeling",
+        "volume": "36",
+        "author": "Smith",
+        "year": "2023",
+        "journal-title": "Adv. Neural Inf. Process. Syst."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0395",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Simplified state space layers for sequence modeling",
+        "author": "Smith",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0400",
+        "series-title": "2025 IEEE Conference on Artificial Intelligence (CAI)",
+        "first-page": "821",
+        "article-title": "Crash severity analysis of child bicyclists using arm-net and MambaNet",
+        "author": "Somvanshi",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0405",
+        "series-title": "2025 IEEE Conference on Artificial Intelligence (CAI)",
+        "first-page": "1010",
+        "article-title": "Applying tabular deep learning models to estimate crash injury types of young motorcyclists",
+        "author": "Somvanshi",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0410",
+        "series-title": "Retentive Network: A Successor to Transformer for Large Language Models",
+        "author": "Sun",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0415",
+        "series-title": "Conference on Health, Inference, and Learning",
+        "first-page": "50",
+        "article-title": "Modeling multivariate biosignals with graph neural networks and structured state space models",
+        "author": "Tang",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0420",
+        "series-title": "International Conference on Learning Representations (ICLR)",
+        "article-title": "Long range arena: a benchmark for efficient transformers",
+        "author": "Tay",
+        "year": "2021"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.neucom.2026.135736_bib0425",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3530811",
+        "article-title": "Efficient transformers: a survey",
+        "volume": "55",
+        "author": "Tay",
+        "year": "2022",
+        "journal-title": "ACM Comput. Surv."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.neucom.2026.135736_bib0430",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ipm.2025.104410",
+        "article-title": "Multi-scale graph contrastive learning for community detection in dynamic graphs",
+        "volume": "63",
+        "author": "Teng",
+        "year": "2026",
+        "journal-title": "Inf. Process. Manag."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0435",
+        "series-title": "Advances in Neural Information Processing Systems",
+        "article-title": "Attention is all you need",
+        "volume": "vol. 30",
+        "author": "Vaswani",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0440",
+        "series-title": "Proceedings of the Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2025)",
+        "first-page": "115",
+        "article-title": "Multilingual state space models for structured question answering in indic languages",
+        "author": "Vats",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0445",
+        "author": "Wang"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0450",
+        "series-title": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+        "first-page": "58",
+        "article-title": "Pretraining without attention",
+        "author": "Wang",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0455",
+        "series-title": "Proceedings of the 41st International Conference on Machine Learning, Volume 235, Proceedings of Machine Learning Research",
+        "first-page": "50766",
+        "article-title": "StableSSM: alleviating the curse of memory in state-space models through stable reparameterization",
+        "author": "Wang",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0460",
+        "series-title": "LinFormer: Self-Attention with Linear Complexity",
+        "author": "Wang",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0465",
+        "author": "Wang"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.neucom.2026.135736_bib0470",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1007/s44267-024-00072-9",
+        "article-title": "FusionMamba: dynamic feature enhancement for multimodal image fusion with Mamba",
+        "volume": "2",
+        "author": "Xie",
+        "year": "2024",
+        "journal-title": "Vis. Intell."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0475",
+        "author": "Xu"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0480",
+        "series-title": "Proceedings of the 17th ACM International Conference on Web Search and Data Mining (WSDM)",
+        "first-page": "930",
+        "article-title": "Linear recurrent units for sequential recommendation",
+        "author": "Yue",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0485",
+        "author": "Zhang"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0490",
+        "series-title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+        "first-page": "10121",
+        "article-title": "Point cloud Mamba: point cloud learning via state space model",
+        "volume": "vol. 39",
+        "author": "Zhang",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0495",
+        "doi-asserted-by": "crossref",
+        "first-page": "132208",
+        "DOI": "10.52202/079017-4202",
+        "article-title": "Chain of agents: large language models collaborating on long-context tasks",
+        "volume": "37",
+        "author": "Zhang",
+        "year": "2024",
+        "journal-title": "Adv. Neural Inf. Process. Syst."
+      },
+      {
+        "key": "10.1016/j.neucom.2026.135736_bib0500",
+        "series-title": "Efficient Long Sequence Modeling via State Space Augmented Transformer",
+        "author": "Zuo",
+        "year": "2022"
+      }
+    ],
+    "container-title": [
+      "Neurocomputing"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0925231226031346?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0925231226031346?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T18:59:31Z",
+      "timestamp": 1795719571000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0925231226031346"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2027,
+          2
+        ]
+      ]
+    },
+    "references-count": 99,
+    "alternative-id": [
+      "S0925231226031346"
+    ],
+    "URL": "https://doi.org/10.1016/j.neucom.2026.135736",
+    "relation": {},
+    "ISSN": [
+      "0925-2312"
+    ],
+    "issn-type": [
+      {
+        "value": "0925-2312",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2027,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Advancing intelligent sequence modeling: Evolution, trade-offs, and applications of state-space architectures from S4 to Mamba—A survey",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Neurocomputing",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.neucom.2026.135736",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "135736"
+  }
+}

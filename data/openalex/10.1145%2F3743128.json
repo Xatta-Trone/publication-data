@@ -1,0 +1,1248 @@
+{
+  "doi": "10.1145/3743128",
+  "fetched_at": "2026-11-27T06:21:39+00:00",
+  "work": {
+    "id": "https://openalex.org/W4411095744",
+    "doi": "https://doi.org/10.1145/3743128",
+    "title": "A Survey on Kolmogorov-Arnold Network",
+    "display_name": "A Survey on Kolmogorov-Arnold Network",
+    "alternate_titles": [],
+    "publication_year": 2025,
+    "publication_date": "2025-09-10",
+    "ids": {
+      "openalex": "https://openalex.org/W4411095744",
+      "doi": "https://doi.org/10.1145/3743128",
+      "arxiv": "https://arxiv.org/abs/2411.06078"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1145/3743128",
+      "doi": "https://doi.org/10.1145/3743128",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1145/3743128",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3743128",
+      "source": {
+        "id": "https://openalex.org/S157921468",
+        "display_name": "ACM Computing Surveys",
+        "issn_l": "0360-0300",
+        "issn": [
+          "0360-0300",
+          "1557-7341"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-a",
+          "jufo-3",
+          "ki-jl-2",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319798",
+        "host_organization_name": "Association for Computing Machinery",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319798"
+        ],
+        "host_organization_lineage_names": [
+          "Association for Computing Machinery"
+        ],
+        "type": "journal"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACM Computing Surveys",
+      "raw_type": "journal-article"
+    },
+    "parent_works": [],
+    "lineage": [
+      "https://openalex.org/W4411095744"
+    ],
+    "child_works_count": 0,
+    "pull_notice_works": [],
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "arxiv",
+      "crossref",
+      "datacite"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3743128",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5098934039",
+          "display_name": "Shriyank Somvanshi",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0008-3723-0607",
+          "observed_orcids": [
+            "https://orcid.org/0009-0008-3723-0607"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Shriyank Somvanshi",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0008-3723-0607",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5029773057",
+          "display_name": "Syed Aaqib Javed",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0001-5866-035X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5866-035X"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Syed Aaqib Javed",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-5866-035X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5117855305",
+          "display_name": "Md Monzurul Islam",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0007-3670-6100",
+          "observed_orcids": [
+            "https://orcid.org/0009-0007-3670-6100"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Md Monzurul Islam",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0007-3670-6100",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5117855306",
+          "display_name": "Diwas Pandit",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0005-8481-2851",
+          "observed_orcids": [
+            "https://orcid.org/0009-0005-8481-2851"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Diwas Pandit",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0005-8481-2851",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5053621729",
+          "display_name": "Subasish Das",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0002-1671-2753",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1671-2753"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Subasish Das",
+        "raw_affiliation_strings": [
+          "Civil Engineering, Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-1671-2753",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Civil Engineering, Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I13511017"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 67.0527,
+    "is_authors_truncated": false,
+    "has_fulltext": true,
+    "cited_by_count": 387,
+    "reviewed_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.99946688,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "58",
+      "issue": "2",
+      "first_page": "1",
+      "last_page": "35"
+    },
+    "is_retracted": false,
+    "is_pulled": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10320",
+      "display_name": "Neural Networks and Applications",
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10320",
+        "display_name": "Neural Networks and Applications",
+        "score": 0.9970999956130981,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12676",
+        "display_name": "Machine Learning and ELM",
+        "score": 0.000699999975040555,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11206",
+        "display_name": "Model Reduction and Neural Networks",
+        "score": 0.00039999998989515007,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3109",
+          "display_name": "Statistical and Nonlinear Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/31",
+          "display_name": "Physics and Astronomy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/kolmogorov-arnold-networks",
+        "display_name": "Kolmogorov-Arnold networks",
+        "score": 0.9660000205039978
+      },
+      {
+        "id": "https://openalex.org/keywords/kolmogorov-arnold-representation-theorem",
+        "display_name": "Kolmogorov-Arnold representation theorem",
+        "score": 0.949999988079071
+      },
+      {
+        "id": "https://openalex.org/keywords/learnable-activation-functions",
+        "display_name": "learnable activation functions",
+        "score": 0.777999997138977
+      },
+      {
+        "id": "https://openalex.org/keywords/function-approximation",
+        "display_name": "function approximation",
+        "score": 0.6330000162124634
+      },
+      {
+        "id": "https://openalex.org/keywords/time-series-forecasting",
+        "display_name": "time series forecasting",
+        "score": 0.6990000009536743
+      },
+      {
+        "id": "https://openalex.org/keywords/graph-learning",
+        "display_name": "graph learning",
+        "score": 0.6520000100135803
+      },
+      {
+        "id": "https://openalex.org/keywords/hybrid-neural-architecture",
+        "display_name": "hybrid neural architecture",
+        "score": 0.7820000052452087
+      },
+      {
+        "id": "https://openalex.org/keywords/interpretability",
+        "display_name": "interpretability",
+        "score": 0.7110000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/parameter-efficiency",
+        "display_name": "parameter efficiency",
+        "score": 0.7200000286102295
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.862604022026062
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1145/3743128",
+        "doi": "https://doi.org/10.1145/3743128",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3743128",
+        "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3743128",
+        "source": {
+          "id": "https://openalex.org/S157921468",
+          "display_name": "ACM Computing Surveys",
+          "issn_l": "0360-0300",
+          "issn": [
+            "0360-0300",
+            "1557-7341"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-a",
+            "jufo-3",
+            "ki-jl-2",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
+          "type": "journal"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACM Computing Surveys",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:arXiv.org:2411.06078",
+        "doi": "https://doi.org/10.48550/arxiv.2411.06078",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2411.06078",
+        "pdf_url": "https://arxiv.org/pdf/2411.06078",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4402554005",
+          "host_organization_name": "arXiv",
+          "host_organization_lineage": [
+            "https://openalex.org/I4402554005"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1145/3743128",
+      "doi": "https://doi.org/10.1145/3743128",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1145/3743128",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3743128",
+      "source": {
+        "id": "https://openalex.org/S157921468",
+        "display_name": "ACM Computing Surveys",
+        "issn_l": "0360-0300",
+        "issn": [
+          "0360-0300",
+          "1557-7341"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-a",
+          "jufo-3",
+          "ki-jl-2",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319798",
+        "host_organization_name": "Association for Computing Machinery",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319798"
+        ],
+        "host_organization_lineage_names": [
+          "Association for Computing Machinery"
+        ],
+        "type": "journal"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACM Computing Surveys",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320310830",
+        "display_name": "Texas State University",
+        "ror": "https://ror.org/009ey6w22"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4411095744.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4411095744.grobid-xml"
+    },
+    "referenced_works_count": 133,
+    "referenced_works": [
+      "https://openalex.org/W1498436455",
+      "https://openalex.org/W1533861849",
+      "https://openalex.org/W1677182931",
+      "https://openalex.org/W1800356822",
+      "https://openalex.org/W1971735090",
+      "https://openalex.org/W2003410902",
+      "https://openalex.org/W2064675550",
+      "https://openalex.org/W2103496339",
+      "https://openalex.org/W2108671543",
+      "https://openalex.org/W2110485445",
+      "https://openalex.org/W2112796928",
+      "https://openalex.org/W2128084896",
+      "https://openalex.org/W2147800946",
+      "https://openalex.org/W2156387975",
+      "https://openalex.org/W2163605009",
+      "https://openalex.org/W2194775991",
+      "https://openalex.org/W2282821441",
+      "https://openalex.org/W2519887557",
+      "https://openalex.org/W2525778437",
+      "https://openalex.org/W2604319603",
+      "https://openalex.org/W2618851150",
+      "https://openalex.org/W2942231644",
+      "https://openalex.org/W3031010353",
+      "https://openalex.org/W3046467941",
+      "https://openalex.org/W3096986660",
+      "https://openalex.org/W3116968400",
+      "https://openalex.org/W3157506437",
+      "https://openalex.org/W4244096624",
+      "https://openalex.org/W4282821541",
+      "https://openalex.org/W4285105479",
+      "https://openalex.org/W4285506347",
+      "https://openalex.org/W4396821501",
+      "https://openalex.org/W4396878152",
+      "https://openalex.org/W4396912938",
+      "https://openalex.org/W4396944743",
+      "https://openalex.org/W4398159307",
+      "https://openalex.org/W4398191863",
+      "https://openalex.org/W4399358063",
+      "https://openalex.org/W4399424696",
+      "https://openalex.org/W4399424727",
+      "https://openalex.org/W4399554406",
+      "https://openalex.org/W4399657340",
+      "https://openalex.org/W4399794906",
+      "https://openalex.org/W4399912438",
+      "https://openalex.org/W4399912982",
+      "https://openalex.org/W4399970395",
+      "https://openalex.org/W4399990872",
+      "https://openalex.org/W4400102975",
+      "https://openalex.org/W4400104367",
+      "https://openalex.org/W4400104824",
+      "https://openalex.org/W4400104841",
+      "https://openalex.org/W4400222592",
+      "https://openalex.org/W4400340474",
+      "https://openalex.org/W4401006055",
+      "https://openalex.org/W4401202664",
+      "https://openalex.org/W4401306380",
+      "https://openalex.org/W4401560582",
+      "https://openalex.org/W4401598821",
+      "https://openalex.org/W4401697219",
+      "https://openalex.org/W4402172796",
+      "https://openalex.org/W4402500777",
+      "https://openalex.org/W4402524935",
+      "https://openalex.org/W4402563824",
+      "https://openalex.org/W4402618440",
+      "https://openalex.org/W4402639326",
+      "https://openalex.org/W4402701709",
+      "https://openalex.org/W4402828177",
+      "https://openalex.org/W4402901593",
+      "https://openalex.org/W4402907198",
+      "https://openalex.org/W4402955175",
+      "https://openalex.org/W4403125830",
+      "https://openalex.org/W4403295588",
+      "https://openalex.org/W4403312503",
+      "https://openalex.org/W4403346317",
+      "https://openalex.org/W4403365242",
+      "https://openalex.org/W4403570345",
+      "https://openalex.org/W4403663269",
+      "https://openalex.org/W4403788936",
+      "https://openalex.org/W4403854147",
+      "https://openalex.org/W4403867810",
+      "https://openalex.org/W4403882341",
+      "https://openalex.org/W4403936409",
+      "https://openalex.org/W4403963925",
+      "https://openalex.org/W4404088209",
+      "https://openalex.org/W4404088219",
+      "https://openalex.org/W4404091869",
+      "https://openalex.org/W4404102102",
+      "https://openalex.org/W4404285664",
+      "https://openalex.org/W4404311638",
+      "https://openalex.org/W4404404976",
+      "https://openalex.org/W4404468356",
+      "https://openalex.org/W4404571345",
+      "https://openalex.org/W4404627985",
+      "https://openalex.org/W4405314691",
+      "https://openalex.org/W4405936758",
+      "https://openalex.org/W4406308687",
+      "https://openalex.org/W4406388045",
+      "https://openalex.org/W4407424234",
+      "https://openalex.org/W4408178078",
+      "https://openalex.org/W4408354379",
+      "https://openalex.org/W4408371400",
+      "https://openalex.org/W4408690830",
+      "https://openalex.org/W4408745455",
+      "https://openalex.org/W4408779320",
+      "https://openalex.org/W4408787857",
+      "https://openalex.org/W4409367393",
+      "https://openalex.org/W4409852345",
+      "https://openalex.org/W4410087606",
+      "https://openalex.org/W4410143273",
+      "https://openalex.org/W4410295215",
+      "https://openalex.org/W4410297281",
+      "https://openalex.org/W4412346645",
+      "https://openalex.org/W4412403848",
+      "https://openalex.org/W4412507037",
+      "https://openalex.org/W4412743805",
+      "https://openalex.org/W4412791383",
+      "https://openalex.org/W4413179843",
+      "https://openalex.org/W4413213204",
+      "https://openalex.org/W4413224864",
+      "https://openalex.org/W4413396793",
+      "https://openalex.org/W4413423668",
+      "https://openalex.org/W4413743014",
+      "https://openalex.org/W4414360412",
+      "https://openalex.org/W4414902498",
+      "https://openalex.org/W4416084076",
+      "https://openalex.org/W4416143546",
+      "https://openalex.org/W4416244744",
+      "https://openalex.org/W4417268310",
+      "https://openalex.org/W6891906571",
+      "https://openalex.org/W6948382885",
+      "https://openalex.org/W7134184030",
+      "https://openalex.org/W7140309870",
+      "https://openalex.org/W7165859265"
+    ],
+    "related_works": [
+      "https://openalex.org/W4414010585",
+      "https://openalex.org/W4399970395",
+      "https://openalex.org/W4414936280",
+      "https://openalex.org/W4409711624",
+      "https://openalex.org/W4414655691",
+      "https://openalex.org/W7117749059",
+      "https://openalex.org/W4409397264",
+      "https://openalex.org/W7129232197",
+      "https://openalex.org/W4416103045",
+      "https://openalex.org/W4409644861"
+    ],
+    "abstract_inverted_index": {
+      "This": [
+        0,
+        168
+      ],
+      "review": [
+        1,
+        54
+      ],
+      "study": [
+        2
+      ],
+      "explores": [
+        3,
+        55
+      ],
+      "the": [
+        4,
+        22,
+        115
+      ],
+      "theoretical": [
+        5
+      ],
+      "foundations,": [
+        6
+      ],
+      "evolution,": [
+        7
+      ],
+      "applications,": [
+        8
+      ],
+      "and": [
+        9,
+        47,
+        68,
+        80,
+        89,
+        107,
+        127,
+        153,
+        165,
+        178,
+        188
+      ],
+      "future": [
+        10,
+        180
+      ],
+      "potential": [
+        11
+      ],
+      "of": [
+        12,
+        50
+      ],
+      "Kolmogorov–Arnold": [
+        13,
+        23
+      ],
+      "Networks": [
+        14
+      ],
+      "(KAN),": [
+        15
+      ],
+      "a": [
+        16
+      ],
+      "neural": [
+        17,
+        32,
+        136,
+        176
+      ],
+      "network": [
+        18
+      ],
+      "model": [
+        19
+      ],
+      "inspired": [
+        20
+      ],
+      "by": [
+        21,
+        34
+      ],
+      "representation": [
+        24
+      ],
+      "theorem.": [
+        25
+      ],
+      "KANs": [
+        26,
+        118,
+        171
+      ],
+      "set": [
+        27
+      ],
+      "themselves": [
+        28
+      ],
+      "apart": [
+        29
+      ],
+      "from": [
+        30
+      ],
+      "traditional": [
+        31
+      ],
+      "networks": [
+        33,
+        137
+      ],
+      "employing": [
+        35
+      ],
+      "learnable,": [
+        36
+      ],
+      "spline-parameterized": [
+        37
+      ],
+      "functions": [
+        38,
+        63
+      ],
+      "rather": [
+        39
+      ],
+      "than": [
+        40
+      ],
+      "fixed": [
+        41
+      ],
+      "activation": [
+        42,
+        62
+      ],
+      "functions,": [
+        43
+      ],
+      "allowing": [
+        44
+      ],
+      "for": [
+        45,
+        109,
+        138
+      ],
+      "flexible": [
+        46
+      ],
+      "interpretable": [
+        48
+      ],
+      "representations": [
+        49
+      ],
+      "high-dimensional": [
+        51,
+        152
+      ],
+      "functions.": [
+        52
+      ],
+      "The": [
+        53
+      ],
+      "Kan’s": [
+        56
+      ],
+      "architectural": [
+        57
+      ],
+      "strengths,": [
+        58,
+        146
+      ],
+      "including": [
+        59,
+        85
+      ],
+      "adaptive": [
+        60
+      ],
+      "edge-based": [
+        61
+      ],
+      "that": [
+        64,
+        140
+      ],
+      "enhance": [
+        65,
+        183
+      ],
+      "parameter": [
+        66
+      ],
+      "efficiency": [
+        67
+      ],
+      "scalability": [
+        69,
+        189
+      ],
+      "across": [
+        70
+      ],
+      "varied": [
+        71
+      ],
+      "applications": [
+        72
+      ],
+      "such": [
+        73,
+        123
+      ],
+      "as": [
+        74,
+        124
+      ],
+      "time": [
+        75
+      ],
+      "series": [
+        76
+      ],
+      "forecasting,": [
+        77
+      ],
+      "computational": [
+        78,
+        105,
+        149,
+        185
+      ],
+      "biomedicine,": [
+        79
+      ],
+      "graph": [
+        81
+      ],
+      "learning.": [
+        82
+      ],
+      "Key": [
+        83
+      ],
+      "advancements": [
+        84
+      ],
+      "Temporal-KAN": [
+        86
+      ],
+      "(T-KAN),": [
+        87
+      ],
+      "FastKAN,": [
+        88
+      ],
+      "Partial": [
+        90
+      ],
+      "Differential": [
+        91
+      ],
+      "Equation": [
+        92
+      ],
+      "(PDE)": [
+        93
+      ],
+      "KAN": [
+        94,
+        147
+      ],
+      "illustrate": [
+        95
+      ],
+      "KAN’s": [
+        96
+      ],
+      "growing": [
+        97
+      ],
+      "applicability": [
+        98
+      ],
+      "in": [
+        99,
+        133,
+        151,
+        174,
+        190
+      ],
+      "dynamic": [
+        100
+      ],
+      "environments,": [
+        101
+      ],
+      "significantly": [
+        102
+      ],
+      "improving": [
+        103
+      ],
+      "interpretability,": [
+        104,
+        187
+      ],
+      "efficiency,": [
+        106,
+        186
+      ],
+      "adaptability": [
+        108
+      ],
+      "complex": [
+        110
+      ],
+      "function": [
+        111
+      ],
+      "approximation": [
+        112
+      ],
+      "tasks.": [
+        113
+      ],
+      "Moreover,": [
+        114
+      ],
+      "article": [
+        116,
+        169
+      ],
+      "discusses": [
+        117
+      ],
+      "integration": [
+        119
+      ],
+      "with": [
+        120
+      ],
+      "other": [
+        121
+      ],
+      "architectures,": [
+        122
+      ],
+      "convolutional,": [
+        125
+      ],
+      "recurrent,": [
+        126
+      ],
+      "transformer-based": [
+        128
+      ],
+      "models,": [
+        129
+      ],
+      "showcasing": [
+        130
+      ],
+      "its": [
+        131,
+        145,
+        184
+      ],
+      "versatility": [
+        132
+      ],
+      "complementing": [
+        134
+      ],
+      "established": [
+        135
+      ],
+      "tasks": [
+        139
+      ],
+      "require": [
+        141
+      ],
+      "hybrid": [
+        142,
+        166
+      ],
+      "approaches.": [
+        143
+      ],
+      "Despite": [
+        144
+      ],
+      "faces": [
+        148
+      ],
+      "challenges": [
+        150
+      ],
+      "noisy": [
+        154
+      ],
+      "data": [
+        155
+      ],
+      "settings,": [
+        156
+      ],
+      "sparking": [
+        157
+      ],
+      "continued": [
+        158
+      ],
+      "research": [
+        159
+      ],
+      "into": [
+        160
+      ],
+      "optimization": [
+        161
+      ],
+      "strategies,": [
+        162
+      ],
+      "regularization": [
+        163
+      ],
+      "techniques,": [
+        164
+      ],
+      "models.": [
+        167
+      ],
+      "highlights": [
+        170
+      ],
+      "expanding": [
+        172
+      ],
+      "role": [
+        173
+      ],
+      "modern": [
+        175
+      ],
+      "architectures": [
+        177
+      ],
+      "outlines": [
+        179
+      ],
+      "directions": [
+        181
+      ],
+      "to": [
+        182
+      ],
+      "data-intensive": [
+        191
+      ],
+      "applications.": [
+        192
+      ]
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4411095744",
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 256
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 127
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-11-26T09:34:50.682384",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

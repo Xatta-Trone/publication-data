@@ -1,0 +1,385 @@
+{
+  "issn": "0001-4575",
+  "title": "Accident Analysis & Prevention",
+  "publisher": "Elsevier",
+  "issns": [
+    "0001-4575"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1795717568416,
+    "counts": {
+      "current-dois": 1175,
+      "backfile-dois": 8649,
+      "total-dois": 9824
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2013,
+          530
+        ],
+        [
+          2021,
+          486
+        ],
+        [
+          2020,
+          402
+        ],
+        [
+          2026,
+          392
+        ],
+        [
+          2019,
+          385
+        ],
+        [
+          2024,
+          360
+        ],
+        [
+          2016,
+          356
+        ],
+        [
+          2017,
+          354
+        ],
+        [
+          2018,
+          342
+        ],
+        [
+          2014,
+          341
+        ],
+        [
+          2025,
+          339
+        ],
+        [
+          2015,
+          322
+        ],
+        [
+          2023,
+          320
+        ],
+        [
+          2012,
+          299
+        ],
+        [
+          2010,
+          281
+        ],
+        [
+          2011,
+          270
+        ],
+        [
+          2008,
+          262
+        ],
+        [
+          2022,
+          261
+        ],
+        [
+          2009,
+          166
+        ],
+        [
+          2007,
+          158
+        ],
+        [
+          2006,
+          157
+        ],
+        [
+          2005,
+          142
+        ],
+        [
+          1969,
+          135
+        ],
+        [
+          2004,
+          133
+        ],
+        [
+          2003,
+          115
+        ],
+        [
+          1993,
+          109
+        ],
+        [
+          1996,
+          102
+        ],
+        [
+          1995,
+          101
+        ],
+        [
+          2001,
+          98
+        ],
+        [
+          1997,
+          98
+        ],
+        [
+          2000,
+          97
+        ],
+        [
+          1994,
+          97
+        ],
+        [
+          1998,
+          92
+        ],
+        [
+          1982,
+          90
+        ],
+        [
+          2002,
+          88
+        ],
+        [
+          1999,
+          85
+        ],
+        [
+          1992,
+          85
+        ],
+        [
+          2027,
+          84
+        ],
+        [
+          1989,
+          80
+        ],
+        [
+          1971,
+          78
+        ],
+        [
+          1990,
+          77
+        ],
+        [
+          1991,
+          76
+        ],
+        [
+          1970,
+          75
+        ],
+        [
+          1985,
+          74
+        ],
+        [
+          1980,
+          74
+        ],
+        [
+          1987,
+          72
+        ],
+        [
+          1981,
+          72
+        ],
+        [
+          1984,
+          70
+        ],
+        [
+          1972,
+          69
+        ],
+        [
+          1986,
+          68
+        ],
+        [
+          1979,
+          68
+        ],
+        [
+          1988,
+          66
+        ],
+        [
+          1983,
+          66
+        ],
+        [
+          1978,
+          41
+        ],
+        [
+          1973,
+          38
+        ],
+        [
+          1976,
+          36
+        ],
+        [
+          1975,
+          35
+        ],
+        [
+          1977,
+          30
+        ],
+        [
+          1974,
+          25
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.000851063829787234,
+      "funders-backfile": 0.284772806104752,
+      "licenses-backfile": 0.9780321424442132,
+      "funders-current": 0.6782978723404255,
+      "affiliations-backfile": 0.0,
+      "resource-links-backfile": 1.0,
+      "orcids-backfile": 0.1066019192970286,
+      "funder-ror-ids-current": 0.000851063829787234,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.002890507573129842,
+      "orcids-current": 0.7353191489361702,
+      "similarity-checking-backfile": 0.0,
+      "references-backfile": 0.8738582495086137,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.1320383859405712,
+      "update-policies-backfile": 0.4443288241415193,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.4748936170212766,
+      "abstracts-backfile": 0.0,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.002890507573129842,
+      "abstracts-current": 0.0,
+      "references-current": 0.9548936170212766
+    },
+    "title": "Accident Analysis & Prevention",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1795717568416,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.181799674267101,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9806596091205212,
+        "references": 0.8835504885993485,
+        "funders": 0.3318403908794788,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.002646579804560261,
+        "award-numbers": 0.1730456026058632,
+        "ror-ids": 0.002646579804560261,
+        "update-policies": 0.5107899022801303,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1795717568416,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.1066019192970286,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9780321424442132,
+        "references": 0.8738582495086137,
+        "funders": 0.284772806104752,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.002890507573129842,
+        "award-numbers": 0.1320383859405712,
+        "ror-ids": 0.002890507573129842,
+        "update-policies": 0.4443288241415193,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1795717568416,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.7353191489361702,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9548936170212766,
+        "funders": 0.6782978723404255,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.000851063829787234,
+        "award-numbers": 0.4748936170212766,
+        "ror-ids": 0.000851063829787234,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": false,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": false,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": true,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": true,
+      "deposits-ror-ids-backfile": true,
+      "deposits-abstracts-backfile": false,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": true,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": false,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "0001-4575"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0001-4575"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:28+00:00"
+}

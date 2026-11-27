@@ -1,0 +1,931 @@
+{
+  "doi": "10.1016/j.ijtst.2026.01.005",
+  "fetched_at": "2026-11-27T06:06:27+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T23:18:50Z",
+      "timestamp": 1795735130873,
+      "version": "4.11.3"
+    },
+    "reference-count": 68,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2026-08-01T00:00:00Z",
+          "timestamp": 1785542400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2026-08-01T00:00:00Z",
+          "timestamp": 1785542400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ],
+          "date-time": "2026-08-25T00:00:00Z",
+          "timestamp": 1787616000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 24,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100004847",
+        "name": "New Jersey Department of Transportation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "23-60179"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "23-60179"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100004847",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100004847",
+        "name": "New Jersey Department of Transportation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "Task Order 27"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "Task Order 27"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100004847",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "International Journal of Transportation Science and Technology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ijtst.2026.01.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          27
+        ]
+      ],
+      "date-time": "2026-08-27T07:05:38Z",
+      "timestamp": 1787814338000
+    },
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Vision-based infrastructure monitoring: pavement marking visibility classification using deep neural networks"
+    ],
+    "prefix": "10.1016",
+    "author": [
+      {
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mohammad",
+        "family": "Jalayer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Adam",
+        "family": "Pike",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-2385-8719",
+        "authenticated-orcid": false,
+        "given": "Tausif Islam",
+        "family": "Chowdhury",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rohit",
+        "family": "Chakraborty",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Md Sadman",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0005",
+        "unstructured": "Abbas, A.R., Mohi, A., Butterfield, J., 2009. Long term striping alternatives for bridge decks: final report, January 2009. https://rosap.ntl.bts.gov/view/dot/17540."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0010",
+        "unstructured": "Abboud, N., Bowman, B.L., 2002. Establishing a crash-based retroreflectivity threshold. In: 81st Annual Meeting of the Transportation Research Board, Washington, D.C."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.58496/BJML/2023/001",
+        "article-title": "A review on machine learning strategies for real-world engineering applications",
+        "volume": "2023",
+        "author": "Alsajri",
+        "year": "2023",
+        "journal-title": "Babylon. J. Mach. Learn."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0020",
+        "unstructured": "ATSSA, 2014. Guidance for the Use of Temporary Pavement Markings in Work Zones. Federal Highway Administration. https://workzonesafety.org/files/documents/training/fhwa_wz_grant/wz_tpm.pdf."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ijtst.2026.01.005_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "1303",
+        "DOI": "10.3390/s22041303",
+        "article-title": "Impact of road marking retroreflectivity on machine vision in dry conditions: on-road test",
+        "volume": "22",
+        "author": "Babić",
+        "year": "2022",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.ijtst.2026.01.005_b0030",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1061/(ASCE)TE.1943-5436.0000863",
+        "article-title": "Pavement marking retroreflectivity and crash frequency: segmentation, line type, and imputation effects",
+        "volume": "142",
+        "author": "Bektas",
+        "year": "2016",
+        "journal-title": "J. Transp. Eng."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0035",
+        "unstructured": "Carnaby, B., 2006. Ten years of pavement marking R&D to improve road safety. Presented at the Research into Practice: 22nd ARRB Conference. https://trid.trb.org/View/796031."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ijtst.2026.01.005_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "614",
+        "DOI": "10.1007/s42947-020-6001-x",
+        "article-title": "Road marking retroreflectivity study via a visual algorithm",
+        "volume": "13",
+        "author": "Chou",
+        "year": "2020",
+        "journal-title": "Int. J. Pavement Res. Technol."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "74",
+        "DOI": "10.3141/2337-10",
+        "article-title": "Repeatability and reproducibility of mobile retroreflectivity units for measurement of pavement markings",
+        "volume": "2337",
+        "author": "Choubane",
+        "year": "2013",
+        "journal-title": "Transp. Res. Rec. J. Transp. Res. Board"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ijtst.2026.01.005_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1177/1087724X07308773",
+        "article-title": "Statistical validation of the effect of lateral line location on pavement marking retroreflectivity degradation",
+        "volume": "12",
+        "author": "Craig",
+        "year": "2007",
+        "journal-title": "Public Works Manag. Policy"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0055",
+        "unstructured": "Cunningham, C.M., Hummer, J.E., Chang, J., Katz, D., Vaughan, C.L., Findley, D.J., McAvoy, D., 2013. All-Weather Pavement Marking for Work Zones: Field Evaluation in North Carolina and Ohio (No. FHWA-HIF-13-004). https://www.fhwa.dot.gov/hfl/partnerships/all_weather_pavement/hif13004/hif13004.pdf."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0060",
+        "unstructured": "Davies, C., 2017. Effects of pavement marking characteristics on machine vision technology. In: Transportation Research Board 96th Annual Meeting, Washington, D.C., United States, 8–12 January 2017. Paper No. 17-03724. https://trid.trb.org/View/1438482."
+      },
+      {
+        "issue": "13",
+        "key": "10.1016/j.ijtst.2026.01.005_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "1659",
+        "DOI": "10.1080/10298436.2020.1714047",
+        "article-title": "Pavement distress detection and classification based on YOLO network",
+        "volume": "22",
+        "author": "Du",
+        "year": "2021",
+        "journal-title": "Int. J. Pavement Eng."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0070",
+        "series-title": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+        "first-page": "6568",
+        "article-title": "CenterNet: keypoint triplets for object detection",
+        "author": "Duan",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0075",
+        "unstructured": "FHWA, 2009. Manual on Uniform Traffic Control Devices (MUTCD). U.S. Department of Transportation, Federal Highway Administration, Washington, D.C. https://mutcd.fhwa.dot.gov/pdfs/2009/mutcd2009edition.pdf."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0080",
+        "unstructured": "FHWA, 2023. Manual on Uniform Traffic Control Devices (MUTCD), 11th ed. U.S. Department of Transportation, Federal Highway Administration, Washington, D.C. https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/mutcd11thedition.pdf."
+      },
+      {
+        "issue": "22",
+        "key": "10.1016/j.ijtst.2026.01.005_b0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "4141",
+        "DOI": "10.3390/rs16224141",
+        "article-title": "SAM-ResNet50: a deep learning model for the identification and classification of drought stress in the seedling stage of betula luminifera",
+        "volume": "16",
+        "author": "Gao",
+        "year": "2024",
+        "journal-title": "Rem. Sens."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0090",
+        "unstructured": "Gates, T.J., Hawkins, H.G., Rose, E.R., 2003. Effective pavement marking materials and applications for Portland cement concrete roadways (No. FHWA/TX-03/4150-2,). College Station, TX, USA: Texas Transportation Institute, Texas A & M University System. https://library.ctr.utexas.edu/hostedpdfs/tti/4150-2.pdf."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.3141/2337-09",
+        "article-title": "Assessment of durability of wet night visible pavement markings: visibility experiment",
+        "volume": "2337",
+        "author": "Gibbons",
+        "year": "2013",
+        "journal-title": "Transp. Res. Rec. J. Transp. Res. Board"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ijtst.2026.01.005_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1088",
+        "DOI": "10.1109/TITS.2012.2184756",
+        "article-title": "A learning approach towards detection and tracking of lane markings",
+        "volume": "13",
+        "author": "Gopalan",
+        "year": "2012",
+        "journal-title": "IEEE Trans. Intell. Transp. Syst."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0105",
+        "unstructured": "Hadi, M., 2007. Lane marking/striping to improve image processing lane departure warning systems. California. Dept. of Transportation. Division of Research and Innovation. https://rosap.ntl.bts.gov/view/dot/27549/dot_27549_DS1.pdf."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0110",
+        "unstructured": "Hawkins, N., Smadi, O., Bektaş, B.A., 2012. Evaluating the effectiveness of temporary work-zone pavement marking products."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0115",
+        "series-title": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "770",
+        "article-title": "Deep residual learning for image recognition",
+        "author": "He",
+        "year": "2016"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ijtst.2026.01.005_b0120",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1061/JITSE4.ISENG-2390",
+        "article-title": "An automated pavement marking retroreflectivity condition assessment method using mobile LiDAR and video log images",
+        "volume": "30",
+        "author": "Hou",
+        "year": "2024",
+        "journal-title": "J. Infrastruct. Syst."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0125",
+        "unstructured": "Huang, G., Liu, Z., van der Maaten, L., Weinberger, K.Q., 2016. Densely connected convolutional networks. arXiv: 1608.06993. https://arxiv.org/abs/1608.06993."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ijtst.2026.01.005_b0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "3014",
+        "DOI": "10.3390/app12063014",
+        "article-title": "Customized convolutional neural networks technology for machined product inspection",
+        "volume": "12",
+        "author": "Huang",
+        "year": "2022",
+        "journal-title": "Appl. Sci."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "58879",
+        "DOI": "10.1109/ACCESS.2023.3283596",
+        "article-title": "Custom lightweight convolutional neural network architecture for automated detection of damaged pallet racking in warehousing & distribution centers",
+        "volume": "11",
+        "author": "Hussain",
+        "year": "2023",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1186/s43065-024-00094-z",
+        "article-title": "Modeling retroreflectivity degradation of pavement markings across the US with advanced machine learning algorithms",
+        "volume": "5",
+        "author": "Idris",
+        "year": "2024",
+        "journal-title": "J. Infrastruct. Preserv. Resil."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.conbuildmat.2023.134498",
+        "article-title": "Global sensitivity analysis for seismic performance of shear wall with high-strength steel bars and recycled aggregate concrete",
+        "volume": "411",
+        "author": "Idriss",
+        "year": "2024",
+        "journal-title": "Constr. Build. Mater."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0150",
+        "unstructured": "INDOT, 2020. Standard Specifications. Indiana Department of Transportation, Indianapolis, IN. https://www.in.gov/dot/div/contracts/standards/book/sep19/sep.htm."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ijtst.2026.01.005_b0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "2225",
+        "DOI": "10.1007/s10115-022-01818-x",
+        "article-title": "Falcon: lightweight and accurate convolution based on depthwise separable convolution",
+        "volume": "65",
+        "author": "Jang",
+        "year": "2023",
+        "journal-title": "Knowl. Inf. Syst."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0160",
+        "article-title": "Large glass beads for pavement markings",
+        "author": "Kalchbrenner",
+        "year": "1989",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.70470/ESTIDAMAA/2025/004",
+        "article-title": "AI in smart cities: a review of urban data processing, prediction, and optimization techniques",
+        "volume": "2025",
+        "author": "Khlewee",
+        "year": "2025",
+        "journal-title": "Estidamaa"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0170",
+        "unstructured": "Kopf, J.M., 2004. Reflectivity of pavement markings: analysis of retroreflectivity degradation curves."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0175",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lee, J., Hwang, K.I., 2022. YOLO with adaptive frame control for real-time object detection applications. 81(25), 36375–36396. doi: 10.1007/s11042-021-11480-0.",
+        "DOI": "10.1007/s11042-021-11480-0"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0180",
+        "article-title": "Pavement marking construction quality inspection and night visibility estimation using computer vision",
+        "volume": "20",
+        "author": "Lee",
+        "year": "2024",
+        "journal-title": "Case Stud. Constr. Mater."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ijtst.2026.01.005_b0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "2821",
+        "DOI": "10.1109/TDSC.2021.3076142",
+        "article-title": "VulDeeLocator: a deep learning-based fine-grained vulnerability detector",
+        "volume": "19",
+        "author": "Li",
+        "year": "2022",
+        "journal-title": "IEEE Trans. Dependable Secure Comput."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0190",
+        "article-title": "Pavement marking worn identification and classification using low-channel LiDAR",
+        "volume": "74",
+        "author": "Lin",
+        "year": "2025",
+        "journal-title": "IEEE Trans. Instrum. Meas."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0195",
+        "series-title": "Evaluation of profiled pavement markings",
+        "author": "Lindly",
+        "year": "2003"
+      },
+      {
+        "issue": "18",
+        "key": "10.1016/j.ijtst.2026.01.005_b0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "6014",
+        "DOI": "10.3390/s21186014",
+        "article-title": "Prioritizing roadway pavement marking maintenance using lane keep assist sensor data",
+        "volume": "21",
+        "author": "Mahlberg",
+        "year": "2021",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0205",
+        "series-title": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+        "first-page": "7166",
+        "article-title": "Faster R-CNN with classifier fusion for small fruit detection",
+        "author": "Mai",
+        "year": "2018"
+      },
+      {
+        "issue": "19",
+        "key": "10.1016/j.ijtst.2026.01.005_b0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "7682",
+        "DOI": "10.3390/s22197682",
+        "article-title": "A comprehensive review on lane marking detection using deep neural networks",
+        "volume": "22",
+        "author": "Mamun",
+        "year": "2022",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0215",
+        "unstructured": "MDOT SHA, 2018. Standard Specifications for Construction and Materials. Maryland Department of Transportation State Highway Administration, Annapolis, MD. https://roads.maryland.gov/OCE/Specifications/2018_STD_Specifications_Construction_Materials.zip."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0220",
+        "series-title": "Long-Term Pavement Marking Practices: A Synthesis of Highway Practice",
+        "author": "Migletz",
+        "year": "2002"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.3141/1749-03",
+        "article-title": "Service life of durable pavement markings",
+        "volume": "1749",
+        "author": "Migletz",
+        "year": "2001",
+        "journal-title": "Transp. Res. Rec. J. Transp. Res. Board"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ijtst.2026.01.005_b0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "618",
+        "DOI": "10.1061/(ASCE)TE.1943-5436.0000360",
+        "article-title": "Paint pavement marking performance prediction model",
+        "volume": "138",
+        "author": "Mull",
+        "year": "2012",
+        "journal-title": "J. Transp. Eng."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0235",
+        "doi-asserted-by": "crossref",
+        "unstructured": "National Academies of Sciences, Engineering, and Medicine, 2004. Safety evaluation of permanent raised pavement markers. Washington, DC: The National Academies Press. doi: 10.17226/13724.",
+        "DOI": "10.17226/13724"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0240",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.conbuildmat.2023.134775",
+        "article-title": "Global sensitivity analysis for studying hot-mix asphalt dynamic modulus parameters",
+        "volume": "413",
+        "author": "Owais",
+        "year": "2024",
+        "journal-title": "Constr. Build. Mater."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ijtst.2026.01.005_b0245",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1061/(ASCE)TE.1943-5436.0000661",
+        "article-title": "Modeling retroreflectivity performance of thermoplastic pavement markings in Alabama",
+        "volume": "140",
+        "author": "Ozelim",
+        "year": "2014",
+        "journal-title": "J. Transp. Eng."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.3141/1824-14",
+        "article-title": "Evaluation of performance of permanent pavement markings",
+        "volume": "1824",
+        "author": "Parker",
+        "year": "2003",
+        "journal-title": "Transp. Res. Rec. J. Transp. Res. Board"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.3141/2015-10",
+        "article-title": "Evaluating the retroreflectivity of pavement marking materials under continuous wetting conditions",
+        "volume": "2015",
+        "author": "Pike",
+        "year": "2007",
+        "journal-title": "Transp. Res. Rec. J. Transp. Res. Board"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.3141/1794-06",
+        "article-title": "Development of a pavement marking management system: measurement of glass sphere loading in retroreflective pavement paints",
+        "volume": "1794",
+        "author": "Rich",
+        "year": "2002",
+        "journal-title": "Transp. Res. Rec. J. Transp. Res. Board"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ijtst.2026.01.005_b0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "360",
+        "DOI": "10.1177/1087724X12451441",
+        "article-title": "A methodology for estimating and comparing the lifecycles of high-build and conventional waterborne pavement markings on primary and secondary roads in south Carolina",
+        "volume": "18",
+        "author": "Robertson",
+        "year": "2013",
+        "journal-title": "Public Works Manag. Policy"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0270",
+        "series-title": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "first-page": "4510",
+        "article-title": "MobileNetV2: inverted residuals and linear bottlenecks",
+        "author": "Sandler",
+        "year": "2018"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.3141/2055-08",
+        "article-title": "Pavement marking retroreflectivity inspection data: a weibull analysis",
+        "volume": "2055",
+        "author": "Sathyanarayanan",
+        "year": "2008",
+        "journal-title": "Transp. Res. Rec. J. Transp. Res. Board"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ijtst.2026.01.005_b0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.3141/2056-03",
+        "article-title": "Pavement marking retroreflectivity: analysis of safety effectiveness",
+        "volume": "2056",
+        "author": "Smadi",
+        "year": "2008",
+        "journal-title": "Transp. Res. Rec. J. Transp. Res. Board"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0285",
+        "unstructured": "Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., Wojna, Z., 2015. Rethinking the inception architecture for computer vision. arXiv: 1512.00567. https://arxiv.org/abs/1512.00567."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0290",
+        "unstructured": "Tan, M., Le, Q.V., 2019. EfficientNet: rethinking model scaling for convolutional neural networks. arXiv: 1905.11946. https://arxiv.org/abs/1905.11946."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0295",
+        "unstructured": "Thomas, G.B., Schloz, C., Iowa State University. Center for Transportation Research and Education, 2001. Durable, cost-effective pavement markings phase I: synthesis of current research. (No. Iowa DOT Project TR-454). https://rosap.ntl.bts.gov/view/dot/23741/dot_23741_DS1.pdf."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0300",
+        "series-title": "Pavement Marking Handbook",
+        "author": "TxDOT",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "110227",
+        "DOI": "10.1109/ACCESS.2020.3001279",
+        "article-title": "Data-driven based tiny-YOLOv3 method for front vehicle detection inducing SPP-net",
+        "volume": "8",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0310",
+        "unstructured": "Wilson, B., Stearns, M. (Mary D.), Koopmann, J., Yang, C.Y.D., John A. Volpe National Transportation Systems Center (U.S.), Noblis, Inc., 2007. Evaluation of a Road-Departure Crash Warning System. (No. DOT HS 810 854). https://rosap.ntl.bts.gov/view/dot/9533."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0315",
+        "series-title": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "first-page": "5987",
+        "article-title": "Aggregated residual transformations for deep neural networks",
+        "author": "Xie",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0320",
+        "first-page": "69",
+        "article-title": "Integrating computer vision, web systems and embedded systems to develop an intelligent monitoring system for violating vehicles",
+        "volume": "2023",
+        "author": "Yass",
+        "year": "2023",
+        "journal-title": "Babylon. J. Internet Things"
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "78",
+        "DOI": "10.58496/BJML/2023/013",
+        "article-title": "A comprehensive review of deep learning and machine learning techniques for real-time car detection and wrong-way vehicle tracking",
+        "volume": "2023",
+        "author": "Yass",
+        "year": "2023",
+        "journal-title": "Babylon. J. Mach. Learn."
+      },
+      {
+        "key": "10.1016/j.ijtst.2026.01.005_b0330",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1109/TIM.2022.3153997",
+        "article-title": "A small-sized object detection oriented multi-scale feature fusion approach with application to defect detection",
+        "volume": "71",
+        "author": "Zeng",
+        "year": "2022",
+        "journal-title": "IEEE Trans. Instrum. Meas."
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.ijtst.2026.01.005_b0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "773",
+        "DOI": "10.1061/(ASCE)TE.1943-5436.0000142",
+        "article-title": "Impact of bead density on paint pavement marking retroreflectivity",
+        "volume": "136",
+        "author": "Zhang",
+        "year": "2010",
+        "journal-title": "J. Transp. Eng."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.ijtst.2026.01.005_b0340",
+        "doi-asserted-by": "crossref",
+        "first-page": "5976",
+        "DOI": "10.1109/TITS.2021.3070111",
+        "article-title": "Deep learning in lane marking detection: a survey",
+        "volume": "23",
+        "author": "Zhang",
+        "year": "2022",
+        "journal-title": "IEEE Trans. Intell. Transp. Syst."
+      }
+    ],
+    "container-title": [
+      "International Journal of Transportation Science and Technology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2046043026001103?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2046043026001103?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T23:05:45Z",
+      "timestamp": 1795734345000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2046043026001103"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8
+        ]
+      ]
+    },
+    "references-count": 68,
+    "alternative-id": [
+      "S2046043026001103"
+    ],
+    "URL": "https://doi.org/10.1016/j.ijtst.2026.01.005",
+    "relation": {},
+    "ISSN": [
+      "2046-0430"
+    ],
+    "issn-type": [
+      {
+        "value": "2046-0430",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Vision-based infrastructure monitoring: pavement marking visibility classification using deep neural networks",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "International Journal of Transportation Science and Technology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ijtst.2026.01.005",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 Tongji University and Tongji University Press. Publishing Services by Elsevier B.V. on behalf of KeAi Communications Co. Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

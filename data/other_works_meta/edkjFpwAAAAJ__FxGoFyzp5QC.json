@@ -1,0 +1,44 @@
+{
+  "scholar_id": "edkjFpwAAAAJ:_FxGoFyzp5QC",
+  "scholar_title": "Applying MambaAttention, TabPFN, and TabTransformers to Classify SAE Automation Levels in Crashes",
+  "found": true,
+  "fetched_at": "2026-11-27T06:35:34+00:00",
+  "source": "arxiv",
+  "title": "Applying MambaAttention, TabPFN, and TabTransformers to Classify SAE Automation Levels in Crashes",
+  "authors": [
+    {
+      "name": "Shriyank Somvanshi",
+      "orcid": null
+    },
+    {
+      "name": "Anannya Ghosh Tusti",
+      "orcid": null
+    },
+    {
+      "name": "Mahmuda Sultana Mimi",
+      "orcid": null
+    },
+    {
+      "name": "Md Monzurul Islam",
+      "orcid": null
+    },
+    {
+      "name": "Sazzad Bin Bashar Polock",
+      "orcid": null
+    },
+    {
+      "name": "Anandi Dutta",
+      "orcid": null
+    },
+    {
+      "name": "Subasish Das",
+      "orcid": null
+    }
+  ],
+  "date": "2025-05-22",
+  "doi": "10.48550/arxiv.2506.03160",
+  "url": "https://arxiv.org/abs/2506.03160",
+  "venue": "arXiv",
+  "type": "preprint",
+  "journal_ref": null
+}

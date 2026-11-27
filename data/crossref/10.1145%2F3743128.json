@@ -1,0 +1,988 @@
+{
+  "doi": "10.1145/3743128",
+  "fetched_at": "2026-11-27T05:57:11+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T13:48:55Z",
+      "timestamp": 1795700935876,
+      "version": "4.11.3"
+    },
+    "reference-count": 139,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "ACM Comput. Surv."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          31
+        ]
+      ]
+    },
+    "abstract": "<jats:p>This review study explores the theoretical foundations, evolution, applications, and future potential of Kolmogorov–Arnold Networks (KAN), a neural network model inspired by the Kolmogorov–Arnold representation theorem. KANs set themselves apart from traditional neural networks by employing learnable, spline-parameterized functions rather than fixed activation functions, allowing for flexible and interpretable representations of high-dimensional functions. The review explores Kan’s architectural strengths, including adaptive edge-based activation functions that enhance parameter efficiency and scalability across varied applications such as time series forecasting, computational biomedicine, and graph learning. Key advancements including Temporal-KAN (T-KAN), FastKAN, and Partial Differential Equation (PDE) KAN illustrate KAN’s growing applicability in dynamic environments, significantly improving interpretability, computational efficiency, and adaptability for complex function approximation tasks. Moreover, the article discusses KANs integration with other architectures, such as convolutional, recurrent, and transformer-based models, showcasing its versatility in complementing established neural networks for tasks that require hybrid approaches. Despite its strengths, KAN faces computational challenges in high-dimensional and noisy data settings, sparking continued research into optimization strategies, regularization techniques, and hybrid models. This article highlights KANs expanding role in modern neural architectures and outlines future directions to enhance its computational efficiency, interpretability, and scalability in data-intensive applications.</jats:p>",
+    "DOI": "10.1145/3743128",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2025-06-06T07:15:06Z",
+      "timestamp": 1749194106000
+    },
+    "page": "1-35",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 195,
+    "title": [
+      "A Survey on Kolmogorov-Arnold Network"
+    ],
+    "prefix": "10.1145",
+    "volume": "58",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-3723-0607",
+        "authenticated-orcid": false,
+        "given": "Shriyank",
+        "family": "Somvanshi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5866-035X",
+        "authenticated-orcid": false,
+        "given": "Syed Aaqib",
+        "family": "Javed",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-8481-2851",
+        "authenticated-orcid": false,
+        "given": "Diwas",
+        "family": "Pandit",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Civil Engineering, Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. N. Srinivasu N. Sandhya R. H. Jhaveri and R. Raut. 2022. From blackbox to explainable AI in healthcare: Existing tools and case studies. Mobile Information Systems 2022 1 (2022) 8167821.",
+        "DOI": "10.1155/2022/8167821"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "A. Oseni N. Moustafa G. Creech N. Sohrabi A. Strelzoff Z. Tari and I. Linkov. 2022. An explainable deep learning framework for resilient intrusion detection in IoT-enabled transportation networks. IEEE Transactions on Intelligent Transportation Systems 24 1 (2022) 1000–1014.",
+        "DOI": "10.1109/TITS.2022.3188671"
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "unstructured": "S. N. Cohen D. Snow and L. Szpruch. 2023. Black-box Model Risk in Finance. Cambridge University Press."
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Z. Chen L. Demetrio S. Gupta X. Feng Z. Xia A. E. Cinà M. Pintor L. Oneto A. Demontis B. Biggio et al. 2024. Over-parameterization and adversarial robustness in neural networks: An overview and empirical analysis. arXiv preprint arXiv:2406.10090.",
+        "DOI": "10.2139/ssrn.4869259"
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "unstructured": "F. He and D. Tao. 2020. Recent advances in deep learning theory. arXiv preprint arXiv:2012.10931."
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "A. Shrestha and A. Mahmood. 2019. Review of deep learning algorithms and architectures. IEEE Access 7 (2019) 53040–53065. 10.1109/ACCESS.2019.2912200",
+        "DOI": "10.1109/ACCESS.2019.2912200"
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "unstructured": "A. N. Kolmogorov. 1956. On the representation of continuous functions of several variables by superpositions of continuous functions of fewer variables. Doklady Akademii Nauk SSSR 108 2 (1956) 179–182."
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "unstructured": "Z. Liu Y. Wang S. Vaidya F. Ruehle J. Halverson M. Soljačić T. Y. Hou and M. Tegmark. 2024. KAN: Kolmogorov -Arnold networks. arXiv preprint arXiv:2404.19756."
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "unstructured": "P. Kidger J. Morrill J. Foster and T. Lyons. 2020. Neural controlled differential equations for irregular time series. In Advances in Neural Information Processing Systems 33 (2020) 6696–6707."
+      },
+      {
+        "key": "e_1_3_2_11_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. Unser. 1999. Splines: A perfect fit for signal and image processing. IEEE Signal Processing Magazine 16 6 (1999) 22–38.",
+        "DOI": "10.1109/79.799930"
+      },
+      {
+        "key": "e_1_3_2_12_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Johannes Schmidt-Hieber. 2021. The kolmogorov–arnold representation theorem revisited. Neural Networks 13 7 (2021) 119–126.",
+        "DOI": "10.1016/j.neunet.2021.01.020"
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yann LeCun Léon Bottou Yoshua Bengio and Patrick Haffner. 1998. Gradient-based learning applied to document recognition. Proceedings of the IEEE 86 11 (1998) 2278–2324.",
+        "DOI": "10.1109/5.726791"
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Y. Peng Y. Wang F. Hu M. He Z. Mao X. Huang and J. Ding. 2024. Predictive modeling of flexible EHD pumps using Kolmogorov -Arnold networks. Biomimetic Intelligence and Robotics 4 4 (2024) 100184.",
+        "DOI": "10.1016/j.birob.2024.100184"
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "unstructured": "S. S. Sidharth K. A. R. A. K. P. et al. 2024. Chebyshev polynomial-based Kolmogorov -Arnold networks: An efficient architecture for nonlinear function approximation. arXiv preprint arXiv:2405.07200."
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "unstructured": "M. E. Samadi Y. Müller and A. Schuppert. 2024. Smooth Kolmogorov -Arnold networks enabling structural knowledge representation. arXiv preprint arXiv:2405.11318."
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. J. Vaca-Rubio L. Blanco R. Pereira and M. Caus. 2024. Kolmogorov -Arnold networks (KANs) for time series analysis. arXiv preprint arXiv:2405.08790.",
+        "DOI": "10.1109/GCWkshp64532.2024.11100692"
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "unstructured": "Xingyi Yang and Xinchao Wang. 2024. Kolmogorov-arnold transformer. The Proceedings of the 13th International Conference on Learning Representations."
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yunhao Wang Shuai Ma Dahua Gao and Guangming Shi. 2024. Swin kansformer-based semantic communication systems for wireless image transmission. In Proceedings of the 2024 IEEE/CIC International Conference on Communications in China. pages 265–270.",
+        "DOI": "10.1109/ICCCWorkshops62562.2024.10693759"
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "unstructured": "Kaiming He Xiangyu Zhang Shaoqing Ren and Jian Sun. 2015. Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification. Proceedings of the IEEE International Conference on Computer Vision. pages 1026–1034."
+      },
+      {
+        "key": "e_1_3_2_21_2",
+        "unstructured": "Q. V. Le N. Jaitly and G. E. Hinton. 2015. A simple way to initialize recurrent networks of rectified linear units. arXiv preprint arXiv:1504.00941."
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "unstructured": "Xavier Glorot and Yoshua Bengio. 2010. Understanding the difficulty of training deep feedforward neural networks. Proceedings of the 13th International Conference on Artificial Intelligence and Statistics. pages 249–256."
+      },
+      {
+        "key": "e_1_3_2_23_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "G. Dudek and T. Rodak. 2025. HKAN: Hierarchical Kolmogorov -Arnold network without backpropagation. arXiv preprint arXiv:2501.18199.",
+        "DOI": "10.2139/ssrn.5192069"
+      },
+      {
+        "key": "e_1_3_2_24_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Z. Bozorgasl and H. Chen. 2024. Wav-KAN: Wavelet Kolmogorov -Arnold networks. arXiv preprint arXiv:2405.12832.",
+        "DOI": "10.2139/ssrn.4835325"
+      },
+      {
+        "key": "e_1_3_2_25_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. Genet and H. Inzirillo. 2024. TKAN: Temporal Kolmogorov -Arnold networks. arXiv preprint arXiv:2405.07344.",
+        "DOI": "10.2139/ssrn.4825654"
+      },
+      {
+        "key": "e_1_3_2_26_2",
+        "unstructured": "S. Yang L. Qin and X. Yu. 2024. Endowing interpretability for neural cognitive diagnosis by efficient Kolmogorov -Arnold networks. arXiv preprint arXiv:2405.14399."
+      },
+      {
+        "key": "e_1_3_2_27_2",
+        "unstructured": "Z. Li. 2024. Kolmogorov -Arnold networks are radial basis function networks. arXiv preprint arXiv:2405.06721."
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vivienne Sze Yu-Hsin Chen Tien-Ju Yang and Joel S. Emer. 2017. Efficient processing of deep neural networks: A tutorial and survey. Proceedings of the IEEE 105 12 (2017) 2295–2329.",
+        "DOI": "10.1109/JPROC.2017.2761740"
+      },
+      {
+        "key": "e_1_3_2_29_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. Tao Z. Wang H. Zhang T. N. Arvanitis and L. Zhang. 2025. DiffKAN-Inpainting: KAN-based diffusion model for brain tumor inpainting. In Proceedings of the 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI). IEEE 1–4.",
+        "DOI": "10.1109/ISBI60581.2025.10980990"
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "unstructured": "A. D. Bodner A. S. Tepsich J. N. Spolski and S. Pourteau. 2024. Convolutional Kolmogorov -Arnold networks. arXiv preprint arXiv:2406.13155."
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "A. Jamali S. K. Roy D. Hong B. Lu and P. Ghamisi. 2024. How to learn more? Exploring Kolmogorov -Arnold networks for hyperspectral image classification. Remote Sensing 16 21 (2024) 4015.",
+        "DOI": "10.3390/rs16214015"
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "unstructured": "M. Moradi S. Panahi E. Bollt and Y.-C. Lai. 2024. Kolmogorov -Arnold network autoencoders. arXiv preprint arXiv:2410.02077."
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H. Inzirillo and R. Genet. 2024. SigKAN: Signature-weighted Kolmogorov -Arnold networks for time series. arXiv preprint arXiv:2406.17890.",
+        "DOI": "10.2139/ssrn.5183808"
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "unstructured": "A. Pal and S. Nagarajaiah. 2024. KAN/MultKAN with physics-informed spline fitting (KAN-PISF) for ordinary/partial differential equation discovery of nonlinear dynamic systems. arXiv preprint arXiv:2411.11801."
+      },
+      {
+        "key": "e_1_3_2_35_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "X. Guo T. Dam R. Dhamdhere G. Modanwal and A. Madabhushi. 2025. UNetVL: Enhancing 3D medical image segmentation with Chebyshev KAN powered Vision-LSTM. arXiv preprint arXiv:2501.07017.",
+        "DOI": "10.1109/ISBI60581.2025.10980966"
+      },
+      {
+        "key": "e_1_3_2_36_2",
+        "unstructured": "Z. Ye X. Niu X. Wu W. Yi Y. Chang and L. Lu. 2025. Semi-KAN: KAN provides an effective representation for semi-supervised learning in medical image segmentation. arXiv preprint arXiv:2503.14983."
+      },
+      {
+        "key": "e_1_3_2_37_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "E. Zeydan C. J. Vaca-Rubio L. Blanco R. Pereira M. Caus and K. Dev. 2025. Fed-KAN: Federated learning with Kolmogorov–Arnold networks for traffic prediction. arXiv preprint arXiv:2503.00154.",
+        "DOI": "10.1109/CCNC54725.2025.10976205"
+      },
+      {
+        "key": "e_1_3_2_38_2",
+        "unstructured": "V. I. Arnold. 1959. On the representation of continuous functions of three variables by superpositions of continuous functions of two variables. Matematicheskii Sbornik (N.S.) 48 90 (1959) 3–74."
+      },
+      {
+        "key": "e_1_3_2_39_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Y. Wang J. Sun J. Bai C. Anitescu M. S. Eshaghi X. Zhuang T. Rabczuk and Y. Liu. 2024. Kolmogorov–Arnold informed neural network: A physics-informed deep learning framework for solving forward and inverse problems based on Kolmogorov–Arnold networks. arXiv preprint arXiv:2406.11045.",
+        "DOI": "10.2139/ssrn.4868150"
+      },
+      {
+        "key": "e_1_3_2_40_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Stanislav Selitskiy. 2022. Kolmogorov’s gate non-linearity as a step toward much smaller artificial neural networks. In Proceedings of the 24th International Conference on Enterprise Information Systems (ICEIS 2022) 1 (2022) 492–499.",
+        "DOI": "10.5220/0011060700003179"
+      },
+      {
+        "key": "e_1_3_2_41_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Federico Girosi and Tomaso Poggio. 1989. Representation properties of networks: Kolmogorov’s theorem is irrelevant. Neural Computation 1 4 (1989) 465–469.",
+        "DOI": "10.1162/neco.1989.1.4.465"
+      },
+      {
+        "key": "e_1_3_2_42_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hadrien Montanelli and Haizhao Yang. 2020. Error bounds for deep ReLU networks using the Kolmogorov–Arnold superposition theorem. Neural Networks 129 (2020) 1–6.",
+        "DOI": "10.1016/j.neunet.2019.12.013"
+      },
+      {
+        "key": "e_1_3_2_43_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ken-Ichi Funahashi. 1989. On the approximate realization of continuous mappings by neural networks. Neural networks 2 3 (1989) 183–192.",
+        "DOI": "10.1016/0893-6080(89)90003-8"
+      },
+      {
+        "key": "e_1_3_2_44_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yuan Gao Zehuan Hu Wei-An Chen Mingzhe Liu and Yingjun Ruan. 2025. A revolutionary neural network architecture with interpretability and flexibility based on Kolmogorov–Arnold for solar radiation and temperature forecasting. Applied Energy 378 (2025) 124844.",
+        "DOI": "10.1016/j.apenergy.2024.124844"
+      },
+      {
+        "key": "e_1_3_2_45_2",
+        "unstructured": "Josh Qixuan Sun. 2024. Evaluating kolmogorov–arnold networks for scientific discovery: A simple yet eEffective approach. OSF Preprint 2024."
+      },
+      {
+        "key": "e_1_3_2_46_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. X. H. Le T. D. Tran H. L. Pham V. T. D. Le T. H. Vu Y. Nakashima and others. 2024. Exploring the limitations of Kolmogorov–Arnold networks in classification: Insights to software training and hardware implementation. In Proceedings of the 2024 Twelfth International Symposium on Computing and Networking Workshops (CANDARW). IEEE 110–116.",
+        "DOI": "10.1109/CANDARW64572.2024.00026"
+      },
+      {
+        "key": "e_1_3_2_47_2",
+        "unstructured": "I. Drokin. 2024. Kolmogorov–Arnold convolutions: Design principles and empirical studies. arXiv preprint arXiv:2407.01092."
+      },
+      {
+        "key": "e_1_3_2_48_2",
+        "unstructured": "Z. Li. 2024. Kolmogorov–Arnold networks are radial basis function networks. arXiv preprint arXiv:2405.06721."
+      },
+      {
+        "key": "e_1_3_2_49_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Z. Bozorgasl and H. Chen. 2024. Wav-KAN: Wavelet Kolmogorov–Arnold networks. arXiv preprint arXiv:2405.12832.",
+        "DOI": "10.2139/ssrn.4835325"
+      },
+      {
+        "key": "e_1_3_2_50_2",
+        "unstructured": "J. D. Toscano T. Käufer Z. Wang M. Maxey C. Cierpka and G. E. Karniadakis. 2024. Inferring turbulent velocity and temperature fields and their statistics from Lagrangian velocity measurements using physics-informed Kolmogorov–Arnold networks. arXiv preprint arXiv:2407.15727."
+      },
+      {
+        "key": "e_1_3_2_51_2",
+        "unstructured": "H.-T. Ta D.-Q. Thai A. B. S. Rahman G. Sidorov and A. Gelbukh. 2024. FC-KAN: Function combinations in Kolmogorov–Arnold networks. arXiv preprint arXiv:2409.01763."
+      },
+      {
+        "key": "e_1_3_2_52_2",
+        "unstructured": "T. Alter R. Lapid and M. Sipper. 2024. On the robustness of Kolmogorov–Arnold networks: An adversarial perspective. arXiv preprint arXiv:2408.13809."
+      },
+      {
+        "key": "e_1_3_2_53_2",
+        "unstructured": "Y. Nagai and M. Okumura. 2024. Kolmogorov–Arnold networks in molecular dynamics. arXiv preprint arXiv:2407.17774."
+      },
+      {
+        "key": "e_1_3_2_54_2",
+        "unstructured": "J. Wang P. Cai Z. Wang H. Zhang and J. Huang. 2024. CEST-KAN: Kolmogorov–Arnold networks for CEST MRI data analysis. arXiv preprint arXiv:2406.16026."
+      },
+      {
+        "key": "e_1_3_2_55_2",
+        "unstructured": "H. Shen C. Zeng J. Wang and Q. Wang. 2024. Reduced effectiveness of Kolmogorov–Arnold networks on functions with noise. arXiv preprint arXiv:2407.14882."
+      },
+      {
+        "key": "e_1_3_2_56_2",
+        "unstructured": "R. Bresson G. Nikolentzos G. Panagopoulos M. Chatzianastasis J. Pang and M. Vazirgiannis. 2024. KAGNNs: Kolmogorov–Arnold networks meet graph learning. arXiv preprint arXiv:2406.18380."
+      },
+      {
+        "key": "e_1_3_2_57_2",
+        "unstructured": "G. De Carlo A. Mastropietro and A. Anagnostopoulos. 2024. Kolmogorov–Arnold graph neural networks. arXiv preprint arXiv:2406.18354."
+      },
+      {
+        "key": "e_1_3_2_58_2",
+        "unstructured": "S. M. Lundberg and S. Lee. 2017. A unified approach to interpreting model predictions. In Advances in Neural Information Processing Systems 30 (2017) 4765–4774."
+      },
+      {
+        "key": "e_1_3_2_59_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "M. T. Ribeiro S. Singh and C. Guestrin. 2016. “Why should I trust you?” Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 1135–1144.",
+        "DOI": "10.1145/2939672.2939778"
+      },
+      {
+        "key": "e_1_3_2_60_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "B. H. Kilani. 2024. Kolmogorov–arnold networks: Key developments and uses. Qeios. DOI:10.32388/7NNCAA",
+        "DOI": "10.32388/7NNCAA"
+      },
+      {
+        "key": "e_1_3_2_61_2",
+        "unstructured": "K. Xu L. Chen and S. Wang. 2024. Kolmogorov–Arnold networks for time series: Bridging predictive power and interpretability. arXiv preprint arXiv:2406.02496."
+      },
+      {
+        "key": "e_1_3_2_62_2",
+        "unstructured": "F. Zhang and X. Zhang. 2024. GraphKAN: Enhancing feature extraction with graph Kolmogorov–Arnold networks. arXiv preprint arXiv:2406.13597."
+      },
+      {
+        "key": "e_1_3_2_63_2",
+        "unstructured": "C. Coffman and L. Chen. 2025. MatrixKAN: Parallelized Kolmogorov–Arnold network. arXiv preprint arXiv:2502.07176."
+      },
+      {
+        "key": "e_1_3_2_64_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Y. Gao M. K. Ng and V. Y. F. Tan. 2025. Low tensor-rank adaptation of Kolmogorov–Arnold networks. arXiv preprint arXiv:2502.06153.",
+        "DOI": "10.1109/TSP.2025.3588910"
+      },
+      {
+        "key": "e_1_3_2_65_2",
+        "unstructured": "M. Kiamari M. Kiamari and B. Krishnamachari. 2024. GKAN: Graph Kolmogorov–Arnold networks. arXiv preprint arXiv:2406.06470."
+      },
+      {
+        "key": "e_1_3_2_66_2",
+        "unstructured": "A. A. Aghaei. 2024. RKAN: Rational Kolmogorov–Arnold networks. arXiv preprint arXiv:2406.14495."
+      },
+      {
+        "key": "e_1_3_2_67_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "K. Shukla J. D. Toscano Z. Wang Z. Zou and G. E. Karniadakis. 2024. A comprehensive and fair comparison between MLP and KAN representations for differential equations and operator networks. Computer Methods in Applied Mechanics and Engineering 431 (2024).",
+        "DOI": "10.1016/j.cma.2024.117290"
+      },
+      {
+        "key": "e_1_3_2_68_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "G. Nehma and M. Tiwari. 2024. Leveraging KANs for enhanced deep Koopman operator discovery. arXiv preprint arXiv:2406.02875.",
+        "DOI": "10.2139/ssrn.4905153"
+      },
+      {
+        "key": "e_1_3_2_69_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. Genet and H. Inzirillo. 2024. A temporal Kolmogorov-Arnold Transformer for time series forecasting. arXiv preprint arXiv:2407.20016.",
+        "DOI": "10.2139/ssrn.5176911"
+      },
+      {
+        "key": "e_1_3_2_70_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "L. F. Herbozo Contreras J. Cui L. Yu Z. Huang A. Nikpour and O. Kavehei. 2025. KAN–EEG: towards replacing backbone–MLP for an effective seizure detection system. Royal Society Open Science 12 3 (2025) 240999. 10.1098/rsos.240999",
+        "DOI": "10.1098/rsos.240999"
+      },
+      {
+        "key": "e_1_3_2_71_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "A. Kundu A. Sarkar and A. Sadhu. 2024. KANQAS: Kolmogorov-Arnold network for quantum architecture search. EPJ Quantum Technology 11 1 (2024) 76.",
+        "DOI": "10.1140/epjqt/s40507-024-00289-z"
+      },
+      {
+        "key": "e_1_3_2_72_2",
+        "unstructured": "M. Cheon. 2024. Kolmogorov-arnold network for satellite image classification in remote sensing. arXiv preprint arXiv:2406.00600."
+      },
+      {
+        "key": "e_1_3_2_73_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Li X. Liu W. Li C. Wang H. Liu Y. Liu Z. Chen and Y. Yuan. 2025. U-KAN makes strong backbone for medical image segmentation and generation. In Proceedings of the AAAI Conference on Artificial Intelligence 39 5 (2025) 4652–4660.",
+        "DOI": "10.1609/aaai.v39i5.32491"
+      },
+      {
+        "key": "e_1_3_2_74_2",
+        "unstructured": "J. Xu Z. Chen J. Li S. Yang W. Wang X. Hu and E. C.-H. Ngai. 2024. FourierKAN-GCF: Fourier kolmogorov-arnold network–An effective and efficient feature transformation for graph collaborative filtering. arXiv preprint arXiv:2406.01034."
+      },
+      {
+        "key": "e_1_3_2_75_2",
+        "unstructured": "A. A. Howard B. Jacob S. H. Murphy A. Heinlein and P. Stinis. 2024. Finite basis kolmogorov-arnold networks: domain decomposition for data-driven and physics-informed problems. arXiv preprint arXiv:2406.19662."
+      },
+      {
+        "key": "e_1_3_2_76_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H.-T. Ta. 2024. BSRBF-KAN: A combination of B-splines and radial basis functions in kolmogorov-arnold networks. In Proceedings of the International Symposium on Information and Communication Technology. Springer 3–15.",
+        "DOI": "10.1007/978-981-96-4288-5_1"
+      },
+      {
+        "key": "e_1_3_2_77_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Alireza Afzal Aghaei. 2025. fKAN: Fractional kolmogorov–arnold networks with trainable jacobi basis functions. Neurocomputing 623 (2025) 129414.",
+        "DOI": "10.1016/j.neucom.2025.129414"
+      },
+      {
+        "key": "e_1_3_2_78_2",
+        "unstructured": "Zhuoqin Yang Jiansong Zhang Xiaoling Luo Zheng Lu and Linlin Shen. 2024. Activation space selectable kolmogorov–arnold networks. arXiv preprint arXiv:2408.08338."
+      },
+      {
+        "key": "e_1_3_2_79_2",
+        "unstructured": "Minjong Cheon. 2024. Demonstrating the efficacy of kolmogorov–arnold networks in vision tasks. arXiv preprint arXiv:2406.14916."
+      },
+      {
+        "key": "e_1_3_2_80_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Md Meftahul Ferdaus Mahdi Abdelguerfi Elias Ioup David Dobson Kendall N. Niles Ken Pathak and Steven Sloan. 2024. KANICE: Kolmogorov -arnold networks with interactive convolutional elements. In Proceedings of the 4th International Conference on AI-ML Systems. 1–10.",
+        "DOI": "10.1145/3703412.3703427"
+      },
+      {
+        "key": "e_1_3_2_81_2",
+        "unstructured": "Taharim Rahman Anon and Jakaria Islam Emon. 2024. Detecting the undetectable: Combining kolmogorov–arnold networks and MLP for AI-Generated image detection. arXiv preprint arXiv:2408.09371."
+      },
+      {
+        "key": "e_1_3_2_82_2",
+        "unstructured": "Jiayi Zhang Yiming Zhang Yuan Zheng Yuchen Wang Jinjiang You Yuchen Xu Wenxing Jiang and Soumyabrata Dev. 2025. TrafficKAN-GCN: Graph convolutional-based kolmogorov–arnold network for traffic flow optimization. arXiv preprint arXiv:2503.03276."
+      },
+      {
+        "key": "e_1_3_2_83_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ioannis E. Livieris. 2024. C-kan: A new approach for integrating convolutional layers with kolmogorov–arnold networks for time-series forecasting. Mathematics 12 19 (2024) 3022.",
+        "DOI": "10.3390/math12193022"
+      },
+      {
+        "key": "e_1_3_2_84_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Décio Alves Fábio Mendonça Sheikh Shanawaz Mostafa and Fernando Morgado-Dias. 2024. On the use of kolmogorov–arnold networks for adapting wind numerical weather forecasts with explainability and interpretability: Application to madeira international airport. Environmental Research Communications 6 10 (2024) 105008.",
+        "DOI": "10.1088/2515-7620/ad810f"
+      },
+      {
+        "key": "e_1_3_2_85_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chang Dong Liangwei Zheng and Weitong Chen. 2024. Kolmogorov–arnold networks (KAN) for time series classification and robust analysis. In Proceedings of the International Conference on Advanced Data Mining and Applications. Springer 342–355.",
+        "DOI": "10.1007/978-981-96-0840-9_24"
+      },
+      {
+        "key": "e_1_3_2_86_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "János Hollósi Áron Ballagi Gábor Kovács Szabolcs Fischer and Viktor Nagy. 2024. Detection of bus driver mobile phone usage using kolmogorov-arnold networks. Computers 13 9 (2024) 218.",
+        "DOI": "10.3390/computers13090218"
+      },
+      {
+        "key": "e_1_3_2_87_2",
+        "unstructured": "Xinhe Li Zhuoying Feng Yezeng Chen Weichen Dai Zixu He Yi Zhou and Shuhong Jiao. 2024. Coeff-KANs: A paradigm to address the electrolyte field with KANs. arXiv preprint arXiv:2407.20265."
+      },
+      {
+        "key": "e_1_3_2_88_2",
+        "unstructured": "Shrenik Zinage Sudeepta Mondal and Soumalya Sarkar. 2024. DKL-KAN: Scalable deep kernel learning using kolmogorov–arnold networks. arXiv preprint arXiv:2407.21176."
+      },
+      {
+        "key": "e_1_3_2_89_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pawel Pratyush Callen Carrier Suresh Pokharel Hamid D. Ismail Meenal Chaudhari and Dukka B. KC. 2024. Calmphoskan: Prediction of general phosphorylation sites in proteins via fusion of codon aware embeddings with amino acid aware embeddings and wavelet-based kolmogorov arnold network. bioRxiv (2024) 2024–07.",
+        "DOI": "10.1101/2024.07.30.605530"
+      },
+      {
+        "key": "e_1_3_2_90_2",
+        "unstructured": "Mohammed Ghaith Altarabichi. 2024. DropKAN: Regularizing KANs by masking post-activations. arXiv preprint arXiv:2407.13044."
+      },
+      {
+        "key": "e_1_3_2_91_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Spyros Rigas Michalis Papachristou Theofilos Papadopoulos Fotios Anagnostopoulos and Georgios Alexandridis. 2024. Adaptive training of grid-dependent physics-informed kolmogorov–arnold networks. IEEE Access. IEEE.",
+        "DOI": "10.1109/ACCESS.2024.3504962"
+      },
+      {
+        "key": "e_1_3_2_92_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Engin Zeydan Cristian J. Vaca-Rubio Luis Blanco Roberto Pereira Marius Caus and Abdullah Aydeger. 2024. F-KANs: federated kolmogorov–arnold networks. arXiv preprint arXiv:2407.20100.",
+        "DOI": "10.1109/CCNC54725.2025.10976205"
+      },
+      {
+        "key": "e_1_3_2_93_2",
+        "unstructured": "Z. Liu P. Ma Y. Wang W.Matusik and M. Tegmark. 2024. KAN 2.0: Kolmogorov-arnold networks meet science. arXiv preprint arXiv:2408.10205."
+      },
+      {
+        "key": "e_1_3_2_94_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jeffrey L. Elman. Finding structure in time. Cognitive Science 14 2 (1990) 179–211.",
+        "DOI": "10.1016/0364-0213(90)90002-E"
+      },
+      {
+        "key": "e_1_3_2_95_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Alex Krizhevsky Ilya Sutskever and Geoffrey E. Hinton. 2017. ImageNet classification with deep convolutional neural networks. Communications of the ACM 60 6 (June 2017) 84–90. 10.1145/3065386",
+        "DOI": "10.1145/3065386"
+      },
+      {
+        "key": "e_1_3_2_96_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sepp Hochreiter and Jürgen Schmidhuber. 1997. Long short-term memory. Neural Computation 9 8 (1997) 1735–1780.",
+        "DOI": "10.1162/neco.1997.9.8.1735"
+      },
+      {
+        "key": "e_1_3_2_97_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "George Cybenko. 1989. Approximation by superpositions of a sigmoidal function. Mathematics of Control Signals and Systems 2 4 (1989) 303–314.",
+        "DOI": "10.1007/BF02551274"
+      },
+      {
+        "key": "e_1_3_2_98_2",
+        "unstructured": "Xavier Glorot Antoine Bordes and Yoshua Bengio. 2011. Deep sparse rectifier neural networks. Proceedings of the 14th International Conference on Artificial Intelligence and Statistics. 315–323."
+      },
+      {
+        "key": "e_1_3_2_99_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Benjamin C. Koenig Suyong Kim and Sili Deng. 2024. KAN-ODEs: Kolmogorov–Arnold network ordinary differential equations for learning dynamical systems and hidden physics. Computer Methods in Applied Mechanics and Engineering 432 (2024) 117397.",
+        "DOI": "10.1016/j.cma.2024.117397"
+      },
+      {
+        "key": "e_1_3_2_100_2",
+        "unstructured": "Ray Congrui Yu Sherry Wu and Jiang Gui. 2024. Residual kolmogorov–arnold network for enhanced deep learning. arXiv preprint arXiv:2410.05500."
+      },
+      {
+        "key": "e_1_3_2_101_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kaiming He Xiangyu Zhang Shaoqing Ren and Jian Sun. 2016. Deep residual learning for image recognition. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 770–778.",
+        "DOI": "10.1109/CVPR.2016.90"
+      },
+      {
+        "key": "e_1_3_2_102_2",
+        "unstructured": "Yonghui Wu Mike Schuster Zhifeng Chen Quoc V. Le Mohammad Norouzi Wolfgang Macherey Maxim Krikun Yuan Cao Qin Gao Klaus Macherey et al. 2016. Google’s neural machine translation system: Bridging the gap between human and machine translation. arXiv preprint arXiv:1609.08144."
+      },
+      {
+        "key": "e_1_3_2_103_2",
+        "unstructured": "Ilya O. Tolstikhin Neil Houlsby Alexander Kolesnikov Lucas Beyer Xiaohua Zhai Thomas Unterthiner Jessica Yung Andreas Steiner Daniel Keysers Jakob Uszkoreit et al. 2021. MLP-Mixer: An all-MLP architecture for vision. Advances in Neural Information Processing Systems 34 (2021) 24261–24272."
+      },
+      {
+        "key": "e_1_3_2_104_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mengxi Liu Sizhen Bian Bo Zhou and Paul Lukowicz. 2024. ikan: Global incremental learning with kan for human activity recognition across heterogeneous datasets. In Proceedings of the 2024 ACM International Symposium on Wearable Computers. 89–95.",
+        "DOI": "10.1145/3675095.3676618"
+      },
+      {
+        "key": "e_1_3_2_105_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Y. Chen Z. Zhu S. Zhu L. Qiu B. Zou F. Jia Y. Zhu C. Zhang Z. Fang F. Qin J. Fan C. Wang Y. Gao and G. Yu. 2024. SCKansformer: Fine-grained classification of bone marrow cells via kansformer backbone and hierarchical attention mechanisms. IEEE Journal of Biomedical and Health Informatics 29 (2024) 558–571. DOI:10.1109/JBHI.2024.3471928",
+        "DOI": "10.1109/JBHI.2024.3471928"
+      },
+      {
+        "key": "e_1_3_2_106_2",
+        "unstructured": "Zhijie Chen and Xinglin Zhang. 2024. Larctan-SKAN: Simple and efficient single-parameterized kolmogorov–arnold networks using learnable trigonometric function. arXiv preprint arXiv:2410.19360."
+      },
+      {
+        "key": "e_1_3_2_107_2",
+        "unstructured": "Xinke Xie Yang Lu Chong-Yung Chi Wei Chen Bo Ai and Dusit Niyato. 2024. Kansformer for scalable beamforming. arXiv preprint arXiv:2410.20690."
+      },
+      {
+        "key": "e_1_3_2_108_2",
+        "unstructured": "Pei Liu Nanfang Zheng Yiqun Li Junlan Chen and Ziyuan Pu. 2024. KANInfraDet3D: A road-side camera-LiDAR fusion 3D perception model based on nonlinear feature extraction and intrinsic correlation. arXiv preprint arXiv:2410.15814."
+      },
+      {
+        "key": "e_1_3_2_109_2",
+        "unstructured": "Zhijie Chen and Xinglin Zhang. 2024. LSS-SKAN: Efficient kolmogorov-arnold networks based on single-parameterized function. arXiv preprint arXiv:2410.14951."
+      },
+      {
+        "key": "e_1_3_2_110_2",
+        "unstructured": "SangJong Lee Jin-Kwang Kim JunHo Kim TaeHan Kim and James Lee. 2024. HIPPO-KAN: Efficient KAN model for time series analysis. arXiv preprint arXiv:2410.14939."
+      },
+      {
+        "key": "e_1_3_2_111_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Amanda A. Howard Bruno Jacob and Panos Stinis. 2024. Multifidelity kolmogorov-arnold networks. arXiv preprint arXiv:2410.14764.",
+        "DOI": "10.1088/2632-2153/adf702"
+      },
+      {
+        "key": "e_1_3_2_112_2",
+        "unstructured": "Longlong Li Yipeng Zhang Guanghui Wang and Kelin Xia. 2024. KA-GNN: Kolmogorov-arnold graph neural networks for molecular property prediction. arXiv preprint arXiv:2410.11323."
+      },
+      {
+        "key": "e_1_3_2_113_2",
+        "unstructured": "Farinaz Mostajeran and Salah A. Faroughi. 2024. EPI-CKANs: Elasto-plasticity informed kolmogorov-arnold networks using chebyshev polynomials. arXiv preprint arXiv:2410.10897."
+      },
+      {
+        "key": "e_1_3_2_114_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ali Kashefi. 2024. PointNet with KAN versus PointNet with MLP for 3D classification and segmentation of point sets. arXiv preprint arXiv:2410.10084.",
+        "DOI": "10.1016/j.cag.2025.104319"
+      },
+      {
+        "key": "e_1_3_2_115_2",
+        "unstructured": "Kunpeng Xu Lifei Chen and Shengrui Wang. 2024. Are KAN effective for identifying and tracking concept drift in time series? arXiv preprint arXiv:2410.10041."
+      },
+      {
+        "key": "e_1_3_2_116_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Md Abrar Jahin Md Akmol Masud MF Mridha Zeyar Aung and Nilanjan Dey. 2024. KACQ-DCNN: Uncertainty-aware interpretable Kolmogorov-Arnold classical-quantum dual-channel neural network for heart disease detection. arXiv preprint arXiv:2410.07446.",
+        "DOI": "10.1016/j.compbiomed.2025.110976"
+      },
+      {
+        "key": "e_1_3_2_117_2",
+        "unstructured": "Petr Ivashkov Po-Wei Huang Kelvin Koor Lirandë Pira and Patrick Rebentrost. 2024. QKAN: Quantum kolmogorov-arnold networks. arXiv preprint arXiv:2410.04435."
+      },
+      {
+        "key": "e_1_3_2_118_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Andreï Nikolaevich Kolmogorov. 1961. On the Representation of Continuous Functions of Several Variables by Superpositions of Continuous Functions of a Smaller Number of Variables. American Mathematical Society.",
+        "DOI": "10.1090/trans2/017/12"
+      },
+      {
+        "key": "e_1_3_2_119_2",
+        "unstructured": "Vladimir I. Arnold. 2009. On the representation of functions of several variables as a superposition of functions of a smaller number of variables. In Collected Works: Representations of Functions Celestial Mechanics and KAM Theory. 1957–1965."
+      },
+      {
+        "key": "e_1_3_2_120_2",
+        "unstructured": "Yuntian Hou Tianrui Ji and Di Zhang. 2024. A comprehensive survey on kolmogorov arnold networks (KAN). arXiv preprint arXiv:2407.11075."
+      },
+      {
+        "key": "e_1_3_2_121_2",
+        "unstructured": "Seyd Teymoor Seydi Zavareh Bozorgasl and Hao Chen. 2024. Unveiling the power of wavelets: A wavelet-based kolmogorov-arnold network for hyperspectral image classification. arXiv preprint arXiv:2406.07869."
+      },
+      {
+        "key": "e_1_3_2_122_2",
+        "unstructured": "Yanlin Wu Tao Li Zhihong Wang Hong Kang and Along He. 2024. TransUKAN: Computing-efficient hybrid KAN-transformer for enhanced medical image segmentation. arXiv preprint arXiv:2409.14676."
+      },
+      {
+        "key": "e_1_3_2_123_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shiyi Chen Chunlong He and Xingquan Li. 2024. Kansformer: An efficient network for CSI feedback in FDD massive MIMO system. Available at SSRN 5168783.",
+        "DOI": "10.2139/ssrn.5168783"
+      },
+      {
+        "key": "e_1_3_2_124_2",
+        "unstructured": "S. Shreyas and M. Akshath. 2025. ViKANformer: Embedding kolmogorov arnold networks in vision transformers for pattern-based learning. arXiv preprint arXiv:2503.01124."
+      },
+      {
+        "key": "e_1_3_2_125_2",
+        "unstructured": "T. N. Kipf and M. Welling. 2016. Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907."
+      },
+      {
+        "key": "e_1_3_2_126_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yann LeCun Bernhard Boser John S. Denker Donnie Henderson Richard E. Howard Wayne Hubbard and Lawrence D. Jackel. 1989. Backpropagation applied to handwritten zip code recognition. Neural computation 1 4 (1989) 541–551.",
+        "DOI": "10.1162/neco.1989.1.4.541"
+      },
+      {
+        "key": "e_1_3_2_127_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "John J. Hopfield. 1982. Neural networks and physical systems with emergent collective computational abilities. Proceedings of the National Academy of Sciences 79 8 (1982) 2554–2558.",
+        "DOI": "10.1073/pnas.79.8.2554"
+      },
+      {
+        "key": "e_1_3_2_128_2",
+        "unstructured": "Ashish Vaswani Noam Shazeer Niki Parmar Jakob Uszkoreit Llion Jones Aidan N. Gomez Łukasz Kaiser and Illia Polosukhin. 2017. Attention is all you need. In Advances in Neural Information Processing Systems (NeurIPS 2017) 30 (2017) 5998–6008."
+      },
+      {
+        "key": "e_1_3_2_129_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "David E. Rumelhart Geoffrey E. Hinton and Ronald J. Williams. 1986. Learning representations by back-propagating errors. Nature 323 6088 (1986) 533–536.",
+        "DOI": "10.1038/323533a0"
+      },
+      {
+        "key": "e_1_3_2_130_2",
+        "unstructured": "L. F. Guilhoto and P. Perdikaris. 2024. Deep learning alternatives of the Kolmogorov superposition theorem. arXiv preprint arXiv:2410.01990."
+      },
+      {
+        "key": "e_1_3_2_131_2",
+        "unstructured": "M. M. Hassan. 2024. Bayesian Kolmogorov Arnold Networks (Bayesian_KANs): A probabilistic approach to enhance accuracy and interpretability. arXiv preprint arXiv:2408.02706."
+      },
+      {
+        "key": "e_1_3_2_132_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "W. Knottenbelt Z. Gao R. Wray W. Z. Zhang J. Liu and M. Crispin-Ortuzar. 2024. CoxKAN: Kolmogorov-arnold networks for interpretable high-performance survival analysis. arXiv preprint arXiv:2409.04290.",
+        "DOI": "10.1093/bioinformatics/btaf413"
+      },
+      {
+        "key": "e_1_3_2_133_2",
+        "unstructured": "X. Zhang and H. Zhou. 2024. Generalization bounds and model complexity for Kolmogorov-Arnold Networks. arXiv preprint arXiv:2410.08026."
+      },
+      {
+        "key": "e_1_3_2_134_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "H. Shuai and F. Li. 2025. Physics-informed kolmogorov-arnold networks for power system dynamics. IEEE Open Access Journal of Power and Energy.",
+        "DOI": "10.1109/OAJPE.2025.3529928"
+      },
+      {
+        "key": "e_1_3_2_135_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Boris A. Galitsky. 2024. Kolmogorov-arnold network for word-level explainable meaning representation.",
+        "DOI": "10.20944/preprints202405.1981.v1"
+      },
+      {
+        "key": "e_1_3_2_136_2",
+        "unstructured": "S. Shen and R. Younes. 2024. Reimagining linear probing: Kolmogorov-arnold networks in transfer learning. arXiv preprint arXiv:2409.07763."
+      },
+      {
+        "key": "e_1_3_2_137_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "M. H. Sulaiman Z. Mustaffa A. I. Mohamed A. S. Samsudin and M. I. M. Rashid. 2024. Battery state of charge estimation for electric vehicle using kolmogorov-arnold networks. Energy 311 (2024) 133417. 10.1016/j.energy.2024.133417",
+        "DOI": "10.1016/j.energy.2024.133417"
+      },
+      {
+        "key": "e_1_3_2_138_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mohd Herwan Sulaiman Zuriani Mustaffa Muhammad Salihin Saealal Mohd Mawardi Saari and Abu Zaharin Ahmad. 2024. Utilizing the Kolmogorov–Arnold Networks for chiller energy consumption prediction in commercial building. Journal of Building Engineering 96 (2024) 110475.",
+        "DOI": "10.1016/j.jobe.2024.110475"
+      },
+      {
+        "key": "e_1_3_2_139_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. Yu J. Qiu J. Yang and I. Oseledets. 2024. Sinc kolmogorov-arnold network and Iits applications on physics-informed neural networks. arXiv preprint arXiv:2410.04096.",
+        "DOI": "10.2139/ssrn.5369489"
+      },
+      {
+        "key": "e_1_3_2_140_2",
+        "unstructured": "M. Poluektov and A. Polar. 2023. Construction of the kolmogorov-arnold representation using the newton-kaczmarz method. arXiv preprint arXiv:2305.08194."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3743128",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2025-09-10T13:12:46Z",
+      "timestamp": 1757509966000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3743128"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          10
+        ]
+      ]
+    },
+    "references-count": 139,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            31
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1145/3743128"
+    ],
+    "URL": "https://doi.org/10.1145/3743128",
+    "relation": {},
+    "ISSN": [
+      "0360-0300",
+      "1557-7341"
+    ],
+    "issn-type": [
+      {
+        "value": "0360-0300",
+        "type": "print"
+      },
+      {
+        "value": "1557-7341",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-11-16",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-05-31",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-09-10",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

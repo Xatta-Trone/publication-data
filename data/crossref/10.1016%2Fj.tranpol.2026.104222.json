@@ -1,0 +1,1176 @@
+{
+  "doi": "10.1016/j.tranpol.2026.104222",
+  "fetched_at": "2026-11-27T05:57:09+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ],
+      "date-time": "2026-10-20T06:52:29Z",
+      "timestamp": 1792479149056,
+      "version": "4.5.0"
+    },
+    "reference-count": 97,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2026-09-01T00:00:00Z",
+          "timestamp": 1788220800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2026-09-01T00:00:00Z",
+          "timestamp": 1788220800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2026-09-01T00:00:00Z",
+          "timestamp": 1788220800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2026-09-01T00:00:00Z",
+          "timestamp": 1788220800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2026-09-01T00:00:00Z",
+          "timestamp": 1788220800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2026-09-01T00:00:00Z",
+          "timestamp": 1788220800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2026-09-01T00:00:00Z",
+          "timestamp": 1788220800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Transport Policy"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.tranpol.2026.104222",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          25
+        ]
+      ],
+      "date-time": "2026-05-25T23:15:56Z",
+      "timestamp": 1779750956000
+    },
+    "page": "104222",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "C",
+    "title": [
+      "Classifying crash severity by SAE automation level using transformer models: Insights for automated vehicle policy"
+    ],
+    "prefix": "10.1016",
+    "volume": "185",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0007-8534-3633",
+        "authenticated-orcid": false,
+        "given": "Mahmuda Sultana",
+        "family": "Mimi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Swastika",
+        "family": "Barua",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tausif Islam",
+        "family": "Chowdhury",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anannya",
+        "family": "GhoshTusti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-0124-4814",
+        "authenticated-orcid": false,
+        "given": "Gaurab",
+        "family": "Chhetri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "4931",
+        "DOI": "10.1038/s41467-024-48526-4",
+        "article-title": "A matched case-control analysis of autonomous vs human-driven vehicle accidents",
+        "volume": "15",
+        "author": "Abdel-Aty",
+        "year": "2024",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib3",
+        "series-title": "Innovations in Artificial Intelligence and Human-Computer Interaction in the Digital Era, Intelligent Data-Centric Systems",
+        "first-page": "95",
+        "article-title": "Chapter 5 - human-centered artificial intelligence",
+        "author": "Aizaz",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib4",
+        "author": "Alambeigi"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib5",
+        "series-title": "Statement of the Alliance for Automotive Innovation on Automated Vehicle Technologies",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.1007/s40273-018-0642-5",
+        "article-title": "A systematic review of studies comparing the measurement properties of the three-level and five-level versions of the EQ-5D",
+        "volume": "36",
+        "author": "Buchholz",
+        "year": "2018",
+        "journal-title": "Pharmacoeconomics"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib7",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.trc.2021.103499",
+        "article-title": "Do autonomous vehicles drive like humans? A turing approach and an application to SAE automation Level 2 cars",
+        "volume": "134",
+        "author": "Cascetta",
+        "year": "2022",
+        "journal-title": "Transport. Res. C Emerg. Technol."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib8",
+        "author": "Chen"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib9",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.trc.2025.105299",
+        "article-title": "Multiscale geographical random forest: a novel spatial ML approach for traffic safety modeling integrating street-view semantic visual features",
+        "volume": "179",
+        "author": "Cui",
+        "year": "2025",
+        "journal-title": "Transport. Res. C Emerg. Technol."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib10",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ress.2026.112321",
+        "article-title": "Harnessing the integrated statistical machine learning for traffic crash injury-severity modeling",
+        "volume": "273",
+        "author": "Cui",
+        "year": "2026",
+        "journal-title": "Reliab. Eng. Syst. Saf."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "599",
+        "DOI": "10.1177/03611981231155187",
+        "article-title": "Classifying pedestrian maneuver types using the advanced Language model",
+        "volume": "2677",
+        "author": "Das",
+        "year": "2023",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib12",
+        "author": "Devlin"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib13",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107692",
+        "article-title": "Exploratory analysis of injury severity under different levels of driving automation (SAE levels 2 and 4) using multi-source data",
+        "volume": "206",
+        "author": "Ding",
+        "year": "2024",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib14",
+        "unstructured": "Dolan, W.B., Brockett, C., n.d. Automatically Constructing a Corpus of Sentential Paraphrases."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1177/0018720816681350",
+        "article-title": "From Here to autonomy: lessons learned from human–automation research",
+        "volume": "59",
+        "author": "Endsley",
+        "year": "2017",
+        "journal-title": "Hum. Factors"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "689",
+        "DOI": "10.1177/0018720816685832",
+        "article-title": "Takeover time in highly automated vehicles: noncritical transitions to and from manual control",
+        "volume": "59",
+        "author": "Eriksson",
+        "year": "2017",
+        "journal-title": "Hum. Factors"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "825",
+        "DOI": "10.1038/s41597-024-03661-x",
+        "article-title": "A dataset of synthetic art dialogues with ChatGPT",
+        "volume": "11",
+        "author": "Gil-Martín",
+        "year": "2024",
+        "journal-title": "Sci. Data"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1938",
+        "DOI": "10.1177/1541931213571433",
+        "article-title": "“Take over!” how long does it take to get the driver back into the loop?",
+        "volume": "57",
+        "author": "Gold",
+        "year": "2013",
+        "journal-title": "Proc. Hum. Factors Ergon. Soc. Annu. Meet."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib19",
+        "series-title": "2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC). Presented at the 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC)",
+        "first-page": "873",
+        "article-title": "Drowsiness in Conditional Automation: proneness, diagnosis and driving performance effects",
+        "author": "Gonçalves",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1007/s13177-024-00448-7",
+        "article-title": "Enhancing traffic incident management with large Language models: a hybrid machine learning approach for severity classification",
+        "volume": "23",
+        "author": "Grigorev",
+        "year": "2025",
+        "journal-title": "Int. J. ITS Res."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1038",
+        "DOI": "10.1016/j.ijtst.2022.12.002",
+        "article-title": "Application of text mining techniques to identify actual wrong-way driving (WWD) crashes in police reports",
+        "volume": "12",
+        "author": "Hosseini",
+        "year": "2023",
+        "journal-title": "Int. J. Transp. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1016/j.trf.2022.06.008",
+        "article-title": "Use of Level 1 and 2 driving automation on horizontal curves on interstates and freeways",
+        "volume": "89",
+        "author": "Hu",
+        "year": "2022",
+        "journal-title": "Transport. Res. F Traffic Psychol. Behav."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib23",
+        "series-title": "2024 IEEE 3rd International Conference on Computing and Machine Intelligence (ICMI). Presented at the 2024 IEEE 3rd International Conference on Computing and Machine Intelligence (ICMI)",
+        "first-page": "1",
+        "article-title": "Explainable Language models for the identification of factors influencing crash severity levels in imbalanced datasets",
+        "author": "Jaradat",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.12688/openreseurope.16036.1",
+        "article-title": "Towards the definition of metrics for the assessment of operational design domains",
+        "volume": "3",
+        "author": "Kaiser",
+        "year": "2023",
+        "journal-title": "Open Res Eur"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1016/j.tra.2016.09.010",
+        "article-title": "Driving to safety: how many miles of driving would it take to demonstrate autonomous vehicle reliability?",
+        "volume": "94",
+        "author": "Kalra",
+        "year": "2016",
+        "journal-title": "Transport. Res. Pol. Pract."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "7485",
+        "DOI": "10.1109/TITS.2020.3003527",
+        "article-title": "Exploratory investigation of disengagements and crashes in autonomous vehicles under mixed traffic: an endogenous switching regime framework",
+        "volume": "22",
+        "author": "Khattak",
+        "year": "2021",
+        "journal-title": "IEEE Trans. Intell. Transport. Syst."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib27",
+        "author": "Kingma"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1177/0361198119845885",
+        "article-title": "Platoon of SAE Level-2 automated vehicles on public roads: setup, traffic interactions, and stability",
+        "volume": "2673",
+        "author": "Knoop",
+        "year": "2019",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "631",
+        "DOI": "10.1177/03611981231169273",
+        "article-title": "Developing economic loss-based thresholds for improving context-specific crash prediction models",
+        "volume": "2677",
+        "author": "Koloushani",
+        "year": "2023",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib30",
+        "first-page": "90",
+        "article-title": "Autonomous vehicle safety: an interdisciplinary challenge",
+        "volume": "9",
+        "author": "Koopman",
+        "year": "2017",
+        "journal-title": "IEEE Intell. Transp. Syst. Mag."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib31",
+        "first-page": "2403",
+        "article-title": "Vigilance decrement and passive fatigue caused by monotony in automated driving",
+        "volume": "3",
+        "author": "Körber",
+        "year": "2015",
+        "journal-title": "Procedia Manufacturing, 6th International Conference on Applied Human Factors and Ergonomics (AHFE 2015) and the Affiliated Conferences, AHFE 2015"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.trf.2016.03.002",
+        "article-title": "The influence of age on the take-over of vehicle control in highly automated driving",
+        "volume": "39",
+        "author": "Körber",
+        "year": "2016",
+        "journal-title": "Transport. Res. F Traffic Psychol. Behav."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib34",
+        "author": "Kumar"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib33",
+        "author": "Kumar"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib35",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2021.106473",
+        "article-title": "Mining patterns of autonomous vehicle crashes involving vulnerable road users to understand the associated factors",
+        "volume": "165",
+        "author": "Kutela",
+        "year": "2022",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib36",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2020.105899",
+        "article-title": "Discovering latent themes in traffic fatal crash narratives using text mining analytics and network topology",
+        "volume": "150",
+        "author": "Kwayu",
+        "year": "2021",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.1080/1463922X.2017.1293187",
+        "article-title": "A human factors perspective on automated driving",
+        "volume": "20",
+        "author": "Kyriakidis",
+        "year": "2019",
+        "journal-title": "Theor. Issues Ergon. Sci."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib38",
+        "series-title": "Text Summarization Branches out",
+        "first-page": "74",
+        "article-title": "Rouge: a package for automatic evaluation of summaries",
+        "author": "Lin",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib41",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107492",
+        "article-title": "What can we learn from the AV crashes? – an association rule analysis for identifying the contributing risky factors",
+        "volume": "199",
+        "author": "Liu",
+        "year": "2024",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib40",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2021.106281",
+        "article-title": "Crash comparison of autonomous and conventional vehicles using pre-crash scenario typology",
+        "volume": "159",
+        "author": "Liu",
+        "year": "2021",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib39",
+        "author": "Liu"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib42",
+        "author": "Lorenzoni"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib43",
+        "author": "Maddigan"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib44",
+        "series-title": "Human Factors Evaluation of Level 2 and Level 3 Automated Driving Concepts: Concepts of Operation (No. DOT HS 812 044)",
+        "author": "Marinik",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib45",
+        "author": "Meng"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "310",
+        "DOI": "10.1016/j.jsr.2020.10.005",
+        "article-title": "What humanlike errors do autonomous vehicles need to avoid to maximize safety?",
+        "volume": "75",
+        "author": "Mueller",
+        "year": "2020",
+        "journal-title": "J. Saf. Res."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib47",
+        "series-title": "Federal Automated Vehicles Policy: Accelerating the next Revolution in Roadway Safety. Washington, D.C",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib48",
+        "series-title": "Automated Driving Systems: a Vision for Safety (2.0)",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib49",
+        "series-title": "Framework for Automated Driving System Safety",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib50",
+        "series-title": "Standing General Order 2021-01: Incident Reporting for Automated Driving Systems and Level 2 ADAS",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib51",
+        "series-title": "ADS-Equipped Vehicle Safety, Transparency, and Evaluation Program (AV STEP)",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib53",
+        "series-title": "Model Minimum Uniform Crash Criteria (MMUCC) Guideline",
+        "year": "2025"
+      },
+      {
+        "issue": "148",
+        "key": "10.1016/j.tranpol.2026.104222_bib54",
+        "article-title": "Driver Monitoring System (DMS) in SAE L2 driver support systems: notice and request for comment",
+        "volume": "90",
+        "year": "2025",
+        "journal-title": "Fed. Regist."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib56",
+        "article-title": "Automating pedestrian crash typology using transformer models",
+        "author": "Oliaee",
+        "year": "2024",
+        "journal-title": "Transportation Research Record 03611981241260691"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib55",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.nlp.2023.100007",
+        "article-title": "Using Bidirectional Encoder Representations from Transformers (BERT) to classify traffic crash severity types",
+        "volume": "3",
+        "author": "Oliaee",
+        "year": "2023",
+        "journal-title": "Natural Language Processing Journal"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib57",
+        "series-title": "Proceedings of the 40th Annual Meeting on Association for Computational Linguistics, ACL ’02",
+        "first-page": "311",
+        "article-title": "BLEU: a method for automatic evaluation of machine translation",
+        "author": "Papineni",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "931",
+        "DOI": "10.1080/001401300409125",
+        "article-title": "Designing automation for human use: empirical studies and quantitative models",
+        "volume": "43",
+        "author": "Parasuraman",
+        "year": "2000",
+        "journal-title": "Ergonomics"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1109/3468.844354",
+        "article-title": "A model for types and levels of human interaction with automation",
+        "volume": "30",
+        "author": "Parasuraman",
+        "year": "2000",
+        "journal-title": "IEEE Trans. Syst. Man Cybern. Syst. Hum."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "1671",
+        "DOI": "10.1177/21695067231195913",
+        "article-title": "Do researchers use the levels of automation appropriately? How automation is discussed in research",
+        "volume": "67",
+        "author": "Parker",
+        "year": "2023",
+        "journal-title": "Proc. Hum. Factors Ergon. Soc. Annu. Meet."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib61",
+        "series-title": "Presented at the Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)",
+        "first-page": "2227",
+        "article-title": "Deep contextualized word representations",
+        "author": "Peters",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib62",
+        "first-page": "161",
+        "volume": "45",
+        "author": "Petrović",
+        "year": "2020",
+        "journal-title": "TIS Roma 2019 Conference Proceedings"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib63",
+        "article-title": "Resolving class imbalance in object detection with weighted cross",
+        "author": "Phan",
+        "year": "2020",
+        "journal-title": "Entropy Losses"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib64",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/j.jsr.2024.11.014",
+        "article-title": "Latent class analysis of autonomous vehicle crashes",
+        "volume": "92",
+        "author": "Qiao",
+        "year": "2025",
+        "journal-title": "J. Saf. Res."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib65",
+        "unstructured": "Radford, A., Narasimhan, K., Salimans, T., Sutskever, I., n.d. Improving Language Understanding by Generative Pre-training."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib66",
+        "series-title": "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. Presented at the Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing",
+        "first-page": "2383",
+        "article-title": "SQuAD: 100,000+ questions for machine comprehension of text",
+        "author": "Rajpurkar",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib67",
+        "series-title": "Sentence-Bert: Sentence Embeddings Using Siamese bert-networks",
+        "author": "Reimers",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib68",
+        "doi-asserted-by": "crossref",
+        "first-page": "302",
+        "DOI": "10.1177/15553434241227534",
+        "article-title": "Failures in driving automation systems: definitions, taxonomy, and prevention mechanisms",
+        "volume": "18",
+        "author": "Roberts",
+        "year": "2024",
+        "journal-title": "J. Cogn. Eng. Decis. Mak."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib69",
+        "series-title": "Safety-Relevant Guidance for On-Road Testing of SAE Level 3, 4, and 5 Prototype Automated Driving System (ADS)-operated Vehicles",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib70",
+        "series-title": "Ontology and Lexicon for Automated Driving System (ADS)-Operated Vehicle Behaviors and Maneuvers in Routine/Normal Operating Scenarios",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib72",
+        "article-title": "DistilBERT, a distilled version of BERT: smaller, faster",
+        "author": "Sanh",
+        "year": "2019",
+        "journal-title": "cheaper and lighter"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib73",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1016/j.trf.2025.03.007",
+        "article-title": "Identifying driving profiles after take over request in automated vehicles at SAE levels 2 and 3",
+        "volume": "111",
+        "author": "Sekadakis",
+        "year": "2025",
+        "journal-title": "Transport. Res. F Traffic Psychol. Behav."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib74",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fnhum.2023.1292010",
+        "article-title": "Improving sentiment classification using a RoBERTa-based hybrid model",
+        "volume": "17",
+        "author": "Semary",
+        "year": "2023",
+        "journal-title": "Front. Hum. Neurosci."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib75",
+        "doi-asserted-by": "crossref",
+        "first-page": "955",
+        "DOI": "10.1109/OJITS.2023.3335817",
+        "article-title": "Text classification modeling approach on imbalanced-unstructured traffic accident descriptions data",
+        "volume": "4",
+        "author": "Seo",
+        "year": "2023",
+        "journal-title": "IEEE Open Journal of Intelligent Transportation Systems"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib76",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.17762/ijritcc.v11i8.7957",
+        "article-title": "The DistilBERT model: a promising approach to improve machine reading comprehension models",
+        "volume": "11",
+        "author": "Shahapure",
+        "year": "2023",
+        "journal-title": "IJRITCC"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib77",
+        "doi-asserted-by": "crossref",
+        "first-page": "8184",
+        "DOI": "10.3390/s22218184",
+        "article-title": "Towards transfer learning Techniques—Bert, DistilBERT, BERTimbau, and DistilBERTimbau for automatic text classification from different languages: a case Study",
+        "volume": "22",
+        "author": "Silva Barbon",
+        "year": "2022",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib78",
+        "series-title": "2017 IEEE Winter Conference on Applications of Computer Vision (WACV). Presented at the 2017 IEEE Winter Conference on Applications of Computer Vision (WACV)",
+        "first-page": "464",
+        "article-title": "Cyclical learning rates for training neural networks",
+        "author": "Smith",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib79",
+        "author": "Sun"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib80",
+        "doi-asserted-by": "crossref",
+        "first-page": "1605",
+        "DOI": "10.1177/03611981221108984",
+        "article-title": "Safety effectiveness of autonomous vehicles and connected autonomous vehicles in reducing pedestrian crashes",
+        "volume": "2677",
+        "author": "Susilawati",
+        "year": "2023",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib81",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/j.jsr.2019.11.005",
+        "article-title": "What's in a name? Drivers' perceptions of the use of five SAE Level 2 driving automation systems",
+        "volume": "72",
+        "author": "Teoh",
+        "year": "2020",
+        "journal-title": "J. Saf. Res."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib1",
+        "series-title": "Infrastructure Investment and Jobs Act",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib82",
+        "first-page": "1837",
+        "article-title": "Ontology of autonomous driving based on the SAE J3016 standard",
+        "volume": "15",
+        "author": "Trypuz",
+        "year": "2024",
+        "journal-title": "Semant. Web"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib84",
+        "author": "Vaswani"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib86",
+        "author": "Wang"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib85",
+        "doi-asserted-by": "crossref",
+        "first-page": "2847",
+        "DOI": "10.1109/ACCESS.2019.2962554",
+        "article-title": "Multi-sensor fusion in automated driving: a survey",
+        "volume": "8",
+        "author": "Wang",
+        "year": "2019",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib87",
+        "author": "Warg"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib88",
+        "author": "Warstadt"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib89",
+        "doi-asserted-by": "crossref",
+        "first-page": "2881",
+        "DOI": "10.4271/2020-01-1206",
+        "article-title": "Driving safety performance assessment metrics for ads-equipped vehicles",
+        "volume": "2",
+        "author": "Wishart",
+        "year": "2020",
+        "journal-title": "SAE International Journal of Advances and Current Practices in Mobility"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib90",
+        "first-page": "429",
+        "article-title": "Utilizing large Language models to generate synthetic data to increase the performance of BERT-Based neural networks",
+        "volume": "2024",
+        "author": "Woolsey",
+        "year": "2024",
+        "journal-title": "AMIA Jt Summits Transl Sci Proc"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib91",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1016/j.jsr.2019.09.001",
+        "article-title": "Statistical analysis of the patterns and characteristics of connected and autonomous vehicle involved crashes",
+        "volume": "71",
+        "author": "Xu",
+        "year": "2019",
+        "journal-title": "J. Saf. Res."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib92",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.tbs.2024.100981",
+        "article-title": "Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling",
+        "volume": "39",
+        "author": "Xu",
+        "year": "2025",
+        "journal-title": "Travel Behaviour and Society"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib93",
+        "doi-asserted-by": "crossref",
+        "first-page": "459",
+        "DOI": "10.1016/j.iatssr.2021.11.002",
+        "article-title": "To fully automate or not? Investigating demands and willingness to pay for autonomous vehicles based on automation levels",
+        "volume": "45",
+        "author": "Yoo",
+        "year": "2021",
+        "journal-title": "IATSS Res."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib94",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1080/00140130600980789",
+        "article-title": "Back to the future: brake reaction times for manual and automated vehicles",
+        "volume": "50",
+        "author": "Young",
+        "year": "2007",
+        "journal-title": "Ergonomics"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib95",
+        "doi-asserted-by": "crossref",
+        "first-page": "58443",
+        "DOI": "10.1109/ACCESS.2020.2983149",
+        "article-title": "A survey of autonomous driving: common practices and emerging technologies",
+        "volume": "8",
+        "author": "Yurtsever",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib96",
+        "series-title": "2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC). Presented at the 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+        "first-page": "2631",
+        "article-title": "On the instrumentation and classification of autonomous cars",
+        "author": "Zanchin",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib97",
+        "author": "Zhang"
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib98",
+        "doi-asserted-by": "crossref",
+        "first-page": "1338",
+        "DOI": "10.1080/19439962.2019.1597795",
+        "article-title": "Identifying secondary crashes using text mining techniques",
+        "volume": "12",
+        "author": "Zhang",
+        "year": "2020",
+        "journal-title": "J. Transport. Saf. Secur."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib99",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107697",
+        "article-title": "Exploring spatial heterogeneity in factors associated with injury severity in speeding-related crashes: an integrated machine learning and spatial modeling approach",
+        "volume": "206",
+        "author": "Zhang",
+        "year": "2024",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.tranpol.2026.104222_bib100",
+        "article-title": "Crash-causing information extraction via text-mining techniques: implementation of the Chinese state-related crash narratives",
+        "volume": "6",
+        "author": "Zou",
+        "year": "2024",
+        "journal-title": "transp saf environ"
+      }
+    ],
+    "container-title": [
+      "Transport Policy"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0967070X26002325?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0967070X26002325?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          7
+        ]
+      ],
+      "date-time": "2026-06-07T14:34:55Z",
+      "timestamp": 1780842895000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0967070X26002325"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9
+        ]
+      ]
+    },
+    "references-count": 97,
+    "alternative-id": [
+      "S0967070X26002325"
+    ],
+    "URL": "https://doi.org/10.1016/j.tranpol.2026.104222",
+    "relation": {},
+    "ISSN": [
+      "0967-070X"
+    ],
+    "issn-type": [
+      {
+        "value": "0967-070X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Classifying crash severity by SAE automation level using transformer models: Insights for automated vehicle policy",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Transport Policy",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.tranpol.2026.104222",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "104222"
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "doi": "10.1016/j.aap.2025.108048",
+  "fetched_at": "2026-11-27T05:57:07+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          18
+        ]
+      ],
+      "date-time": "2026-11-18T14:57:59Z",
+      "timestamp": 1795013879836,
+      "version": "4.9.1"
+    },
+    "reference-count": 36,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2025-07-01T00:00:00Z",
+          "timestamp": 1751328000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2025-07-01T00:00:00Z",
+          "timestamp": 1751328000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2025-07-01T00:00:00Z",
+          "timestamp": 1751328000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2025-07-01T00:00:00Z",
+          "timestamp": 1751328000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2025-07-01T00:00:00Z",
+          "timestamp": 1751328000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2025-07-01T00:00:00Z",
+          "timestamp": 1751328000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2025-07-01T00:00:00Z",
+          "timestamp": 1751328000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Accident Analysis &amp; Prevention"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.aap.2025.108048",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2025-04-18T15:26:22Z",
+      "timestamp": 1744989982000
+    },
+    "page": "108048",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "special_numbering": "C",
+    "title": [
+      "Evaluating crash risk factors of farm equipment vehicles on county and non-county roads using interpretable tabular deep learning (TabNet)"
+    ],
+    "prefix": "10.1016",
+    "volume": "217",
+    "author": [
+      {
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jinli",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1660-9764",
+        "authenticated-orcid": false,
+        "given": "Rohit",
+        "family": "Chakraborty",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.aap.2025.108048_b0005",
+        "series-title": "Classification and Regression Trees",
+        "author": "Breiman",
+        "year": "1984"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0010",
+        "unstructured": "Chang, W., Cheng, J., Allaire, J.J., Sievert, C., Schloerke, B., Xie, Y., Allen, J., McPherson, J., Dipert, A., Borges, B., 2024. shiny: Web Application Framework for R."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1613/jair.953",
+        "article-title": "SMOTE: synthetic minority over-sampling technique",
+        "volume": "16",
+        "author": "Chawla",
+        "year": "2002",
+        "journal-title": "Journal of Artificial Intelligence Research"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1186/s13040-017-0155-3",
+        "article-title": "Ten quick tips for machine learning in computational biology",
+        "volume": "10",
+        "author": "Chicco",
+        "year": "2017",
+        "journal-title": "BioData Mining"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1016/j.aap.2008.08.029",
+        "article-title": "Risk factors for a farm vehicle public road crash",
+        "volume": "41",
+        "author": "Costello",
+        "year": "2009",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0030",
+        "series-title": "Proceedings of the 34th International Conference on Machine Learning. Presented at the International Conference on Machine Learning",
+        "first-page": "933",
+        "article-title": "Language Modeling with Gated Convolutional Networks, in",
+        "author": "Dauphin",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0035",
+        "article-title": "Extreme Vehicle Loads on Bridges: Evaluating and Regulating Farm Equipment in Wisconsin",
+        "volume": "76–85",
+        "author": "Dietsche",
+        "year": "2016",
+        "journal-title": "Transportation Research Record: Journal of the Transportation Research Boardpp"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "404",
+        "DOI": "10.1080/15389588.2017.1422601",
+        "article-title": "Safe speed limits for a safe system: The relationship between speed limit and fatal crash rate for different crash types",
+        "volume": "19",
+        "author": "Doecke",
+        "year": "2018",
+        "journal-title": "Traffic Injury Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1111/j.1469-1809.1936.tb02137.x",
+        "article-title": "The use of multiple measurements in taxonomic problems",
+        "volume": "7",
+        "author": "Fisher",
+        "year": "1936",
+        "journal-title": "Annals of Eugenics"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0050",
+        "article-title": "Convolutional Sequence to Sequence",
+        "author": "Gehring",
+        "year": "2017",
+        "journal-title": "Learning."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "1135",
+        "DOI": "10.1097/00043764-199611000-00013",
+        "article-title": "An Epidemiological Study of Roadway Fatalities Related to Farm Vehicles: United States, 1988 to 1993",
+        "volume": "38",
+        "author": "Gerberich",
+        "year": "1996",
+        "journal-title": "Journal of Occupational and Environmental Medicine"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0060",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.trip.2023.100926",
+        "article-title": "Predictors of rural driver self-reported passing behaviors when interacting with farm equipment on the roadway",
+        "volume": "22",
+        "author": "Ghanbari",
+        "year": "2023",
+        "journal-title": "Transportation Research Interdisciplinary Perspectives"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "1392",
+        "DOI": "10.1016/j.aap.2010.03.003",
+        "article-title": "An empirical analysis of farm vehicle crash injury severities on Iowa’s public road system",
+        "volume": "42",
+        "author": "Gkritza",
+        "year": "2010",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1080/15389588.2016.1198009",
+        "article-title": "Injury Risks for On-Road Farm Equipment and Horse and Buggy Crashes in Pennsylvania: 2010–2013",
+        "volume": "18",
+        "author": "Gorucu",
+        "year": "2017",
+        "journal-title": "Traffic Injury Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0075",
+        "series-title": "Advances in Neural Information Processing Systems",
+        "article-title": "Semi-supervised Learning by Entropy Minimization",
+        "author": "Grandvalet",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0080",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Greneker, G.F., Geisheimer, J.L., Rausch, E.O., Georgia Institute of Technology, A., 2000. Farm equipment collision avoidance using only homodyne radar. pp. 23–32.",
+        "DOI": "10.1117/12.391851"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0085",
+        "article-title": "Farmers and farm equipment need to share the road with drivers [WWW Document]",
+        "author": "Grinnell",
+        "year": "2025",
+        "journal-title": "Grinnell Mutual Reinsurance."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "8",
+        "DOI": "10.1016/j.aap.2014.02.013",
+        "article-title": "Not just a rural occurrence: Differences in agricultural equipment crash characteristics by rural–urban crash site and proximity to town",
+        "volume": "70",
+        "author": "Harland",
+        "year": "2014",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "230",
+        "DOI": "10.1080/15389588.2017.1407924",
+        "article-title": "Prevalence of alcohol impairment and odds of a driver injury or fatality in on-road farm equipment crashes",
+        "volume": "19",
+        "author": "Harland",
+        "year": "2018",
+        "journal-title": "Traffic Injury Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0100",
+        "unstructured": "Hoffer, E., Hubara, I., Soudry, D., 2018. Train longer, generalize better: closing the generalization gap in large batch training of neural networks. DOI: 10.48550/arXiv.1705.08741."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "174",
+        "DOI": "10.1016/j.jsr.2023.11.004",
+        "article-title": "Effects of lowering speed limits on crash severity in Seattle",
+        "volume": "88",
+        "author": "Hu",
+        "year": "2024",
+        "journal-title": "Journal of Safety Research"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0110",
+        "author": "Hudson",
+        "year": "2018",
+        "journal-title": "Compositional Attention Networks for Machine Reasoning."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1080/15389588.2013.789135",
+        "article-title": "Agricultural Vehicles and Rural Road Safety: Tackling a Persistent Problem",
+        "volume": "15",
+        "author": "Jaarsma",
+        "year": "2014",
+        "journal-title": "Traffic Injury Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1016/j.jsr.2015.12.003",
+        "article-title": "Analysis of the injury severity of crashes by considering different lighting conditions on two-lane rural roads",
+        "volume": "56",
+        "author": "Jafari Anarkooli",
+        "year": "2016",
+        "journal-title": "Journal of Safety Research"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/j.aap.2012.03.034",
+        "article-title": "Trends in tractor related fatalities among adults working on farms in Victoria, Australia, 1985–2010",
+        "volume": "50",
+        "author": "Jones",
+        "year": "2013",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0130",
+        "article-title": "Study of farm vehicle crashes in North Carolina",
+        "volume": "178–185",
+        "author": "Lacy, J.K., Hunter, W., Huang, H., Transportation Research Board",
+        "year": "2003",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1136/ip.2005.008771",
+        "article-title": "Evaluation of a Policy to Reduce Youth Tractor Crashes on Public Roads",
+        "volume": "12",
+        "author": "Marlenga",
+        "year": "2006",
+        "journal-title": "Injury Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0140",
+        "author": "Martins",
+        "year": "2016",
+        "journal-title": "From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.13031/jash.12336",
+        "article-title": "Raising Awareness of Farm Equipment on Public Roadways in Tennessee",
+        "volume": "23",
+        "author": "Mehlhorn",
+        "year": "2017",
+        "journal-title": "Journal of Agricultural Safety and Health"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0150",
+        "author": "MnDOT"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0155",
+        "unstructured": "Mott, A., Zoran, D., Chrzanowski, M., Wierstra, D., Jimenez Rezende, D., 2019. Towards Interpretable Reinforcement Learning Using Attention Augmented Agents, in: Advances in Neural Information Processing Systems. Curran Associates, Inc."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.1016/j.aap.2017.04.007",
+        "article-title": "Analysis of factors affecting the severity of crashes in urban road intersections",
+        "volume": "103",
+        "author": "Mussone",
+        "year": "2017",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "339",
+        "DOI": "10.1111/j.1748-0361.2007.00112.x",
+        "article-title": "Characteristics of Crashes With Farm Equipment That Increase Potential for Injury",
+        "volume": "23",
+        "author": "Peek-Asa",
+        "year": "2007",
+        "journal-title": "The Journal of Rural Health"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1080/10599241003627144",
+        "article-title": "Farm Equipment-Motor Vehicle Crash Prevention Conference (FEMVCPC)",
+        "volume": "15",
+        "author": "Petrea",
+        "year": "2010",
+        "journal-title": "Journal of Agromedicine"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.13031/2013.16071",
+        "article-title": "Slow-moving vehicles in swedish traffic",
+        "volume": "10",
+        "author": "Pinzke",
+        "year": "2004",
+        "journal-title": "Journal of Agricultural Safety and Health"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108048_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1111/j.1748-0361.2012.00435.x",
+        "article-title": "Rural Roadway Safety Perceptions Among Rural Teen Drivers Living in and Outside of Towns",
+        "volume": "29",
+        "author": "Ramirez",
+        "year": "2013",
+        "journal-title": "The Journal of Rural Health"
+      }
+    ],
+    "container-title": [
+      "Accident Analysis &amp; Prevention"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0001457525001344?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0001457525001344?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2025-05-08T22:36:44Z",
+      "timestamp": 1746743804000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0001457525001344"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "references-count": 36,
+    "alternative-id": [
+      "S0001457525001344"
+    ],
+    "URL": "https://doi.org/10.1016/j.aap.2025.108048",
+    "relation": {},
+    "ISSN": [
+      "0001-4575"
+    ],
+    "issn-type": [
+      {
+        "value": "0001-4575",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Evaluating crash risk factors of farm equipment vehicles on county and non-county roads using interpretable tabular deep learning (TabNet)",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Accident Analysis & Prevention",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.aap.2025.108048",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "108048"
+  }
+}

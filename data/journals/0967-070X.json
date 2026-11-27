@@ -1,0 +1,289 @@
+{
+  "issn": "0967-070X",
+  "title": "Transport Policy",
+  "publisher": "Elsevier",
+  "issns": [
+    "0967-070X"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1795717560317,
+    "counts": {
+      "current-dois": 1314,
+      "backfile-dois": 2994,
+      "total-dois": 4308
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2026,
+          498
+        ],
+        [
+          2025,
+          401
+        ],
+        [
+          2024,
+          313
+        ],
+        [
+          2022,
+          295
+        ],
+        [
+          2021,
+          259
+        ],
+        [
+          2023,
+          234
+        ],
+        [
+          2019,
+          215
+        ],
+        [
+          2020,
+          202
+        ],
+        [
+          2018,
+          194
+        ],
+        [
+          2016,
+          159
+        ],
+        [
+          2014,
+          147
+        ],
+        [
+          2013,
+          144
+        ],
+        [
+          2015,
+          124
+        ],
+        [
+          2012,
+          119
+        ],
+        [
+          2017,
+          114
+        ],
+        [
+          2011,
+          103
+        ],
+        [
+          2027,
+          102
+        ],
+        [
+          2005,
+          61
+        ],
+        [
+          2010,
+          60
+        ],
+        [
+          2006,
+          55
+        ],
+        [
+          2007,
+          54
+        ],
+        [
+          2009,
+          47
+        ],
+        [
+          2008,
+          47
+        ],
+        [
+          2004,
+          43
+        ],
+        [
+          2003,
+          39
+        ],
+        [
+          2002,
+          35
+        ],
+        [
+          2001,
+          35
+        ],
+        [
+          2000,
+          33
+        ],
+        [
+          1995,
+          33
+        ],
+        [
+          1997,
+          31
+        ],
+        [
+          1996,
+          29
+        ],
+        [
+          1998,
+          26
+        ],
+        [
+          1994,
+          24
+        ],
+        [
+          1999,
+          21
+        ],
+        [
+          1993,
+          12
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.0,
+      "funders-backfile": 0.3026052104208417,
+      "licenses-backfile": 0.9782899131596526,
+      "funders-current": 0.6080669710806696,
+      "affiliations-backfile": 0.0,
+      "resource-links-backfile": 1.0,
+      "orcids-backfile": 0.2217768871075484,
+      "funder-ror-ids-current": 0.0,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.004008016032064128,
+      "orcids-current": 0.8219178082191781,
+      "similarity-checking-backfile": 0.0,
+      "references-backfile": 0.9104876419505677,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.1629926519706079,
+      "update-policies-backfile": 0.6743486973947896,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.4208523592085236,
+      "abstracts-backfile": 0.0,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.004008016032064128,
+      "abstracts-current": 0.0,
+      "references-current": 0.9627092846270928
+    },
+    "title": "Transport Policy",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1795717560317,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.4048282265552461,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9849117920148561,
+        "references": 0.9264159702878366,
+        "funders": 0.3957753017641597,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.002785515320334262,
+        "award-numbers": 0.2416434540389972,
+        "ror-ids": 0.002785515320334262,
+        "update-policies": 0.7736768802228412,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1795717560317,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.2217768871075484,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9782899131596526,
+        "references": 0.9104876419505677,
+        "funders": 0.3026052104208417,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.004008016032064128,
+        "award-numbers": 0.1629926519706079,
+        "ror-ids": 0.004008016032064128,
+        "update-policies": 0.6743486973947896,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1795717560317,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.8219178082191781,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9627092846270928,
+        "funders": 0.6080669710806696,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.4208523592085236,
+        "ror-ids": 0.0,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": false,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": false,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": false,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": false,
+      "deposits-ror-ids-backfile": true,
+      "deposits-abstracts-backfile": false,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": true,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": false,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "0967-070X"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0967-070X"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:30+00:00"
+}

@@ -1,0 +1,982 @@
+{
+  "doi": "10.1016/j.aap.2025.108229",
+  "fetched_at": "2026-11-27T05:57:07+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2026-10-13T11:45:40Z",
+      "timestamp": 1791891940768,
+      "version": "4.3.4"
+    },
+    "reference-count": 75,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Accident Analysis &amp; Prevention"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.aap.2025.108229",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2025-09-13T12:14:09Z",
+      "timestamp": 1757765649000
+    },
+    "page": "108229",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "special_numbering": "C",
+    "title": [
+      "A data-driven approach to child pedestrian crash analysis using dimension reduction, clustering, and explainable AI"
+    ],
+    "prefix": "10.1016",
+    "volume": "222",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-4894-9131",
+        "authenticated-orcid": false,
+        "given": "Swastika",
+        "family": "Barua",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1660-9764",
+        "authenticated-orcid": false,
+        "given": "Rohit",
+        "family": "Chakraborty",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md. Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.aap.2025.108229_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1016/j.aap.2018.03.027",
+        "article-title": "Young drivers’ perception of adult and child pedestrians in potential street-crossing situations",
+        "volume": "118",
+        "author": "Ābele",
+        "year": "2018",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0010",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2023.107146",
+        "article-title": "A comprehensive study of child pedestrian crash outcomes in Ghana",
+        "volume": "189",
+        "author": "Adanu",
+        "year": "2023",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1177/03611981221082582",
+        "article-title": "Using cluster correspondence analysis to explore rainy weather crashes in Louisiana",
+        "volume": "2676",
+        "author": "Ashifur Rahman",
+        "year": "2022",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1177/03611981221082582",
+        "article-title": "Using cluster correspondence analysis to explore rainy weather crashes in Louisiana",
+        "volume": "2676",
+        "author": "Ashifur Rahman",
+        "year": "2022",
+        "journal-title": "Transp. Res. Rec."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1016/j.aap.2015.03.001",
+        "article-title": "Motor-vehicle collisions involving child pedestrians at intersection and mid-block locations",
+        "volume": "78",
+        "author": "Bennet",
+        "year": "2015",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0030",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Breiman, L., Cutler, A., Liaw, A., Wiener, M., 2002. randomForest: Breiman and Cutlers Random Forests for Classification and Regression.",
+        "DOI": "10.32614/CRAN.package.randomForest"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0035",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2025.108025",
+        "article-title": "Children on wheels: Identifying crash determinants using cluster correspondence analysis",
+        "volume": "216",
+        "author": "Chakraborty",
+        "year": "2025",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1080/15389588.2011.642034",
+        "article-title": "A geographic analysis of collisions involving child pedestrians in a large southern California county",
+        "volume": "13",
+        "author": "Chakravarthy",
+        "year": "2012",
+        "journal-title": "Traffic Inj. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0045",
+        "unstructured": "Chang, W., Cheng, J., Allaire, J., Sievert, C., Schloerke, B., Xie, Y., Allen, J., McPherson, J., Dipert, A., Borges, B., 2024. shiny: Web Application Framework for R [WWW Document]. URL https://rstudio.github.io/shiny/authors.html (accessed 12.20.24)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0050",
+        "unstructured": "Chen, T., He, T., Benesty, M., Khotilovich, V., Tang, Y., Cho, H., Chen, K., Mitchell, R., Cano, I., Zhou, T., Li, M., Xie, J., Lin, M., Geng, Y., Li, Y., Yuan, J., implementation), Xgb. contributors (base Xgb., 2024. xgboost: Extreme Gradient Boosting."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "222",
+        "DOI": "10.1177/03611981231152254",
+        "article-title": "Diagnosis of encroachment-related work-zone crashes by applying pattern recognition",
+        "volume": "2677",
+        "author": "Das",
+        "year": "2023",
+        "journal-title": "Transp. Res. Record: J. Transp. Res. Board"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0060",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107753",
+        "article-title": "Quantifying the heterogeneity impact of risk factors on regional bicycle crash frequency: a hybrid approach of clustering and random parameter model",
+        "volume": "207",
+        "author": "Ding",
+        "year": "2024",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1016/j.jsr.2014.03.008",
+        "article-title": "Crossing a two-way street: comparison of young and old pedestrians",
+        "volume": "50",
+        "author": "Dommes",
+        "year": "2014",
+        "journal-title": "J. Saf. Res."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0070",
+        "series-title": "The Effect of Traffic Complexity and Speed on Young and Elderly Pedestrians’ Street-Crossing Decisions",
+        "first-page": "635",
+        "author": "Dommes",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0075",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2021.106256",
+        "article-title": "Young and older adult pedestrians’ behaviour when crossing a street in front of conventional and self-driving cars",
+        "volume": "159",
+        "author": "Dommes",
+        "year": "2021",
+        "journal-title": "Accid. Anal. Prev."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0080",
+        "unstructured": "FHWA, 2025. Roadway Lighting | FHWA [WWW Document]. URL https://highways.dot.gov/safety/other/visibility/roadway-lighting (accessed 7.10.25)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0085",
+        "unstructured": "FHWA, 2024. Module 3: Toolbox of Individual Traffic Calming Measures Part 2 | FHWA [WWW Document]. URL https://highways.dot.gov/safety/speed-management/traffic-calming-eprimer/module-3-part-2 (accessed 7.9.25)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0090",
+        "unstructured": "FHWA, 2023a. Module 2: Traffic Calming Basics [WWW Document]. URL https://highways.dot.gov/safety/speed-management/traffic-calming-eprimer/module-2-traffic-calming-basics (accessed 3.16.25)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0095",
+        "unstructured": "FHWA, 2023b. Leading Pedestrian Interval (No. FHWA-SA-21-032)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0100",
+        "unstructured": "FHWA, 2023c. Design & Construction | FHWA [WWW Document]. URL https://highways.dot.gov/safety/rwd/keep-vehicles-road/rumble-strips/design-construction (accessed 7.10.25)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0105",
+        "unstructured": "FHWA, 2023d. Medians and Pedestrian Refuge Islands in Urban and Suburban Areas (No. FHWA-SA-21-044)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0110",
+        "unstructured": "FHWA, 2022. What Is a Safe System Approach? | US Department of Transportation [WWW Document]. URL https://www.transportation.gov/safe-system-approach (accessed 7.12.25)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0115",
+        "unstructured": "FHWA, 2019. Crosswalk Visibility Enhancements (No. FHWA-SA-21-049)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0120",
+        "unstructured": "FHWA, 2005. Red Light Camera Systems Operational Guidelines (No. FHWA-SA-05-002)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0125",
+        "series-title": "Presented at the Lecture Notes in Electrical Engineering",
+        "doi-asserted-by": "crossref",
+        "first-page": "397",
+        "DOI": "10.1007/978-981-15-0644-4_31",
+        "article-title": "Analysis of Child Pedestrians’ Unsafe Road crossing behaviour at intersections in school zones",
+        "author": "Fu",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1016/j.aap.2018.08.029",
+        "article-title": "Safety and operational impacts of setting speed limits below engineering recommendations",
+        "volume": "121",
+        "author": "Gayah",
+        "year": "2018",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "347",
+        "DOI": "10.1016/j.jsr.2010.04.006",
+        "article-title": "Examining traffic crash injury severity at unsignalized intersections",
+        "volume": "41",
+        "author": "Haleem",
+        "year": "2010",
+        "journal-title": "J. Safe. Res."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "350",
+        "DOI": "10.1177/03611981231170863",
+        "article-title": "Comprehensive investigation of commercial motor vehicle crashes at signalized and unsignalized intersections in Kentucky",
+        "volume": "2678",
+        "author": "Haleem",
+        "year": "2024",
+        "journal-title": "Transp. Res. Record: J. Transp. Res. Board"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0145",
+        "first-page": "37",
+        "article-title": "The effect of time of day on driver’s injury severity at highway-rail grade crossings in the United States",
+        "volume": "3",
+        "author": "Hao",
+        "year": "2016",
+        "journal-title": "J. Traffic Transp. Eng. (Eng. Ed.)"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "e44",
+        "DOI": "10.1186/s13690-020-00421-2",
+        "article-title": "Still careless: findings from a cross-sectional study of young pedestrians’ risky road crossing behaviours",
+        "volume": "78",
+        "author": "Hashemiparast",
+        "year": "2020",
+        "journal-title": "Arch. Public Health"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0155",
+        "unstructured": "Hopwood, C., Little, K., Gaines, D., 2024. Safe System Roadway Design Hierarchy: Engineering and Infrastructure-related Countermeasures to Effectively Reduce Roadway Fatalities and Serious Injuries (No. FHWA-SA-22-069)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0160",
+        "article-title": "Single-vehicle roadway departure crashes at rural two-lane highway curved segments: a diagnosis using pattern recognition",
+        "author": "Hossain",
+        "year": "2023",
+        "journal-title": "Int. J. Transp. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "186",
+        "DOI": "10.1016/j.ijtst.2023.04.007",
+        "article-title": "Investigating pedestrian crash patterns at high-speed intersection and road segments: findings from the unsupervised learning algorithm",
+        "volume": "14",
+        "author": "Hossain",
+        "year": "2024",
+        "journal-title": "Int. J. Transp. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "174",
+        "DOI": "10.1016/j.jsr.2023.11.004",
+        "article-title": "Effects of lowering speed limits on crash severity in Seattle",
+        "volume": "88",
+        "author": "Hu",
+        "year": "2024",
+        "journal-title": "J. Safe. Res."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "174",
+        "DOI": "10.1016/j.jsr.2023.11.004",
+        "article-title": "Effects of lowering speed limits on crash severity in Seattle",
+        "volume": "88",
+        "author": "Hu",
+        "year": "2024",
+        "journal-title": "J. Safe. Res."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.ijtst.2023.02.004",
+        "article-title": "Contributing factors to right-turn crash severity at signalized intersections: an application of econometric modelling",
+        "volume": "13",
+        "author": "Jashami",
+        "year": "2024",
+        "journal-title": "Int. J. Transp. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1016/j.aap.2018.08.025",
+        "article-title": "Classification of motor vehicle crash injury severity: a hybrid approach for imbalanced data",
+        "volume": "120",
+        "author": "Jeong",
+        "year": "2018",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1016/j.tbs.2022.06.008",
+        "article-title": "Spatial analysis of collision risk of child pedestrians – a case of urban elementary school districts in Busan, Korea",
+        "volume": "29",
+        "author": "Kim",
+        "year": "2022",
+        "journal-title": "Travel Behav. Soc."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.3390/ijerph15010148",
+        "article-title": "Sidewalk landscape structure and thermal conditions for child and adult pedestrians",
+        "volume": "15",
+        "author": "Kim",
+        "year": "2018",
+        "journal-title": "Int. J. Environ. Res. Public Health"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0200",
+        "unstructured": "Le Lay, T., Dommes, A., Perrot Beaudoin, A., Do, M.C., 2013. Collision characteristics of young and older pedestrians in two-way road crossing. p. 8p."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0205",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2021.106504",
+        "article-title": "A hybrid machine learning model for predicting Real-Time secondary crash likelihood",
+        "volume": "165",
+        "author": "Li",
+        "year": "2022",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1016/j.aap.2018.08.009",
+        "article-title": "Examining driver injury severity in intersection-related crashes using cluster analysis and hierarchical Bayesian models",
+        "volume": "120",
+        "author": "Li",
+        "year": "2018",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1016/j.aap.2018.12.020",
+        "article-title": "Investigation of driver injury severities in rural single-vehicle crashes under rain conditions using mixed logit and latent class models",
+        "volume": "124",
+        "author": "Li",
+        "year": "2019",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1080/17457300.2023.2300433",
+        "article-title": "Cell phone distraction behavior of young pedestrians: evidence from China",
+        "volume": "31",
+        "author": "Liu",
+        "year": "2024",
+        "journal-title": "Int. J. Injury Control Safe. Promotion"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0225",
+        "unstructured": "Lundberg, S., Lee, S.-I., 2017. A Unified Approach to Interpreting Model Predictions. https://doi.org/10.48550/arXiv.1705.07874."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0230",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.18637/jss.v091.i10",
+        "article-title": "Beyond tandem analysis: joint dimension reduction and clustering in R",
+        "volume": "91",
+        "author": "Markos",
+        "year": "2019",
+        "journal-title": "J. Stat. Soft."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0235",
+        "series-title": "Multivariate Statistical Analysis in the Real and Complex Domains",
+        "first-page": "845",
+        "article-title": "Chapter 15: cluster analysis and correspondence analysis",
+        "author": "Mathai",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "302",
+        "DOI": "10.1016/j.aap.2014.07.016",
+        "article-title": "Comparison of teen and adult driver crash scenarios in a nationally representative sample of serious crashes",
+        "volume": "72",
+        "author": "McDonald",
+        "year": "2014",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0245",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ssci.2023.106148",
+        "article-title": "Towards safer, more walkable urban environments for child-pedestrians - application of the theory of Planned behaviour",
+        "volume": "164",
+        "author": "Meir",
+        "year": "2023",
+        "journal-title": "Safe. Sci."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "168",
+        "DOI": "10.1016/j.trf.2024.11.018",
+        "article-title": "Demographic risk factors and injury severity scores in Substance-use behaviour related traffic crashes",
+        "volume": "108",
+        "author": "Mimi",
+        "year": "2025",
+        "journal-title": "Transp. Res. Part F: Traffic Psychol. Behav."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "621",
+        "DOI": "10.1016/j.aap.2010.09.015",
+        "article-title": "Mixed logit analysis of bicyclist injury severity resulting from motor vehicle crashes at intersection and non-intersection locations",
+        "volume": "43",
+        "author": "Moore",
+        "year": "2011",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0260",
+        "first-page": "38",
+        "article-title": "Developing an adaptive warning system for backing crashes in different types of backing scenarios",
+        "volume": "3",
+        "author": "Muttart",
+        "year": "2011",
+        "journal-title": "J. Transp. Safe. Sec."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0265",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ssci.2021.105515",
+        "article-title": "Hybrid segmentation approach to identify crash susceptible locations in large road networks",
+        "volume": "145",
+        "author": "Nair",
+        "year": "2022",
+        "journal-title": "Safe. Sci."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0270",
+        "first-page": "250",
+        "article-title": "Investigation of young pedestrian crashes in school districts of New Jersey using machine learning models",
+        "author": "Nayeem",
+        "year": "2023",
+        "journal-title": "Am. Soc. Civil Eng."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0275",
+        "unstructured": "NHTSA, 2024a. Traffic Safety Facts: 2022 Data | Childre | CrashStats (No. DOT HS 813 575)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0280",
+        "unstructured": "NHTSA, 2024b. Traffic Safety Facts: Children (No. DOT HS 813 712)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0285",
+        "unstructured": "NHTSA, 2023. Fatality and Injury Reporting System Tool (FIRST) [WWW Document]. URL https://cdan.dot.gov/query (accessed 12.21.24)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0290",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2020.105896",
+        "article-title": "Exploration of the relationship among roadway characteristics, operating speed, and crashes for city streets using path analysis",
+        "volume": "150",
+        "author": "Park",
+        "year": "2021",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0295",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107556",
+        "article-title": "Visual hazardous models: a hybrid approach to investigate road hazardous events",
+        "volume": "200",
+        "author": "Rangam",
+        "year": "2024",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1016/j.jsr.2003.05.001",
+        "article-title": "Analysis of motor-vehicle crashes at stop signs in four U.S. cities",
+        "volume": "34",
+        "author": "Retting",
+        "year": "2003",
+        "journal-title": "J. Safe. Res."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0305",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rothman, L., Lee, V., 2010. Investigations of Child Pedestrians or Cyclists Stuck by Motor Vehicles. Presented at the Injury Prevention, BMJ Publishing Group, p. v.p.",
+        "DOI": "10.1136/ip.2010.029215.393"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0310",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107696",
+        "article-title": "A hybrid machine learning and statistical modeling approach for analyzing the crash severity of mobility scooter users considering temporal instability",
+        "volume": "206",
+        "author": "Sadeghi",
+        "year": "2024",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/j.trf.2022.06.006",
+        "article-title": "Young pedestrians’ behaviours and risk perception: a pilot study with Italian early adolescents",
+        "volume": "90",
+        "author": "Salducco",
+        "year": "2022",
+        "journal-title": "Transp. Res. Part F: Traffic Psychol. Behav."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0320",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107603",
+        "article-title": "Analyzing the transition from two-vehicle collisions to chain reaction crashes: a hybrid approach using random parameters logit model, interpretable machine learning, and clustering",
+        "volume": "202",
+        "author": "Samerei",
+        "year": "2024",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "234",
+        "DOI": "10.1080/17457300.2023.2300458",
+        "article-title": "Examining factors affecting driver injury severity in speeding-related crashes: a comparative study across driver age groups",
+        "volume": "31",
+        "author": "Se",
+        "year": "2024",
+        "journal-title": "Int. J. Injury Control Safe. Promotion"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1177/1559827615569699",
+        "article-title": "Preventing child pedestrian injury: a guide for practitioners",
+        "volume": "9",
+        "author": "Stevenson",
+        "year": "2015",
+        "journal-title": "Am. J. Lifestyle Med."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0335",
+        "first-page": "1838",
+        "article-title": "Exploring injury severity of bicycle-motor vehicle crashes: a two-stage approach integrating latent class analysis and random parameter logit model",
+        "volume": "14",
+        "author": "Sun",
+        "year": "2022",
+        "journal-title": "J. Transp. Safe. Sec."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0340",
+        "unstructured": "The R Foundation, 2024. R: The R Project for Statistical Computing [WWW Document]. URL https://www.r-project.org/ (accessed 12.21.24)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1016/j.aap.2014.01.002",
+        "article-title": "Five road safety education programmes for young adolescent pedestrians and cyclists: a multi-programme evaluation in a field setting",
+        "volume": "66",
+        "author": "Twisk",
+        "year": "2014",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0350",
+        "unstructured": "TxDOT, 2023. CRIS Query [WWW Document]. URL https://cris.dot.state.tx.us/public/Query/app/home (accessed 12.21.24)."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1016/j.aap.2017.08.009",
+        "article-title": "Truck-involved crashes injury severity analysis for different lighting conditions on rural and urban roadways",
+        "volume": "108",
+        "author": "Uddin",
+        "year": "2017",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "158",
+        "DOI": "10.1007/s11336-016-9514-0",
+        "article-title": "Cluster correspondence analysis",
+        "volume": "82",
+        "author": "van de Velden",
+        "year": "2017",
+        "journal-title": "Psychometrika"
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "734",
+        "DOI": "10.1016/j.trf.2018.10.021",
+        "article-title": "Traffic safety education for child pedestrians: a randomized controlled trial with active learning approach to develop street-crossing behaviours",
+        "volume": "60",
+        "author": "Zare",
+        "year": "2019",
+        "journal-title": "Transp. Res. Part F: Traffic Psychol. Behav."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0370",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2023.107340",
+        "article-title": "Exploring the impact of trip patterns on spatially aggregated crashes using floating vehicle trajectory data and graph Convolutional Networks",
+        "volume": "194",
+        "author": "Zhao",
+        "year": "2024",
+        "journal-title": "Accid. Anal. Preven."
+      },
+      {
+        "key": "10.1016/j.aap.2025.108229_b0375",
+        "first-page": "1",
+        "article-title": "A comparative analysis of factors affecting injury severity in speeding-related crashes on rural and urban roads",
+        "author": "Zhipeng",
+        "year": "2024",
+        "journal-title": "Int. J. Crashworthiness"
+      }
+    ],
+    "container-title": [
+      "Accident Analysis &amp; Prevention"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0001457525003173?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0001457525003173?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2025-09-27T11:21:01Z",
+      "timestamp": 1758972061000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0001457525003173"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "references-count": 75,
+    "alternative-id": [
+      "S0001457525003173"
+    ],
+    "URL": "https://doi.org/10.1016/j.aap.2025.108229",
+    "relation": {},
+    "ISSN": [
+      "0001-4575"
+    ],
+    "issn-type": [
+      {
+        "value": "0001-4575",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A data-driven approach to child pedestrian crash analysis using dimension reduction, clustering, and explainable AI",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Accident Analysis & Prevention",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.aap.2025.108229",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "108229"
+  }
+}

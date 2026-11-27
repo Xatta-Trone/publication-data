@@ -1,0 +1,3349 @@
+{
+  "last-modified-date": {
+    "value": 1795761483302
+  },
+  "group": [
+    {
+      "last-modified-date": {
+        "value": 1795729282067
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.neucom.2026.135736",
+            "external-id-normalized": {
+              "value": "10.1016/j.neucom.2026.135736",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.neucom.2026.135736"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 234202301,
+          "created-date": {
+            "value": 1795303095659
+          },
+          "last-modified-date": {
+            "value": 1795729282067
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Advancing intelligent sequence modeling: Evolution, trade-offs, and applications of state-space architectures from S4 to Mamba—A survey"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.neucom.2026.135736",
+                "external-id-normalized": {
+                  "value": "10.1016/j.neucom.2026.135736",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.neucom.2026.135736"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.neucom.2026.135736"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2027"
+            },
+            "month": {
+              "value": "02"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Neurocomputing"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/234202301",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1795700780458
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.softx.2026.103258",
+            "external-id-normalized": {
+              "value": "10.1016/j.softx.2026.103258",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.softx.2026.103258"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 234715671,
+          "created-date": {
+            "value": 1795700780458
+          },
+          "last-modified-date": {
+            "value": 1795700780458
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "AVISTA: An extensible desktop platform for reproducible tabular machine learning and deep learning analytics"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.softx.2026.103258",
+                "external-id-normalized": {
+                  "value": "10.1016/j.softx.2026.103258",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.softx.2026.103258"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.softx.2026.103258"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "12"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "SoftwareX"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/234715671",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1795761212906
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1007/s42421-026-00171-7",
+            "external-id-normalized": {
+              "value": "10.1007/s42421-026-00171-7",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1007/s42421-026-00171-7"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 234790621,
+          "created-date": {
+            "value": 1795761212906
+          },
+          "last-modified-date": {
+            "value": 1795761212906
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Md Monzurul Islam"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Crash Severity in Automated Vehicle Collisions: A Texas-Based Investigation Across Automation Levels"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1007/s42421-026-00171-7",
+                "external-id-normalized": {
+                  "value": "10.1007/s42421-026-00171-7",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1007/s42421-026-00171-7"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "2948-135X",
+                "external-id-normalized": {
+                  "value": "2948-135X",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/2948-135X"
+                },
+                "external-id-relationship": "part-of"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "2948-1368",
+                "external-id-normalized": {
+                  "value": "2948-1368",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/2948-1368"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1007/s42421-026-00171-7"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "12"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Data Science for Transportation"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/234790621",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362667
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.cities.2026.107384",
+            "external-id-normalized": {
+              "value": "10.1016/j.cities.2026.107384",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.cities.2026.107384"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105044022469",
+            "external-id-normalized": {
+              "value": "2-s2.0-105044022469",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 220038074,
+          "created-date": {
+            "value": 1783514777126
+          },
+          "last-modified-date": {
+            "value": 1783514777126
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Toward safer micromobility: Identifying urban e-scooter crash severity factors through automated machine learning and crash narrative analysis"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.cities.2026.107384",
+                "external-id-normalized": {
+                  "value": "10.1016/j.cities.2026.107384",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.cities.2026.107384"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.cities.2026.107384"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "11"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Cities"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/220038074",
+          "display-index": "1"
+        },
+        {
+          "put-code": 222288264,
+          "created-date": {
+            "value": 1785426362667
+          },
+          "last-modified-date": {
+            "value": 1785426362667
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Toward safer micromobility: Identifying urban e-scooter crash severity factors through automated machine learning and crash narrative analysis"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.cities.2026.107384",
+                "external-id-normalized": {
+                  "value": "10.1016/j.cities.2026.107384",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105044022469",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105044022469",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "02642751",
+                "external-id-normalized": {
+                  "value": "0264-2751",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105044022469&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Cities"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288264",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1795761483302
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.17226/29551",
+            "external-id-normalized": {
+              "value": "10.17226/29551",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.17226/29551"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "isbn",
+            "external-id-value": "9780309749572",
+            "external-id-normalized": {
+              "value": "9780309749572",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://www.worldcat.org/isbn/9780309749572"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 234791068,
+          "created-date": {
+            "value": 1795761483302
+          },
+          "last-modified-date": {
+            "value": 1795761483302
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Md Monzurul Islam"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Traffic Analysis Practices for Nonmotorized Modes"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.17226/29551",
+                "external-id-normalized": {
+                  "value": "10.17226/29551",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.17226/29551"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "isbn",
+                "external-id-value": "9780309749572",
+                "external-id-normalized": {
+                  "value": "9780309749572",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://www.worldcat.org/isbn/9780309749572"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.17226/29551"
+          },
+          "type": "edited-book",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "10"
+            },
+            "day": {
+              "value": "16"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/234791068",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1792026423512
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1038/s41598-026-74874-w",
+            "external-id-normalized": {
+              "value": "10.1038/s41598-026-74874-w",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1038/s41598-026-74874-w"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 230032800,
+          "created-date": {
+            "value": 1792026423512
+          },
+          "last-modified-date": {
+            "value": 1792026423512
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Md Monzurul Islam"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Multidimensional analysis of e-scooter crash severity using cluster correspondence and explainable AI"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1038/s41598-026-74874-w",
+                "external-id-normalized": {
+                  "value": "10.1038/s41598-026-74874-w",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1038/s41598-026-74874-w"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "2045-2322",
+                "external-id-normalized": {
+                  "value": "2045-2322",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/2045-2322"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1038/s41598-026-74874-w"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "10"
+            },
+            "day": {
+              "value": "07"
+            }
+          },
+          "journal-title": {
+            "value": "Scientific Reports"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/230032800",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426363223
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.tranpol.2026.104222",
+            "external-id-normalized": {
+              "value": "10.1016/j.tranpol.2026.104222",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.tranpol.2026.104222"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105040116262",
+            "external-id-normalized": {
+              "value": "2-s2.0-105040116262",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 215721248,
+          "created-date": {
+            "value": 1779758640375
+          },
+          "last-modified-date": {
+            "value": 1780109815613
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Classifying crash severity by SAE automation level using transformer models: Insights for automated vehicle policy"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.tranpol.2026.104222",
+                "external-id-normalized": {
+                  "value": "10.1016/j.tranpol.2026.104222",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.tranpol.2026.104222"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.tranpol.2026.104222"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "09"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Transport Policy"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/215721248",
+          "display-index": "1"
+        },
+        {
+          "put-code": 222288276,
+          "created-date": {
+            "value": 1785426363223
+          },
+          "last-modified-date": {
+            "value": 1785426363223
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Classifying crash severity by SAE automation level using transformer models: Insights for automated vehicle policy"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.tranpol.2026.104222",
+                "external-id-normalized": {
+                  "value": "10.1016/j.tranpol.2026.104222",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105040116262",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105040116262",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "0967070X 1879310X",
+                "external-id-normalized": {
+                  "value": "0967-070X",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105040116262&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Transport Policy"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288276",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1786945668436
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1177/03611981261468749",
+            "external-id-normalized": {
+              "value": "10.1177/03611981261468749",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1177/03611981261468749"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 224016933,
+          "created-date": {
+            "value": 1786945668436
+          },
+          "last-modified-date": {
+            "value": 1786945668436
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Crash Risk Analysis of Non-Motorists using Interpretable Tabular Deep Learning"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1177/03611981261468749",
+                "external-id-normalized": {
+                  "value": "10.1177/03611981261468749",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1177/03611981261468749"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1177/03611981261468749"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "08"
+            },
+            "day": {
+              "value": "16"
+            }
+          },
+          "journal-title": {
+            "value": "Transportation Research Record: Journal of the Transportation Research Board"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/224016933",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1795759560409
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.ijtst.2026.01.005",
+            "external-id-normalized": {
+              "value": "10.1016/j.ijtst.2026.01.005",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.ijtst.2026.01.005"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 234788935,
+          "created-date": {
+            "value": 1795759560409
+          },
+          "last-modified-date": {
+            "value": 1795759560409
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Md Monzurul Islam"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Vision-based infrastructure monitoring: pavement marking visibility classification using deep neural networks"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.ijtst.2026.01.005",
+                "external-id-normalized": {
+                  "value": "10.1016/j.ijtst.2026.01.005",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.ijtst.2026.01.005"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "2046-0430",
+                "external-id-normalized": {
+                  "value": "2046-0430",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/2046-0430"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1016/j.ijtst.2026.01.005"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "08"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "International Journal of Transportation Science and Technology"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/234788935",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362396
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1145/3787104",
+            "external-id-normalized": {
+              "value": "10.1145/3787104",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1145/3787104"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105032096462",
+            "external-id-normalized": {
+              "value": "2-s2.0-105032096462",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 203425895,
+          "created-date": {
+            "value": 1769208613285
+          },
+          "last-modified-date": {
+            "value": 1770207793883
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Bridging the Black Box: A Survey on Mechanistic Interpretability in AI"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1145/3787104",
+                "external-id-normalized": {
+                  "value": "10.1145/3787104",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1145/3787104"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1145/3787104"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "06"
+            },
+            "day": {
+              "value": "30"
+            }
+          },
+          "journal-title": {
+            "value": "ACM Computing Surveys"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/203425895",
+          "display-index": "1"
+        },
+        {
+          "put-code": 222288257,
+          "created-date": {
+            "value": 1785426362396
+          },
+          "last-modified-date": {
+            "value": 1785426362396
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Bridging the Black Box: A Survey on Mechanistic Interpretability in AI"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1145/3787104",
+                "external-id-normalized": {
+                  "value": "10.1145/3787104",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105032096462",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105032096462",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "03600300 15577341",
+                "external-id-normalized": {
+                  "value": "0360-0300",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105032096462&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "ACM Computing Surveys"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288257",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1766583078894
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1145/3776588",
+            "external-id-normalized": {
+              "value": "10.1145/3776588",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1145/3776588"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 196831624,
+          "created-date": {
+            "value": 1763040868016
+          },
+          "last-modified-date": {
+            "value": 1766583078894
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "From Tiny Machine Learning to Tiny Deep Learning: A Survey"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1145/3776588",
+                "external-id-normalized": {
+                  "value": "10.1145/3776588",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1145/3776588"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1145/3776588"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "05"
+            },
+            "day": {
+              "value": "31"
+            }
+          },
+          "journal-title": {
+            "value": "ACM Computing Surveys"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/196831624",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362790
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1080/23249935.2026.2649647",
+            "external-id-normalized": {
+              "value": "10.1080/23249935.2026.2649647",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1080/23249935.2026.2649647"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105034550484",
+            "external-id-normalized": {
+              "value": "2-s2.0-105034550484",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 210138970,
+          "created-date": {
+            "value": 1774874858663
+          },
+          "last-modified-date": {
+            "value": 1774874858663
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Semantic modelling of pedestrian behaviours at shared-use path crossings: insights from BERT-based architectures and structural topic modelling"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/23249935.2026.2649647",
+                "external-id-normalized": {
+                  "value": "10.1080/23249935.2026.2649647",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1080/23249935.2026.2649647"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1080/23249935.2026.2649647"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "03"
+            },
+            "day": {
+              "value": "30"
+            }
+          },
+          "journal-title": {
+            "value": "Transportmetrica A: Transport Science"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/210138970",
+          "display-index": "1"
+        },
+        {
+          "put-code": 222288267,
+          "created-date": {
+            "value": 1785426362790
+          },
+          "last-modified-date": {
+            "value": 1785426362790
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Semantic modelling of pedestrian behaviours at shared-use path crossings: insights from BERT-based architectures and structural topic modelling"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/23249935.2026.2649647",
+                "external-id-normalized": {
+                  "value": "10.1080/23249935.2026.2649647",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105034550484",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105034550484",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "23249935 23249943",
+                "external-id-normalized": {
+                  "value": "2324-9935",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105034550484&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Transportmetrica A Transport Science"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288267",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362903
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105020253926",
+            "external-id-normalized": {
+              "value": "2-s2.0-105020253926",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1145/3743128",
+            "external-id-normalized": {
+              "value": "10.1145/3743128",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1145/3743128"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 185488840,
+          "created-date": {
+            "value": 1749212942401
+          },
+          "last-modified-date": {
+            "value": 1757520116291
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "A Survey on Kolmogorov-Arnold Network"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1145/3743128",
+                "external-id-normalized": {
+                  "value": "10.1145/3743128",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1145/3743128"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1145/3743128"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "01"
+            },
+            "day": {
+              "value": "31"
+            }
+          },
+          "journal-title": {
+            "value": "ACM Computing Surveys"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/185488840",
+          "display-index": "1"
+        },
+        {
+          "put-code": 222288269,
+          "created-date": {
+            "value": 1785426362903
+          },
+          "last-modified-date": {
+            "value": 1785426362903
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "A Survey on Kolmogorov-Arnold Network"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1145/3743128",
+                "external-id-normalized": {
+                  "value": "10.1145/3743128",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105020253926",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105020253926",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "03600300 15577341",
+                "external-id-normalized": {
+                  "value": "0360-0300",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105020253926&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "ACM Computing Surveys"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288269",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362495
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1080/19439962.2025.2554099",
+            "external-id-normalized": {
+              "value": "10.1080/19439962.2025.2554099",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105016716032",
+            "external-id-normalized": {
+              "value": "2-s2.0-105016716032",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 222288260,
+          "created-date": {
+            "value": 1785426362495
+          },
+          "last-modified-date": {
+            "value": 1785426362495
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Linking driver fatigue, safety rest area closures, and crash severity using cluster correspondence analysis"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/19439962.2025.2554099",
+                "external-id-normalized": {
+                  "value": "10.1080/19439962.2025.2554099",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105016716032",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105016716032",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "19439962 19439970",
+                "external-id-normalized": {
+                  "value": "1943-9962",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105016716032&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Journal of Transportation Safety and Security"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288260",
+          "display-index": "1"
+        },
+        {
+          "put-code": 194600248,
+          "created-date": {
+            "value": 1760835586904
+          },
+          "last-modified-date": {
+            "value": 1760835586904
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Md Monzurul Islam"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Linking driver fatigue, safety rest area closures, and crash severity using cluster correspondence analysis"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/19439962.2025.2554099",
+                "external-id-normalized": {
+                  "value": "10.1080/19439962.2025.2554099",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1080/19439962.2025.2554099"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "1943-9962",
+                "external-id-normalized": {
+                  "value": "1943-9962",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/1943-9962"
+                },
+                "external-id-relationship": "part-of"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "1943-9970",
+                "external-id-normalized": {
+                  "value": "1943-9970",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/1943-9970"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1080/19439962.2025.2554099"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "09"
+            },
+            "day": {
+              "value": "16"
+            }
+          },
+          "journal-title": {
+            "value": "Journal of Transportation Safety &amp; Security"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/194600248",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362272
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105029948304",
+            "external-id-normalized": {
+              "value": "2-s2.0-105029948304",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/TITS.2026.3662626",
+            "external-id-normalized": {
+              "value": "10.1109/tits.2026.3662626",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1109/TITS.2026.3662626"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 205548151,
+          "created-date": {
+            "value": 1770931210845
+          },
+          "last-modified-date": {
+            "value": 1770931210845
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Quantum Computing in Transportation Engineering: A Survey"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/TITS.2026.3662626",
+                "external-id-normalized": {
+                  "value": "10.1109/tits.2026.3662626",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1109/TITS.2026.3662626"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1109/TITS.2026.3662626"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "IEEE Transactions on Intelligent Transportation Systems"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/205548151",
+          "display-index": "1"
+        },
+        {
+          "put-code": 222288253,
+          "created-date": {
+            "value": 1785426362272
+          },
+          "last-modified-date": {
+            "value": 1785426362272
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Quantum Computing in Transportation Engineering: A Survey"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/TITS.2026.3662626",
+                "external-id-normalized": {
+                  "value": "10.1109/tits.2026.3662626",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105029948304",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105029948304",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "15249050 15580016",
+                "external-id-normalized": {
+                  "value": "1524-9050",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105029948304&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "IEEE Transactions on Intelligent Transportation Systems"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288253",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362588
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.aap.2025.108382",
+            "external-id-normalized": {
+              "value": "10.1016/j.aap.2025.108382",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105027125944",
+            "external-id-normalized": {
+              "value": "2-s2.0-105027125944",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 222288261,
+          "created-date": {
+            "value": 1785426362588
+          },
+          "last-modified-date": {
+            "value": 1785426362588
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Uncovering latent structures of crash typology in narcotic-involved fatal crashes for safe system interventions"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.aap.2025.108382",
+                "external-id-normalized": {
+                  "value": "10.1016/j.aap.2025.108382",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105027125944",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105027125944",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "00014575 18792057",
+                "external-id-normalized": {
+                  "value": "0001-4575",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105027125944&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Accident Analysis and Prevention"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288261",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426363020
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.cities.2026.107038",
+            "external-id-normalized": {
+              "value": "10.1016/j.cities.2026.107038",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105036100480",
+            "external-id-normalized": {
+              "value": "2-s2.0-105036100480",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 222288273,
+          "created-date": {
+            "value": 1785426363020
+          },
+          "last-modified-date": {
+            "value": 1785426363020
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Who leaves, when, and how? Dissecting evacuation choices from a survey of at-risk residents in the Western U.S."
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.cities.2026.107038",
+                "external-id-normalized": {
+                  "value": "10.1016/j.cities.2026.107038",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105036100480",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105036100480",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "02642751",
+                "external-id-normalized": {
+                  "value": "0264-2751",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105036100480&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Cities"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288273",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362616
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105019097584",
+            "external-id-normalized": {
+              "value": "2-s2.0-105019097584",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.jsr.2025.10.009",
+            "external-id-normalized": {
+              "value": "10.1016/j.jsr.2025.10.009",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.jsr.2025.10.009"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 194599649,
+          "created-date": {
+            "value": 1760834174953
+          },
+          "last-modified-date": {
+            "value": 1760834174953
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Crash risk patterns among older bicyclists: Insights from hybrid XGBoost-Cluster Correspondence Analysis"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.jsr.2025.10.009",
+                "external-id-normalized": {
+                  "value": "10.1016/j.jsr.2025.10.009",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.jsr.2025.10.009"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.jsr.2025.10.009"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "12"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Journal of Safety Research"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/194599649",
+          "display-index": "1"
+        },
+        {
+          "put-code": 222288262,
+          "created-date": {
+            "value": 1785426362616
+          },
+          "last-modified-date": {
+            "value": 1785426362616
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Crash risk patterns among older bicyclists: Insights from hybrid XGBoost-Cluster Correspondence Analysis"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.jsr.2025.10.009",
+                "external-id-normalized": {
+                  "value": "10.1016/j.jsr.2025.10.009",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105019097584",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105019097584",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "00224375",
+                "external-id-normalized": {
+                  "value": "0022-4375",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105019097584&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Journal of Safety Research"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288262",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1761682427694
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1145/3764924.3770894",
+            "external-id-normalized": {
+              "value": "10.1145/3764924.3770894",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1145/3764924.3770894"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 195416179,
+          "created-date": {
+            "value": 1761682427694
+          },
+          "last-modified-date": {
+            "value": 1761682427694
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "ST-GraphNet: A Spatio-Temporal Graph Neural Network for Understanding and Predicting Automated Vehicle Crash Severity"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1145/3764924.3770894",
+                "external-id-normalized": {
+                  "value": "10.1145/3764924.3770894",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1145/3764924.3770894"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1145/3764924.3770894"
+          },
+          "type": "conference-paper",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "11"
+            },
+            "day": {
+              "value": "03"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/195416179",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426362298
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105015804296",
+            "external-id-normalized": {
+              "value": "2-s2.0-105015804296",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.aap.2025.108229",
+            "external-id-normalized": {
+              "value": "10.1016/j.aap.2025.108229",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1016/j.aap.2025.108229"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 191795267,
+          "created-date": {
+            "value": 1757774940770
+          },
+          "last-modified-date": {
+            "value": 1757774940770
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "A data-driven approach to child pedestrian crash analysis using dimension reduction, clustering, and explainable AI"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.aap.2025.108229",
+                "external-id-normalized": {
+                  "value": "10.1016/j.aap.2025.108229",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.aap.2025.108229"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1016/j.aap.2025.108229"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "11"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Accident Analysis & Prevention"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/191795267",
+          "display-index": "1"
+        },
+        {
+          "put-code": 222288254,
+          "created-date": {
+            "value": 1785426362298
+          },
+          "last-modified-date": {
+            "value": 1785426362298
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "A data-driven approach to child pedestrian crash analysis using dimension reduction, clustering, and explainable AI"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.aap.2025.108229",
+                "external-id-normalized": {
+                  "value": "10.1016/j.aap.2025.108229",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105015804296",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105015804296",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "00014575",
+                "external-id-normalized": {
+                  "value": "0001-4575",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105015804296&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Accident Analysis and Prevention"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288254",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1794238782428
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1016/j.aap.2025.108048",
+            "external-id-normalized": {
+              "value": "10.1016/j.aap.2025.108048",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105002841246",
+            "external-id-normalized": {
+              "value": "2-s2.0-105002841246",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 222288249,
+          "created-date": {
+            "value": 1785426362143
+          },
+          "last-modified-date": {
+            "value": 1794238782428
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Evaluating crash risk factors of farm equipment vehicles on county and non-county roads using interpretable tabular deep learning (TabNet)"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.aap.2025.108048",
+                "external-id-normalized": {
+                  "value": "10.1016/j.aap.2025.108048",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105002841246",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105002841246",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "00014575",
+                "external-id-normalized": {
+                  "value": "0001-4575",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105002841246&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Accident Analysis and Prevention"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288249",
+          "display-index": "1"
+        },
+        {
+          "put-code": 185651020,
+          "created-date": {
+            "value": 1749499537058
+          },
+          "last-modified-date": {
+            "value": 1749499537058
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Md Monzurul Islam"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Evaluating crash risk factors of farm equipment vehicles on county and non-county roads using interpretable tabular deep learning (TabNet)"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.aap.2025.108048",
+                "external-id-normalized": {
+                  "value": "10.1016/j.aap.2025.108048",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.aap.2025.108048"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "0001-4575",
+                "external-id-normalized": {
+                  "value": "0001-4575",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/0001-4575"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1016/j.aap.2025.108048"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "07"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Accident Analysis &amp; Prevention"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/185651020",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1785426363260
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1109/ICDMW69685.2025.00217",
+            "external-id-normalized": {
+              "value": "10.1109/icdmw69685.2025.00217",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-105035377288",
+            "external-id-normalized": {
+              "value": "2-s2.0-105035377288",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 222288277,
+          "created-date": {
+            "value": 1785426363260
+          },
+          "last-modified-date": {
+            "value": 1785426363260
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Md Monzurul Islam"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Unmasking Vehicle Automation-Severity Interactions Through Multimodal Association Rules Mining"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1109/ICDMW69685.2025.00217",
+                "external-id-normalized": {
+                  "value": "10.1109/icdmw69685.2025.00217",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-105035377288",
+                "external-id-normalized": {
+                  "value": "2-s2.0-105035377288",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "isbn",
+                "external-id-value": "9798331581329",
+                "external-id-normalized": {
+                  "value": "9798331581329",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "23759232 23759259",
+                "external-id-normalized": {
+                  "value": "2375-9232",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105035377288&partnerID=MN8TOARS"
+          },
+          "type": "conference-paper",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "IEEE International Conference on Data Mining Workshops Icdmw"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/222288277",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1760835643612
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1007/s10518-022-01488-8",
+            "external-id-normalized": {
+              "value": "10.1007/s10518-022-01488-8",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1007/s10518-022-01488-8"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 194600266,
+          "created-date": {
+            "value": 1760835643612
+          },
+          "last-modified-date": {
+            "value": 1760835643612
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0007-3670-6100",
+              "path": "0009-0007-3670-6100",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Md Monzurul Islam"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "A nonlinear macromodel for simulating the in-plane behavior of unreinforced masonry (URM) infilled frames"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1007/s10518-022-01488-8",
+                "external-id-normalized": {
+                  "value": "10.1007/s10518-022-01488-8",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1007/s10518-022-01488-8"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "1570-761X",
+                "external-id-normalized": {
+                  "value": "1570-761X",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/1570-761X"
+                },
+                "external-id-relationship": "part-of"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "1573-1456",
+                "external-id-normalized": {
+                  "value": "1573-1456",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/1573-1456"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1007/s10518-022-01488-8"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2022"
+            },
+            "month": {
+              "value": "10"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Bulletin of Earthquake Engineering"
+          },
+          "visibility": "public",
+          "path": "/0009-0007-3670-6100/work/194600266",
+          "display-index": "0"
+        }
+      ]
+    }
+  ],
+  "path": "/0009-0007-3670-6100/works"
+}

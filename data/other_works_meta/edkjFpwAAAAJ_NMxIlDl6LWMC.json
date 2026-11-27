@@ -1,0 +1,41 @@
+{
+  "scholar_id": "edkjFpwAAAAJ:NMxIlDl6LWMC",
+  "scholar_title": "Exploring the Role of Automated Emergency Braking in Traffic Crash Patterns Using Multivariate Data Mining Method",
+  "found": true,
+  "fetched_at": "2026-11-27T06:35:35+00:00",
+  "source": "openalex",
+  "title": "Exploring the Role of Automated Emergency Braking in Traffic Crash Patterns Using Multivariate Data Mining Method",
+  "authors": [
+    {
+      "name": "Md Monzurul Islam",
+      "orcid": "0009-0007-3670-6100"
+    },
+    {
+      "name": "Mahmuda Sultana Mimi",
+      "orcid": "0009-0007-8534-3633"
+    },
+    {
+      "name": "Sharif Ahmed Rafat",
+      "orcid": "0009-0002-8644-8326"
+    },
+    {
+      "name": "Tausif Islam Chowdhury",
+      "orcid": "0009-0008-2385-8719"
+    },
+    {
+      "name": "Arka Chakraborty",
+      "orcid": "0000-0002-6315-2277"
+    },
+    {
+      "name": "Subasish Das",
+      "orcid": "0000-0002-1671-2753"
+    }
+  ],
+  "date": "2026-09-07",
+  "doi": "10.21203/rs.3.rs-10819066/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-10819066/v1",
+  "venue": "Research Square",
+  "type": "preprint",
+  "openalex_id": "https://openalex.org/W7211899324",
+  "citations_openalex": 0
+}

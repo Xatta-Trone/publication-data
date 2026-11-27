@@ -1,0 +1,991 @@
+[
+  {
+    "put_code": 29627153,
+    "group_id": "issn:0952-1976",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "a1bd5b6f-4111-41fe-9f00-56047e60453d"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1792470888573
+  },
+  {
+    "put_code": 30105435,
+    "group_id": "issn:1538-957X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": "https://publons.com/wos-op/review/author/ApUAPh1l/",
+    "review_ids": {
+      "other-id": "ApUAPh1l"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876470741
+  },
+  {
+    "put_code": 30105436,
+    "group_id": "issn:1538-957X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": "https://publons.com/wos-op/review/author/LuDxVCB2/",
+    "review_ids": {
+      "other-id": "LuDxVCB2"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876471202
+  },
+  {
+    "put_code": 30105432,
+    "group_id": "issn:1538-957X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": "https://publons.com/wos-op/review/author/XUF0Cxfq/",
+    "review_ids": {
+      "other-id": "XUF0Cxfq"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876468942
+  },
+  {
+    "put_code": 30105433,
+    "group_id": "issn:1538-957X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": "https://publons.com/wos-op/review/author/E3mC6Oy0/",
+    "review_ids": {
+      "other-id": "E3mC6Oy0"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876469397
+  },
+  {
+    "put_code": 29092091,
+    "group_id": "issn:0967-070X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "aadfc17f-0f2c-486c-b852-cb9a54e3b308"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1789796767293
+  },
+  {
+    "put_code": 26945822,
+    "group_id": "issn:0967-070X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "9f994c32-9ddb-471a-b8d7-7b5e672fbfad"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1778394461016
+  },
+  {
+    "put_code": 30099378,
+    "group_id": "issn:2662-9283",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "47d85d80-ce9f-11f1-a973-7136c421f48d"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Springer Nature",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Springer Nature",
+    "last_modified": 1794819512286
+  },
+  {
+    "put_code": 29340611,
+    "group_id": "issn:2666-691X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-09-30",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "b6a1590a-640c-48ab-86ba-c08224db9f29"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1790834393721
+  },
+  {
+    "put_code": 29206237,
+    "group_id": "issn:2666-691X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-09-25",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "cde2ca3a-2416-4a00-8510-0a06834c444f"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1790401615892
+  },
+  {
+    "put_code": 28500796,
+    "group_id": "issn:2666-691X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-08-13",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "e0d0d385-7527-46ea-aa19-5f4e438079b7"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1786687082693
+  },
+  {
+    "put_code": 29975013,
+    "group_id": "issn:2666-691X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "338970ab-d684-47fd-a71b-faab2ddcfd62"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1794119200908
+  },
+  {
+    "put_code": 29511472,
+    "group_id": "issn:2045-2322",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "72bf6f90-b237-11f1-9623-294d9b7a8e63"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Springer Nature",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Springer Nature",
+    "last_modified": 1791791744841
+  },
+  {
+    "put_code": 29874286,
+    "group_id": "issn:2590-1982",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-11-01",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "878681a6-fc4c-43f8-8104-8f24052cd36c"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1793598478712
+  },
+  {
+    "put_code": 28361966,
+    "group_id": "issn:2590-1982",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "a956bc5b-59af-4e9d-8c01-54bfdbbb453d"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1785905054997
+  },
+  {
+    "put_code": 29814699,
+    "group_id": "issn:2590-1982",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "ccd06e05-5a02-4636-a881-6e4915efe067"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1793421866107
+  },
+  {
+    "put_code": 27983911,
+    "group_id": "issn:2590-1982",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "baa96b1d-ae9a-47d7-9079-01c1373c47aa"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1784090814307
+  },
+  {
+    "put_code": 28217593,
+    "group_id": "issn:2590-1230",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "3c433fa5-276f-4df9-b086-4511312a9c33"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1785394384226
+  },
+  {
+    "put_code": 30105434,
+    "group_id": "issn:1557-7341",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026",
+    "review_url": "https://publons.com/wos-op/review/author/G7elDL0g/",
+    "review_ids": {
+      "other-id": "G7elDL0g"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876470179
+  },
+  {
+    "put_code": 30198147,
+    "group_id": "issn:1574-0137",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-11-22",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "7425e62b-f314-4cb5-b5a6-be3b1aefc650"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1795411967802
+  },
+  {
+    "put_code": 30189044,
+    "group_id": "issn:1077-291X",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-11-22",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "fb8791ca-313c-4be8-b894-ef9347a6a060"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1795328316392
+  },
+  {
+    "put_code": 30184756,
+    "group_id": "issn:0001-4575",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-11-22",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "7f93dd04-d5b1-4aed-877c-3abd76ad4cad"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1795323915979
+  },
+  {
+    "put_code": 30077115,
+    "group_id": "issn:0001-4575",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-11-14",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "c1c7e858-477c-45a2-a773-16f6e5387925"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1794719085606
+  },
+  {
+    "put_code": 29800839,
+    "group_id": "issn:0001-4575",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-10-31",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "d7c30275-16bb-4ed3-bf38-e15b03037972"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1793419480924
+  },
+  {
+    "put_code": 29614430,
+    "group_id": "issn:0001-4575",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-10-19",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "2c60f6f9-ef42-4fec-bbdc-9dcbdae21c73"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1792448034437
+  },
+  {
+    "put_code": 29614429,
+    "group_id": "issn:0001-4575",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-10-19",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "f4ac3a24-9563-4a3b-9895-eb95ced5a5ed"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1792448034425
+  },
+  {
+    "put_code": 29199789,
+    "group_id": "issn:0001-4575",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-09-25",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "0317d229-3791-46cc-9812-cef842ea9513"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1790395504364
+  },
+  {
+    "put_code": 29084778,
+    "group_id": "issn:0001-4575",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-09-19",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "15317f47-7385-4da1-9941-f9d0885c01b5"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1789790731115
+  },
+  {
+    "put_code": 28934262,
+    "group_id": "issn:0001-4575",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-09-09",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "bf81ca3b-da7b-4e8d-99e3-b753d2cf3c44"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1789013107707
+  },
+  {
+    "put_code": 29696317,
+    "group_id": "issn:0303-2647",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-10-23",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "0d0d45c8-dd37-4060-a8f4-c0fa5b8ed5d3"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1792817366202
+  },
+  {
+    "put_code": 28362558,
+    "group_id": "issn:0303-2647",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-08-05",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "6caf3739-8f0f-432f-8cac-ec9a6c694d01"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1785905424061
+  },
+  {
+    "put_code": 29084830,
+    "group_id": "issn:2214-1405",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2026-09-19",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "f3b9fb43-47bb-46b3-acd5-b57f15564ab3"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Elsevier, Inc.",
+      "city": "New York",
+      "country": "US"
+    },
+    "source": "Elsevier Editorial ",
+    "last_modified": 1789791079729
+  },
+  {
+    "put_code": 22662455,
+    "group_id": "issn:0361-1981",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025-08",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "042d0ce9-54e1-452d-a9aa-81cbd8e1aaa8"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Transportation Research Board",
+      "city": "Washington",
+      "country": "US"
+    },
+    "source": "SAGE Publishing",
+    "last_modified": 1759207278454
+  },
+  {
+    "put_code": 23522609,
+    "group_id": "issn:0361-1981",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "9eaa6c9c-306d-4a40-9ef9-18e3a276099b"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Transportation Research Board",
+      "city": "Washington",
+      "country": "US"
+    },
+    "source": "SAGE Publishing",
+    "last_modified": 1764481013347
+  },
+  {
+    "put_code": 24043836,
+    "group_id": "issn:0361-1981",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "f98785cb-e445-448a-b598-1881f036769c"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Transportation Research Board",
+      "city": "Washington",
+      "country": "US"
+    },
+    "source": "SAGE Publishing",
+    "last_modified": 1767159627341
+  },
+  {
+    "put_code": 22662477,
+    "group_id": "issn:0361-1981",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": null,
+    "review_ids": {
+      "source-work-id": "5463fe79-c29f-4f28-9258-fc4e3ac530a9"
+    },
+    "subject_type": null,
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Transportation Research Board",
+      "city": "Washington",
+      "country": "US"
+    },
+    "source": "SAGE Publishing",
+    "last_modified": 1759207279488
+  },
+  {
+    "put_code": 30105428,
+    "group_id": "issn:1943-9970",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": "https://publons.com/wos-op/review/author/eWWugU9o/",
+    "review_ids": {
+      "other-id": "eWWugU9o"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876466729
+  },
+  {
+    "put_code": 30105425,
+    "group_id": "issn:1943-9970",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": "https://publons.com/wos-op/review/author/c67GYTZw/",
+    "review_ids": {
+      "other-id": "c67GYTZw"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876464717
+  },
+  {
+    "put_code": 30105426,
+    "group_id": "issn:2169-4052",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": "https://publons.com/wos-op/review/author/290WNXpt/",
+    "review_ids": {
+      "other-id": "290WNXpt"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876465261
+  },
+  {
+    "put_code": 30105427,
+    "group_id": "issn:2169-4052",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": "https://publons.com/wos-op/review/author/WnzMyEsP/",
+    "review_ids": {
+      "other-id": "WnzMyEsP"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876465748
+  },
+  {
+    "put_code": 30105430,
+    "group_id": "issn:2169-4052",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": "https://publons.com/wos-op/review/author/TL6oAFKr/",
+    "review_ids": {
+      "other-id": "TL6oAFKr"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876467442
+  },
+  {
+    "put_code": 30105429,
+    "group_id": "issn:2169-4052",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": "https://publons.com/wos-op/review/author/OBcvvJOg/",
+    "review_ids": {
+      "other-id": "OBcvvJOg"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876466993
+  },
+  {
+    "put_code": 30105431,
+    "group_id": "issn:2169-4052",
+    "reviewer_role": "reviewer",
+    "review_type": "review",
+    "completion_date": "2025",
+    "review_url": "https://publons.com/wos-op/review/author/7Hv9t4Ab/",
+    "review_ids": {
+      "other-id": "7Hv9t4Ab"
+    },
+    "subject_type": "journal-article",
+    "subject_name": null,
+    "subject_container": null,
+    "subject_ids": {},
+    "subject_url": null,
+    "convening_organization": {
+      "name": "Clarivate PLC",
+      "city": "London",
+      "country": "GB"
+    },
+    "source": "Web of Science Researcher Profiles",
+    "last_modified": 1794876468471
+  }
+]

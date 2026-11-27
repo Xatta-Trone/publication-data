@@ -1,0 +1,387 @@
+{
+  "issn": "1557-7341",
+  "title": "ACM Computing Surveys",
+  "publisher": "Association for Computing Machinery",
+  "issns": [
+    "0360-0300",
+    "1557-7341"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1795717997922,
+    "counts": {
+      "current-dois": 1021,
+      "backfile-dois": 2849,
+      "total-dois": 3870
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2025,
+          388
+        ],
+        [
+          2026,
+          334
+        ],
+        [
+          1996,
+          332
+        ],
+        [
+          2024,
+          299
+        ],
+        [
+          2023,
+          288
+        ],
+        [
+          2021,
+          219
+        ],
+        [
+          2022,
+          201
+        ],
+        [
+          2019,
+          161
+        ],
+        [
+          2020,
+          134
+        ],
+        [
+          2018,
+          117
+        ],
+        [
+          2017,
+          107
+        ],
+        [
+          2016,
+          97
+        ],
+        [
+          1995,
+          87
+        ],
+        [
+          1999,
+          85
+        ],
+        [
+          2015,
+          83
+        ],
+        [
+          2013,
+          77
+        ],
+        [
+          2014,
+          64
+        ],
+        [
+          2000,
+          54
+        ],
+        [
+          1979,
+          41
+        ],
+        [
+          1998,
+          40
+        ],
+        [
+          2012,
+          39
+        ],
+        [
+          1978,
+          38
+        ],
+        [
+          2011,
+          34
+        ],
+        [
+          2009,
+          31
+        ],
+        [
+          1981,
+          30
+        ],
+        [
+          1980,
+          29
+        ],
+        [
+          1982,
+          28
+        ],
+        [
+          1983,
+          27
+        ],
+        [
+          1977,
+          26
+        ],
+        [
+          2008,
+          21
+        ],
+        [
+          2010,
+          19
+        ],
+        [
+          1970,
+          18
+        ],
+        [
+          2006,
+          17
+        ],
+        [
+          1997,
+          17
+        ],
+        [
+          1976,
+          17
+        ],
+        [
+          1969,
+          17
+        ],
+        [
+          2007,
+          16
+        ],
+        [
+          1984,
+          15
+        ],
+        [
+          2002,
+          14
+        ],
+        [
+          1975,
+          14
+        ],
+        [
+          1974,
+          14
+        ],
+        [
+          2003,
+          13
+        ],
+        [
+          1985,
+          13
+        ],
+        [
+          2005,
+          12
+        ],
+        [
+          2004,
+          12
+        ],
+        [
+          2001,
+          12
+        ],
+        [
+          1989,
+          12
+        ],
+        [
+          1993,
+          11
+        ],
+        [
+          1991,
+          11
+        ],
+        [
+          1986,
+          11
+        ],
+        [
+          1972,
+          11
+        ],
+        [
+          1994,
+          10
+        ],
+        [
+          1992,
+          10
+        ],
+        [
+          1990,
+          10
+        ],
+        [
+          1973,
+          9
+        ],
+        [
+          1971,
+          9
+        ],
+        [
+          1988,
+          8
+        ],
+        [
+          1987,
+          7
+        ]
+      ]
+    },
+    "publisher": "Association for Computing Machinery",
+    "coverage": {
+      "affiliations-current": 1.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.9990205680705191,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.05974534769833497,
+      "funders-backfile": 0.3464373464373464,
+      "licenses-backfile": 0.9701649701649702,
+      "funders-current": 0.5484818805093046,
+      "affiliations-backfile": 0.944892944892945,
+      "resource-links-backfile": 0.9680589680589681,
+      "orcids-backfile": 0.3457353457353457,
+      "funder-ror-ids-current": 0.05974534769833497,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.02878202878202878,
+      "orcids-current": 0.9990205680705191,
+      "similarity-checking-backfile": 0.9666549666549668,
+      "references-backfile": 0.8975078975078975,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.2846612846612847,
+      "update-policies-backfile": 0.9757809757809758,
+      "licenses-current": 0.6219392752203722,
+      "award-numbers-current": 0.5083251714005877,
+      "abstracts-backfile": 0.6633906633906634,
+      "resource-links-current": 0.4505386875612145,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.02878202878202878,
+      "abstracts-current": 0.9970617042115573,
+      "references-current": 0.9941234084231146
+    },
+    "title": "ACM Computing Surveys",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1795717997922,
+        "affiliations": 0.9594315245478036,
+        "abstracts": 0.751421188630491,
+        "orcids": 0.5180878552971576,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.8782945736434109,
+        "references": 0.9229974160206718,
+        "funders": 0.3997416020671835,
+        "similarity-checking": 0.9751937984496124,
+        "funder-ror-ids": 0.03695090439276486,
+        "award-numbers": 0.3436692506459948,
+        "ror-ids": 0.03695090439276486,
+        "update-policies": 0.982170542635659,
+        "resource-links": 0.8315245478036176,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1795717997922,
+        "affiliations": 0.944892944892945,
+        "abstracts": 0.6633906633906634,
+        "orcids": 0.3457353457353457,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9701649701649702,
+        "references": 0.8975078975078975,
+        "funders": 0.3464373464373464,
+        "similarity-checking": 0.9666549666549668,
+        "funder-ror-ids": 0.02878202878202878,
+        "award-numbers": 0.2846612846612847,
+        "ror-ids": 0.02878202878202878,
+        "update-policies": 0.9757809757809758,
+        "resource-links": 0.9680589680589681,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1795717997922,
+        "affiliations": 1.0,
+        "abstracts": 0.9970617042115573,
+        "orcids": 0.9990205680705191,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.6219392752203722,
+        "references": 0.9941234084231146,
+        "funders": 0.5484818805093046,
+        "similarity-checking": 0.9990205680705191,
+        "funder-ror-ids": 0.05974534769833497,
+        "award-numbers": 0.5083251714005877,
+        "ror-ids": 0.05974534769833497,
+        "update-policies": 1.0,
+        "resource-links": 0.4505386875612145,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": true,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": true,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": true,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": true,
+      "deposits-articles": true,
+      "deposits-affiliations-current": true,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": true,
+      "deposits-ror-ids-backfile": true,
+      "deposits-abstracts-backfile": true,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": true,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": true,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "0360-0300",
+      "1557-7341"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0360-0300"
+      },
+      {
+        "type": "electronic",
+        "value": "1557-7341"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:32+00:00"
+}

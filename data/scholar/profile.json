@@ -1,0 +1,330 @@
+{
+  "user": "edkjFpwAAAAJ",
+  "profile_url": "https://scholar.google.com/citations?user=edkjFpwAAAAJ&hl=en",
+  "name": "Md Monzurul Islam",
+  "metrics": {
+    "citations": {
+      "all": 816,
+      "recent": 814
+    },
+    "h_index": {
+      "all": 9,
+      "recent": 9
+    },
+    "i10_index": {
+      "all": 9,
+      "recent": 9
+    },
+    "recent_label": "Since 2021"
+  },
+  "citations_per_year": {
+    "2024": 13,
+    "2025": 193,
+    "2026": 590
+  },
+  "articles": [
+    {
+      "title": "A survey on kolmogorov-arnold network",
+      "authors": "S Somvanshi, SA Javed, MM Islam, D Pandit, S Das",
+      "venue": "ACM Computing Surveys 58 (2), 1-35 , 2025",
+      "year": 2025,
+      "citations": 419,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3685491142183386535",
+      "scholar_id": "edkjFpwAAAAJ:d1gkVwhDpl0C",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "title": "From tiny machine learning to tiny deep learning: A survey",
+      "authors": "S Somvanshi, MM Islam, G Chhetri, R Chakraborty, MS Mimi, SA Shuvo, ...",
+      "venue": "ACM Computing Surveys 58 (7), 1-33 , 2025",
+      "year": 2025,
+      "citations": 142,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12968088412087250640",
+      "scholar_id": "edkjFpwAAAAJ:Se3iqnhoufwC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:Se3iqnhoufwC"
+    },
+    {
+      "title": "Advancing intelligent sequence modeling: Evolution, trade-offs, and applications of state-space architectures from S4 to mamba—A survey",
+      "authors": "S Somvanshi, MM Islam, MS Mimi, SBB Polock, G Chhetri, A Dutta, A Rafe, ...",
+      "venue": "Neurocomputing, 135736 , 2026",
+      "year": 2026,
+      "citations": 84,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3749797434443778160,12017054761158178655,6142543338840008355,10441399232676666373",
+      "scholar_id": "edkjFpwAAAAJ:GnPB-g6toBAC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:GnPB-g6toBAC"
+    },
+    {
+      "title": "Bridging the black box: a survey on mechanistic interpretability in AI",
+      "authors": "S Somvanshi, MM Islam, A Rafe, AG Tusti, A Chakraborty, A Baitullah, ...",
+      "venue": "ACM Computing Surveys 58 (8), 1-35 , 2026",
+      "year": 2026,
+      "citations": 61,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16180889669264754033",
+      "scholar_id": "edkjFpwAAAAJ:9ZlFYXVOiuMC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+      "title": "Evaluating crash risk factors of farm equipment vehicles on county and non-county roads using interpretable tabular deep learning (TabNet)",
+      "authors": "MM Islam, J Liu, R Chakraborty, S Das",
+      "venue": "Accident Analysis & Prevention 217, 108048 , 2025",
+      "year": 2025,
+      "citations": 25,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16085420807383821288",
+      "scholar_id": "edkjFpwAAAAJ:zYLM7Y9cAGgC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "title": "Quantum computing in transportation engineering: A survey",
+      "authors": "S Somvanshi, S Das, MM Islam, SBB Polock, G Chhetri, D Anderson",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems , 2026",
+      "year": 2026,
+      "citations": 21,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3206074776682326707",
+      "scholar_id": "edkjFpwAAAAJ:2osOgNQ5qMEC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "title": "A Review on Influx of Bio-Inspired Algorithms: Critique and Improvement Needs",
+      "authors": "S Somvanshi, MM Islam, SA Javed, G Chhetri, KS Islam, TI Chowdhury, ...",
+      "venue": "arXiv preprint arXiv:2506.04238 , 2025",
+      "year": 2025,
+      "citations": 16,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14444917354076055547,8813858719760492761",
+      "scholar_id": "edkjFpwAAAAJ:hC7cP41nSMkC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:hC7cP41nSMkC"
+    },
+    {
+      "title": "ST-GraphNet: a Spatio-Temporal graph neural network for understanding and predicting automated vehicle crash severity",
+      "authors": "MS Mimi, MM Islam, A Ghosh Tusti, S Somvanshi, S Das, X Ye",
+      "venue": "Proceedings of the 1st ACM SIGSPATIAL International Workshop on Spatial … , 2025",
+      "year": 2025,
+      "citations": 11,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13540592201773037147",
+      "scholar_id": "edkjFpwAAAAJ:LkGwnXOMwfcC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+      "title": "Model context protocols in adaptive transport systems: A survey",
+      "authors": "G Chhetri, S Somvanshi, MM Islam, S Brotee, MS Mimi, D Koirala, ...",
+      "venue": "arXiv preprint arXiv:2508.19239 , 2025",
+      "year": 2025,
+      "citations": 11,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=834540261289384132",
+      "scholar_id": "edkjFpwAAAAJ:M3ejUd6NZC8C",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:M3ejUd6NZC8C"
+    },
+    {
+      "title": "A nonlinear macromodel for simulating the in-plane behavior of unreinforced masonry (URM) infilled frames",
+      "authors": "SMN Adnan, K Matsukawa, Y Haga, MM Islam, Y Nakano",
+      "venue": "Bulletin of Earthquake Engineering 20 (13), 7347-7379 , 2022",
+      "year": 2022,
+      "citations": 7,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13762133715543525747",
+      "scholar_id": "edkjFpwAAAAJ:u5HHmVD_uO8C",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "title": "Crash risk patterns among older bicyclists: Insights from hybrid XGBoost-Cluster Correspondence Analysis",
+      "authors": "MS Mimi, MM Islam, A Sheykhfard, S Das",
+      "venue": "Journal of Safety Research 95, 301-317 , 2025",
+      "year": 2025,
+      "citations": 4,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11775543364264943710",
+      "scholar_id": "edkjFpwAAAAJ:_kc_bZDykSQC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:_kc_bZDykSQC"
+    },
+    {
+      "title": "A data-driven approach to child pedestrian crash analysis using dimension reduction, clustering, and explainable AI",
+      "authors": "S Barua, R Chakraborty, MM Islam, S Das",
+      "venue": "Accident Analysis & Prevention 222, 108229 , 2025",
+      "year": 2025,
+      "citations": 3,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14189011136504209078",
+      "scholar_id": "edkjFpwAAAAJ:ULOm3_A8WrAC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:ULOm3_A8WrAC"
+    },
+    {
+      "title": "Realism and causality in synthetic data generation: A survey",
+      "authors": "G Chhetri, S Somvanshi, MS Mimi, MW Ansari, MM Islam, S Barua, S Das",
+      "venue": "Available at SSRN 5679762 , 2025",
+      "year": 2025,
+      "citations": 3,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8605616093358355557",
+      "scholar_id": "edkjFpwAAAAJ:QIV2ME_5wuYC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:QIV2ME_5wuYC"
+    },
+    {
+      "title": "Not Just Another Survey on Physics-Informed Neural Networks (PINNs): Foundations, Advances, and Open Problems",
+      "authors": "S Somvanshi, MO Aibinu, R Chakraborty, MM Islam, MS Mimi, D Koirala, ...",
+      "venue": "Advances, and Open Problems (August 19, 2025) , 2025",
+      "year": 2025,
+      "citations": 3,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4362245111131023579",
+      "scholar_id": "edkjFpwAAAAJ:L8Ckcad2t8MC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:L8Ckcad2t8MC"
+    },
+    {
+      "title": "Toward safer micromobility: Identifying urban e-scooter crash severity factors through automated machine learning and crash narrative analysis",
+      "authors": "J Liu, S Barua, R Chakraborty, MM Islam, S Das",
+      "venue": "Cities 178, 107384 , 2026",
+      "year": 2026,
+      "citations": 2,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16730226907619359842",
+      "scholar_id": "edkjFpwAAAAJ:_Qo2XoVZTnwC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:_Qo2XoVZTnwC"
+    },
+    {
+      "title": "Applying MambaAttention, TabPFN, and TabTransformers to Classify SAE Automation Levels in Crashes",
+      "authors": "S Somvanshi, AG Tusti, MS Mimi, MM Islam, SBB Polock, A Dutta, S Das",
+      "venue": "arXiv preprint arXiv:2506.03160 , 2025",
+      "year": 2025,
+      "citations": 2,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6985345037776615375",
+      "scholar_id": "edkjFpwAAAAJ:_FxGoFyzp5QC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+      "title": "Classifying crash severity by SAE automation level using transformer models: Insights for automated vehicle policy",
+      "authors": "MS Mimi, MM Islam, S Barua, TI Chowdhury, AG Tusti, G Chhetri, S Das",
+      "venue": "Transport Policy, 104222 , 2026",
+      "year": 2026,
+      "citations": 1,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16229453942720319726",
+      "scholar_id": "edkjFpwAAAAJ:mB3voiENLucC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:mB3voiENLucC"
+    },
+    {
+      "title": "Uncovering latent structures of crash typology in narcotic-involved fatal crashes for safe system interventions",
+      "authors": "AG Tusti, R Chakraborty, TI Chowdhury, MM Islam, MS Mimi, S Das",
+      "venue": "Accident Analysis & Prevention 227, 108382 , 2026",
+      "year": 2026,
+      "citations": 1,
+      "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7610490996910616031",
+      "scholar_id": "edkjFpwAAAAJ:aqlVkmm33-oC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:aqlVkmm33-oC"
+    },
+    {
+      "title": "Crash Severity in Automated Vehicle Collisions: A Texas-Based Investigation Across Automation Levels",
+      "authors": "G Chhetri, MM Islam, S Das",
+      "venue": "Data Science for Transportation 8 (3), 28 , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:isC4tDSrTZIC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:isC4tDSrTZIC"
+    },
+    {
+      "title": "Multidimensional analysis of e-scooter crash severity using cluster correspondence and explainable AI",
+      "authors": "MM Islam, SA Rafat, TI Chowdhury, K Aghabayk, S Das",
+      "venue": "Scientific Reports , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:YFjsv_pBGBYC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:YFjsv_pBGBYC"
+    },
+    {
+      "title": "Exploring the Role of Automated Emergency Braking in Traffic Crash Patterns Using Multivariate Data Mining Method",
+      "authors": "MM Islam, MS Mimi, SA Rafat, TI Chowdhury, A Chakraborty, S Das",
+      "venue": "",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:NMxIlDl6LWMC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:NMxIlDl6LWMC"
+    },
+    {
+      "title": "Vision-based infrastructure monitoring: pavement marking visibility classification using deep neural networks",
+      "authors": "MM Islam, S Das, M Jalayer, A Pike, TI Chowdhury, R Chakraborty, ...",
+      "venue": "International Journal of Transportation Science and Technology , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:blknAaTinKkC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:blknAaTinKkC"
+    },
+    {
+      "title": "Crash Risk Analysis of Non-Motorists using Interpretable Tabular Deep Learning",
+      "authors": "MM Islam, A Ghosh Tusti, MS Mimi, S Somvanshi, S Das",
+      "venue": "Transportation Research Record, 03611981261468749 , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:JV2RwH3_ST0C",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:JV2RwH3_ST0C"
+    },
+    {
+      "title": "HERMES: Heterogeneous Edge-Relational Multi-Head Embedded SSM Attention for Traffic Conflict Prediction at Signalized Intersections",
+      "authors": "MM Islam, S Das",
+      "venue": "arXiv preprint arXiv:2607.20505 , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:RHpTSmoSYBkC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:RHpTSmoSYBkC"
+    },
+    {
+      "title": "Who leaves, when, and how? Dissecting evacuation choices from a survey of at-risk residents in the Western US",
+      "authors": "SBB Polock, S Das, S Somvanshi, MM Islam, A Sheykhfard",
+      "venue": "Cities 174, 107038 , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:mVmsd5A6BfQC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:mVmsd5A6BfQC"
+    },
+    {
+      "title": "Toward Safer Bicycle Infrastructure: Policy Insights from Temporal Stability and Heterogeneous Crash Severity in Bike Lane-Involved Crashes",
+      "authors": "SBB Polock, S Das, MM Islam",
+      "venue": "",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:e5wmG9Sq2KIC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+      "title": "Semantic modelling of pedestrian behaviours at shared-use path crossings: insights from BERT-based architectures and structural topic modelling",
+      "authors": "MS Mimi, MM Islam, S Das, AK Dutta, B Dadashova",
+      "venue": "Transportmetrica A: Transport Science, 1-53 , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:IWHjjKOFINEC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:IWHjjKOFINEC"
+    },
+    {
+      "title": "Linking driver fatigue, safety rest area closures, and crash severity using cluster correspondence analysis",
+      "authors": "S Barua, R Chakraborty, MS Mimi, MM Islam, S Das",
+      "venue": "Journal of Transportation Safety & Security 18 (2), 268-302 , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:YOwf2qJgpHMC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+      "title": "Traffic Analysis Practices for Nonmotorized Modes",
+      "authors": "S Das, A Rafe, MS Mimi, S Barua, MM Islam",
+      "venue": "NCHRP Synthesis of Highway Practice , 2026",
+      "year": 2026,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:BqipwSGYUEgC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:BqipwSGYUEgC"
+    },
+    {
+      "title": "Unmasking Vehicle Automation–Severity Interactions Through Multimodal Association Rules Mining",
+      "authors": "R Chakraborty, MM Islam, S Somvanshi, S Barua, S Das",
+      "venue": "2025 IEEE International Conference on Data Mining Workshops (ICDMW), 1812-1820 , 2025",
+      "year": 2025,
+      "citations": null,
+      "cited_by_url": null,
+      "scholar_id": "edkjFpwAAAAJ:-f6ydRqryjwC",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:-f6ydRqryjwC"
+    }
+  ],
+  "article_count": 30,
+  "maybe_truncated": false,
+  "fetched_at": "2026-11-27T06:43:08+00:00"
+}

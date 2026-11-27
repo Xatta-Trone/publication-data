@@ -1,0 +1,181 @@
+{
+  "issn": "2590-1982",
+  "title": "Transportation Research Interdisciplinary Perspectives",
+  "publisher": "Elsevier",
+  "issns": [
+    "2590-1982"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1791253952651,
+    "counts": {
+      "current-dois": 1286,
+      "backfile-dois": 919,
+      "total-dois": 2205
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2026,
+          516
+        ],
+        [
+          2025,
+          469
+        ],
+        [
+          2024,
+          301
+        ],
+        [
+          2023,
+          235
+        ],
+        [
+          2021,
+          227
+        ],
+        [
+          2022,
+          204
+        ],
+        [
+          2020,
+          183
+        ],
+        [
+          2019,
+          70
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.0,
+      "funders-backfile": 0.544069640914037,
+      "licenses-backfile": 1.0,
+      "funders-current": 0.6003110419906686,
+      "affiliations-backfile": 0.0,
+      "resource-links-backfile": 1.0,
+      "orcids-backfile": 0.2883569096844396,
+      "funder-ror-ids-current": 0.0,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.0,
+      "orcids-current": 0.7060653188180404,
+      "similarity-checking-backfile": 0.0,
+      "references-backfile": 0.9640914036996736,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.2491838955386289,
+      "update-policies-backfile": 0.998911860718172,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.3055987558320373,
+      "abstracts-backfile": 0.0,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.0,
+      "abstracts-current": 0.0,
+      "references-current": 0.97900466562986
+    },
+    "title": "Transportation Research Interdisciplinary Perspectives",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1791253952651,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.5319727891156463,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9727891156462585,
+        "funders": 0.5768707482993197,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.2820861678004535,
+        "ror-ids": 0.0,
+        "update-policies": 0.999546485260771,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1791253952651,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.2883569096844396,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9640914036996736,
+        "funders": 0.544069640914037,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.2491838955386289,
+        "ror-ids": 0.0,
+        "update-policies": 0.998911860718172,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1791253952651,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.7060653188180404,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.97900466562986,
+        "funders": 0.6003110419906686,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.3055987558320373,
+        "ror-ids": 0.0,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": false,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": false,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": false,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": false,
+      "deposits-ror-ids-backfile": false,
+      "deposits-abstracts-backfile": false,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": false,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": false,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "2590-1982"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2590-1982"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:37+00:00"
+}

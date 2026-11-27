@@ -1,0 +1,1685 @@
+[
+  {
+    "doi": "10.1016/j.softx.2026.103258",
+    "title": "AVISTA: An extensible desktop platform for reproducible tabular machine learning and deep learning analytics",
+    "type": "journal-article",
+    "venue": "SoftwareX",
+    "year": 2026,
+    "date_online": "2026-11-26",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2026-12",
+    "date_created": "2026-11-26",
+    "my_position": 1,
+    "citations_openalex": null,
+    "citations_crossref": 0,
+    "is_open_access": null,
+    "oa_url": null,
+    "url": "https://doi.org/10.1016/j.softx.2026.103258",
+    "authors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "36",
+    "issue": null,
+    "pages": "103258",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": null,
+    "fwci": null,
+    "primary_topic": null,
+    "keywords": [],
+    "citations_by_year": {},
+    "citations_scholar": null,
+    "scholar_url": null,
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.neucom.2026.135736",
+    "title": "Advancing intelligent sequence modeling: Evolution, trade-offs, and applications of state-space architectures from S4 to Mamba—A survey",
+    "type": "journal-article",
+    "venue": "Neurocomputing",
+    "year": 2026,
+    "date_online": "2026-11-21",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2027-02",
+    "date_created": "2026-11-21",
+    "my_position": 2,
+    "citations_openalex": null,
+    "citations_crossref": 0,
+    "is_open_access": null,
+    "oa_url": null,
+    "url": "https://doi.org/10.1016/j.neucom.2026.135736",
+    "authors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": "0009-0005-5505-4174",
+        "is_me": false
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": "0009-0000-0124-4814",
+        "is_me": false
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": "0009-0002-7279-7752",
+        "is_me": false
+      },
+      {
+        "name": "Amir Rafe",
+        "orcid": "0000-0002-4089-2088",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      }
+    ],
+    "volume": "713",
+    "issue": null,
+    "pages": "135736",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": null,
+    "fwci": null,
+    "primary_topic": null,
+    "keywords": [],
+    "citations_by_year": {},
+    "citations_scholar": 84,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:GnPB-g6toBAC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.17226/29551",
+    "title": "Traffic Analysis Practices for Nonmotorized Modes",
+    "type": "edited-book",
+    "venue": null,
+    "year": 2026,
+    "date_online": "2026-10-16",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2026-10-16",
+    "date_created": "2026-10-16",
+    "my_position": 5,
+    "citations_openalex": 0,
+    "citations_crossref": 0,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.17226/29551",
+    "authors": [
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Amir Rafe",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "National Cooperative Highway Research Program",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Transportation Research Board",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "National Academies of Sciences, Engineering, and Medicine",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "National Academies Press",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W7222639796",
+    "fwci": 0.0,
+    "primary_topic": "Urban Transport and Accessibility",
+    "keywords": [
+      "nonmotorized travel",
+      "pedestrian flow",
+      "bicycle traffic",
+      "traffic analysis",
+      "travel demand modeling",
+      "pedestrian safety",
+      "cyclist safety"
+    ],
+    "citations_by_year": {},
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:BqipwSGYUEgC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1038/s41598-026-74874-w",
+    "title": "Multidimensional analysis of e-scooter crash severity using cluster correspondence and explainable AI",
+    "type": "journal-article",
+    "venue": "Scientific Reports",
+    "year": 2026,
+    "date_online": "2026-10-07",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2026-10-07",
+    "date_created": "2026-10-07",
+    "my_position": 1,
+    "citations_openalex": 0,
+    "citations_crossref": 0,
+    "is_open_access": true,
+    "oa_url": "https://www.nature.com/articles/s41598-026-74874-w_reference.pdf",
+    "url": "https://doi.org/10.1038/s41598-026-74874-w",
+    "authors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Sharif Ahmed Rafat",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Kayvan Aghabayk",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "Springer Science and Business Media LLC",
+    "abstract": "The rapid expansion of electric scooters (e-scooters) in urban transportation networks has transformed personal mobility across U.S. cities, yet rising crash rates have raised critical safety concerns. This study investigates the factors contributing to e-scooter crash severity through a novel integration of Cluster Correspondence Analysis (CCA) and SHapley Additive exPlanations (SHAP), offering both structural and interpretable insights into injury outcomes. Using 355 e-scooter crash records from Texas between 2021 and 2024, the study identifies four distinct crash typologies based on behavioral, spatial, and environmental features. These clusters capture key contexts including intersection-related crashes with traffic control presence, midblock conflicts in shared lanes, incidents in informal low-speed areas like parking lots, and crashes at driveways and off-road access points. SHAP analysis quantifies the contribution of individual predictors to severity outcomes, revealing that intersection complexity, lighting condition, road classification, rider age, and crash configuration (such as direction of impact or off-road transitions) are consistently associated with severe injuries. Higher severity was observed among older riders, in environments with poor visibility, and at points of vehicle-e-scooter interaction such as signalized intersections and driveway exits. To support applied use, an interactive Shiny dashboard was developed to visualize crash patterns and assist in the identification of high-risk locations. The findings underscore the importance of context-specific factors in e-scooter crash outcomes and offer actionable insights for improving micromobility safety through targeted infrastructure design, regulatory interventions, and rider-focused educational strategies.",
+    "abstract_source": "openalex",
+    "openalex_id": "https://openalex.org/W7163825218",
+    "fwci": 0.0,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "electric scooters",
+      "accident severity",
+      "SHAP",
+      "injury outcomes",
+      "intersection crashes",
+      "rider age",
+      "lighting conditions",
+      "Shiny dashboard",
+      "urban transport"
+    ],
+    "citations_by_year": {},
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:YFjsv_pBGBYC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.ijtst.2026.01.005",
+    "title": "Vision-based infrastructure monitoring: pavement marking visibility classification using deep neural networks",
+    "type": "journal-article",
+    "venue": "International Journal of Transportation Science and Technology",
+    "year": 2026,
+    "date_online": "2026-08-27",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2026-08",
+    "date_created": "2026-08-27",
+    "my_position": 1,
+    "citations_openalex": 0,
+    "citations_crossref": 0,
+    "is_open_access": true,
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S2046043026001103/pdf",
+    "url": "https://doi.org/10.1016/j.ijtst.2026.01.005",
+    "authors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Mohammad Jalayer",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Adam Pike",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": "0009-0008-2385-8719",
+        "is_me": false
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Sadman Islam",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "publisher": "Elsevier BV",
+    "abstract": "Pavement marking visibility and retroreflectivity are critical indicators of roadway safety and operational efficiency, particularly for human drivers and automated systems alike. This study presents a comprehensive deep learning framework for classifying pavement marking conditions into good, medium, and poor using a dataset of 4 306 cropped images derived from mobile roadway video. The dataset was partitioned into 70% training, 20% validation, and 10% testing subsets using stratified sampling. The pipeline integrates optical character recognition (OCR) to extract embedded metadata such as retroreflectivity levels, image preprocessing for region-of-interest isolation, and class imbalance handling via data augmentation and stratified sampling. 6 models were evaluated across standardized training, validation, and testing subsets. Performance metrics, including accuracy, precision, recall, and F1-score, were computed for model comparison. DenseNet121 and InceptionV3 emerged as top performers, achieving macro F1-scores above 0.90 and demonstrating strong generalization across class boundaries. In contrast, EfficientNetB0 underperformed, highlighting the importance of domain-specific model adaptation. This research underscores the viability of convolutional neural network (CNN)-based image classification for infrastructure condition monitoring and offers a scalable, vision-based alternative to traditional retroreflectivity measurements.",
+    "abstract_source": "openalex",
+    "openalex_id": "https://openalex.org/W7204443151",
+    "fwci": 0.0,
+    "primary_topic": "Infrastructure Maintenance and Monitoring",
+    "keywords": [
+      "retroreflectivity",
+      "infrastructure condition monitoring",
+      "road safety",
+      "optical character recognition",
+      "class imbalance",
+      "data augmentation",
+      "DenseNet121",
+      "InceptionV3",
+      "EfficientNetB0",
+      "convolutional neural networks"
+    ],
+    "citations_by_year": {},
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:blknAaTinKkC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1177/03611981261468749",
+    "title": "Crash Risk Analysis of Non-Motorists using Interpretable Tabular Deep Learning",
+    "type": "journal-article",
+    "venue": "Transportation Research Record: Journal of the Transportation Research Board",
+    "year": 2026,
+    "date_online": "2026-08-16",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2026-08-16",
+    "date_created": "2026-08-17",
+    "my_position": 1,
+    "citations_openalex": 0,
+    "citations_crossref": 0,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1177/03611981261468749",
+    "authors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": "0009-0001-5102-5182",
+        "is_me": false
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      }
+    ],
+    "volume": null,
+    "issue": null,
+    "pages": "03611981261468749",
+    "publisher": "SAGE Publications",
+    "abstract": "The study investigates injury severity patterns among non-motorists (e.g., pedestrians and bicyclists) in Illinois using interpretable machine learning models applied to crash data from 2021 to 2023. The dataset included variables such as roadway design, environmental context, crash characteristics, and driver behavior. To address class imbalance in injury severity labels, synthetic oversampling was employed. Feature selection was performed using Random Forest and XGBoost, followed by training TabNet and FT-Transformer models. TabNet achieved the highest accuracy under the balanced training configuration and showed the strongest performance on the original imbalanced dataset across precision, recall, and F1 score, while also providing intrinsic interpretability through sequential attention-based feature selection. SHAP analysis revealed that temporal and environmental factors significantly influenced early model decisions, with behavioral and infrastructure-related variables impacting subsequent stages. The findings emphasize optimizing lighting, enhancing traffic control, and addressing time-specific crash risks. The study underscores the potential of interpretable tabular deep learning in traffic safety analytics, advocating for integration with contextual, geospatial, and behavioral data for targeted interventions.",
+    "abstract_source": "crossref",
+    "openalex_id": "https://openalex.org/W7203599571",
+    "fwci": 0.0,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "pedestrian safety",
+      "cyclist safety",
+      "injury severity",
+      "TabNet",
+      "class imbalance",
+      "synthetic oversampling",
+      "SHAP",
+      "road safety",
+      "street lighting",
+      "traffic management",
+      "Illinois"
+    ],
+    "citations_by_year": {},
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:JV2RwH3_ST0C",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1007/s42421-026-00171-7",
+    "title": "Crash Severity in Automated Vehicle Collisions: A Texas-Based Investigation Across Automation Levels",
+    "type": "journal-article",
+    "venue": "Data Science for Transportation",
+    "year": 2026,
+    "date_online": "2026-08-06",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2026-12",
+    "date_created": "2026-08-06",
+    "my_position": 2,
+    "citations_openalex": 0,
+    "citations_crossref": 0,
+    "is_open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s42421-026-00171-7.pdf",
+    "url": "https://doi.org/10.1007/s42421-026-00171-7",
+    "authors": [
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": "0009-0000-0124-4814",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "8",
+    "issue": "3",
+    "pages": "28",
+    "publisher": "Springer Science and Business Media LLC",
+    "abstract": "Crash severity remains a critical issue despite rapid advances in vehicle automation. This study contributes to automated vehicle (AV) safety research by analyzing a Texas crash dataset that spans multiple automation levels, unlike most studies that focus on California. Using Association Rules Mining (ARM), it identifies key relationships among crash factors, such as speed, road type, collision type, lighting, weather, and driver characteristics. Crashes were grouped by automation level: assisted driving (Level 1), partial automation (Level 2), and conditional–full automation (Levels 3–5). In assisted driving, severe injuries were frequently linked to high speeds on narrow roads and older drivers. For partial automation, moderate speeds combined with poor traffic control or complex layouts heightened injury risk. Crashes involving Levels 3–5 were not observed in the KA category, suggesting a lower observed severity profile for higher-automation crashes in this dataset. An interactive tool was also developed to visualize crash locations and factors by severity and automation level. Policy recommendations include improving roadway design in high-risk areas, enhancing driver training, and advancing AV system safety. These strategies can reduce crash severity and support safer AV deployment in Texas and beyond.",
+    "abstract_source": "crossref",
+    "openalex_id": "https://openalex.org/W7172492174",
+    "fwci": 0.0,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "autonomous vehicles",
+      "accident severity",
+      "vehicle automation levels",
+      "association rule mining",
+      "injury risk factors",
+      "speed",
+      "road type",
+      "driver characteristics",
+      "road design",
+      "driver training"
+    ],
+    "citations_by_year": {},
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:isC4tDSrTZIC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.cities.2026.107384",
+    "title": "Toward safer micromobility: Identifying urban e-scooter crash severity factors through automated machine learning and crash narrative analysis",
+    "type": "journal-article",
+    "venue": "Cities",
+    "year": 2026,
+    "date_online": "2026-07-08",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2026-11",
+    "date_created": "2026-07-08",
+    "my_position": 4,
+    "citations_openalex": 2,
+    "citations_crossref": 1,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1016/j.cities.2026.107384",
+    "authors": [
+      {
+        "name": "Jinli Liu",
+        "orcid": "0000-0002-6152-8808",
+        "is_me": false
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": "0009-0008-4894-9131",
+        "is_me": false
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": "0000-0002-1660-9764",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      }
+    ],
+    "volume": "178",
+    "issue": null,
+    "pages": "107384",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W7167729637",
+    "fwci": 4.708,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "electric scooters",
+      "accident severity",
+      "injury severity",
+      "automated machine learning",
+      "SHAP",
+      "lighting conditions",
+      "shared lanes",
+      "arterial roads",
+      "speed limits",
+      "traffic management",
+      "shared mobility"
+    ],
+    "citations_by_year": {
+      "2026": 2
+    },
+    "citations_scholar": 2,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:_Qo2XoVZTnwC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.tranpol.2026.104222",
+    "title": "Classifying crash severity by SAE automation level using transformer models: Insights for automated vehicle policy",
+    "type": "journal-article",
+    "venue": "Transport Policy",
+    "year": 2026,
+    "date_online": "2026-05-25",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2026-09",
+    "date_created": "2026-05-25",
+    "my_position": 2,
+    "citations_openalex": 1,
+    "citations_crossref": 1,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1016/j.tranpol.2026.104222",
+    "authors": [
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Anannya GhoshTusti",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": "0009-0000-0124-4814",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "185",
+    "issue": null,
+    "pages": "104222",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W7162290067",
+    "fwci": 2.354,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "autonomous vehicles",
+      "accident severity",
+      "transformer models",
+      "BERT",
+      "DistilBERT",
+      "RoBERTa",
+      "crash narratives",
+      "driver monitoring",
+      "sensor calibration",
+      "operational design domain",
+      "Infrastructure Investment and Jobs Act",
+      "driver inattention",
+      "sensor data quality"
+    ],
+    "citations_by_year": {
+      "2026": 1
+    },
+    "citations_scholar": 1,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:mB3voiENLucC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.cities.2026.107038",
+    "title": "Who leaves, when, and how? Dissecting evacuation choices from a survey of at-risk residents in the Western U.S.",
+    "type": "journal-article",
+    "venue": "Cities",
+    "year": 2026,
+    "date_online": "2026-04-13",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2026-07",
+    "date_created": "2026-04-13",
+    "my_position": 4,
+    "citations_openalex": 1,
+    "citations_crossref": 0,
+    "is_open_access": true,
+    "oa_url": "https://doi.org/10.2139/ssrn.5489583",
+    "url": "https://doi.org/10.1016/j.cities.2026.107038",
+    "authors": [
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Abbas Sheykhfard",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "174",
+    "issue": null,
+    "pages": "107038",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W4414201927",
+    "fwci": 3.7564,
+    "primary_topic": "Disaster Management and Resilience",
+    "keywords": [
+      "wildfire evacuation",
+      "evacuation decision-making",
+      "evacuation timing",
+      "mode choice",
+      "route choice",
+      "behavioral profiles",
+      "evacuation planning",
+      "California",
+      "Colorado",
+      "Oregon"
+    ],
+    "citations_by_year": {
+      "2026": 1
+    },
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:mVmsd5A6BfQC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1080/23249935.2026.2649647",
+    "title": "Semantic modelling of pedestrian behaviours at shared-use path crossings: insights from BERT-based architectures and structural topic modelling",
+    "type": "journal-article",
+    "venue": "Transportmetrica A: Transport Science",
+    "year": 2026,
+    "date_online": "2026-03-30",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2026-03-30",
+    "date_created": "2026-03-30",
+    "my_position": 2,
+    "citations_openalex": 0,
+    "citations_crossref": 0,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1080/23249935.2026.2649647",
+    "authors": [
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      },
+      {
+        "name": "Anandi K. Dutta",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Bahar Dadashova",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": null,
+    "issue": null,
+    "pages": "1-53",
+    "publisher": "Informa UK Limited",
+    "abstract": "Pedestrian safety at urban shared-use path (SUP) crossings is a growing concern in expanding metros, where conflicts occur between motorised and non-motorised users. This study examines pedestrian crossing behaviours at SUP intersections in five Texas cities, Austin, Houston, Dallas, San Antonio, and El Paso, where high urban density and multimodal traffic increase crash risk. Traditional tools such as the Pedestrian and Bicycle Crash Analysis Tool (PBCAT) rely on manual classification, leading to inefficiencies and inconsistencies. To address this, an automated semantic framework using Transformer-based models (BERT, RoBERTa, DistilBERT) is developed to classify pedestrian maneuvers based on PBCAT definitions. Structural Topic Modeling (STM) is applied to crash narratives (2020–2023) to identify latent themes by maneuver type. To mitigate class imbalance, synthetic narratives are generated using Large Language Models. Models are fine-tuned and evaluated using F1-score and AUC. Results show BERT performs best, while STM highlights key risk factors, informing targeted safety interventions.",
+    "abstract_source": "openalex",
+    "openalex_id": "https://openalex.org/W7143333690",
+    "fwci": 0.0,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "pedestrian crossing behavior",
+      "shared-use paths",
+      "pedestrian safety",
+      "BERT",
+      "structural topic modeling",
+      "class imbalance",
+      "risk factors"
+    ],
+    "citations_by_year": {},
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:IWHjjKOFINEC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1109/ICDMW69685.2025.00217",
+    "title": "Unmasking Vehicle Automation–Severity Interactions Through Multimodal Association Rules Mining",
+    "type": "proceedings-article",
+    "venue": "2025 IEEE International Conference on Data Mining Workshops (ICDMW)",
+    "year": 2025,
+    "date_online": "2025-11-12",
+    "date_online_source": "crossref:published-print",
+    "date_issue": "2025-11-12",
+    "date_created": "2026-03-10",
+    "my_position": 2,
+    "citations_openalex": 0,
+    "citations_crossref": 0,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1109/ICDMW69685.2025.00217",
+    "authors": [
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": null,
+    "issue": null,
+    "pages": "1812-1820",
+    "publisher": "IEEE",
+    "abstract": "This study investigates how vehicle automation levels relate to crash severity and risk factors using a multimodal framework of Association Rules Mining (ARM) approach on both tabular and textual crash data. Drawing on a rich dataset from Texas in 2024, which combines structured crash variables in tabular format and detailed narrative reports in textual format, the research examines patterns for vehicles with SAE Level 1-2 and SAE Level 3-5 automation. By directly mining both categorical features and cleaned crash narratives, the study offers a unique view into how automation interacts with common and rare crash scenarios. Major findings show that intersection violations, unsafe lane changes, and distraction consistently raise injury risks, regardless of data type or automation level. Importantly, the application of textual ARM enabled the discovery of uncommon but critical crash events, such as rear-end collisions after sudden lane changes and complicated right-turn failures, not easily detected through tabular data alone. The results demonstrate the strength and flexibility of multimodal data mining in uncovering crash dynamics, supporting the development of safety strategies and practical policies as automated vehicle technology continues to advance.",
+    "abstract_source": "openalex",
+    "openalex_id": "https://openalex.org/W7134911408",
+    "fwci": 0.0,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "vehicle automation",
+      "accident severity",
+      "crash risk factors",
+      "association rule mining",
+      "crash narratives",
+      "driver distraction",
+      "rear-end collisions",
+      "road safety policy"
+    ],
+    "citations_by_year": {},
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:-f6ydRqryjwC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1109/TITS.2026.3662626",
+    "title": "Quantum Computing in Transportation Engineering: A Survey",
+    "type": "journal-article",
+    "venue": "IEEE Transactions on Intelligent Transportation Systems",
+    "year": 2026,
+    "date_online": "2026-02-12",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2026-07",
+    "date_created": "2026-02-12",
+    "my_position": 3,
+    "citations_openalex": 13,
+    "citations_crossref": 6,
+    "is_open_access": true,
+    "oa_url": "https://doi.org/10.2139/ssrn.5141686",
+    "url": "https://doi.org/10.1109/TITS.2026.3662626",
+    "authors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": "0009-0005-5505-4174",
+        "is_me": false
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": "0009-0000-0124-4814",
+        "is_me": false
+      },
+      {
+        "name": "Darrell Anderson",
+        "orcid": "0009-0002-0258-505X",
+        "is_me": false
+      }
+    ],
+    "volume": "27",
+    "issue": "7",
+    "pages": "7332-7349",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "abstract": "Quantum computing introduces powerful computational paradigms capable of addressing optimization and machine learning challenges that are increasingly critical in transportation engineering. This paper presents a comprehensive survey of how quantum algorithms and models are being applied across transportation domains, including intelligent transportation systems, traffic management, vehicle routing, logistics, and autonomous systems. Unlike prior reviews that primarily introduce quantum theory, we systematically connect fundamental quantum principles-qubits, superposition, entanglement, and quantum gates-with specific transportation use cases. We synthesize recent findings showing that the Quantum Approximate Optimization Algorithm, Grover’s search, and hybrid quantum–classical solvers can improve performance in combinatorial problems such as vehicle routing and dynamic traffic signal control, while quantum machine learning models (e.g., Quantum Convolutional Neural Networks, Quantum Generative Adversarial Networks, and clustering algorithms) demonstrate promise in traffic prediction, anomaly detection, and autonomous vehicle perception. Our review highlights that although quantum hardware limitations (noise, scalability, connectivity) remain significant, empirical studies already suggest measurable improvements in solution quality and computational efficiency when compared to classical heuristics. The key contribution of this survey is to map the landscape of quantum computing in transportation engineering, identify application-specific advantages and current bottlenecks, and outline future research directions toward scalable, domain-specific quantum algorithms. By doing so, we provide transportation researchers and practitioners with a structured foundation to integrate quantum approaches into emerging mobility systems, with implications for efficiency, safety, sustainability, and equity.",
+    "abstract_source": "openalex",
+    "openalex_id": "https://openalex.org/W7128698688",
+    "fwci": 7.5051,
+    "primary_topic": "Quantum Computing Algorithms and Architecture",
+    "keywords": [
+      "quantum computing",
+      "transportation engineering",
+      "quantum algorithms",
+      "vehicle routing",
+      "traffic signal control",
+      "intelligent transportation systems",
+      "quantum machine learning",
+      "quantum convolutional neural networks",
+      "quantum generative adversarial networks",
+      "quantum approximate optimization algorithm",
+      "Grover's algorithm",
+      "hybrid quantum-classical solvers",
+      "traffic prediction",
+      "anomaly detection",
+      "autonomous vehicles",
+      "logistics optimization",
+      "combinatorial optimization"
+    ],
+    "citations_by_year": {
+      "2026": 10,
+      "2025": 3
+    },
+    "citations_scholar": 21,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:2osOgNQ5qMEC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1145/3787104",
+    "title": "Bridging the Black Box: A Survey on Mechanistic Interpretability in AI",
+    "type": "journal-article",
+    "venue": "ACM Computing Surveys",
+    "year": 2026,
+    "date_online": "2026-02-04",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2026-06-30",
+    "date_created": "2026-01-23",
+    "my_position": 2,
+    "citations_openalex": 55,
+    "citations_crossref": 19,
+    "is_open_access": true,
+    "oa_url": "https://doi.org/10.2139/ssrn.5345552",
+    "url": "https://doi.org/10.1145/3787104",
+    "authors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Amir Rafe",
+        "orcid": "0000-0002-4089-2088",
+        "is_me": false
+      },
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": "0009-0001-5102-5182",
+        "is_me": false
+      },
+      {
+        "name": "Arka Chakraborty",
+        "orcid": "0000-0002-6315-2277",
+        "is_me": false
+      },
+      {
+        "name": "Anika Baitullah",
+        "orcid": "0009-0004-9714-0196",
+        "is_me": false
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": "0009-0008-2385-8719",
+        "is_me": false
+      },
+      {
+        "name": "Nawaf Alnawmasi",
+        "orcid": "0000-0001-5753-3025",
+        "is_me": false
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": "0009-0002-7279-7752",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      }
+    ],
+    "volume": "58",
+    "issue": "8",
+    "pages": "1-35",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "abstract": "Mechanistic interpretability seeks to reverse-engineer the internal logic of neural networks by uncovering human-understandable circuits, algorithms, and causal structures that drive model behavior. Unlike post hoc explanations that describe what models do, this paradigm focuses on why and how they compute, tracing information flow through neurons, attention heads, and activation pathways. This survey provides a high-level synthesis of the field-highlighting its motivation, conceptual foundations, and methodological taxonomy rather than enumerating individual techniques. We organize mechanistic interpretability across three abstraction layers— neurons , circuits , and algorithms —and three evaluation perspectives: behavioral , counterfactual , and causal . We further discuss representative approaches and toolchains that enable structural analysis of modern AI systems, outlining how mechanistic interpretability bridges theoretical insights with practical transparency. Despite rapid progress, challenges persist in scaling these analyses to frontier models, resolving polysemantic representations, and establishing standardized causal benchmarks. By connecting historical evolution, current methodologies, and emerging research directions, this survey aims to provide an integrative framework for understanding how mechanistic interpretability can support transparency, reliability, and governance in large-scale AI.",
+    "abstract_source": "crossref",
+    "openalex_id": "https://openalex.org/W7125584057",
+    "fwci": 52.3768,
+    "primary_topic": "Explainable Artificial Intelligence (XAI)",
+    "keywords": [
+      "mechanistic interpretability",
+      "neural network interpretability",
+      "attention mechanism",
+      "neural circuits",
+      "counterfactual evaluation",
+      "large language models",
+      "AI transparency",
+      "AI governance",
+      "model reliability"
+    ],
+    "citations_by_year": {
+      "2026": 54,
+      "2025": 1
+    },
+    "citations_scholar": 61,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:9ZlFYXVOiuMC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.aap.2025.108382",
+    "title": "Uncovering latent structures of crash typology in narcotic-involved fatal crashes for safe system interventions",
+    "type": "journal-article",
+    "venue": "Accident Analysis & Prevention",
+    "year": 2026,
+    "date_online": "2026-01-02",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2026-03",
+    "date_created": "2026-01-02",
+    "my_position": 4,
+    "citations_openalex": 2,
+    "citations_crossref": 2,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1016/j.aap.2025.108382",
+    "authors": [
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": "0009-0001-5102-5182",
+        "is_me": false
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": "0009-0008-2385-8719",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "227",
+    "issue": null,
+    "pages": "108382",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W7117994958",
+    "fwci": 4.708,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "fatal crashes",
+      "Safe System approach",
+      "driver impairment",
+      "run-off-road crashes",
+      "rollover crashes",
+      "speed management",
+      "street lighting",
+      "driver age",
+      "injury outcomes",
+      "countermeasure design"
+    ],
+    "citations_by_year": {
+      "2026": 2
+    },
+    "citations_scholar": 1,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:aqlVkmm33-oC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1145/3776588",
+    "title": "From Tiny Machine Learning to Tiny Deep Learning: A Survey",
+    "type": "journal-article",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "date_online": "2025-12-24",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2026-05-31",
+    "date_created": "2025-11-13",
+    "my_position": 2,
+    "citations_openalex": 138,
+    "citations_crossref": 60,
+    "is_open_access": true,
+    "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3776588",
+    "url": "https://doi.org/10.1145/3776588",
+    "authors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": "0009-0000-0124-4814",
+        "is_me": false
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": "0000-0002-1660-9764",
+        "is_me": false
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Sawgat Ahmed Shuvo",
+        "orcid": "0009-0007-0594-9863",
+        "is_me": false
+      },
+      {
+        "name": "Kazi Sifatul Islam",
+        "orcid": "0000-0002-5525-5794",
+        "is_me": false
+      },
+      {
+        "name": "Syed Javed",
+        "orcid": "0000-0001-5866-035X",
+        "is_me": false
+      },
+      {
+        "name": "Sharif Ahmed Rafat",
+        "orcid": "0009-0002-8644-8326",
+        "is_me": false
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": "0009-0002-7279-7752",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      }
+    ],
+    "volume": "58",
+    "issue": "7",
+    "pages": "1-33",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "abstract": "The rapid growth of edge devices has driven the demand for deploying artificial intelligence (AI) at the edge, giving rise to Tiny Machine Learning (TinyML) and its evolving counterpart, Tiny Deep Learning (TinyDL). While TinyML initially focused on enabling simple inference tasks on microcontrollers, the emergence of TinyDL marks a paradigm shift toward deploying deep learning models on severely resource-constrained hardware. This survey presents a comprehensive overview of the transition from TinyML to TinyDL, encompassing architectural innovations, hardware platforms, model optimization techniques, and software toolchains. We analyze state-of-the-art methods in quantization, pruning, and neural architecture search (NAS), and examine hardware trends from MCUs to dedicated neural accelerators. Furthermore, we categorize software deployment frameworks, compilers, and AutoML tools enabling practical on-device learning. Applications across domains such as computer vision, audio recognition, healthcare, and industrial monitoring are reviewed to illustrate the real-world impact of TinyDL. Finally, we identify emerging directions including neuromorphic computing, federated TinyDL, edge-native foundation models, and domain-specific co-design approaches. This survey aims to serve as a foundational resource for researchers and practitioners, offering a holistic view of the ecosystem and laying the groundwork for future advancements in edge AI.",
+    "abstract_source": "crossref",
+    "openalex_id": "https://openalex.org/W4415164192",
+    "fwci": 24.4142,
+    "primary_topic": "Advanced Neural Network Applications",
+    "keywords": [
+      "TinyML",
+      "edge AI",
+      "resource-constrained devices",
+      "microcontroller",
+      "neural network quantization",
+      "neural network pruning",
+      "neural architecture search",
+      "neural network accelerators",
+      "on-device learning",
+      "automated machine learning",
+      "model optimization",
+      "neuromorphic computing",
+      "federated learning",
+      "hardware-software co-design"
+    ],
+    "citations_by_year": {
+      "2026": 123,
+      "2025": 15
+    },
+    "citations_scholar": 142,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:Se3iqnhoufwC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1145/3764924.3770894",
+    "title": "ST-GraphNet: A Spatio-Temporal Graph Neural Network for Understanding and Predicting Automated Vehicle Crash Severity",
+    "type": "proceedings-article",
+    "venue": "Proceedings of the 1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities",
+    "year": 2025,
+    "date_online": "2025-11-02",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2025-11-03",
+    "date_created": "2025-10-28",
+    "my_position": 2,
+    "citations_openalex": 7,
+    "citations_crossref": 6,
+    "is_open_access": true,
+    "oa_url": "https://arxiv.org/pdf/2506.08051",
+    "url": "https://doi.org/10.1145/3764924.3770894",
+    "authors": [
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": "0009-0001-5102-5182",
+        "is_me": false
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      },
+      {
+        "name": "Xinyue Ye",
+        "orcid": "0000-0001-8838-9476",
+        "is_me": false
+      }
+    ],
+    "volume": null,
+    "issue": null,
+    "pages": "5-14",
+    "publisher": "ACM",
+    "abstract": "Understanding the spatial and temporal dynamics of automated vehicle (AV) crash severity is critical for advancing urban mobility safety and infrastructure planning. In this work, we introduce ST-GraphNet, a spatio-temporal graph neural network framework designed to model and predict AV crash severity by using both finegrained and region-aggregated spatial graphs. Using a balanced dataset of 2,352 real-world AV-related crash reports from Texas (2024), including geospatial coordinates, crash timestamps, SAE automation levels, and narrative descriptions, we construct two complementary graph representations: (1) a fine-grained graph with individual crash events as nodes, where edges are defined via spatio-temporal proximity; and (2) a coarse-grained graph where crashes are aggregated into Hexagonal Hierarchical Spatial Indexing (H3)-based spatial cells, connected through hexagonal adjacency. Each node in the graph is enriched with multimodal data, including semantic, spatial, and temporal attributes, including textual embeddings from crash narratives using a pretrained Sentence-BERT model. We evaluate various graph neural network (GNN) architectures, such as Graph Convolutional Networks (GCN), Graph Attention Networks (GAT), NodeFormer, and Dynamic Hypergraph Neural Networks (DHGNN), to classify crash severity and predict high-risk regions. Our proposed ST-GraphNet, which utilizes a DHGNN backbone on the coarse-grained H3 graph, achieves a test accuracy of 98.81%, substantially outperforming the best finegrained model (61.4% test accuracy). These findings highlight the effectiveness of spatial aggregation, dynamic message passing, and multi-modal feature integration in capturing the complex spatio-temporal patterns underlying AV crash severity.",
+    "abstract_source": "openalex",
+    "openalex_id": "https://openalex.org/W4415622881",
+    "fwci": 1.0306,
+    "primary_topic": "Advanced Graph Neural Networks",
+    "keywords": [
+      "autonomous vehicles",
+      "accident severity prediction",
+      "spatio-temporal graph neural networks",
+      "crash narratives"
+    ],
+    "citations_by_year": {
+      "2026": 6,
+      "2025": 1
+    },
+    "citations_scholar": 11,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:LkGwnXOMwfcC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.jsr.2025.10.009",
+    "title": "Crash risk patterns among older bicyclists: Insights from hybrid XGBoost-Cluster Correspondence Analysis",
+    "type": "journal-article",
+    "venue": "Journal of Safety Research",
+    "year": 2025,
+    "date_online": "2025-10-18",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2025-12",
+    "date_created": "2025-10-18",
+    "my_position": 2,
+    "citations_openalex": 3,
+    "citations_crossref": 2,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1016/j.jsr.2025.10.009",
+    "authors": [
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Abbas Sheykhfard",
+        "orcid": "0000-0002-9536-3108",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "95",
+    "issue": null,
+    "pages": "301-317",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W4415319677",
+    "fwci": 1.1536,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "bicycle accidents",
+      "injury severity",
+      "XGBoost",
+      "visibility conditions",
+      "traffic control devices",
+      "speed limits",
+      "rural roads",
+      "intersection crashes",
+      "older adults"
+    ],
+    "citations_by_year": {
+      "2026": 2,
+      "2025": 1
+    },
+    "citations_scholar": 4,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:_kc_bZDykSQC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1080/19439962.2025.2554099",
+    "title": "Linking driver fatigue, safety rest area closures, and crash severity using cluster correspondence analysis",
+    "type": "journal-article",
+    "venue": "Journal of Transportation Safety & Security",
+    "year": 2025,
+    "date_online": "2025-09-16",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2026-02-01",
+    "date_created": "2025-09-16",
+    "my_position": 4,
+    "citations_openalex": 0,
+    "citations_crossref": 0,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1080/19439962.2025.2554099",
+    "authors": [
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "18",
+    "issue": "2",
+    "pages": "268-302",
+    "publisher": "Informa UK Limited",
+    "abstract": "Closure of Safety Rest Areas (SRAs) increases the risk of fatigue-related crashes by reducing opportunities for long distance traveling drivers to rest, recover alertness, and access essential facilities that support safe driving. Utilizing Cluster Correspondence Analysis (CCA), this study aims to identify and analyze patterns and associations in crash data by examining changes in crash characteristics and severity, including factors and attributes related to vehicular, driver, roadway, and contributing factors, before, during, and after the SRA closure of the Snake Riverview Welcome Center on I-84 from 2018 to 2021. The findings indicated significant shifts in crash types and contributing factors, particularly under adverse weather conditions and on wet or snowy surfaces. Rear-end collisions and improper lane changes were persistent issues. There was a rise in crashes involving commercial vehicles, such as tractors with trailers, and incidents occurring during nighttime hours. Additionally, the incidence of vehicle overturns and sideswipe collisions increased during adverse weather conditions. The results underscore the role of SRAs in mitigating crashes and highlight the necessity for targeted interventions, such as maintaining SRAs and implementing safety measures during adverse weather and high-risk hours.",
+    "abstract_source": "openalex",
+    "openalex_id": "https://openalex.org/W4414340863",
+    "fwci": 0.0,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "driver fatigue",
+      "accident severity",
+      "rear-end collisions",
+      "commercial vehicle crashes",
+      "severe weather",
+      "nighttime crashes",
+      "sideswipe collisions",
+      "crash contributing factors"
+    ],
+    "citations_by_year": {},
+    "citations_scholar": 0,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:YOwf2qJgpHMC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.aap.2025.108229",
+    "title": "A data-driven approach to child pedestrian crash analysis using dimension reduction, clustering, and explainable AI",
+    "type": "journal-article",
+    "venue": "Accident Analysis & Prevention",
+    "year": 2025,
+    "date_online": "2025-09-13",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2025-11",
+    "date_created": "2025-09-13",
+    "my_position": 3,
+    "citations_openalex": 3,
+    "citations_crossref": 3,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1016/j.aap.2025.108229",
+    "authors": [
+      {
+        "name": "Swastika Barua",
+        "orcid": "0009-0008-4894-9131",
+        "is_me": false
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": "0000-0002-1660-9764",
+        "is_me": false
+      },
+      {
+        "name": "Md. Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "222",
+    "issue": null,
+    "pages": "108229",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W4414166955",
+    "fwci": 1.1536,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "pedestrian safety",
+      "accident severity",
+      "risk factors",
+      "SHAP",
+      "XGBoost",
+      "random forest",
+      "traffic management",
+      "street lighting",
+      "speed limits",
+      "intersection types",
+      "temporal patterns",
+      "turning motion",
+      "rural roads",
+      "urban streets",
+      "speed management"
+    ],
+    "citations_by_year": {
+      "2026": 3
+    },
+    "citations_scholar": 3,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:ULOm3_A8WrAC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1145/3743128",
+    "title": "A Survey on Kolmogorov-Arnold Network",
+    "type": "journal-article",
+    "venue": "ACM Computing Surveys",
+    "year": 2025,
+    "date_online": "2025-09-10",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2026-01-31",
+    "date_created": "2025-06-06",
+    "my_position": 3,
+    "citations_openalex": 387,
+    "citations_crossref": 195,
+    "is_open_access": true,
+    "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3743128",
+    "url": "https://doi.org/10.1145/3743128",
+    "authors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "is_me": false
+      },
+      {
+        "name": "Syed Aaqib Javed",
+        "orcid": "0000-0001-5866-035X",
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Diwas Pandit",
+        "orcid": "0009-0005-8481-2851",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      }
+    ],
+    "volume": "58",
+    "issue": "2",
+    "pages": "1-35",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "abstract": "This review study explores the theoretical foundations, evolution, applications, and future potential of Kolmogorov–Arnold Networks (KAN), a neural network model inspired by the Kolmogorov–Arnold representation theorem. KANs set themselves apart from traditional neural networks by employing learnable, spline-parameterized functions rather than fixed activation functions, allowing for flexible and interpretable representations of high-dimensional functions. The review explores Kan’s architectural strengths, including adaptive edge-based activation functions that enhance parameter efficiency and scalability across varied applications such as time series forecasting, computational biomedicine, and graph learning. Key advancements including Temporal-KAN (T-KAN), FastKAN, and Partial Differential Equation (PDE) KAN illustrate KAN’s growing applicability in dynamic environments, significantly improving interpretability, computational efficiency, and adaptability for complex function approximation tasks. Moreover, the article discusses KANs integration with other architectures, such as convolutional, recurrent, and transformer-based models, showcasing its versatility in complementing established neural networks for tasks that require hybrid approaches. Despite its strengths, KAN faces computational challenges in high-dimensional and noisy data settings, sparking continued research into optimization strategies, regularization techniques, and hybrid models. This article highlights KANs expanding role in modern neural architectures and outlines future directions to enhance its computational efficiency, interpretability, and scalability in data-intensive applications.",
+    "abstract_source": "crossref",
+    "openalex_id": "https://openalex.org/W4411095744",
+    "fwci": 67.0527,
+    "primary_topic": "Neural Networks and Applications",
+    "keywords": [
+      "Kolmogorov-Arnold networks",
+      "Kolmogorov-Arnold representation theorem",
+      "learnable activation functions",
+      "function approximation",
+      "time series forecasting",
+      "graph learning",
+      "hybrid neural architecture",
+      "interpretability",
+      "parameter efficiency"
+    ],
+    "citations_by_year": {
+      "2026": 256,
+      "2025": 127,
+      "2024": 4
+    },
+    "citations_scholar": 419,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:d1gkVwhDpl0C",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1016/j.aap.2025.108048",
+    "title": "Evaluating crash risk factors of farm equipment vehicles on county and non-county roads using interpretable tabular deep learning (TabNet)",
+    "type": "journal-article",
+    "venue": "Accident Analysis & Prevention",
+    "year": 2025,
+    "date_online": "2025-04-18",
+    "date_online_source": "crossref:created (DOI registered)",
+    "date_issue": "2025-07",
+    "date_created": "2025-04-18",
+    "my_position": 1,
+    "citations_openalex": 21,
+    "citations_crossref": 20,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1016/j.aap.2025.108048",
+    "authors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Jinli Liu",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": "0000-0002-1660-9764",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "217",
+    "issue": null,
+    "pages": "108048",
+    "publisher": "Elsevier BV",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W4409574640",
+    "fwci": 8.0755,
+    "primary_topic": "Traffic and Road Safety",
+    "keywords": [
+      "crash risk factors",
+      "accident severity",
+      "county roads",
+      "rural road safety",
+      "TabNet",
+      "SHAP",
+      "speed limits",
+      "street lighting",
+      "road geometry",
+      "traffic management",
+      "intersection safety",
+      "class imbalance"
+    ],
+    "citations_by_year": {
+      "2026": 16,
+      "2025": 5
+    },
+    "citations_scholar": 25,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:zYLM7Y9cAGgC",
+    "is_preprint": false
+  },
+  {
+    "doi": "10.1007/s10518-022-01488-8",
+    "title": "A nonlinear macromodel for simulating the in-plane behavior of unreinforced masonry (URM) infilled frames",
+    "type": "journal-article",
+    "venue": "Bulletin of Earthquake Engineering",
+    "year": 2022,
+    "date_online": "2022-08-24",
+    "date_online_source": "crossref:published-online",
+    "date_issue": "2022-10",
+    "date_created": "2022-08-24",
+    "my_position": 4,
+    "citations_openalex": 4,
+    "citations_crossref": 4,
+    "is_open_access": false,
+    "oa_url": null,
+    "url": "https://doi.org/10.1007/s10518-022-01488-8",
+    "authors": [
+      {
+        "name": "S. M. Naheed Adnan",
+        "orcid": "0000-0002-2633-7344",
+        "is_me": false
+      },
+      {
+        "name": "Kazuto Matsukawa",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Yuji Haga",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Yoshiaki Nakano",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "volume": "20",
+    "issue": "13",
+    "pages": "7347-7379",
+    "publisher": "Springer Science and Business Media LLC",
+    "abstract": null,
+    "abstract_source": null,
+    "openalex_id": "https://openalex.org/W4293216355",
+    "fwci": 0.3966,
+    "primary_topic": "Masonry and Concrete Structural Analysis",
+    "keywords": [
+      "failure modes",
+      "reinforced concrete frames",
+      "masonry infill walls",
+      "scale model testing"
+    ],
+    "citations_by_year": {
+      "2025": 1,
+      "2024": 2,
+      "2023": 1
+    },
+    "citations_scholar": 7,
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:u5HHmVD_uO8C",
+    "is_preprint": false
+  }
+]

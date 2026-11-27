@@ -1,0 +1,1418 @@
+[
+  {
+    "put_code": 234202301,
+    "all_put_codes": [
+      234202301
+    ],
+    "sources": [
+      "Crossref"
+    ],
+    "title": "Advancing intelligent sequence modeling: Evolution, trade-offs, and applications of state-space architectures from S4 to Mamba—A survey",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Neurocomputing",
+    "publication_date": "2027-02",
+    "external_ids": {
+      "doi": "10.1016/j.neucom.2026.135736"
+    },
+    "url": "https://doi.org/10.1016/j.neucom.2026.135736",
+    "contributors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Amir Rafe",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1795729282067
+  },
+  {
+    "put_code": 234715671,
+    "all_put_codes": [
+      234715671
+    ],
+    "sources": [
+      "Crossref"
+    ],
+    "title": "AVISTA: An extensible desktop platform for reproducible tabular machine learning and deep learning analytics",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "SoftwareX",
+    "publication_date": "2026-12",
+    "external_ids": {
+      "doi": "10.1016/j.softx.2026.103258"
+    },
+    "url": "https://doi.org/10.1016/j.softx.2026.103258",
+    "contributors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1795700780458
+  },
+  {
+    "put_code": 234790621,
+    "all_put_codes": [
+      234790621
+    ],
+    "sources": [
+      "Md Monzurul Islam"
+    ],
+    "title": "Crash Severity in Automated Vehicle Collisions: A Texas-Based Investigation Across Automation Levels",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Data Science for Transportation",
+    "publication_date": "2026-12",
+    "external_ids": {
+      "doi": "10.1007/s42421-026-00171-7"
+    },
+    "url": "http://dx.doi.org/10.1007/s42421-026-00171-7",
+    "contributors": [
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": "0009-0000-0124-4814",
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": "<jats:title>Abstract</jats:title>\n                  <jats:p>Crash severity remains a critical issue despite rapid advances in vehicle automation. This study contributes to automated vehicle (AV) safety research by analyzing a Texas crash dataset that spans multiple automation levels, unlike most studies that focus on California. Using Association Rules Mining (ARM), it identifies key relationships among crash factors, such as speed, road type, collision type, lighting, weather, and driver characteristics. Crashes were grouped by automation level: assisted driving (Level 1), partial automation (Level 2), and conditional–full automation (Levels 3–5). In assisted driving, severe injuries were frequently linked to high speeds on narrow roads and older drivers. For partial automation, moderate speeds combined with poor traffic control or complex layouts heightened injury risk. Crashes involving Levels 3–5 were not observed in the KA category, suggesting a lower observed severity profile for higher-automation crashes in this dataset. An interactive tool was also developed to visualize crash locations and factors by severity and automation level. Policy recommendations include improving roadway design in high-risk areas, enhancing driver training, and advancing AV system safety. These strategies can reduce crash severity and support safer AV deployment in Texas and beyond.</jats:p>",
+    "citation": null,
+    "language": "en",
+    "country": null,
+    "last_modified": 1795761212906
+  },
+  {
+    "put_code": 220038074,
+    "all_put_codes": [
+      220038074,
+      222288264
+    ],
+    "sources": [
+      "Crossref",
+      "Scopus - Elsevier"
+    ],
+    "title": "Toward safer micromobility: Identifying urban e-scooter crash severity factors through automated machine learning and crash narrative analysis",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Cities",
+    "publication_date": "2026-11",
+    "external_ids": {
+      "doi": "10.1016/j.cities.2026.107384",
+      "eid": "2-s2.0-105044022469"
+    },
+    "url": "https://doi.org/10.1016/j.cities.2026.107384",
+    "contributors": [
+      {
+        "name": "Jinli Liu",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1783514777126
+  },
+  {
+    "put_code": 234791068,
+    "all_put_codes": [
+      234791068
+    ],
+    "sources": [
+      "Md Monzurul Islam"
+    ],
+    "title": "Traffic Analysis Practices for Nonmotorized Modes",
+    "subtitle": null,
+    "type": "edited-book",
+    "journal": null,
+    "publication_date": "2026-10-16",
+    "external_ids": {
+      "doi": "10.17226/29551",
+      "isbn": "9780309749572"
+    },
+    "url": "http://dx.doi.org/10.17226/29551",
+    "contributors": [
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Amir Rafe",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "National Cooperative Highway Research Program",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Transportation Research Board",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "National Academies of Sciences, Engineering, and Medicine",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1795761483302
+  },
+  {
+    "put_code": 230032800,
+    "all_put_codes": [
+      230032800
+    ],
+    "sources": [
+      "Md Monzurul Islam"
+    ],
+    "title": "Multidimensional analysis of e-scooter crash severity using cluster correspondence and explainable AI",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Scientific Reports",
+    "publication_date": "2026-10-07",
+    "external_ids": {
+      "doi": "10.1038/s41598-026-74874-w"
+    },
+    "url": "http://dx.doi.org/10.1038/s41598-026-74874-w",
+    "contributors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Sharif Ahmed Rafat",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Kayvan Aghabayk",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": "en",
+    "country": null,
+    "last_modified": 1792026423512
+  },
+  {
+    "put_code": 215721248,
+    "all_put_codes": [
+      215721248,
+      222288276
+    ],
+    "sources": [
+      "Crossref",
+      "Scopus - Elsevier"
+    ],
+    "title": "Classifying crash severity by SAE automation level using transformer models: Insights for automated vehicle policy",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Transport Policy",
+    "publication_date": "2026-09",
+    "external_ids": {
+      "doi": "10.1016/j.tranpol.2026.104222",
+      "eid": "2-s2.0-105040116262"
+    },
+    "url": "https://doi.org/10.1016/j.tranpol.2026.104222",
+    "contributors": [
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anannya GhoshTusti",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1780109815613
+  },
+  {
+    "put_code": 224016933,
+    "all_put_codes": [
+      224016933
+    ],
+    "sources": [
+      "Crossref"
+    ],
+    "title": "Crash Risk Analysis of Non-Motorists using Interpretable Tabular Deep Learning",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Transportation Research Record: Journal of the Transportation Research Board",
+    "publication_date": "2026-08-16",
+    "external_ids": {
+      "doi": "10.1177/03611981261468749"
+    },
+    "url": "https://doi.org/10.1177/03611981261468749",
+    "contributors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1786945668436
+  },
+  {
+    "put_code": 234788935,
+    "all_put_codes": [
+      234788935
+    ],
+    "sources": [
+      "Md Monzurul Islam"
+    ],
+    "title": "Vision-based infrastructure monitoring: pavement marking visibility classification using deep neural networks",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "International Journal of Transportation Science and Technology",
+    "publication_date": "2026-08",
+    "external_ids": {
+      "doi": "10.1016/j.ijtst.2026.01.005"
+    },
+    "url": "http://dx.doi.org/10.1016/j.ijtst.2026.01.005",
+    "contributors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Mohammad Jalayer",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Adam Pike",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": "0009-0008-2385-8719",
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Sadman Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": "en",
+    "country": null,
+    "last_modified": 1795759560409
+  },
+  {
+    "put_code": 203425895,
+    "all_put_codes": [
+      203425895,
+      222288257
+    ],
+    "sources": [
+      "Crossref",
+      "Scopus - Elsevier"
+    ],
+    "title": "Bridging the Black Box: A Survey on Mechanistic Interpretability in AI",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "ACM Computing Surveys",
+    "publication_date": "2026-06-30",
+    "external_ids": {
+      "doi": "10.1145/3787104",
+      "eid": "2-s2.0-105032096462"
+    },
+    "url": "https://doi.org/10.1145/3787104",
+    "contributors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Amir Rafe",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Arka Chakraborty",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anika Baitullah",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Nawaf Alnawmasi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1770207793883
+  },
+  {
+    "put_code": 196831624,
+    "all_put_codes": [
+      196831624
+    ],
+    "sources": [
+      "Crossref"
+    ],
+    "title": "From Tiny Machine Learning to Tiny Deep Learning: A Survey",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "ACM Computing Surveys",
+    "publication_date": "2026-05-31",
+    "external_ids": {
+      "doi": "10.1145/3776588"
+    },
+    "url": "https://doi.org/10.1145/3776588",
+    "contributors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Sawgat Ahmed Shuvo",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Kazi Sifatul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Syed Javed",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Sharif Ahmed Rafat",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1766583078894
+  },
+  {
+    "put_code": 210138970,
+    "all_put_codes": [
+      210138970,
+      222288267
+    ],
+    "sources": [
+      "Crossref",
+      "Scopus - Elsevier"
+    ],
+    "title": "Semantic modelling of pedestrian behaviours at shared-use path crossings: insights from BERT-based architectures and structural topic modelling",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Transportmetrica A: Transport Science",
+    "publication_date": "2026-03-30",
+    "external_ids": {
+      "doi": "10.1080/23249935.2026.2649647",
+      "eid": "2-s2.0-105034550484"
+    },
+    "url": "https://doi.org/10.1080/23249935.2026.2649647",
+    "contributors": [
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anandi K. Dutta",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Bahar Dadashova",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1774874858663
+  },
+  {
+    "put_code": 185488840,
+    "all_put_codes": [
+      185488840,
+      222288269
+    ],
+    "sources": [
+      "Crossref",
+      "Scopus - Elsevier"
+    ],
+    "title": "A Survey on Kolmogorov-Arnold Network",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "ACM Computing Surveys",
+    "publication_date": "2026-01-31",
+    "external_ids": {
+      "eid": "2-s2.0-105020253926",
+      "doi": "10.1145/3743128"
+    },
+    "url": "https://doi.org/10.1145/3743128",
+    "contributors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Syed Aaqib Javed",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Diwas Pandit",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1757520116291
+  },
+  {
+    "put_code": 222288260,
+    "all_put_codes": [
+      222288260,
+      194600248
+    ],
+    "sources": [
+      "Scopus - Elsevier",
+      "Md Monzurul Islam"
+    ],
+    "title": "Linking driver fatigue, safety rest area closures, and crash severity using cluster correspondence analysis",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Journal of Transportation Safety and Security",
+    "publication_date": "2026",
+    "external_ids": {
+      "doi": "10.1080/19439962.2025.2554099",
+      "eid": "2-s2.0-105016716032"
+    },
+    "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105016716032&partnerID=MN8TOARS",
+    "contributors": [
+      {
+        "name": "Barua, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Chakraborty, R.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Mimi, M.S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Islam, M.M.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Das, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": {
+      "citation-type": "bibtex",
+      "citation-value": "@article{Islam2026,title = {Linking driver fatigue, safety rest area closures, and crash severity using cluster correspondence analysis},journal = {Journal of Transportation Safety and Security},year = {2026},volume = {18},number = {2},pages = {268-302},author = {Barua, S. and Chakraborty, R. and Mimi, M.S. and Islam, M.M. and Das, S.}}"
+    },
+    "language": null,
+    "country": null,
+    "last_modified": 1785426362495
+  },
+  {
+    "put_code": 205548151,
+    "all_put_codes": [
+      205548151,
+      222288253
+    ],
+    "sources": [
+      "Crossref",
+      "Scopus - Elsevier"
+    ],
+    "title": "Quantum Computing in Transportation Engineering: A Survey",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "IEEE Transactions on Intelligent Transportation Systems",
+    "publication_date": "2026",
+    "external_ids": {
+      "eid": "2-s2.0-105029948304",
+      "doi": "10.1109/TITS.2026.3662626"
+    },
+    "url": "https://doi.org/10.1109/TITS.2026.3662626",
+    "contributors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Darrell Anderson",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1770931210845
+  },
+  {
+    "put_code": 222288261,
+    "all_put_codes": [
+      222288261
+    ],
+    "sources": [
+      "Scopus - Elsevier"
+    ],
+    "title": "Uncovering latent structures of crash typology in narcotic-involved fatal crashes for safe system interventions",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Accident Analysis and Prevention",
+    "publication_date": "2026",
+    "external_ids": {
+      "doi": "10.1016/j.aap.2025.108382",
+      "eid": "2-s2.0-105027125944"
+    },
+    "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105027125944&partnerID=MN8TOARS",
+    "contributors": [
+      {
+        "name": "Tusti, A.G.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Chakraborty, R.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Chowdhury, T.I.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Islam, M.M.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Mimi, M.S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Das, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": {
+      "citation-type": "bibtex",
+      "citation-value": "@article{Islam2026,title = {Uncovering latent structures of crash typology in narcotic-involved fatal crashes for safe system interventions},journal = {Accident Analysis and Prevention},year = {2026},volume = {227},author = {Tusti, A.G. and Chakraborty, R. and Chowdhury, T.I. and Islam, M.M. and Mimi, M.S. and Das, S.}}"
+    },
+    "language": null,
+    "country": null,
+    "last_modified": 1785426362588
+  },
+  {
+    "put_code": 222288273,
+    "all_put_codes": [
+      222288273
+    ],
+    "sources": [
+      "Scopus - Elsevier"
+    ],
+    "title": "Who leaves, when, and how? Dissecting evacuation choices from a survey of at-risk residents in the Western U.S.",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Cities",
+    "publication_date": "2026",
+    "external_ids": {
+      "doi": "10.1016/j.cities.2026.107038",
+      "eid": "2-s2.0-105036100480"
+    },
+    "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105036100480&partnerID=MN8TOARS",
+    "contributors": [
+      {
+        "name": "Polock, S.B.B.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Das, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Somvanshi, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Islam, M.M.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Sheykhfard, A.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": {
+      "citation-type": "bibtex",
+      "citation-value": "@article{Islam2026,title = {Who leaves, when, and how? Dissecting evacuation choices from a survey of at-risk residents in the Western U.S.},journal = {Cities},year = {2026},volume = {174},author = {Polock, S.B.B. and Das, S. and Somvanshi, S. and Islam, M.M. and Sheykhfard, A.}}"
+    },
+    "language": null,
+    "country": null,
+    "last_modified": 1785426363020
+  },
+  {
+    "put_code": 194599649,
+    "all_put_codes": [
+      194599649,
+      222288262
+    ],
+    "sources": [
+      "Crossref",
+      "Scopus - Elsevier"
+    ],
+    "title": "Crash risk patterns among older bicyclists: Insights from hybrid XGBoost-Cluster Correspondence Analysis",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Journal of Safety Research",
+    "publication_date": "2025-12",
+    "external_ids": {
+      "eid": "2-s2.0-105019097584",
+      "doi": "10.1016/j.jsr.2025.10.009"
+    },
+    "url": "https://doi.org/10.1016/j.jsr.2025.10.009",
+    "contributors": [
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Abbas Sheykhfard",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1760834174953
+  },
+  {
+    "put_code": 195416179,
+    "all_put_codes": [
+      195416179
+    ],
+    "sources": [
+      "Crossref"
+    ],
+    "title": "ST-GraphNet: A Spatio-Temporal Graph Neural Network for Understanding and Predicting Automated Vehicle Crash Severity",
+    "subtitle": null,
+    "type": "conference-paper",
+    "journal": null,
+    "publication_date": "2025-11-03",
+    "external_ids": {
+      "doi": "10.1145/3764924.3770894"
+    },
+    "url": "https://doi.org/10.1145/3764924.3770894",
+    "contributors": [
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Xinyue Ye",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1761682427694
+  },
+  {
+    "put_code": 191795267,
+    "all_put_codes": [
+      191795267,
+      222288254
+    ],
+    "sources": [
+      "Crossref",
+      "Scopus - Elsevier"
+    ],
+    "title": "A data-driven approach to child pedestrian crash analysis using dimension reduction, clustering, and explainable AI",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Accident Analysis & Prevention",
+    "publication_date": "2025-11",
+    "external_ids": {
+      "eid": "2-s2.0-105015804296",
+      "doi": "10.1016/j.aap.2025.108229"
+    },
+    "url": "https://doi.org/10.1016/j.aap.2025.108229",
+    "contributors": [
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md. Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": null,
+    "country": null,
+    "last_modified": 1757774940770
+  },
+  {
+    "put_code": 222288249,
+    "all_put_codes": [
+      222288249,
+      185651020
+    ],
+    "sources": [
+      "Scopus - Elsevier",
+      "Md Monzurul Islam"
+    ],
+    "title": "Evaluating crash risk factors of farm equipment vehicles on county and non-county roads using interpretable tabular deep learning (TabNet)",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Accident Analysis and Prevention",
+    "publication_date": "2025",
+    "external_ids": {
+      "doi": "10.1016/j.aap.2025.108048",
+      "eid": "2-s2.0-105002841246"
+    },
+    "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105002841246&partnerID=MN8TOARS",
+    "contributors": [
+      {
+        "name": "Islam, M.M.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Liu, J.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Chakraborty, R.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Das, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": {
+      "citation-type": "bibtex",
+      "citation-value": "@article{Islam2025,title = {Evaluating crash risk factors of farm equipment vehicles on county and non-county roads using interpretable tabular deep learning (TabNet)},journal = {Accident Analysis and Prevention},year = {2025},volume = {217},author = {Islam, M.M. and Liu, J. and Chakraborty, R. and Das, S.}}"
+    },
+    "language": null,
+    "country": null,
+    "last_modified": 1794238782428
+  },
+  {
+    "put_code": 222288277,
+    "all_put_codes": [
+      222288277
+    ],
+    "sources": [
+      "Scopus - Elsevier"
+    ],
+    "title": "Unmasking Vehicle Automation-Severity Interactions Through Multimodal Association Rules Mining",
+    "subtitle": null,
+    "type": "conference-paper",
+    "journal": "IEEE International Conference on Data Mining Workshops Icdmw",
+    "publication_date": "2025",
+    "external_ids": {
+      "doi": "10.1109/ICDMW69685.2025.00217",
+      "eid": "2-s2.0-105035377288"
+    },
+    "url": "https://www.scopus.com/inward/record.url?eid=2-s2.0-105035377288&partnerID=MN8TOARS",
+    "contributors": [
+      {
+        "name": "Chakraborty, R.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Islam, M.M.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Somvanshi, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Barua, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      },
+      {
+        "name": "Das, S.",
+        "orcid": null,
+        "role": null,
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": {
+      "citation-type": "bibtex",
+      "citation-value": "@article{Islam2025,title = {Unmasking Vehicle Automation-Severity Interactions Through Multimodal Association Rules Mining},journal = {IEEE International Conference on Data Mining Workshops Icdmw},year = {2025},pages = {1812-1820},author = {Chakraborty, R. and Islam, M.M. and Somvanshi, S. and Barua, S. and Das, S.}}"
+    },
+    "language": null,
+    "country": null,
+    "last_modified": 1785426363260
+  },
+  {
+    "put_code": 194600266,
+    "all_put_codes": [
+      194600266
+    ],
+    "sources": [
+      "Md Monzurul Islam"
+    ],
+    "title": "A nonlinear macromodel for simulating the in-plane behavior of unreinforced masonry (URM) infilled frames",
+    "subtitle": null,
+    "type": "journal-article",
+    "journal": "Bulletin of Earthquake Engineering",
+    "publication_date": "2022-10",
+    "external_ids": {
+      "doi": "10.1007/s10518-022-01488-8"
+    },
+    "url": "http://dx.doi.org/10.1007/s10518-022-01488-8",
+    "contributors": [
+      {
+        "name": "S. M. Naheed Adnan",
+        "orcid": "0000-0002-2633-7344",
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Kazuto Matsukawa",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Yuji Haga",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      },
+      {
+        "name": "Yoshiaki Nakano",
+        "orcid": null,
+        "role": "author",
+        "sequence": null
+      }
+    ],
+    "short_description": null,
+    "citation": null,
+    "language": "en",
+    "country": null,
+    "last_modified": 1760835643612
+  }
+]

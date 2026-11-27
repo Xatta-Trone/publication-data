@@ -1,0 +1,279 @@
+{
+  "issn": "0361-1981",
+  "title": "Transportation Research Record Journal of the Transportation Research Board",
+  "publisher": "SAGE Publications",
+  "issns": [
+    "0361-1981",
+    "2169-4052"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1791247761889,
+    "counts": {
+      "current-dois": 2326,
+      "backfile-dois": 23073,
+      "total-dois": 25399
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2011,
+          995
+        ],
+        [
+          2022,
+          989
+        ],
+        [
+          2023,
+          962
+        ],
+        [
+          2015,
+          962
+        ],
+        [
+          2010,
+          953
+        ],
+        [
+          2013,
+          948
+        ],
+        [
+          2012,
+          940
+        ],
+        [
+          2017,
+          935
+        ],
+        [
+          2014,
+          933
+        ],
+        [
+          2021,
+          902
+        ],
+        [
+          2018,
+          886
+        ],
+        [
+          2016,
+          884
+        ],
+        [
+          2006,
+          871
+        ],
+        [
+          2025,
+          869
+        ],
+        [
+          2019,
+          838
+        ],
+        [
+          2005,
+          833
+        ],
+        [
+          2024,
+          829
+        ],
+        [
+          2007,
+          826
+        ],
+        [
+          2009,
+          781
+        ],
+        [
+          2020,
+          762
+        ],
+        [
+          2003,
+          761
+        ],
+        [
+          1996,
+          735
+        ],
+        [
+          1999,
+          730
+        ],
+        [
+          2000,
+          705
+        ],
+        [
+          2008,
+          703
+        ],
+        [
+          2004,
+          692
+        ],
+        [
+          2001,
+          677
+        ],
+        [
+          2002,
+          662
+        ],
+        [
+          2026,
+          628
+        ],
+        [
+          1998,
+          613
+        ],
+        [
+          1997,
+          595
+        ]
+      ]
+    },
+    "publisher": "SAGE Publications",
+    "coverage": {
+      "affiliations-current": 0.9969905417024936,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 1.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.003009458297506449,
+      "funders-backfile": 0.03124864560308586,
+      "licenses-backfile": 0.994365708837169,
+      "funders-current": 0.3374892519346518,
+      "affiliations-backfile": 0.9892515060893685,
+      "resource-links-backfile": 0.994365708837169,
+      "orcids-backfile": 0.09873011745330039,
+      "funder-ror-ids-current": 0.003009458297506449,
+      "update-policies-current": 0.9995700773860705,
+      "ror-ids-backfile": 0.0,
+      "orcids-current": 0.9471195184866724,
+      "similarity-checking-backfile": 0.994365708837169,
+      "references-backfile": 0.9772461318424132,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.01958999696615091,
+      "update-policies-backfile": 0.5167945217353617,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.2712811693895099,
+      "abstracts-backfile": 0.989121483985611,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.0,
+      "abstracts-current": 0.9952708512467756,
+      "references-current": 0.9978503869303526
+    },
+    "title": "Transportation Research Record Journal of the Transportation Research Board",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1791247761889,
+        "affiliations": 0.9899602346549077,
+        "abstracts": 0.9896846332532777,
+        "orcids": 0.176424268671995,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9948816882554431,
+        "references": 0.9791330367337296,
+        "funders": 0.05929367297925115,
+        "similarity-checking": 0.9948816882554431,
+        "funder-ror-ids": 0.0002756014016299854,
+        "award-numbers": 0.04263947399503917,
+        "ror-ids": 0.0002756014016299854,
+        "update-policies": 0.5610063388322375,
+        "resource-links": 0.9948816882554431,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1791247761889,
+        "affiliations": 0.9892515060893685,
+        "abstracts": 0.989121483985611,
+        "orcids": 0.09873011745330039,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.994365708837169,
+        "references": 0.9772461318424132,
+        "funders": 0.03124864560308586,
+        "similarity-checking": 0.994365708837169,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.01958999696615091,
+        "ror-ids": 0.0,
+        "update-policies": 0.5167945217353617,
+        "resource-links": 0.994365708837169,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1791247761889,
+        "affiliations": 0.9969905417024936,
+        "abstracts": 0.9952708512467756,
+        "orcids": 0.9471195184866724,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9978503869303526,
+        "funders": 0.3374892519346518,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 0.003009458297506449,
+        "award-numbers": 0.2712811693895099,
+        "ror-ids": 0.003009458297506449,
+        "update-policies": 0.9995700773860705,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": true,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": true,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": true,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": true,
+      "deposits-articles": true,
+      "deposits-affiliations-current": true,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": true,
+      "deposits-ror-ids-backfile": false,
+      "deposits-abstracts-backfile": true,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": false,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": true,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "0361-1981",
+      "2169-4052"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0361-1981"
+      },
+      {
+        "type": "electronic",
+        "value": "2169-4052"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:30+00:00"
+}

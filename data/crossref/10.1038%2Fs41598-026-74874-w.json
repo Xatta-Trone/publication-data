@@ -1,0 +1,273 @@
+{
+  "doi": "10.1038/s41598-026-74874-w",
+  "fetched_at": "2026-11-27T05:57:09+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T14:00:30Z",
+      "timestamp": 1791381630558,
+      "version": "4.3.3"
+    },
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T00:00:00Z",
+          "timestamp": 1791331200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T00:00:00Z",
+          "timestamp": 1791331200000
+        },
+        "content-version": "am",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sci Rep"
+    ],
+    "DOI": "10.1038/s41598-026-74874-w",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T13:44:01Z",
+      "timestamp": 1791380641000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Multidimensional analysis of e-scooter crash severity using cluster correspondence and explainable AI"
+    ],
+    "prefix": "10.1038",
+    "author": [
+      {
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sharif Ahmed",
+        "family": "Rafat",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tausif Islam",
+        "family": "Chowdhury",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kayvan",
+        "family": "Aghabayk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ]
+    },
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-74874-w",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T13:44:01Z",
+      "timestamp": 1791380641000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41598-026-74874-w"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "74874"
+    ],
+    "URL": "https://doi.org/10.1038/s41598-026-74874-w",
+    "relation": {},
+    "ISSN": [
+      "2045-2322"
+    ],
+    "issn-type": [
+      {
+        "value": "2045-2322",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "18 May 2026",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "1 October 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "7 October 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "This study utilized secondary, de-identified crash data obtained from the Texas Department of Transportation (TxDOT) Crash Records Information System (CRIS) and did not involve direct human participation, intervention, or the collection of biological samples. All methods were carried out in accordance with relevant institutional guidelines and regulations. The study protocol was reviewed by the IRB of Texas State University and was determined to be exempt from formal ethical approval/informed consent requirements because the study used anonymized secondary data.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Ethics statement",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 2,
+        "name": "Ethics",
+        "label": "Competing interests",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      }
+    ]
+  }
+}

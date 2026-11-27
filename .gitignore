@@ -1,0 +1,5 @@
+.env
+__pycache__/
+# last raw Scholar page, only kept locally for re-parsing
+data/scholar/profile.html
+.claude/

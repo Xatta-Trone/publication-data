@@ -1,0 +1,177 @@
+{
+  "issn": "2666-691X",
+  "title": "Transportation Engineering",
+  "publisher": "Elsevier",
+  "issns": [
+    "2666-691X"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1791254417920,
+    "counts": {
+      "current-dois": 237,
+      "backfile-dois": 208,
+      "total-dois": 445
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2025,
+          118
+        ],
+        [
+          2024,
+          71
+        ],
+        [
+          2023,
+          63
+        ],
+        [
+          2021,
+          57
+        ],
+        [
+          2022,
+          52
+        ],
+        [
+          2026,
+          48
+        ],
+        [
+          2020,
+          36
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.0,
+      "funders-backfile": 0.4711538461538462,
+      "licenses-backfile": 1.0,
+      "funders-current": 0.5527426160337553,
+      "affiliations-backfile": 0.0,
+      "resource-links-backfile": 1.0,
+      "orcids-backfile": 0.5913461538461539,
+      "funder-ror-ids-current": 0.0,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.0,
+      "orcids-current": 0.8270042194092827,
+      "similarity-checking-backfile": 0.0,
+      "references-backfile": 0.9903846153846154,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.2115384615384615,
+      "update-policies-backfile": 1.0,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.2573839662447257,
+      "abstracts-backfile": 0.0,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.0,
+      "abstracts-current": 0.0,
+      "references-current": 0.9873417721518987
+    },
+    "title": "Transportation Engineering",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1791254417920,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.7168539325842697,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9887640449438202,
+        "funders": 0.5146067415730337,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.2359550561797753,
+        "ror-ids": 0.0,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1791254417920,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.5913461538461539,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9903846153846154,
+        "funders": 0.4711538461538462,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.2115384615384615,
+        "ror-ids": 0.0,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1791254417920,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.8270042194092827,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9873417721518987,
+        "funders": 0.5527426160337553,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.2573839662447257,
+        "ror-ids": 0.0,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": false,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": false,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": false,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": false,
+      "deposits-ror-ids-backfile": false,
+      "deposits-abstracts-backfile": false,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": false,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": false,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "2666-691X"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2666-691X"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:38+00:00"
+}

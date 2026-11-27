@@ -1,0 +1,1106 @@
+{
+  "doi": "10.1016/j.cities.2026.107038",
+  "fetched_at": "2026-11-27T05:57:08+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2026-06-11T00:58:31Z",
+      "timestamp": 1781139511916,
+      "version": "3.54.1"
+    },
+    "reference-count": 82,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Cities"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cities.2026.107038",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T07:49:46Z",
+      "timestamp": 1776066586000
+    },
+    "page": "107038",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": [
+      "Who leaves, when, and how? Dissecting evacuation choices from a survey of at-risk residents in the Western U.S."
+    ],
+    "prefix": "10.1016",
+    "volume": "174",
+    "author": [
+      {
+        "given": "Sazzad Bin Bashar",
+        "family": "Polock",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-3723-0607",
+        "authenticated-orcid": false,
+        "given": "Shriyank",
+        "family": "Somvanshi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abbas",
+        "family": "Sheykhfard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "885",
+        "DOI": "10.3758/s13428-021-01665-8",
+        "article-title": "Quality control questions on Amazon’s Mechanical Turk (MTurk): A randomized trial of impact on the USAUDIT, PHQ-9, and GAD-7",
+        "volume": "54",
+        "author": "Agley",
+        "year": "2022",
+        "journal-title": "Behav Res Methods"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1093/reep/rez010",
+        "article-title": "Revealed versus Stated Preferences: What Have We Learned About Valuation and Behavior?",
+        "volume": "13",
+        "author": "Alberini",
+        "year": "2019",
+        "journal-title": "Review of Environmental Economics and Policy"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "2359",
+        "DOI": "10.1186/s12889-022-14801-6",
+        "article-title": "The choice of message and messenger to drive behavior change that averts the health impacts of wildfires: an online randomized controlled experiment",
+        "volume": "22",
+        "author": "Aminpour",
+        "year": "2022",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "800",
+        "DOI": "10.3758/s13428-011-0081-0",
+        "article-title": "The viability of crowdsourcing for survey research",
+        "volume": "43",
+        "author": "Behrend",
+        "year": "2011",
+        "journal-title": "Behav Res"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "144",
+        "DOI": "10.1016/j.simpat.2015.10.002",
+        "article-title": "Simulation of wildfire evacuation with dynamic factors and model composition",
+        "volume": "60",
+        "author": "Beloglazov",
+        "year": "2016",
+        "journal-title": "Simulation Modelling Practice and Theory"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.3390/drones6080193",
+        "article-title": "Wildfire Monitoring Based on Energy Efficient Clustering Approach for FANETS",
+        "volume": "6",
+        "author": "Bharany",
+        "year": "2022",
+        "journal-title": "Drones"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0035",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.trc.2024.104753",
+        "article-title": "Predicting hurricane evacuation behavior synthesizing data from travel surveys and social media",
+        "volume": "165",
+        "author": "Bhowmik",
+        "year": "2024",
+        "journal-title": "Transportation Research Part C: Emerging Technologies"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "2647",
+        "DOI": "10.3390/s20092647",
+        "article-title": "An Energy-Efficient Evolutionary Clustering Technique for Disaster Management in IoT Networks",
+        "volume": "20",
+        "author": "Biabani",
+        "year": "2020",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0045",
+        "article-title": "Understanding the Role of Planners in Wildfire Preparedness and Mitigation",
+        "volume": "2012",
+        "author": "Bihari",
+        "year": "2012",
+        "journal-title": "International Scholarly Research Notices"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "102102",
+        "DOI": "10.1109/ACCESS.2019.2931456",
+        "article-title": "Crowd-Sourced Wildfire Spread Prediction With Remote Georeferencing Using Smartphones",
+        "volume": "7",
+        "author": "Bogdos",
+        "year": "2019",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1186/s12888-018-2007-1",
+        "article-title": "After the Fort McMurray wildfire there are significant increases in mental health symptoms in grade 7–12 students compared to controls",
+        "volume": "19",
+        "author": "Brown",
+        "year": "2019",
+        "journal-title": "BMC Psychiatry"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0060",
+        "series-title": "From Perceptions to Decisions: Wildfire Evacuation Decision Prediction with Behavioral Theory-informed LLMs",
+        "author": "Chen",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "1095",
+        "DOI": "10.1002/hec.4246",
+        "article-title": "Stated versus revealed preferences: An approach to reduce bias",
+        "volume": "30",
+        "author": "de Corte",
+        "year": "2021",
+        "journal-title": "Health Economics"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0070",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jtrangeo.2024.103863",
+        "article-title": "Destination unknown: Examining wildfire evacuee trips using GPS data",
+        "volume": "117",
+        "author": "Cova",
+        "year": "2024",
+        "journal-title": "Journal of Transport Geography"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0075",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0057410",
+        "article-title": "Evaluating Amazon’s Mechanical Turk as a Tool for Experimental Behavioral Research",
+        "volume": "8",
+        "author": "Crump",
+        "year": "2013",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0080",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.scitotenv.2022.155432",
+        "article-title": "Change of air quality knowledge, perceptions, attitudes, and practices during and post-wildfires in the United States",
+        "volume": "836",
+        "author": "Del Ponte",
+        "year": "2022",
+        "journal-title": "Science of The Total Environment"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0085",
+        "series-title": "Understanding rural adaptation to smoke from wildfires and forest management: insights for aligning approaches with community contexts",
+        "author": "Edgeley",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0090",
+        "series-title": "Traffic classification using clustering algorithms, in: Proceedings of the 2006 SIGCOMM Workshop on Mining Network Data, MineNet ‘06",
+        "first-page": "281",
+        "author": "Erman",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/j.paid.2014.11.017",
+        "article-title": "Crowdsourcing and personality measurement equivalence: A warning about countries whose primary language is not English",
+        "volume": "75",
+        "author": "Feitosa",
+        "year": "2015",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0100",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.trip.2025.101392",
+        "article-title": "Understanding wildfire evacuees’ perceived safety on their evacuation route: A study of the 2018 Camp Fire",
+        "volume": "31",
+        "author": "Grajdura",
+        "year": "2025",
+        "journal-title": "Transportation Research Interdisciplinary Perspectives"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0105",
+        "series-title": "Mixed Methods Approaches to Wildfire Evacuation: Modeling Behavior, Simulation, and Equity",
+        "author": "Grajdura",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0110",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Greenacre, M., 2017. Correspondence analysis in practice. chapman and hall/crc.",
+        "DOI": "10.1201/9781315369983"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0115",
+        "series-title": "Multiple correspondence analysis and related methods",
+        "author": "Greenacre",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0120",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/wcc.553",
+        "article-title": "Behavioral adaptation to climate change in wildfire-prone forests",
+        "volume": "9",
+        "author": "Hamilton",
+        "year": "2018",
+        "journal-title": "WIREs Climate Change"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0125",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2196/63032",
+        "article-title": "Comparing Health Survey Data Cost and Quality Between Amazon’s Mechanical Turk and Ipsos’ KnowledgePanel: Observational Study",
+        "volume": "26",
+        "author": "Herman",
+        "year": "2024",
+        "journal-title": "Journal of Medical Internet Research"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0130",
+        "unstructured": "Hilding, T., Engineering, V.C. of, Architecture, 2025. Researchers work to improve wildfire evacuation planning. Office of Research. URL https://research.wsu.edu/news/researchers-work-to-improve-wildfire-evacuation-planning (accessed 6.26.25)."
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1109/TGRS.2022.3192974",
+        "article-title": "Next day wildfire spread: A machine learning dataset to predict wildfire spreading from remote-sensing data",
+        "volume": "60",
+        "author": "Huot",
+        "year": "2022",
+        "journal-title": "IEEE Transactions on Geoscience and Remote Sensing"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.4236/jgis.2022.145020",
+        "article-title": "Associations between Wildfire Risk and Socio-Economic-Demographic Characteristics Using GIS Technology",
+        "volume": "14",
+        "author": "Hwang",
+        "year": "2022",
+        "journal-title": "Journal of Geographic Information System"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "478",
+        "DOI": "10.1139/er-2020-0019",
+        "article-title": "A review of machine learning applications in wildfire science and management",
+        "volume": "28",
+        "author": "Jain",
+        "year": "2020",
+        "journal-title": "Environmental Reviews"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb9000",
+        "article-title": "Data from: Improving public safety through spatial synthesis, mapping, modeling, and performance analysis of emergency evacuation routes in California localities",
+        "author": "Jaller",
+        "year": "2024",
+        "journal-title": "Dryad"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0150",
+        "series-title": "Evaluating the Impacts of Connected Vehicle Technology on Evacuation Efficiency",
+        "author": "Karzan",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0155",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2017.01359",
+        "article-title": "Systems Perspective of Amazon Mechanical Turk for Organizational Research: Review and Recommendations",
+        "volume": "8",
+        "author": "Keith",
+        "year": "2017",
+        "journal-title": "Front. Psychol."
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "S6",
+        "DOI": "10.1002/mpr.269",
+        "article-title": "Sample and design considerations in post-disaster mental health needs assessment tracking surveys",
+        "volume": "17",
+        "author": "Kessler",
+        "year": "2008",
+        "journal-title": "Int J Methods Psychiatr Res"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "477",
+        "DOI": "10.1080/08941920490452427",
+        "article-title": "Situational Influences of Acceptable Wildland Fire Management Actions",
+        "volume": "17",
+        "author": "Kneeshaw",
+        "year": "2004",
+        "journal-title": "Society & Natural Resources"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0170",
+        "article-title": "Evacuation decision-making and behavior in wildfires: Past research, current challenges and a future research agenda",
+        "volume": "120",
+        "author": "Kuligowski",
+        "year": "2021",
+        "journal-title": "Fire Safety Journal, Fire Safety Science: Proceedings of the 13th International Symposium"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0175",
+        "author": "Kuligowski",
+        "year": "2009",
+        "journal-title": "The Need for Behavioral Theory in Evacuation Modeling."
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0180",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpsyg.2023.1196419",
+        "article-title": "Climate change and extreme weather disasters: evacuation stress is associated with youths’ somatic complaints",
+        "volume": "14",
+        "author": "La Greca",
+        "year": "2023",
+        "journal-title": "Frontiers in Psychology"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1007/s11121-011-0201-1",
+        "article-title": "Latent Class Analysis: An Alternative Perspective on Subgroup Analysis in Prevention and Treatment",
+        "volume": "14",
+        "author": "Lanza",
+        "year": "2013",
+        "journal-title": "Prev Sci"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0190",
+        "series-title": "Wildfire Evacuation Survey of Residents in CA, CO, and OR [supporting dataset]",
+        "author": "Lee",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0195",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/2158244016636433",
+        "article-title": "The Demographic and Political Composition of Mechanical Turk Samples",
+        "volume": "6",
+        "author": "Levay",
+        "year": "2016",
+        "journal-title": "Sage Open"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1016/j.compenvurbsys.2015.05.008",
+        "article-title": "A household-level approach to staging wildfire evacuation warnings using trigger modeling",
+        "volume": "54",
+        "author": "Li",
+        "year": "2015",
+        "journal-title": "Computers, Environment and Urban Systems"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "3391",
+        "DOI": "10.1109/TSMC.2021.3068759",
+        "article-title": "Heterogeneous Large-Scale Group Decision Making Using Fuzzy Cluster Analysis and Its Application to Emergency Response Plan Selection",
+        "volume": "52",
+        "author": "Li",
+        "year": "2022",
+        "journal-title": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0210",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ijdrr.2019.101274",
+        "article-title": "A Modelling Framework for Householder Decision-Making for Wildfire Emergencies",
+        "volume": "41",
+        "author": "Lovreglio",
+        "year": "2019",
+        "journal-title": "International journal of disaster risk reduction: IJDRR"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1007/s11069-018-3488-4",
+        "article-title": "Wildfire as an increasingly common natural disaster facing Canada: understanding the 2016 Fort McMurray wildfire",
+        "volume": "98",
+        "author": "Mamuji",
+        "year": "2019",
+        "journal-title": "Nat Hazards"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "3427",
+        "DOI": "10.1007/s11069-023-05817-1",
+        "article-title": "United States Federal Emergency Management Agency regional clustering by disaster exposure: a new paradigm for disaster response",
+        "volume": "116",
+        "author": "Margus",
+        "year": "2023",
+        "journal-title": "Nat Hazards"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0225",
+        "first-page": "2018",
+        "author": "Martin",
+        "year": "2021",
+        "journal-title": "Computer and Internet Use in the United States"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "1390",
+        "DOI": "10.1111/risa.12944",
+        "article-title": "Should I stay or should I go now? Or should I wait and see? Influences on wildfire evacuation decisions",
+        "volume": "38",
+        "author": "McCaffrey",
+        "year": "2018",
+        "journal-title": "Risk analysis"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1007/s10694-018-0753-8",
+        "article-title": "Should We Leave Now? Behavioral Factors in Evacuation Under Wildfire Threat",
+        "volume": "55",
+        "author": "McLennan",
+        "year": "2019",
+        "journal-title": "Fire Technol"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0240",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2196/32678",
+        "article-title": "Modeling Access Across the Digital Divide for Intersectional Groups Seeking Web-Based Health Information: National Survey",
+        "volume": "24",
+        "author": "Medero",
+        "year": "2022",
+        "journal-title": "J Med Internet Res"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0245",
+        "unstructured": "Milne, J.C., 2019. Evaluating the Components of Wildfire Evacuation Plans for Salt Lake City. (Federal Emergency Management Agency (FEMA))."
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "839",
+        "DOI": "10.1080/08941920.2015.1014596",
+        "article-title": "Adapting to Wildfire: Rebuilding After Home Loss",
+        "volume": "28",
+        "author": "Mockrin",
+        "year": "2015",
+        "journal-title": "Society & Natural Resources"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0255",
+        "unstructured": "Nair, A., 2023. Helping more people get to safety in a wildfire. Society for Risk Analysis. URL https://www.sra.org/2023/11/16/helping-more-people-get-to-safety-in-a-wildfire/ (accessed 6.26.25)."
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0260",
+        "series-title": "Presented at the 2017 IEEE/ACM 39th International Conference on Software Engineering: Software Engineering in Society Track (ICSE-SEIS)",
+        "first-page": "57",
+        "article-title": "Crowdsourced Exploration of Mobile App Features: A Case Study of the Fort McMurray Wildfire, in: 2017 IEEE/ACM 39th International Conference on Software Engineering: Software Engineering in Society Track (ICSE-SEIS)",
+        "author": "Nayebi",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "517",
+        "DOI": "10.1007/s10694-018-0770-7",
+        "article-title": "Modeling Individual and Group Evacuation Decisions During Wildfires",
+        "volume": "55",
+        "author": "Nguyen",
+        "year": "2019",
+        "journal-title": "Fire Technol"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0270",
+        "series-title": "Comparison of Mouse and Keyboard Efficiency",
+        "author": "Omanson",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1016/j.scitotenv.2016.03.129",
+        "article-title": "Space-time clustering analysis of wildfires: The influence of dataset characteristics, fire prevention policy decisions, weather and climate",
+        "volume": "559",
+        "author": "Parente",
+        "year": "2016",
+        "journal-title": "Science of The Total Environment"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "534",
+        "DOI": "10.1007/s00267-016-0719-x",
+        "article-title": "Evaluating the Characteristics of Social Vulnerability to Wildfire: Demographics, Perceptions, and Parcel Characteristics",
+        "volume": "58",
+        "author": "Paveglio",
+        "year": "2016",
+        "journal-title": "Environmental Management"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0285",
+        "author": "Pew Research Center"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "168",
+        "DOI": "10.1016/j.neucom.2015.01.084",
+        "article-title": "Online indexing and clustering of social media data for emergency management",
+        "volume": "172",
+        "author": "Pohl",
+        "year": "2016",
+        "journal-title": "Neurocomputing"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.5993/AJHB.46.5.1",
+        "article-title": "Comparing Data Collected on Amazon’s Mechanical Turk to National Surveys",
+        "volume": "46",
+        "author": "Qureshi",
+        "year": "2022",
+        "journal-title": "Am J Health Behav"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "1493",
+        "DOI": "10.1007/s11069-023-05913-2",
+        "article-title": "The verification of wildland–urban interface fire evacuation models",
+        "volume": "117",
+        "author": "Ronchi",
+        "year": "2023",
+        "journal-title": "Natural Hazards"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.3390/fire6010032",
+        "article-title": "Understanding Building Resistance to Wildfires: A Multi-Factor Approach",
+        "volume": "6",
+        "author": "Samora-Arvela",
+        "year": "2023",
+        "journal-title": "Fire"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.1007/s10661-025-14053-y",
+        "article-title": "Classification of wildfires in relation to land cover types and associated variables by applying cluster analysis: a case study in the Iberian Peninsula",
+        "volume": "197",
+        "author": "Serra",
+        "year": "2025",
+        "journal-title": "Environ Monit Assess"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0315",
+        "unstructured": "Soga, K., Comfort, L., Li, P., Zhao, B., Lorusso, P., University of California, Berkeley. I. of T.S., 2024. Testing Wildfire Evacuation Strategies and Coordination Plans for Wildland-Urban Interface (WUI) Communities in California (No. UC-ITS-2022-34). doi:https://doi.org/10.7922/G2XK8CX7."
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "638",
+        "DOI": "10.1016/j.jclinepi.2009.08.008",
+        "article-title": "Correspondence analysis is a useful tool to uncover the relationships among categorical variables",
+        "volume": "63",
+        "author": "Sourial",
+        "year": "2010",
+        "journal-title": "Journal of Clinical Epidemiology"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0325",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ijdrr.2021.102177",
+        "article-title": "Preparing for wildfire evacuation and alternatives: Exploring influences on residents’ intended evacuation behaviors and mitigations",
+        "volume": "58",
+        "author": "Stasiewicz",
+        "year": "2021",
+        "journal-title": "International Journal of Disaster Risk Reduction"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "1602",
+        "DOI": "10.1080/13669877.2018.1501597",
+        "article-title": "The protective action decision model: when householders choose their protective response to wildfire",
+        "volume": "22",
+        "author": "Strahan",
+        "year": "2019",
+        "journal-title": "Journal of Risk Research"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0335",
+        "author": "Sun",
+        "year": "2024",
+        "journal-title": "Investigating Wildfire Evacuation Decisions Using Hybrid Choice Modeling."
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0340",
+        "doi-asserted-by": "crossref",
+        "first-page": "3412",
+        "DOI": "10.11591/eei.v10i6.3256",
+        "article-title": "Android mobile application for wildfire reporting and monitoring",
+        "volume": "10",
+        "author": "Teguh",
+        "year": "2021",
+        "journal-title": "Bulletin of Electrical Engineering and Informatics"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0350",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0271019",
+        "article-title": "A burning issue: Reviewing the socio-demographic and environmental justice aspects of the wildfire literature",
+        "volume": "17",
+        "author": "Thomas",
+        "year": "2022",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "636",
+        "DOI": "10.1080/08941920.2014.901460",
+        "article-title": "Social, Institutional, and Psychological Factors Affecting Wildfire Incident Decision Making",
+        "volume": "27",
+        "author": "Thompson",
+        "year": "2014",
+        "journal-title": "Society & Natural Resources"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "812",
+        "DOI": "10.1111/risa.12654",
+        "article-title": "Evacuation from Natural Disasters: A Systematic Review of the Literature",
+        "volume": "37",
+        "author": "Thompson",
+        "year": "2017",
+        "journal-title": "Risk Analysis: An Official Publication of the Society for Risk Analysis"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "1366",
+        "DOI": "10.1016/j.ijdrr.2018.03.033",
+        "article-title": "Analysis of evacuation behavior in a wildfire event",
+        "volume": "31",
+        "author": "Toledo",
+        "year": "2018",
+        "journal-title": "International journal of disaster risk reduction"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0345",
+        "series-title": "Wildfire: Preparing the Ranch",
+        "author": "Treadwell",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0370",
+        "first-page": "223",
+        "article-title": "Salient Value Similarity, Social Trust and Attitudes toward Wildland Fire Management Strategies",
+        "volume": "14",
+        "author": "Vaske",
+        "year": "2007",
+        "journal-title": "Human Ecology Review"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0375",
+        "doi-asserted-by": "crossref",
+        "first-page": "158",
+        "DOI": "10.1007/s11336-016-9514-0",
+        "article-title": "Cluster Correspondence Analysis",
+        "volume": "82",
+        "author": "van de Velden",
+        "year": "2017",
+        "journal-title": "Psychometrika"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0380",
+        "series-title": "Risk perception of natural hazards",
+        "author": "Wachinger",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0385",
+        "article-title": "Development of a Time-Dependent Hurricane Evacuation Model for the New Orleans",
+        "volume": "No. FHWA/LA.12/494",
+        "author": "Wilmot",
+        "year": "2013",
+        "journal-title": "Area"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0390",
+        "series-title": "Review of California wildfire evacuations from 2017 to 2019",
+        "author": "Wong",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0395",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ijdrr.2020.101900",
+        "article-title": "Trust and compassion in willingness to share mobility and sheltering resources in evacuations: A case study of the 2017 and 2018 California Wildfires",
+        "volume": "52",
+        "author": "Wong",
+        "year": "2021",
+        "journal-title": "International Journal of Disaster Risk Reduction"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0400",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ijdrr.2023.104065",
+        "article-title": "Increasing wildfires and changing sociodemographics in communities across California, USA",
+        "volume": "98",
+        "author": "Yadav",
+        "year": "2023",
+        "journal-title": "International Journal of Disaster Risk Reduction"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107038_bb0405",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.trd.2022.103277",
+        "article-title": "Estimating wildfire evacuation decision and departure timing using large-scale GPS data",
+        "volume": "107",
+        "author": "Zhao",
+        "year": "2022",
+        "journal-title": "Transportation Research Part D: Transport and Environment"
+      }
+    ],
+    "container-title": [
+      "Cities"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0264275126002702?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0264275126002702?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2026-06-11T00:04:40Z",
+      "timestamp": 1781136280000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002702"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "references-count": 82,
+    "alternative-id": [
+      "S0264275126002702"
+    ],
+    "URL": "https://doi.org/10.1016/j.cities.2026.107038",
+    "relation": {},
+    "ISSN": [
+      "0264-2751"
+    ],
+    "issn-type": [
+      {
+        "value": "0264-2751",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Who leaves, when, and how? Dissecting evacuation choices from a survey of at-risk residents in the Western U.S.",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Cities",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cities.2026.107038",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "107038"
+  }
+}

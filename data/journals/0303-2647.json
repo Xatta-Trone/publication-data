@@ -1,0 +1,393 @@
+{
+  "issn": "0303-2647",
+  "title": "Biosystems",
+  "publisher": "Elsevier",
+  "issns": [
+    "0303-2647"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1795717573070,
+    "counts": {
+      "current-dois": 690,
+      "backfile-dois": 4786,
+      "total-dois": 5476
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2026,
+          292
+        ],
+        [
+          2007,
+          215
+        ],
+        [
+          2025,
+          202
+        ],
+        [
+          2024,
+          190
+        ],
+        [
+          2008,
+          171
+        ],
+        [
+          2023,
+          169
+        ],
+        [
+          2021,
+          167
+        ],
+        [
+          2003,
+          142
+        ],
+        [
+          2005,
+          135
+        ],
+        [
+          2011,
+          134
+        ],
+        [
+          2020,
+          133
+        ],
+        [
+          2022,
+          131
+        ],
+        [
+          2018,
+          131
+        ],
+        [
+          2009,
+          131
+        ],
+        [
+          2019,
+          129
+        ],
+        [
+          2013,
+          128
+        ],
+        [
+          2004,
+          126
+        ],
+        [
+          2016,
+          125
+        ],
+        [
+          2012,
+          121
+        ],
+        [
+          2010,
+          118
+        ],
+        [
+          2014,
+          110
+        ],
+        [
+          1997,
+          110
+        ],
+        [
+          2015,
+          108
+        ],
+        [
+          2006,
+          107
+        ],
+        [
+          1998,
+          106
+        ],
+        [
+          2002,
+          98
+        ],
+        [
+          2000,
+          97
+        ],
+        [
+          1999,
+          93
+        ],
+        [
+          2017,
+          91
+        ],
+        [
+          1995,
+          86
+        ],
+        [
+          1996,
+          83
+        ],
+        [
+          2001,
+          82
+        ],
+        [
+          1992,
+          73
+        ],
+        [
+          1993,
+          72
+        ],
+        [
+          1981,
+          72
+        ],
+        [
+          1975,
+          67
+        ],
+        [
+          1989,
+          66
+        ],
+        [
+          1985,
+          60
+        ],
+        [
+          1977,
+          59
+        ],
+        [
+          1987,
+          56
+        ],
+        [
+          1988,
+          55
+        ],
+        [
+          1991,
+          52
+        ],
+        [
+          1994,
+          50
+        ],
+        [
+          1980,
+          47
+        ],
+        [
+          1968,
+          46
+        ],
+        [
+          1967,
+          46
+        ],
+        [
+          1978,
+          42
+        ],
+        [
+          1990,
+          40
+        ],
+        [
+          1982,
+          40
+        ],
+        [
+          1986,
+          36
+        ],
+        [
+          1983,
+          36
+        ],
+        [
+          1979,
+          34
+        ],
+        [
+          1974,
+          34
+        ],
+        [
+          1969,
+          33
+        ],
+        [
+          1976,
+          19
+        ],
+        [
+          1984,
+          18
+        ],
+        [
+          1971,
+          18
+        ],
+        [
+          1972,
+          15
+        ],
+        [
+          1973,
+          13
+        ],
+        [
+          1970,
+          10
+        ],
+        [
+          2027,
+          6
+        ]
+      ]
+    },
+    "publisher": "Elsevier",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.0,
+      "funders-backfile": 0.1347680735478479,
+      "licenses-backfile": 0.9851650647722524,
+      "funders-current": 0.3521739130434783,
+      "affiliations-backfile": 0.0,
+      "resource-links-backfile": 1.0,
+      "orcids-backfile": 0.09089009611366486,
+      "funder-ror-ids-current": 0.0,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.0,
+      "orcids-current": 0.7289855072463768,
+      "similarity-checking-backfile": 0.0,
+      "references-backfile": 0.8282490597576264,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.07856247388215629,
+      "update-policies-backfile": 0.31027998328458,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.208695652173913,
+      "abstracts-backfile": 0.0,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.0,
+      "abstracts-current": 0.0,
+      "references-current": 0.9304347826086957
+    },
+    "title": "Biosystems",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1795717573070,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.1712929145361578,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9870343316289262,
+        "references": 0.8411249086924762,
+        "funders": 0.1621621621621622,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.09495982468955443,
+        "ror-ids": 0.0,
+        "update-policies": 0.3971877282688093,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1795717573070,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.09089009611366486,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9851650647722524,
+        "references": 0.8282490597576264,
+        "funders": 0.1347680735478479,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.07856247388215629,
+        "ror-ids": 0.0,
+        "update-policies": 0.31027998328458,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1795717573070,
+        "affiliations": 0.0,
+        "abstracts": 0.0,
+        "orcids": 0.7289855072463768,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9304347826086957,
+        "funders": 0.3521739130434783,
+        "similarity-checking": 0.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.208695652173913,
+        "ror-ids": 0.0,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": false,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": false,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": false,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": false,
+      "deposits-ror-ids-backfile": false,
+      "deposits-abstracts-backfile": false,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": false,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": false,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "0303-2647"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0303-2647"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:29+00:00"
+}

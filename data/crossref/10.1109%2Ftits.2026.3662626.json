@@ -1,0 +1,729 @@
+{
+  "doi": "10.1109/tits.2026.3662626",
+  "fetched_at": "2026-11-27T05:57:10+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2026-11-11T05:04:02Z",
+      "timestamp": 1794373442669,
+      "version": "4.9.0"
+    },
+    "reference-count": 83,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IEEE Trans. Intell. Transport. Syst."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1109/tits.2026.3662626",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2026-02-12T21:01:24Z",
+      "timestamp": 1770930084000
+    },
+    "page": "7332-7349",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Quantum Computing in Transportation Engineering: A Survey"
+    ],
+    "prefix": "10.1109",
+    "volume": "27",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-3723-0607",
+        "authenticated-orcid": false,
+        "given": "Shriyank",
+        "family": "Somvanshi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-5505-4174",
+        "authenticated-orcid": false,
+        "given": "Sazzad Bin Bashar",
+        "family": "Polock",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-0124-4814",
+        "authenticated-orcid": false,
+        "given": "Gaurab",
+        "family": "Chhetri",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Science and Engineering, Texas State University, San Marcos, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-0258-505X",
+        "authenticated-orcid": false,
+        "given": "Darrell",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1807167.1807291"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4108/ICST.MOBIQUITOUS2008.4014"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/mice.12610"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2019.2897377"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tra.2020.09.018"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aei.2024.102663"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MITS.2018.2806634"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2021.3132161"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23919/ICN.2021.0019"
+      },
+      {
+        "key": "ref10",
+        "article-title": "Quantum computing in logistics and supply chain management an overview",
+        "author": "Phillipson",
+        "year": "2024",
+        "journal-title": "arXiv:2402.17520"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICMSS53060.2021.9673630"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.energy.2019.04.186"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1115/1.4062969"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23919/CHAIN.2024.000007"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2022.3177790"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/QCE53715.2022.00106"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.63002/jrecs.24.617"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2023.3327157"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2025.3532958"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/dac.4647"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/SeFeT57834.2023.10245485"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2022.3172241"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSCA57840.2023.10087522"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/780542.780552"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11128-012-0432-5"
+      },
+      {
+        "key": "ref26",
+        "first-page": "1",
+        "article-title": "The bloch sphere",
+        "volume-title": "Proc. QIA Meeting",
+        "author": "Glendinning"
+      },
+      {
+        "key": "ref27",
+        "article-title": "Quantum computing for transport optimization",
+        "author": "Bentley",
+        "year": "2022",
+        "journal-title": "arXiv:2206.07313"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42235-024-00481-y"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42235-022-00255-4"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cosrev.2025.100740"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.suscom.2024.101080"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10462-022-10280-8"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/DCOSS-IoT58021.2023.00064"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.compchemeng.2019.106630"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00440-004-0423-2"
+      },
+      {
+        "key": "ref36",
+        "first-page": "1",
+        "article-title": "Quantum Wasserstein generative adversarial networks",
+        "volume-title": "Proc. Adv. Neural Inf. Process. Syst.",
+        "author": "Chakrabarti"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2022.3203791"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TIRVED58506.2023.10332762"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/SNPD51163.2021.9704985"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TQE.2023.3312284"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CEC53210.2023.10254158"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-27140-8_12"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/machines9110280"
+      },
+      {
+        "key": "ref44",
+        "article-title": "Quantum annealing-enhanced virtual traffic lights and its evaluation using a quantum-in-the-loop simulation testbed",
+        "author": "Enan",
+        "year": "2024",
+        "journal-title": "arXiv:2412.18776"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCCNT61001.2024.10726156"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23919/ICN.2024.0009"
+      },
+      {
+        "key": "ref47",
+        "first-page": "281",
+        "article-title": "Solving the problem of vehicle routing on modern quantum-classical cloud services",
+        "volume-title": "Proc. IT I",
+        "author": "Hulianytskyi"
+      },
+      {
+        "key": "ref48",
+        "volume-title": "Quantum Computing for Transportation and Logistics",
+        "year": "2024"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCSP60870.2024.10543893"
+      },
+      {
+        "key": "ref50",
+        "article-title": "Quantum technologies in transportation workshop report",
+        "author": "LeMaster"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TQE.2021.3049230"
+      },
+      {
+        "key": "ref52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42354-021-0335-7"
+      },
+      {
+        "key": "ref53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TQCEBT54229.2022.10041701"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/QCE60285.2024.10289"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/SIEDS55548.2022.9799399"
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/QCE53715.2022.00105"
+      },
+      {
+        "key": "ref57",
+        "article-title": "Quantum machine learning in climate change and sustainability: A review",
+        "author": "Nammouchi",
+        "year": "2023",
+        "journal-title": "arXiv:2310.09162"
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-023-38787-2"
+      },
+      {
+        "key": "ref59",
+        "article-title": "Quantum-assisted vehicle routing: Realizing QAOA-based approach on gate-based quantum computer",
+        "author": "Azfar",
+        "year": "2025",
+        "journal-title": "arXiv:2505.01614"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2025.3546353"
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-021-82740-0"
+      },
+      {
+        "key": "ref62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trip.2024.101201"
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2139/ssrn.4976781",
+        "article-title": "Foundations of quantum information science for transportation networks",
+        "author": "Filipovska",
+        "year": "2024"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3638529.3654131"
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2025.3562860"
+      },
+      {
+        "key": "ref66",
+        "article-title": "Vehicle routing problems via quantum graph attention network deep reinforcement learning",
+        "author": "Tung Giang",
+        "year": "2025",
+        "journal-title": "arXiv:2511.15175"
+      },
+      {
+        "key": "ref67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23919/DATE.2017.7927104"
+      },
+      {
+        "key": "ref68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/spe.3039"
+      },
+      {
+        "key": "ref69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/2058-9565/ab73e0"
+      },
+      {
+        "key": "ref70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JPROC.2019.2954005"
+      },
+      {
+        "key": "ref71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.1701074"
+      },
+      {
+        "key": "ref72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2024.3388005"
+      },
+      {
+        "key": "ref73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COMPSAC54236.2022.00096"
+      },
+      {
+        "key": "ref74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/icABCD62167.2024.10645271"
+      },
+      {
+        "key": "ref75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.86.032324"
+      },
+      {
+        "key": "ref76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1140/epjqt/s40507-019-0072-0"
+      },
+      {
+        "key": "ref77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PRXQuantum.4.010332"
+      },
+      {
+        "issue": "9",
+        "key": "ref78",
+        "first-page": "1",
+        "article-title": "Environmental impacts of a superconducting quantum computer based on a life cycle assessment",
+        "volume": "56",
+        "author": "Billat",
+        "year": "2020",
+        "journal-title": "Ecole polytechnique de Louvain, Université Catholique de Louvain"
+      },
+      {
+        "key": "ref79",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TASC.2010.2096792"
+      },
+      {
+        "key": "ref80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18540/jcecvl9iss6pp16397-01e"
+      },
+      {
+        "key": "ref81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ject.2024.05.001"
+      },
+      {
+        "key": "ref82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.51594/csitrj.v4i3.1558"
+      },
+      {
+        "key": "ref83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3412451.3428500"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Intelligent Transportation Systems"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx8/6979/11597996/11395309.pdf?arnumber=11395309",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2026-07-08T05:24:46Z",
+      "timestamp": 1783488286000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/11395309/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "references-count": 83,
+    "journal-issue": {
+      "issue": "7"
+    },
+    "URL": "https://doi.org/10.1109/tits.2026.3662626",
+    "relation": {},
+    "ISSN": [
+      "1524-9050",
+      "1558-0016"
+    ],
+    "issn-type": [
+      {
+        "value": "1524-9050",
+        "type": "print"
+      },
+      {
+        "value": "1558-0016",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    }
+  }
+}

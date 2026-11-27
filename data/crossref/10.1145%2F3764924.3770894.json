@@ -1,0 +1,626 @@
+{
+  "doi": "10.1145/3764924.3770894",
+  "fetched_at": "2026-11-27T05:57:11+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ],
+      "date-time": "2026-10-20T19:07:58Z",
+      "timestamp": 1792523278980,
+      "version": "4.5.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 51,
+    "publisher": "ACM",
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1145/3764924.3770894",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          28
+        ]
+      ],
+      "date-time": "2025-10-28T16:44:01Z",
+      "timestamp": 1761669841000
+    },
+    "page": "5-14",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "ST-GraphNet: A Spatio-Temporal Graph Neural Network for Understanding and Predicting Automated Vehicle Crash Severity"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0007-8534-3633",
+        "authenticated-orcid": false,
+        "given": "Mahmuda Sultana",
+        "family": "Mimi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, Texas, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, Texas, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-5102-5182",
+        "authenticated-orcid": false,
+        "given": "Anannya",
+        "family": "Ghosh Tusti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, Texas, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-3723-0607",
+        "authenticated-orcid": false,
+        "given": "Shriyank",
+        "family": "Somvanshi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, Texas, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, Texas, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8838-9476",
+        "authenticated-orcid": false,
+        "given": "Xinyue",
+        "family": "Ye",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Geography, University of Alabama, Tuscaloosa, Alabama, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_1_1_1",
+        "volume-title": "Spatial regression. The SAGE handbook of spatial analysis 1",
+        "author": "Anselin Luc",
+        "year": "2009",
+        "unstructured": "Luc Anselin. 2009. Spatial regression. The SAGE handbook of spatial analysis 1 (2009), 255–276."
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "170",
+        "DOI": "10.1080/15472450.2020.1834392",
+        "article-title": "Safety evaluation of connected and automated vehicles in mixed traffic with conventional vehicles at intersections",
+        "volume": "25",
+        "author": "Arvin Ramin",
+        "year": "2020",
+        "unstructured": "Ramin Arvin, Asad J Khattak, Mohsen Kamrani, and Jackeline Rio-Torres. 2020. Safety evaluation of connected and automated vehicles in mixed traffic with conventional vehicles at intersections. Journal of Intelligent Transportation Systems 25, 2 (2020), 170–187.",
+        "journal-title": "Journal of Intelligent Transportation Systems"
+      },
+      {
+        "key": "e_1_3_2_1_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2019.105354"
+      },
+      {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "California Department of Motor Vehicles. 2023. Autonomous Vehicle Collision Reports. https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/ Accessed: 2025-06-04."
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "18948",
+        "DOI": "10.1038/s41598-024-69740-6",
+        "article-title": "Data-driven risk analysis of nonlinear factor interactions in road safety using Bayesian networks",
+        "volume": "14",
+        "author": "Carrodano Cinzia",
+        "year": "2024",
+        "unstructured": "Cinzia Carrodano. 2024. Data-driven risk analysis of nonlinear factor interactions in road safety using Bayesian networks. Scientific Reports 14, 1 (2024), 18948.",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "volume-title": "A novel distributed cooperative approach for mixed platoon consisting of connected and automated vehicles and human-driven vehicles. Physica A: Statistical Mechanics and its Applications 573",
+        "author": "Chen Jianzhong",
+        "year": "2021",
+        "unstructured": "Jianzhong Chen, Huan Liang, Jing Li, and Zhaoxin Xu. 2021. A novel distributed cooperative approach for mixed platoon consisting of connected and automated vehicles and human-driven vehicles. Physica A: Statistical Mechanics and its Applications 573 (2021), 125939."
+      },
+      {
+        "key": "e_1_3_2_1_7_1",
+        "volume-title": "S-MGHSTN: Towards An Effective Streaming Traffic Accident Risk Prediction Framework",
+        "author": "Chen Minxiao",
+        "year": "2025",
+        "unstructured": "Minxiao Chen, Haitao Yuan, Nan Jiang, Zhihan Zheng, Zhifeng Bao, Ao Zhou, Jiaxin Jiang, and Shangguang Wang. 2025. S-MGHSTN: Towards An Effective Streaming Traffic Accident Risk Prediction Framework. IEEE Transactions on Knowledge and Data Engineering (2025)."
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "volume-title": "A deep neural network inverse solution to recover pre-crash impact data of car collisions. Transportation research part C: emerging technologies 126",
+        "author": "Chen Qijun",
+        "year": "2021",
+        "unstructured": "Qijun Chen, Yuxi Xie, Yu Ao, Tiange Li, Guorong Chen, Shaofei Ren, Chao Wang, and Shaofan Li. 2021. A deep neural network inverse solution to recover pre-crash impact data of car collisions. Transportation research part C: emerging technologies 126 (2021), 103009."
+      },
+      {
+        "key": "e_1_3_2_1_9_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "WR Cotton G Bryan and SC Van den Heever. 1992. Chapter 9 Cumulonimbus Clouds and Severe Convective Storms. Storm and Cloud Dynamics (1992) 455–592.",
+        "DOI": "10.1016/S0074-6142(08)60548-3"
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3615894.3628504"
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/23998083241288689"
+      },
+      {
+        "key": "e_1_3_2_1_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2024.107801"
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "volume-title": "Introducing the effects of road geometry into microscopic traffic models for automated vehicles",
+        "author": "He Yinglong",
+        "year": "2021",
+        "unstructured": "Yinglong He, Konstantinos Mattas, Riccardo Dona, Giovanni Albano, and Biagio Ciuffo. 2021. Introducing the effects of road geometry into microscopic traffic models for automated vehicles. IEEE transactions on intelligent transportation systems 23, 8 (2021), 13604–13613."
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "volume-title": "Knowledge distillation-based edge-decision hierarchies for interactive behavior-aware planning in autonomous driving system",
+        "author": "Hong Zhiming",
+        "year": "2024",
+        "unstructured": "Zhiming Hong, Qing Lin, and Bo Hu. 2024. Knowledge distillation-based edge-decision hierarchies for interactive behavior-aware planning in autonomous driving system. IEEE Transactions on Intelligent Transportation Systems (2024)."
+      },
+      {
+        "key": "e_1_3_2_1_15_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1128",
+        "DOI": "10.1177/03611981241242764",
+        "article-title": "Potential impacts of connected and autonomous vehicles on controlling criteria for road geometric design",
+        "volume": "2678",
+        "author": "Hossain Md Mahmud",
+        "year": "2024",
+        "unstructured": "Md Mahmud Hossain, Mohammad Reza Abbaszadeh Lima, and Huaguo Zhou. 2024. Potential impacts of connected and autonomous vehicles on controlling criteria for road geometric design: A Review. Transportation Research Record 2678, 11 (2024), 1128–1139.",
+        "journal-title": "A Review. Transportation Research Record"
+      },
+      {
+        "key": "e_1_3_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1609/aaai.v37i4.25556"
+      },
+      {
+        "key": "e_1_3_2_1_17_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jianwen Jiang Yuxuan Wei Yifan Feng Jingxuan Cao and Yue Gao. 2019. Dynamic hypergraph neural networks.. In IJCAI. 2635–2641.",
+        "DOI": "10.24963/ijcai.2019/366"
+      },
+      {
+        "key": "e_1_3_2_1_18_1",
+        "volume-title": "SST-GCN: The Sequential based Spatio-Temporal Graph Convolutional networks for Minute-level and Road-level Traffic Accident Risk Prediction. arXiv preprint arXiv:2405.18602",
+        "author": "Jung Hyeon-Jin",
+        "year": "2024",
+        "unstructured": "Tae-wook Kim, Han-jin Lee, Hyeon-Jin Jung, Ji-Woong Yang, and Ellen J Hong. 2024. SST-GCN: The Sequential based Spatio-Temporal Graph Convolutional networks for Minute-level and Road-level Traffic Accident Risk Prediction. arXiv preprint arXiv:2405.18602 (2024)."
+      },
+      {
+        "key": "e_1_3_2_1_19_1",
+        "volume-title": "Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907",
+        "author": "Kipf Thomas N",
+        "year": "2016",
+        "unstructured": "Thomas N Kipf and Max Welling. 2016. Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907 (2016)."
+      },
+      {
+        "key": "e_1_3_2_1_20_1",
+        "volume-title": "Graph Neural Networks in Intelligent Transportation Systems: Advances, Applications and Trends. arXiv preprint arXiv:2401.00713",
+        "author": "Li Hourun",
+        "year": "2024",
+        "unstructured": "Hourun Li, Yusheng Zhao, Zhengyang Mao, Yifang Qin, Zhiping Xiao, Jiaqi Feng, Yiyang Gu, Wei Ju, Xiao Luo, and Ming Zhang. 2024. Graph Neural Networks in Intelligent Transportation Systems: Advances, Applications and Trends. arXiv preprint arXiv:2401.00713 (2024)."
+      },
+      {
+        "key": "e_1_3_2_1_21_1",
+        "volume-title": "Using geographically weighted Poisson regression for county-level crash modeling in California. Safety science 58",
+        "author": "Li Zhibin",
+        "year": "2013",
+        "unstructured": "Zhibin Li, Wei Wang, Pan Liu, John M Bigham, and David R Ragland. 2013. Using geographically weighted Poisson regression for county-level crash modeling in California. Safety science 58 (2013), 89–97."
+      },
+      {
+        "key": "e_1_3_2_1_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2020.3026025"
+      },
+      {
+        "key": "e_1_3_2_1_23_1",
+        "volume-title": "Social interactions between automated vehicles and human drivers: a narrative review. Ergonomics",
+        "author": "Liu Peng",
+        "year": "2024",
+        "unstructured": "Peng Liu. 2024. Social interactions between automated vehicles and human drivers: a narrative review. Ergonomics (2024), 1–20."
+      },
+      {
+        "key": "e_1_3_2_1_24_1",
+        "volume-title": "The statistical analysis of crash-frequency data: A review and assessment of methodological alternatives. Transportation research part A: policy and practice 44, 5",
+        "author": "Lord Dominique",
+        "year": "2010",
+        "unstructured": "Dominique Lord and Fred Mannering. 2010. The statistical analysis of crash-frequency data: A review and assessment of methodological alternatives. Transportation research part A: policy and practice 44, 5 (2010), 291–305."
+      },
+      {
+        "key": "e_1_3_2_1_25_1",
+        "volume-title": "Traffic flow prediction with big data: A deep learning approach. Ieee transactions on intelligent transportation systems 16, 2",
+        "author": "Lv Yisheng",
+        "year": "2014",
+        "unstructured": "Yisheng Lv, Yanjie Duan, Wenwen Kang, Zhengxi Li, and Fei-Yue Wang. 2014. Traffic flow prediction with big data: A deep learning approach. Ieee transactions on intelligent transportation systems 16, 2 (2014), 865–873."
+      },
+      {
+        "key": "e_1_3_2_1_26_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "26800",
+        "DOI": "10.1038/s41598-024-78335-0",
+        "article-title": "Spatio-temporal envolutional graph neural network for traffic flow prediction in UAV-based urban traffic monitoring system",
+        "volume": "14",
+        "author": "Ma Wenming",
+        "year": "2024",
+        "unstructured": "Wenming Ma, Zihao Chu, Hao Chen, and Mingqi Li. 2024. Spatio-temporal envolutional graph neural network for traffic flow prediction in UAV-based urban traffic monitoring system. Scientific Reports 14, 1 (2024), 26800.",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "key": "e_1_3_2_1_27_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "3086",
+        "DOI": "10.1186/s12889-024-20586-7",
+        "article-title": "A spatial autocorrelation analysis of road traffic accidents by severity using Moran's I spatial statistics: a study from Nepal 2019-2022",
+        "volume": "24",
+        "author": "Mahato Roshan Kumar",
+        "year": "2024",
+        "unstructured": "Roshan Kumar Mahato, Kyaw Min Htike, Kittipong Sornlorm, Alex Bagas Koro, Alok Kafle, and Vijay Sharma. 2024. A spatial autocorrelation analysis of road traffic accidents by severity using Moran's I spatial statistics: a study from Nepal 2019-2022. BMC Public Health 24, 1 (2024), 3086.",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "key": "e_1_3_2_1_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2021.106006"
+      },
+      {
+        "key": "e_1_3_2_1_29_1",
+        "volume-title": "2019 IEEE International Conference on Connected Vehicles and Expo (ICCVE). IEEE, 1–6.",
+        "author": "Martin Helmut",
+        "year": "2019",
+        "unstructured": "Helmut Martin, Bernhard Winkler, Stephanie Grubmüller, and Daniel Watzenig. 2019. Identification of performance limitations of sensing technologies for automated driving. In 2019 IEEE International Conference on Connected Vehicles and Expo (ICCVE). IEEE, 1–6."
+      },
+      {
+        "key": "e_1_3_2_1_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2019.2929692"
+      },
+      {
+        "key": "e_1_3_2_1_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10618-024-01035-w"
+      },
+      {
+        "key": "e_1_3_2_1_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TITS.2023.3257759"
+      },
+      {
+        "key": "e_1_3_2_1_33_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "107021",
+        "DOI": "10.1016/j.aap.2023.107021",
+        "article-title": "Vehicle crash simulations for safety: Introduction of connected and automated vehicles on the roadways",
+        "volume": "186",
+        "author": "Ren Ran",
+        "year": "2023",
+        "unstructured": "Ran Ren, Hang Li, Tianfang Han, Chi Tian, Cong Zhang, Jiansong Zhang, Robert W Proctor, Yunfeng Chen, and Yiheng Feng. 2023. Vehicle crash simulations for safety: Introduction of connected and automated vehicles on the roadways. Accident Analysis & Prevention 186 (2023), 107021.",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "e_1_3_2_1_34_1",
+        "unstructured": "Santokh Singh. 2015. Critical reasons for crashes investigated in the national motor vehicle crash causation survey. Technical Report."
+      },
+      {
+        "key": "e_1_3_2_1_35_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "106814",
+        "DOI": "10.1016/j.aap.2022.106814",
+        "article-title": "Intersection two-vehicle crash scenario specification for automated vehicle safety evaluation using sequence analysis and Bayesian networks",
+        "volume": "176",
+        "author": "Song Yu",
+        "year": "2022",
+        "unstructured": "Yu Song, Madhav V Chitturi, and David A Noyce. 2022. Intersection two-vehicle crash scenario specification for automated vehicle safety evaluation using sequence analysis and Bayesian networks. Accident Analysis & Prevention 176 (2022), 106814.",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "e_1_3_2_1_36_1",
+        "first-page": "2263",
+        "article-title": "Attention-based graph neural networks: a survey. Artificial intelligence review 56",
+        "volume": "2",
+        "author": "Sun Chengcheng",
+        "year": "2023",
+        "unstructured": "Chengcheng Sun, Chenhao Li, Xiang Lin, Tianji Zheng, Fanrong Meng, Xiaobin Rui, and Zhixiao Wang. 2023. Attention-based graph neural networks: a survey. Artificial intelligence review 56, Suppl 2 (2023), 2263–2310.",
+        "journal-title": "Suppl"
+      },
+      {
+        "key": "e_1_3_2_1_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3934/mbe.2024112"
+      },
+      {
+        "key": "e_1_3_2_1_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2015.510"
+      },
+      {
+        "key": "e_1_3_2_1_39_1",
+        "volume-title": "Australasian Transport Research Forum (ATRF), 42nd.",
+        "author": "Tran Thanh",
+        "unstructured": "Thanh Tran, Dan He, Jiwon Kim, and Mark Hickman. 2021. Data-driven traffic incident prediction with hybrid graph-based neural network. In Australasian Transport Research Forum (ATRF), 42nd."
+      },
+      {
+        "key": "e_1_3_2_1_40_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1264",
+        "DOI": "10.1109/TITS.2019.2906038",
+        "article-title": "Real-time sensor anomaly detection and identification in automated vehicles",
+        "volume": "21",
+        "author": "Wyk Franco Van",
+        "year": "2019",
+        "unstructured": "Franco Van Wyk, Yiyang Wang, Anahita Khojandi, and Neda Masoud. 2019. Real-time sensor anomaly detection and identification in automated vehicles. IEEE Transactions on Intelligent Transportation Systems 21, 3 (2019), 1264–1276.",
+        "journal-title": "IEEE Transactions on Intelligent Transportation Systems"
+      },
+      {
+        "key": "e_1_3_2_1_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/fi16090318"
+      },
+      {
+        "key": "e_1_3_2_1_42_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.1016/j.aap.2016.11.006",
+        "article-title": "Multivariate poisson lognormal modeling of crashes by type and severity on rural two lane highways",
+        "volume": "99",
+        "author": "Wang Kai",
+        "year": "2017",
+        "unstructured": "Kai Wang, John N Ivan, Nalini Ravishanker, and Eric Jackson. 2017. Multivariate poisson lognormal modeling of crashes by type and severity on rural two lane highways. Accident Analysis & Prevention 99 (2017), 6–19.",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "e_1_3_2_1_43_1",
+        "volume-title": "AIMEN: A Multi-Expert Network for Traffic Prediction with Accident Impact Learning",
+        "author": "Wang Yupeng",
+        "year": "2025",
+        "unstructured": "Yupeng Wang, Xiling Luo, Zequan Zhou, and Ya Gao. 2025. AIMEN: A Multi-Expert Network for Traffic Prediction with Accident Impact Learning. IEEE Internet of Things Journal (2025)."
+      },
+      {
+        "key": "e_1_3_2_1_44_1",
+        "first-page": "27387",
+        "article-title": "Node-former: A scalable graph structure learning transformer for node classification",
+        "volume": "35",
+        "author": "Wu Qitian",
+        "year": "2022",
+        "unstructured": "Qitian Wu, Wentao Zhao, Zenan Li, David P Wipf, and Junchi Yan. 2022. Node-former: A scalable graph structure learning transformer for node classification. Advances in Neural Information Processing Systems 35 (2022), 27387–27401.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_2_1_45_1",
+        "volume-title": "Convolutional lstm network: A machine learning approach for precipitation nowcasting. Advances in neural information processing systems 28",
+        "author": "Xingjian SHI",
+        "year": "2015",
+        "unstructured": "SHI Xingjian. 2015. Convolutional lstm network: A machine learning approach for precipitation nowcasting. Advances in neural information processing systems 28 (2015), 1."
+      },
+      {
+        "key": "e_1_3_2_1_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3434580"
+      },
+      {
+        "key": "e_1_3_2_1_47_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "22357",
+        "DOI": "10.1109/JIOT.2021.3101502",
+        "article-title": "A secure sensor fusion framework for connected and automated vehicles under sensor attacks",
+        "volume": "9",
+        "author": "Yang Tianci",
+        "year": "2021",
+        "unstructured": "Tianci Yang and Chen Lv. 2021. A secure sensor fusion framework for connected and automated vehicles under sensor attacks. IEEE Internet of Things Journal 9, 22 (2021), 22357–22365.",
+        "journal-title": "IEEE Internet of Things Journal"
+      },
+      {
+        "key": "e_1_3_2_1_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3579815"
+      },
+      {
+        "key": "e_1_3_2_1_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3219819.3219922"
+      },
+      {
+        "key": "e_1_3_2_1_50_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "8542",
+        "DOI": "10.1109/TITS.2022.3205477",
+        "article-title": "A multimodal coupled graph attention network for joint traffic event detection and sentiment classification",
+        "volume": "24",
+        "author": "Zhang Yazhou",
+        "year": "2022",
+        "unstructured": "Yazhou Zhang, Prayag Tiwari, Qian Zheng, Abdulmotaleb El Saddik, and M Shamim Hossain. 2022. A multimodal coupled graph attention network for joint traffic event detection and sentiment classification. IEEE Transactions on Intelligent Transportation Systems 24, 8 (2022), 8542–8554.",
+        "journal-title": "IEEE Transactions on Intelligent Transportation Systems"
+      },
+      {
+        "key": "e_1_3_2_1_51_1",
+        "volume-title": "The effects of weather factors on road traffic casualties: Analysis on provincial panel data of China from 2006 to",
+        "author": "Zou Xiping",
+        "year": "2021",
+        "unstructured": "Xiping Zou, Lilu Sun, Tian Lan, Chengpeng Fan, Shan Liu, Hui Zhao, and Jinlong Qiu. 2024. The effects of weather factors on road traffic casualties: Analysis on provincial panel data of China from 2006 to 2021. Heliyon 10, 17 (2024)."
+      }
+    ],
+    "event": {
+      "name": "SpatialConnect '25: 1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities",
+      "location": "The Graduate Hotel Minneapolis Minneapolis MN USA",
+      "acronym": "SpatialConnect '25",
+      "sponsor": [
+        "SIGSPATIAL ACM Special Interest Group on Spatial Information"
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities"
+    ],
+    "original-title": [],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          28
+        ]
+      ],
+      "date-time": "2025-10-28T16:44:29Z",
+      "timestamp": 1761669869000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3764924.3770894"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          2
+        ]
+      ]
+    },
+    "references-count": 51,
+    "alternative-id": [
+      "10.1145/3764924.3770894",
+      "10.1145/3764924"
+    ],
+    "URL": "https://doi.org/10.1145/3764924.3770894",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-11-02",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

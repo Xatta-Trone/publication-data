@@ -1,0 +1,41 @@
+{
+  "scholar_id": "edkjFpwAAAAJ:BqipwSGYUEgC",
+  "scholar_title": "Traffic Analysis Practices for Nonmotorized Modes",
+  "found": true,
+  "fetched_at": "2026-11-27T06:35:40+00:00",
+  "source": "openalex",
+  "title": "Traffic Analysis Practices for Nonmotorized Modes",
+  "authors": [
+    {
+      "name": "Subasish Das",
+      "orcid": null
+    },
+    {
+      "name": "Amir Rafe",
+      "orcid": "0000-0002-4089-2088"
+    },
+    {
+      "name": "Mahmuda Sultana Mimi",
+      "orcid": "0009-0007-8534-3633"
+    },
+    {
+      "name": "Swastika Barua",
+      "orcid": "0009-0008-4894-9131"
+    },
+    {
+      "name": "Md Monzurul Islam",
+      "orcid": null
+    },
+    {
+      "name": "Engineering National Academies of Sciences",
+      "orcid": null
+    }
+  ],
+  "date": "2026-10-16",
+  "doi": "10.17226/29551",
+  "url": "https://doi.org/10.17226/29551",
+  "venue": "National Academies Press eBooks",
+  "type": "book",
+  "openalex_id": "https://openalex.org/W7222639796",
+  "citations_openalex": 0
+}

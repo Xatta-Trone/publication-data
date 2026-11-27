@@ -1,0 +1,347 @@
+[
+  {
+    "doi": "10.21203/rs.3.rs-10819066/v1",
+    "title": "Exploring the Role of Automated Emergency Braking in Traffic Crash Patterns Using Multivariate Data Mining Method",
+    "type": "preprint",
+    "venue": "Research Square",
+    "year": 2026,
+    "date_online": "2026-09-07",
+    "my_position": 1,
+    "citations_scholar": null,
+    "url": "https://doi.org/10.21203/rs.3.rs-10819066/v1",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:NMxIlDl6LWMC",
+    "authors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "is_me": false
+      },
+      {
+        "name": "Sharif Ahmed Rafat",
+        "orcid": "0009-0002-8644-8326",
+        "is_me": false
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": "0009-0008-2385-8719",
+        "is_me": false
+      },
+      {
+        "name": "Arka Chakraborty",
+        "orcid": "0000-0002-6315-2277",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "is_me": false
+      }
+    ],
+    "authors_text": "MM Islam, MS Mimi, SA Rafat, TI Chowdhury, A Chakraborty, S Das",
+    "listed_on": "scholar",
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.48550/arxiv.2607.20505",
+    "title": "HERMES: Heterogeneous Edge-Relational Multi-Head Embedded SSM Attention for Traffic Conflict Prediction at Signalized Intersections",
+    "type": "preprint",
+    "venue": "arXiv",
+    "year": 2026,
+    "date_online": "2026-07-02",
+    "my_position": 1,
+    "citations_scholar": null,
+    "url": "https://arxiv.org/abs/2607.20505",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:RHpTSmoSYBkC",
+    "authors": [
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "authors_text": "MM Islam, S Das",
+    "listed_on": "scholar",
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.21203/rs.3.rs-9973892/v1",
+    "title": "Toward Safer Bicycle Infrastructure: Policy Insights from Temporal Stability and Heterogeneous Crash Severity in Bike Lane-Involved Crashes",
+    "type": "preprint",
+    "venue": "Research Square",
+    "year": 2026,
+    "date_online": "2026-06-29",
+    "my_position": 3,
+    "citations_scholar": null,
+    "url": "https://doi.org/10.21203/rs.3.rs-9973892/v1",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:e5wmG9Sq2KIC",
+    "authors": [
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": "0009-0005-5505-4174",
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": "0009-0007-3670-6100",
+        "is_me": true
+      }
+    ],
+    "authors_text": "SBB Polock, S Das, MM Islam",
+    "listed_on": "scholar",
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.48550/arxiv.2508.19239",
+    "title": "Model context protocols in adaptive transport systems: A survey",
+    "type": "preprint",
+    "venue": "arXiv",
+    "year": 2025,
+    "date_online": "2025-08-26",
+    "my_position": 3,
+    "citations_scholar": 11,
+    "url": "https://arxiv.org/abs/2508.19239",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:M3ejUd6NZC8C",
+    "authors": [
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Shamyo Brotee",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Dipti Koirala",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Biplov Pandey",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "authors_text": "G Chhetri, S Somvanshi, MM Islam, S Brotee, MS Mimi, D Koirala, ...",
+    "listed_on": "scholar",
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.48550/arxiv.2506.04238",
+    "title": "A Review on Influx of Bio-Inspired Algorithms: Critique and Improvement Needs",
+    "type": "preprint",
+    "venue": "arXiv",
+    "year": 2025,
+    "date_online": "2025-05-26",
+    "my_position": 2,
+    "citations_scholar": 16,
+    "url": "https://arxiv.org/abs/2506.04238",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:hC7cP41nSMkC",
+    "authors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Syed Aaqib Javed",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Kazi Sifatul Islam",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "authors_text": "S Somvanshi, MM Islam, SA Javed, G Chhetri, KS Islam, TI Chowdhury, ...",
+    "listed_on": "scholar",
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.48550/arxiv.2506.03160",
+    "title": "Applying MambaAttention, TabPFN, and TabTransformers to Classify SAE Automation Levels in Crashes",
+    "type": "preprint",
+    "venue": "arXiv",
+    "year": 2025,
+    "date_online": "2025-05-22",
+    "my_position": 4,
+    "citations_scholar": 2,
+    "url": "https://arxiv.org/abs/2506.03160",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:_FxGoFyzp5QC",
+    "authors": [
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "authors_text": "S Somvanshi, AG Tusti, MS Mimi, MM Islam, SBB Polock, A Dutta, S Das",
+    "listed_on": "scholar",
+    "kind": "preprint"
+  },
+  {
+    "doi": "10.2139/ssrn.5679762",
+    "title": "Realism and causality in synthetic data generation: A survey",
+    "type": "posted-content",
+    "venue": "Elsevier BV",
+    "year": 2025,
+    "date_online": "2025",
+    "my_position": 5,
+    "citations_scholar": 3,
+    "url": "https://doi.org/10.2139/ssrn.5679762",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:QIV2ME_5wuYC",
+    "authors": [
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Mahmuda  Sultana Mimi",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Mohammed Wasim Ansari",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Md Monzurul Islam",
+        "orcid": null,
+        "is_me": true
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": null,
+        "is_me": false
+      },
+      {
+        "name": "Subasish Das",
+        "orcid": null,
+        "is_me": false
+      }
+    ],
+    "authors_text": "G Chhetri, S Somvanshi, MS Mimi, MW Ansari, MM Islam, S Barua, S Das",
+    "listed_on": "scholar",
+    "kind": "preprint"
+  },
+  {
+    "doi": null,
+    "title": "Not Just Another Survey on Physics-Informed Neural Networks (PINNs): Foundations, Advances, and Open Problems",
+    "type": "preprint",
+    "venue": "Advances, and Open Problems (August 19, 2025) , 2025",
+    "year": 2025,
+    "date_online": null,
+    "my_position": null,
+    "citations_scholar": 3,
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:L8Ckcad2t8MC",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:L8Ckcad2t8MC",
+    "authors": null,
+    "authors_text": "S Somvanshi, MO Aibinu, R Chakraborty, MM Islam, MS Mimi, D Koirala, ...",
+    "listed_on": "scholar",
+    "kind": "other"
+  }
+]

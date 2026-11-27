@@ -1,0 +1,67 @@
+{
+  "started_at": "2026-11-27T06:52:19+00:00",
+  "finished_at": "2026-11-27T06:52:25+00:00",
+  "ok": true,
+  "steps": [
+    {
+      "step": "fetch_orcid.py",
+      "critical": true,
+      "ok": true,
+      "last_line": "}"
+    },
+    {
+      "step": "fetch_crossref.py",
+      "critical": true,
+      "ok": true,
+      "last_line": "}"
+    },
+    {
+      "step": "fetch_openalex.py",
+      "critical": false,
+      "ok": true,
+      "last_line": "}"
+    },
+    {
+      "step": "fetch_journals.py",
+      "critical": false,
+      "ok": true,
+      "last_line": "}"
+    },
+    {
+      "step": "fetch_scholar.py",
+      "critical": false,
+      "ok": true,
+      "last_line": "Cached copy is 0.2 h old (< 24 h); not contacting Scholar. Use --refresh to force."
+    },
+    {
+      "step": "summarize.py",
+      "critical": true,
+      "ok": true,
+      "last_line": "    1  Journal of Transport & Health"
+    },
+    {
+      "step": "fetch_other_works.py",
+      "critical": false,
+      "ok": true,
+      "last_line": "}"
+    },
+    {
+      "step": "summarize.py",
+      "critical": true,
+      "ok": true,
+      "last_line": "    1  Journal of Transport & Health"
+    }
+  ],
+  "changes": {
+    "new_works": [],
+    "removed_works": [],
+    "new_preprints": [],
+    "new_peer_reviews": 0,
+    "removed_peer_reviews": 0,
+    "citation_changes": {},
+    "scholar_total": {
+      "from": 816,
+      "to": 816
+    }
+  }
+}

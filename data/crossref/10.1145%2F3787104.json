@@ -1,0 +1,1128 @@
+{
+  "doi": "10.1145/3787104",
+  "fetched_at": "2026-11-27T05:57:11+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2026-11-22T07:01:11Z",
+      "timestamp": 1795330871883,
+      "version": "4.10.3"
+    },
+    "reference-count": 128,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "8",
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "ACM Comput. Surv."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    Mechanistic interpretability seeks to reverse-engineer the internal logic of neural networks by uncovering human-understandable circuits, algorithms, and causal structures that drive model behavior. Unlike post hoc explanations that describe what models do, this paradigm focuses on why and how they compute, tracing information flow through neurons, attention heads, and activation pathways. This survey provides a high-level synthesis of the field-highlighting its motivation, conceptual foundations, and methodological taxonomy rather than enumerating individual techniques. We organize mechanistic interpretability across three abstraction layers—\n                    <jats:italic toggle=\"yes\">neurons</jats:italic>\n                    ,\n                    <jats:italic toggle=\"yes\">circuits</jats:italic>\n                    , and\n                    <jats:italic toggle=\"yes\">algorithms</jats:italic>\n                    —and three evaluation perspectives:\n                    <jats:italic toggle=\"yes\">behavioral</jats:italic>\n                    ,\n                    <jats:italic toggle=\"yes\">counterfactual</jats:italic>\n                    , and\n                    <jats:italic toggle=\"yes\">causal</jats:italic>\n                    . We further discuss representative approaches and toolchains that enable structural analysis of modern AI systems, outlining how mechanistic interpretability bridges theoretical insights with practical transparency. Despite rapid progress, challenges persist in scaling these analyses to frontier models, resolving polysemantic representations, and establishing standardized causal benchmarks. By connecting historical evolution, current methodologies, and emerging research directions, this survey aims to provide an integrative framework for understanding how mechanistic interpretability can support transparency, reliability, and governance in large-scale AI.\n                  </jats:p>",
+    "DOI": "10.1145/3787104",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2026-01-23T21:09:12Z",
+      "timestamp": 1769202552000
+    },
+    "page": "1-35",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Bridging the Black Box: A Survey on Mechanistic Interpretability in AI"
+    ],
+    "prefix": "10.1145",
+    "volume": "58",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-3723-0607",
+        "authenticated-orcid": false,
+        "given": "Shriyank",
+        "family": "Somvanshi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4089-2088",
+        "authenticated-orcid": false,
+        "given": "Amir",
+        "family": "Rafe",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Utah State University",
+            "place": [
+              "Logan, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-5102-5182",
+        "authenticated-orcid": false,
+        "given": "Anannya Ghosh",
+        "family": "Tusti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6315-2277",
+        "authenticated-orcid": false,
+        "given": "Arka",
+        "family": "Chakraborty",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-9714-0196",
+        "authenticated-orcid": false,
+        "given": "Anika",
+        "family": "Baitullah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-2385-8719",
+        "authenticated-orcid": false,
+        "given": "Tausif Islam",
+        "family": "Chowdhury",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5753-3025",
+        "authenticated-orcid": false,
+        "given": "Nawaf",
+        "family": "Alnawmasi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Hail",
+            "place": [
+              "Hail, Saudi Arabia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-7279-7752",
+        "authenticated-orcid": false,
+        "given": "Anandi",
+        "family": "Dutta",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Civil Engineering, Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_1_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0010-4809(75)90009-9"
+      },
+      {
+        "key": "e_1_3_1_3_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "J. Ross Quinlan. 1986. Induction of decision trees. Machine Learning 1 1 (March 1986) 81–106. 10.1023/A:1022643204877",
+        "DOI": "10.1023/A:1022643204877"
+      },
+      {
+        "key": "e_1_3_1_4_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Md. Nasim Khan Subasish Das and Jinli Liu. 2024. Predicting pedestrian-involved crash severity using Inception-V3 deep learning model. Accident Analysis & Prevention 197 Article 107457 (March 2024). 10.1016/j.aap.2024.107457",
+        "DOI": "10.1016/j.aap.2024.107457"
+      },
+      {
+        "key": "e_1_3_1_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3236386.3241340"
+      },
+      {
+        "key": "e_1_3_1_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3236009"
+      },
+      {
+        "key": "e_1_3_1_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03611981221134629"
+      },
+      {
+        "key": "e_1_3_1_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2939672.2939778"
+      },
+      {
+        "key": "e_1_3_1_9_2",
+        "volume-title": "Artificial Intelligence in Highway Safety",
+        "author": "Das Subasish",
+        "year": "2023",
+        "unstructured": "Subasish Das. 2023. Artificial Intelligence in Highway Safety. CRC Press, Boca Raton, FL. Retrieved from https://www.routledge.com/Artificial-Intelligence-in-Highway-Safety/Das/p/book/9780367436704"
+      },
+      {
+        "key": "e_1_3_1_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/3295222.3295230"
+      },
+      {
+        "key": "e_1_3_1_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iatssr.2021.01.001"
+      },
+      {
+        "key": "e_1_3_1_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23915/distill.00024.001"
+      },
+      {
+        "key": "e_1_3_1_13_2",
+        "first-page": "2856",
+        "volume-title": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops",
+        "author": "Palit Vedant",
+        "year": "2023",
+        "unstructured": "Vedant Palit, Rohan Pandey, Aryaman Arora, and Pu Liang, Paul.2023. Towards vision–language mechanistic interpretability: A causal tracing tool for BLIP. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops. 2856–2861. arXiv:2308.14179."
+      },
+      {
+        "key": "e_1_3_1_14_2",
+        "unstructured": "Kevin Wang Alexandre Variengien Arthur Conmy Buck Shlegeris and Jacob Steinhardt. 2023. Interpretability in the wild: A circuit for indirect object identification in GPT-2 small. In Proceedings of the International Conference on Learning Representations (ICLR’23). Retrieved from https://openreview.net/forum?id=NpsVSN6o4ul"
+      },
+      {
+        "key": "e_1_3_1_15_2",
+        "unstructured": "Daking Rai Yilun Zhou Shi Feng Abulhair Saparov and Ziyu Yao. 2024. A practical review of mechanistic interpretability for transformer-based language models. arXiv:2407.02646. Retrieved from https://arxiv.org/abs/2407.02646"
+      },
+      {
+        "key": "e_1_3_1_16_2",
+        "unstructured": "Leonard Bereska and Efstratios Gavves. 2024. Mechanistic interpretability for AI safety–A review. Transactions on Machine Learning Research (TMLR’24). Retrieved from https://openreview.net/forum?id=mWxM6Cczd9"
+      },
+      {
+        "key": "e_1_3_1_17_2",
+        "unstructured": "Zihao Lin Samyadeep Basu Mohammad Beigi Varun Manjunatha Ryan A. Rossi Zichao Wang Yufan Zhou Sriram Balasubramanian Arman Zarei Keivan Rezaei et al. 2025. A survey on mechanistic interpretability for multi-modal foundation models. arXiv:2502.17516. Retrieved from https://arxiv.org/abs/2502.17516"
+      },
+      {
+        "key": "e_1_3_1_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/bdcc9080193"
+      },
+      {
+        "key": "e_1_3_1_19_2",
+        "first-page": "417",
+        "volume-title": "Proceedings of the Joint European Conference on Machine Learning and Knowledge Discovery in Databases",
+        "author": "Molnar Christoph",
+        "year": "2020",
+        "unstructured": "Christoph Molnar, Giuseppe Casalicchio, and Bernd Bischl. 2020. Interpretable machine learning–A brief history, state-of-the-art and challenges. In Proceedings of the Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, 417–431."
+      },
+      {
+        "key": "e_1_3_1_20_2",
+        "article-title": "Rule extraction: Where do we go from here",
+        "volume": "99",
+        "author": "Craven Mark",
+        "year": "1999",
+        "unstructured": "Mark Craven and Jude Shavlik. 1999. Rule extraction: Where do we go from here. University of Wisconsin Machine Learning Research Group working Paper 99 (1999).",
+        "journal-title": "University of Wisconsin Machine Learning Research Group working Paper"
+      },
+      {
+        "key": "e_1_3_1_21_2",
+        "unstructured": "Karen Simonyan Andrea Vedaldi and Andrew Zisserman. 2013. Deep inside convolutional networks: Visualising image classification models and saliency maps. arXiv:1312.6034. Retrieved from https://arxiv.org/abs/1312.6034"
+      },
+      {
+        "key": "e_1_3_1_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-10590-1_53"
+      },
+      {
+        "key": "e_1_3_1_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/3305890.3306024"
+      },
+      {
+        "key": "e_1_3_1_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/3305890.3306006"
+      },
+      {
+        "key": "e_1_3_1_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2783258.2788613"
+      },
+      {
+        "key": "e_1_3_1_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2339530.2339556"
+      },
+      {
+        "key": "e_1_3_1_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/15-AOAS848"
+      },
+      {
+        "key": "e_1_3_1_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/3327757.3327875"
+      },
+      {
+        "key": "e_1_3_1_29_2",
+        "volume-title": "This Looks Like That: Deep Learning for Interpretable Image Recognition",
+        "author": "Chen Chaofan",
+        "year": "2019",
+        "unstructured": "Chaofan Chen, Oscar Li, Chaofan Tao, Alina Jade Barnett, Jonathan Su, and Cynthia Rudin. 2019. This Looks Like That: Deep Learning for Interpretable Image Recognition. Curran Associates Inc., Red Hook, NY, USA."
+      },
+      {
+        "key": "e_1_3_1_30_2",
+        "volume-title": "Proceedings of the 37th International Conference on Machine Learning (ICML’20)",
+        "author": "Koh Pang Wei",
+        "year": "2020",
+        "unstructured": "Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Stephen Mussmann, Emma Pierson, Been Kim, and Percy Liang. 2020. Concept bottleneck models. In Proceedings of the 37th International Conference on Machine Learning (ICML’20). JMLR.org, Article 495, 11 pages."
+      },
+      {
+        "key": "e_1_3_1_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s42256-019-0048-x"
+      },
+      {
+        "key": "e_1_3_1_32_2",
+        "unstructured": "Finale Doshi-Velez and Been Kim. 2017. Towards a rigorous science of interpretable machine learning. arXiv:1702.08608. Retrieved from https://arxiv.org/abs/1702.08608"
+      },
+      {
+        "key": "e_1_3_1_33_2",
+        "volume-title": "Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS’23)",
+        "author": "Conmy Arthur",
+        "year": "2023",
+        "unstructured": "Arthur Conmy, Augustine N. Mavor-Parker, Aengus Lynch, Stefan Heimersheim, and Adrià Garriga-Alonso. 2023. Towards automated circuit discovery for mechanistic interpretability. In Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS’23). Curran Associates Inc., Red Hook, NY, USA, Article 719, 35 pages."
+      },
+      {
+        "key": "e_1_3_1_34_2",
+        "volume-title": "Proceedings of the 12th International Conference on Learning Representations",
+        "author": "Huben Robert",
+        "year": "2024",
+        "unstructured": "Robert Huben, Hoagy Cunningham, Logan Riggs Smith, Aidan Ewart, and Lee Sharkey. 2024. Sparse autoencoders find highly interpretable features in language models. In Proceedings of the 12th International Conference on Learning Representations. Retrieved from https://openreview.net/forum?id=F76bwRSLeK"
+      },
+      {
+        "key": "e_1_3_1_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23915/distill.00007"
+      },
+      {
+        "key": "e_1_3_1_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23915/distill.00010"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_1_37_2",
+        "first-page": "12",
+        "article-title": "A mathematical framework for transformer circuits",
+        "volume": "1",
+        "author": "Elhage Nelson",
+        "year": "2021",
+        "unstructured": "Nelson Elhage, Neel Nanda, Catherine Olsson, Tom Henighan, Nicholas Joseph, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, et al. 2021. A mathematical framework for transformer circuits. Transformer Circuits Thread 1, 1 (2021), 12.",
+        "journal-title": "Transformer Circuits Thread"
+      },
+      {
+        "key": "e_1_3_1_38_2",
+        "unstructured": "Catherine Olsson Nelson Elhage Neel Nanda Nicholas Joseph Nova DasSarma Tom Henighan Ben Mann Amanda Askell Yuntao Bai Anna Chen et al. 2022. In-context learning and induction heads. arXiv:2209.11895. Retrieved from https://arxiv.org/abs/2209.11895"
+      },
+      {
+        "key": "e_1_3_1_39_2",
+        "unstructured": "Scott M. Lundberg and Su-In Lee. 2017. A unified approach to interpreting model predictions. In Advances in Neural Information Processing Systems 30 (NIPS’17). Curran Associates. 4765–4774. https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html"
+      },
+      {
+        "key": "e_1_3_1_40_2",
+        "unstructured": "Nicholas Goldowsky-Dill Chris MacLeod Lucas Sato and Aryaman Arora. 2023. Localizing model behavior with path patching. arXiv:2304.05969. Retrieved from https://arxiv.org/abs/2304.05969"
+      },
+      {
+        "issue": "83",
+        "key": "e_1_3_1_41_2",
+        "first-page": "1",
+        "article-title": "Causal abstraction: A theoretical foundation for mechanistic interpretability",
+        "volume": "26",
+        "author": "Geiger Atticus",
+        "year": "2025",
+        "unstructured": "Atticus Geiger, Duligur Ibeling, Amir Zur, Maheep Chaudhary, Sonakshi Chauhan, Jing Huang, Aryaman Arora, Zhengxuan Wu, Noah Goodman, Christopher Potts, et al. 2025. Causal abstraction: A theoretical foundation for mechanistic interpretability. Journal of Machine Learning Research 26, 83 (2025), 1–64.",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "e_1_3_1_42_2",
+        "unstructured": "Mansi Sakarvadia Arham Khan Aswathy Ajith Daniel Grzenda Nathaniel Hudson André Bauer Kyle Chard and Ian Foster. 2023. Attention lens: A tool for mechanistically interpreting the attention head information retrieval mechanism. In Proc. Workshop on Attributing Model Behavior at Scale (ATTRIB’23). NeurIPS 2023. Retrieved from https://openreview.net/forum?id=5CDRc8VMhS"
+      },
+      {
+        "key": "e_1_3_1_43_2",
+        "volume-title": "The Fourth Blogpost Track at ICLR 2025",
+        "author": "Liu Yiming",
+        "year": "2025",
+        "unstructured": "Yiming Liu, Yuhui Zhang, and Serena Yeung-Levy. 2025. Mechanistic interpretability meets vision language models: Insights and limitations. In The Fourth Blogpost Track at ICLR 2025. Retrieved from https://openreview.net/forum?id=pZqvfsUpeh"
+      },
+      {
+        "key": "e_1_3_1_44_2",
+        "volume-title": "Proceedings of the 40th International Conference on Machine Learning (ICML’23)",
+        "author": "Chughtai Bilal",
+        "year": "2023",
+        "unstructured": "Bilal Chughtai, Lawrence Chan, and Neel Nanda. 2023. A toy model of universality: Reverse engineering how networks learn group operations. In Proceedings of the 40th International Conference on Machine Learning (ICML’23). JMLR.org, Article 248, 25 pages."
+      },
+      {
+        "key": "e_1_3_1_45_2",
+        "article-title": "Open problems in mechanistic interpretability",
+        "author": "Sharkey Lee",
+        "year": "2025",
+        "unstructured": "Lee Sharkey, Bilal Chughtai, Joshua Batson, Jack Lindsey, Jeffrey Wu, Lucius Bushnaq, Nicholas Goldowsky-Dill, Stefan Heimersheim, Alejandro Ortega, Joseph Isaac Bloom, et al. 2025. Open problems in mechanistic interpretability. Transactions on Machine Learning Research (2025). Retrieved from https://openreview.net/forum?id=91H76m9Z94",
+        "journal-title": "Transactions on Machine Learning Research"
+      },
+      {
+        "key": "e_1_3_1_46_2",
+        "volume-title": "Proceedings of the 13th International Conference on Learning Representations",
+        "author": "Méloux Maxime",
+        "year": "2025",
+        "unstructured": "Maxime Méloux, Silviu Maniu, François Portet, and Maxime Peyrard. 2025. Everything, everywhere, all at once: Is mechanistic interpretability identifiable?. In Proceedings of the 13th International Conference on Learning Representations. Retrieved from https://openreview.net/forum?id=5IWJBStfU7"
+      },
+      {
+        "key": "e_1_3_1_47_2",
+        "unstructured": "Neel Nanda Lawrence Chan Tom Lieberum Jess Smith and Jacob Steinhardt. 2023. Progress measures for grokking via mechanistic interpretability. In Proceedings of the International Conference on Learning Representations (ICLR’23). Retrieved from https://openreview.net/forum?id=9XFSbDPmdW"
+      },
+      {
+        "key": "e_1_3_1_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2024.acl-long.470"
+      },
+      {
+        "key": "e_1_3_1_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICSES63445.2024.10762963"
+      },
+      {
+        "key": "e_1_3_1_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3442188.3445941"
+      },
+      {
+        "key": "e_1_3_1_51_2",
+        "volume-title": "Proceedings of the ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models",
+        "author": "Zhang Shichang",
+        "year": "2025",
+        "unstructured": "Shichang Zhang, Tessa Han, Usha Bhalla, and Himabindu Lakkaraju. 2025. Building bridges, not walls: Advancing interpretability by unifying feature, data, and model component attribution. In Proceedings of the ICLR 2025 Workshop on Navigating and Addressing Data Problems for Foundation Models. Retrieved from https://openreview.net/forum?id=w5UVPcDCqQ"
+      },
+      {
+        "key": "e_1_3_1_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2022.3167993"
+      },
+      {
+        "key": "e_1_3_1_53_2",
+        "first-page": "3921",
+        "volume-title": "Proceedings of the International Conference on Machine Learning",
+        "author": "Yang Hongyu",
+        "year": "2017",
+        "unstructured": "Hongyu Yang, Cynthia Rudin, and Margo Seltzer. 2017. Scalable Bayesian rule lists. In Proceedings of the International Conference on Machine Learning. PMLR, 3921–3930."
+      },
+      {
+        "key": "e_1_3_1_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR52688.2022.01002"
+      },
+      {
+        "key": "e_1_3_1_55_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TIV.2022.3229682"
+      },
+      {
+        "key": "e_1_3_1_56_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btx054"
+      },
+      {
+        "key": "e_1_3_1_57_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.comcom.2021.08.026"
+      },
+      {
+        "key": "e_1_3_1_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0004-3702(95)00123-9"
+      },
+      {
+        "key": "e_1_3_1_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TCSVT.2015.2511543"
+      },
+      {
+        "key": "e_1_3_1_60_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Matthew D. Zeiler and Rob Fergus. 2014. Visualizing and understanding convolutional networks. In Computer Vision – ECCV 2014 (ECCV’14) (Lecture Notes in Computer Science Vol. 8689) Sept. 6-12 2014 Zurich Switzerland. Springer Cham 818–833. 10.1007/978-3-319-10590-1_53",
+        "DOI": "10.1007/978-3-319-10590-1_53"
+      },
+      {
+        "key": "e_1_3_1_61_2",
+        "first-page": "16318",
+        "volume-title": "Advances in Neural Information Processing Systems",
+        "volume": "36",
+        "author": "Conmy Arthur",
+        "year": "2023",
+        "unstructured": "Arthur Conmy, Augustine Mavor-Parker, Aengus Lynch, Stefan Heimersheim, and Adrià Garriga-Alonso. 2023. Towards automated circuit discovery for mechanistic interpretability. In Advances in Neural Information Processing Systems, A. Oh, T. Naumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine (Eds.). Vol. 36, Curran Associates, Inc., 16318–16352. Retrieved from https://proceedings.neurips.cc/paper_files/paper/2023/file/34e1dbe95d34d7ebaf99b9bcaeb5b2be-Paper-Conference.pdf"
+      },
+      {
+        "key": "e_1_3_1_62_2",
+        "unstructured": "Alex Foote Neel Nanda Esben Kran Ionnis Konstas and Fazl Barez. 2023. N2g: A scalable approach for quantifying interpretable neuron representations in large language models. arXiv:2304.12918. Retrieved from https://arxiv.org/abs/2304.12918"
+      },
+      {
+        "key": "e_1_3_1_63_2",
+        "unstructured": "Connor Kissane Robert Krzyzanowski Joseph Isaac Bloom Arthur Conmy and Neel Nanda. 2024. Interpreting attention layer outputs with sparse autoencoders. In Proceedings of the Mechanistic Interpretability Workshop (Spotlight) International Conference on Machine Learning (ICML’24). Retrieved from https://openreview.net/forum?id=fewUBDwjji"
+      },
+      {
+        "key": "e_1_3_1_64_2",
+        "unstructured": "Jorge García-Carrasco Alejandro Maté and Juan Trujillo. 2024. Detecting and understanding vulnerabilities in language models via mechanistic interpretability. arXiv:2407.19842. Retrieved from https://arxiv.org/abs/2407.19842"
+      },
+      {
+        "key": "e_1_3_1_65_2",
+        "unstructured": "Aleksandar Makelov Georg Lange and Neel Nanda. 2023. Is this the subspace you are looking for? An interpretability illusion for subspace activation patching. arXiv:2311.17030. Retrieved from https://arxiv.org/abs/2311.17030"
+      },
+      {
+        "key": "e_1_3_1_66_2",
+        "article-title": "Eliciting latent predictions from transformers with the tuned lens",
+        "author": "Belrose Nora",
+        "year": "2023",
+        "unstructured": "Nora Belrose, Igor Ostrovsky, Lev McKinney, Zach Furman, Logan Smith, Danny Halawi, Stella Biderman, and Jacob Steinhardt. 2023. Eliciting latent predictions from transformers with the tuned lens. arXiv:2303.08112. Retrieved from https://arxiv.org/abs/2303.08112",
+        "journal-title": "arXiv:2303.08112"
+      },
+      {
+        "key": "e_1_3_1_67_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gabriel Goh Nick Cammarata Chelsea Voss Shan Carter Michael Petrov Ludwig Schubert Alec Radford and Chris Olah. 2021. Multimodal neurons in artificial neural networks. Distill 6 3 Article e30 (March 2021). 10.23915/distill.00030",
+        "DOI": "10.23915/distill.00030"
+      },
+      {
+        "key": "e_1_3_1_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/W19-4828"
+      },
+      {
+        "key": "e_1_3_1_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/N19-1357"
+      },
+      {
+        "key": "e_1_3_1_70_2",
+        "volume-title": "Proceedings of the 38th International Conference on Neural Information Processing Systems (NIPS’24)",
+        "author": "Dunefsky Jacob",
+        "year": "2024",
+        "unstructured": "Jacob Dunefsky, Philippe Chlenski, and Neel Nanda. 2024. Transcoders find interpretable LLM feature circuits. In Proceedings of the 38th International Conference on Neural Information Processing Systems (NIPS’24). Curran Associates Inc., Red Hook, NY, USA, Article 768, 36 pages."
+      },
+      {
+        "key": "e_1_3_1_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32388/R3SZ5U.2"
+      },
+      {
+        "key": "e_1_3_1_72_2",
+        "unstructured": "Nils Palumbo Ravi Mangal Zifan Wang Saranya Vijayakumar Corina Păsăreanu and Somesh Jha. 2024. Mechanistically interpreting a transformer-based 2-SAT solver: An axiomatic approach. arXiv:2407.13594. Retrieved from https://arxiv.org/abs/2407.13594"
+      },
+      {
+        "key": "e_1_3_1_73_2",
+        "volume-title": "Proceedings of the 37th Conference on Neural Information Processing Systems",
+        "author": "Friedman Dan",
+        "year": "2023",
+        "unstructured": "Dan Friedman, Alexander Wettig, and Danqi Chen. 2023. Learning transformer programs. In Proceedings of the 37th Conference on Neural Information Processing Systems. Retrieved from https://openreview.net/forum?id=Pe9WxkN8Ff"
+      },
+      {
+        "key": "e_1_3_1_74_2",
+        "volume-title": "Proceedings of the 41st International Conference on Machine Learning (ICML’24)",
+        "author": "Singh Aaditya K.",
+        "year": "2024",
+        "unstructured": "Aaditya K. Singh, Ted Moskovitz, Felix Hill, Stephanie C. Y. Chan, and Andrew M. Saxe. 2024. What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation. In Proceedings of the 41st International Conference on Machine Learning (ICML’24). JMLR.org, Article 1855, 26 pages."
+      },
+      {
+        "key": "e_1_3_1_75_2",
+        "volume-title": "Proceedings of the 12th International Conference on Learning Representations",
+        "author": "Zhang Fred",
+        "year": "2024",
+        "unstructured": "Fred Zhang and Neel Nanda. 2024. Towards best practices of activation patching in language models: Metrics and methods. In Proceedings of the 12th International Conference on Learning Representations. Retrieved from https://openreview.net/forum?id=Hf17y6u9BC"
+      },
+      {
+        "key": "e_1_3_1_76_2",
+        "unstructured": "Stefan Heimersheim and Neel Nanda. 2024. How to use and interpret activation patching. arXiv:2404.15255. Retrieved from https://arxiv.org/abs/2404.15255"
+      },
+      {
+        "key": "e_1_3_1_77_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ryota Takatsuki Sonia Joseph Ippei Fujisawa and Ryota Kanai. 2025. Decoding vision transformers: The diffusion steering lens. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 4858–4863.",
+        "DOI": "10.1109/CVPRW67362.2025.00470"
+      },
+      {
+        "key": "e_1_3_1_78_2",
+        "unstructured": "Nelson Elhage Tristan Hume Catherine Olsson Nicholas Schiefer Tom Henighan Shauna Kravec Zac Hatfield-Dodds Robert Lasenby Dawn Drain Carol Chen et al. 2022. Toy models of superposition. arxiv:cs.LG/2209.10652. Retrieved from https://arxiv.org/abs/2209.10652"
+      },
+      {
+        "key": "e_1_3_1_79_2",
+        "article-title": "Language models with transformers",
+        "author": "Wang Chenguang",
+        "year": "2019",
+        "unstructured": "Chenguang Wang, Mu Li, and Alexander J. Smola. 2019. Language models with transformers. arXiv:1904.09408. Retrieved from https://arxiv.org/abs/1904.09408",
+        "journal-title": "arXiv:1904.09408"
+      },
+      {
+        "key": "e_1_3_1_80_2",
+        "unstructured": "Nelson Elhage Neel Nanda Catherine Olsson et al. 2021. A mathematical framework for transformer circuits. Transformer Circuits Thread (Dec. 2021). Retrieved January 13 2026 from https://transformer-circuits.pub/2021/framework/index.html"
+      },
+      {
+        "key": "e_1_3_1_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18653/v1/2022.findings-emnlp.338"
+      },
+      {
+        "key": "e_1_3_1_82_2",
+        "unstructured": "Alan Cooney and Neel Nanda. 2023. CircuitsVis. Retrieved January 13 2026 from https://github.com/TransformerLensOrg/CircuitsVis"
+      },
+      {
+        "key": "e_1_3_1_83_2",
+        "unstructured": "Hongkai Zhao and Yimin Zhong. 2023. How much can one learn from a single solution of a PDE? Pure and Applied Functional Analysis 8 2 (2023) 751–773. Retrieved from https://par.nsf.gov/servlets/purl/10520297"
+      },
+      {
+        "key": "e_1_3_1_84_2",
+        "unstructured": "Catherine Olsson Nelson Elhage Neel Nanda Nicholas Joseph Nova DasSarma Tom Henighan Ben Mann Amanda Askell Yuntao Bai Anna Chen et al. 2022. In-context learning and induction heads. Transformer Circuits Thread (Sep. 2022). https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html"
+      },
+      {
+        "key": "e_1_3_1_85_2",
+        "unstructured": "Joseph Bloom Curt Tigges Anthony Duong and David Chanin. 2024. SAELens. Retrieved January 13 2026 from https://github.com/decoderesearch/SAELens"
+      },
+      {
+        "key": "e_1_3_1_86_2",
+        "unstructured": "Jatin Nainani Sankaran Vaidyanathan A. J. Yeung Kartik Gupta and David Jensen. 2025. Adaptive Circuit Behavior and Generalization in Mechanistic Interpretability. Retrieved January 13 2026 from https://openreview.net/forum?id=FbZSZEIkEU"
+      },
+      {
+        "key": "e_1_3_1_87_2",
+        "volume-title": "Proceedings of the 41st International Conference on Machine Learning (ICML’24)",
+        "author": "Wei Boyi",
+        "year": "2024",
+        "unstructured": "Boyi Wei, Kaixuan Huang, Yangsibo Huang, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, and Peter Henderson. 2024. Assessing the brittleness of safety alignment via pruning and low-rank modifications. In Proceedings of the 41st International Conference on Machine Learning (ICML’24). JMLR.org, Article 2156, 23 pages."
+      },
+      {
+        "key": "e_1_3_1_88_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR52734.2025.00767"
+      },
+      {
+        "key": "e_1_3_1_89_2",
+        "first-page": "17359",
+        "article-title": "Locating and editing factual associations in gpt",
+        "volume": "35",
+        "author": "Meng Kevin",
+        "year": "2022",
+        "unstructured": "Kevin Meng, David Bau, Alex Andonian, and Yonatan Belinkov. 2022. Locating and editing factual associations in gpt. Advances in Neural Information Processing Systems 35 (2022), 17359–17372.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_1_90_2",
+        "volume-title": "Proceedings of the 41st International Conference on Machine Learning (ICML’24)",
+        "author": "Pervez Adeel",
+        "year": "2024",
+        "unstructured": "Adeel Pervez, Francesco Locatello, and Efstratios Gavves. 2024. Mechanistic neural networks for scientific machine learning. In Proceedings of the 41st International Conference on Machine Learning (ICML’24). JMLR.org, Article 1643, 18 pages."
+      },
+      {
+        "key": "e_1_3_1_91_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Naomi Saphra and Sarah Wiegreffe. 2024. Mechanistic? In Proceedings of the 7th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP’24) Miami Florida US November 15 2024. Association for Computational Linguistics. 480–498. 10.18653/v1/2024.blackboxnlp-1.30",
+        "DOI": "10.18653/v1/2024.blackboxnlp-1.30"
+      },
+      {
+        "key": "e_1_3_1_92_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR46437.2021.00084"
+      },
+      {
+        "key": "e_1_3_1_93_2",
+        "volume-title": "Proceedings of the 35th International Conference on Neural Information Processing Systems (NIPS’21)",
+        "author": "Raghu Maithra",
+        "year": "2021",
+        "unstructured": "Maithra Raghu, Thomas Unterthiner, Simon Kornblith, Chiyuan Zhang, and Alexey Dosovitskiy. 2021. Do vision transformers see like convolutional neural networks?. In Proceedings of the 35th International Conference on Neural Information Processing Systems (NIPS’21). Curran Associates Inc., Red Hook, NY, USA, Article 927, 13 pages."
+      },
+      {
+        "key": "e_1_3_1_94_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR52688.2022.02072"
+      },
+      {
+        "key": "e_1_3_1_95_2",
+        "volume-title": "Proceedings of the 36th International Conference on Neural Information Processing Systems (NIPS’22)",
+        "author": "Hoffmann Jordan",
+        "year": "2022",
+        "unstructured": "Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, et al. 2022. Training compute-optimal large language models. In Proceedings of the 36th International Conference on Neural Information Processing Systems (NIPS’22). Curran Associates Inc., Red Hook, NY, USA, Article 2176, 15 pages."
+      },
+      {
+        "key": "e_1_3_1_96_2",
+        "unstructured": "Tamay Besiroglu Ege Erdil Matthew Barnett and Josh You. 2024. Chinchilla scaling: A replication attempt. arXiv:2404.10102. Retrieved from https://arxiv.org/abs/2404.10102"
+      },
+      {
+        "key": "e_1_3_1_97_2",
+        "unstructured": "Bianka Kowalska and Halina Kwaśnicka. 2025. Unboxing the black box: Mechanistic interpretability for algorithmic understanding of neural networks. arXiv:2511.19265. Retrieved from https://arxiv.org/abs/2511.19265"
+      },
+      {
+        "key": "e_1_3_1_98_2",
+        "article-title": "Emergent abilities of large language models",
+        "author": "Wei Jason",
+        "year": "2022",
+        "unstructured": "Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, et al. 2022. Emergent abilities of large language models. Transactions on Machine Learning Research (2022). Retrieved fromhttps://openreview.net/forum?id=yzkSU5zdwD",
+        "journal-title": "Transactions on Machine Learning Research"
+      },
+      {
+        "key": "e_1_3_1_99_2",
+        "unstructured": "Rylan Schaeffer Brando Miranda and Sanmi Koyejo. 2023. Are emergent abilities of large language models a mirage? arXiv:2304.15004. Retrieved from https://arxiv.org/abs/2304.15004"
+      },
+      {
+        "key": "e_1_3_1_100_2",
+        "unstructured": "Anh Nguyen Jason Yosinski and Jeff Clune. 2016. Multifaceted feature visualization: Uncovering the different types of features learned by each neuron in deep neural networks. arXiv:1602.03616. Retrieved from https://arxiv.org/abs/1602.03616"
+      },
+      {
+        "key": "e_1_3_1_101_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2024.3420937"
+      },
+      {
+        "key": "e_1_3_1_102_2",
+        "unstructured": "David Chanin James Wilken-Smith Tomáš Dulka Hardik Bhatnagar Satvik Golechha and Joseph Bloom. 2024. A is for absorption: Studying feature splitting and absorption in sparse autoencoders. arXiv:2409.14507. Retrieved from https://arxiv.org/abs/2409.14507"
+      },
+      {
+        "key": "e_1_3_1_103_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tics.2025.04.007"
+      },
+      {
+        "key": "e_1_3_1_104_2",
+        "unstructured": "Nikitha SR. 2025. Evaluating variance in visual question answering benchmarks. arXiv:2508.02645. Retrieved from https://arxiv.org/abs/2508.02645"
+      },
+      {
+        "key": "e_1_3_1_105_2",
+        "series-title": "Proceedings of Machine Learning Research",
+        "first-page": "45069",
+        "volume-title": "Proceedings of the 42nd International Conference on Machine Learning",
+        "volume": "267",
+        "author": "Mueller Aaron",
+        "year": "2025",
+        "unstructured": "Aaron Mueller, Atticus Geiger, Sarah Wiegreffe, Dana Arad, Iván Arcuschin, Adam Belfki, Yik Siu Chan, Jaden Fried Fiotto-Kaufman, Tal Haklay, Michael Hanna, et al. 2025. MIB: A mechanistic interpretability benchmark. In Proceedings of the 42nd International Conference on Machine Learning, Aarti Singh, Maryam Fazel, Daniel Hsu, Simon Lacoste-Julien, Felix Berkenkamp, Tegan Maharaj, Kiri Wagstaff, and Jerry Zhu (Eds.). Proceedings of Machine Learning Research, Vol. 267, PMLR, 45069–45108. Retrieved from https://proceedings.mlr.press/v267/mueller25a.html"
+      },
+      {
+        "key": "e_1_3_1_106_2",
+        "first-page": "37876",
+        "article-title": "Tracr: Compiled transformers as a laboratory for interpretability",
+        "volume": "36",
+        "author": "Lindner David",
+        "year": "2023",
+        "unstructured": "David Lindner, János Kramár, Sebastian Farquhar, Matthew Rahtz, Tom McGrath, and Vladimir Mikulik. 2023. Tracr: Compiled transformers as a laboratory for interpretability. Advances in Neural Information Processing Systems 36 (2023), 37876–37899.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_1_107_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2017.74"
+      },
+      {
+        "key": "e_1_3_1_108_2",
+        "unstructured": "Jaekeol Choi Jungin Choi and Wonjong Rhee. 2020. Interpreting neural ranking models using grad-cam. arXiv:2005.05768. Retrieved from https://arxiv.org/abs/2005.05768"
+      },
+      {
+        "key": "e_1_3_1_109_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JIOT.2024.3485765"
+      },
+      {
+        "key": "e_1_3_1_110_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/coin.12410"
+      },
+      {
+        "key": "e_1_3_1_111_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.artint.2022.103667"
+      },
+      {
+        "key": "e_1_3_1_112_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/LGRS.2023.3251652"
+      },
+      {
+        "key": "e_1_3_1_113_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ina.12984"
+      },
+      {
+        "key": "e_1_3_1_114_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40708-024-00222-1"
+      },
+      {
+        "key": "e_1_3_1_115_2",
+        "first-page": "5256",
+        "article-title": "Which explanation should I choose? A function approximation perspective to characterizing post hoc explanations",
+        "volume": "35",
+        "author": "Han Tessa",
+        "year": "2022",
+        "unstructured": "Tessa Han, Suraj Srinivas, and Himabindu Lakkaraju. 2022. Which explanation should I choose? A function approximation perspective to characterizing post hoc explanations. Advances in Neural Information Processing Systems 35 (2022), 5256–5268.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_1_116_2",
+        "first-page": "4593",
+        "volume-title": "Proceedings of the 29th International Conference on Computational Linguistics",
+        "author": "Mosca Edoardo",
+        "year": "2022",
+        "unstructured": "Edoardo Mosca, Ferenc Szigeti, Stella Tragianni, Daniel Gallagher, and Georg Groh. 2022. SHAP-based explanation methods: A review for NLP interpretability. In Proceedings of the 29th International Conference on Computational Linguistics. 4593–4603."
+      },
+      {
+        "key": "e_1_3_1_117_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/aisy.202400304"
+      },
+      {
+        "key": "e_1_3_1_118_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICDSAAI65575.2025.11011640"
+      },
+      {
+        "key": "e_1_3_1_119_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-031-88720-8_16"
+      },
+      {
+        "key": "e_1_3_1_120_2",
+        "first-page": "79453",
+        "article-title": "Compact proofs of model performance via mechanistic interpretability",
+        "volume": "37",
+        "author": "Gross Jason",
+        "year": "2024",
+        "unstructured": "Jason Gross, Rajashree Agrawal, Thomas Kwa, Euan Ong, Chun Hei Yip, Alex Gibson, Soufiane Noubir, and Lawrence Chan. 2024. Compact proofs of model performance via mechanistic interpretability. Advances in Neural Information Processing Systems 37 (2024), 79453–79515.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_1_121_2",
+        "first-page": "57876",
+        "article-title": "Scale alone does not improve mechanistic interpretability in vision models",
+        "volume": "36",
+        "author": "Zimmermann Roland S.",
+        "year": "2023",
+        "unstructured": "Roland S. Zimmermann, Thomas Klein, and Wieland Brendel. 2023. Scale alone does not improve mechanistic interpretability in vision models. Advances in Neural Information Processing Systems 36 (2023), 57876–57907.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_1_122_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JPROC.2021.3060483"
+      },
+      {
+        "key": "e_1_3_1_123_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.procs.2022.08.105"
+      },
+      {
+        "key": "e_1_3_1_124_2",
+        "unstructured": "Ashish Vaswani Noam Shazeer Niki Parmar Jakob Uszkoreit Llion Jones Aidan N. Gomez Łukasz Kaiser and Illia Polosukhin. 2017. Attention is all you need. In Advances in Neural Information Processing Systems 30 (NIPS’17) Dec. 4-9 2017 Long Beach CA USA. Curran Associates Inc. Red Hook NY 5998–6008. https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html"
+      },
+      {
+        "key": "e_1_3_1_125_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/ss/1009213726"
+      },
+      {
+        "key": "e_1_3_1_126_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2018.00519"
+      },
+      {
+        "key": "e_1_3_1_127_2",
+        "first-page": "10526",
+        "article-title": "Regularizing black-box models for improved interpretability",
+        "volume": "33",
+        "author": "Plumb Gregory",
+        "year": "2020",
+        "unstructured": "Gregory Plumb, Maruan Al-Shedivat, Ángel Alexander Cabrera, Adam Perer, Eric Xing, and Ameet Talwalkar. 2020. Regularizing black-box models for improved interpretability. Advances in Neural Information Processing Systems 33 (2020), 10526–10536.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_1_128_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3514094.3534191"
+      },
+      {
+        "key": "e_1_3_1_129_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICDMW58026.2022.00030"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3787104",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ],
+      "date-time": "2026-02-04T12:16:58Z",
+      "timestamp": 1770207418000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3787104"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
+    "references-count": 128,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            30
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1145/3787104"
+    ],
+    "URL": "https://doi.org/10.1145/3787104",
+    "relation": {},
+    "ISSN": [
+      "0360-0300",
+      "1557-7341"
+    ],
+    "issn-type": [
+      {
+        "value": "0360-0300",
+        "type": "print"
+      },
+      {
+        "value": "1557-7341",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-07-01",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-12-26",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-02-04",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

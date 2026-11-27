@@ -1,0 +1,213 @@
+{
+  "issn": "2045-2322",
+  "title": "Scientific Reports",
+  "publisher": "Springer Science and Business Media LLC",
+  "issns": [
+    "2045-2322"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1791249136539,
+    "counts": {
+      "current-dois": 119376,
+      "backfile-dois": 196266,
+      "total-dois": 315642
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2025,
+          48695
+        ],
+        [
+          2026,
+          38499
+        ],
+        [
+          2024,
+          32182
+        ],
+        [
+          2017,
+          25341
+        ],
+        [
+          2021,
+          24533
+        ],
+        [
+          2023,
+          23105
+        ],
+        [
+          2022,
+          22653
+        ],
+        [
+          2020,
+          22463
+        ],
+        [
+          2016,
+          21057
+        ],
+        [
+          2019,
+          20424
+        ],
+        [
+          2018,
+          18166
+        ],
+        [
+          2015,
+          10938
+        ],
+        [
+          2014,
+          4021
+        ],
+        [
+          2013,
+          2553
+        ],
+        [
+          2012,
+          807
+        ],
+        [
+          2011,
+          205
+        ]
+      ]
+    },
+    "publisher": "Springer Science and Business Media LLC",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 0.9136174775499263,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.009867980163516955,
+      "funders-backfile": 0.351543313666147,
+      "licenses-backfile": 0.9999898097479951,
+      "funders-current": 0.6116304784881383,
+      "affiliations-backfile": 0.0,
+      "resource-links-backfile": 0.9999898097479951,
+      "orcids-backfile": 0.2368265517206241,
+      "funder-ror-ids-current": 0.009867980163516955,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 5.095126002466041e-06,
+      "orcids-current": 0.1432951347004423,
+      "similarity-checking-backfile": 1.0,
+      "references-backfile": 0.9720328533724639,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.2885420806456544,
+      "update-policies-backfile": 1.0,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.455635973730063,
+      "abstracts-backfile": 0.951907105662723,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 5.095126002466041e-06,
+      "abstracts-current": 0.3665393378903632,
+      "references-current": 0.8891737032569361
+    },
+    "title": "Scientific Reports",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1791249136539,
+        "affiliations": 0.0,
+        "abstracts": 0.7305183387561264,
+        "orcids": 0.2014522736129108,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9999904955915385,
+        "references": 0.9406924912005018,
+        "funders": 0.4499070152038854,
+        "similarity-checking": 0.9673270118456611,
+        "funder-ror-ids": 0.00373523252535301,
+        "award-numbers": 0.3517359802054853,
+        "ror-ids": 0.00373523252535301,
+        "update-policies": 0.9999968318638462,
+        "resource-links": 0.9999904955915385,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1791249136539,
+        "affiliations": 0.0,
+        "abstracts": 0.951907105662723,
+        "orcids": 0.2368265517206241,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.9999898097479951,
+        "references": 0.9720328533724639,
+        "funders": 0.351543313666147,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 5.095126002466041e-06,
+        "award-numbers": 0.2885420806456544,
+        "ror-ids": 5.095126002466041e-06,
+        "update-policies": 1.0,
+        "resource-links": 0.9999898097479951,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1791249136539,
+        "affiliations": 0.0,
+        "abstracts": 0.3665393378903632,
+        "orcids": 0.1432951347004423,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.8891737032569361,
+        "funders": 0.6116304784881383,
+        "similarity-checking": 0.9136174775499263,
+        "funder-ror-ids": 0.009867980163516955,
+        "award-numbers": 0.455635973730063,
+        "ror-ids": 0.009867980163516955,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": true,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": false,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": true,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": true,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": true,
+      "deposits-ror-ids-backfile": true,
+      "deposits-abstracts-backfile": true,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": true,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": true,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "2045-2322"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2045-2322"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:34+00:00"
+}

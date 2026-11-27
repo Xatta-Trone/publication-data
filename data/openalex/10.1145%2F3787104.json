@@ -1,0 +1,1466 @@
+{
+  "doi": "10.1145/3787104",
+  "fetched_at": "2026-11-27T06:21:39+00:00",
+  "work": {
+    "id": "https://openalex.org/W7125584057",
+    "doi": "https://doi.org/10.1145/3787104",
+    "title": "Bridging the Black Box: A Survey on Mechanistic Interpretability in AI",
+    "display_name": "Bridging the Black Box: A Survey on Mechanistic Interpretability in AI",
+    "alternate_titles": [],
+    "publication_year": 2026,
+    "publication_date": "2026-02-04",
+    "ids": {
+      "openalex": "https://openalex.org/W7125584057",
+      "doi": "https://doi.org/10.1145/3787104"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1145/3787104",
+      "doi": "https://doi.org/10.1145/3787104",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3787104",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S157921468",
+        "display_name": "ACM Computing Surveys",
+        "issn_l": "0360-0300",
+        "issn": [
+          "0360-0300",
+          "1557-7341"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-a",
+          "jufo-3",
+          "ki-jl-2",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319798",
+        "host_organization_name": "Association for Computing Machinery",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319798"
+        ],
+        "host_organization_lineage_names": [
+          "Association for Computing Machinery"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "ACM Computing Surveys",
+      "raw_type": "journal-article"
+    },
+    "parent_works": [],
+    "lineage": [
+      "https://openalex.org/W7125584057"
+    ],
+    "child_works_count": 0,
+    "pull_notice_works": [],
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://doi.org/10.2139/ssrn.5345552",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5098934039",
+          "display_name": "Shriyank Somvanshi",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0008-3723-0607",
+          "observed_orcids": [
+            "https://orcid.org/0009-0008-3723-0607"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Shriyank Somvanshi",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0008-3723-0607",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Md Monzurul Islam",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0007-3670-6100",
+          "observed_orcids": [
+            "https://orcid.org/0009-0007-3670-6100"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Md Monzurul Islam",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0007-3670-6100",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5058550807",
+          "display_name": "Amir Rafe",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0002-4089-2088",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4089-2088"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I121980950",
+            "display_name": "Utah State University",
+            "ror": "https://ror.org/00h6set76",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Amir Rafe",
+        "raw_affiliation_strings": [
+          "Utah State University, Logan, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-4089-2088",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Utah State University, Logan, United States",
+            "institution_ids": [
+              "https://openalex.org/I121980950"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5116335722",
+          "display_name": "Anannya Ghosh Tusti",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0001-5102-5182",
+          "observed_orcids": [
+            "https://orcid.org/0009-0001-5102-5182"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Anannya Ghosh Tusti",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0001-5102-5182",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5088649951",
+          "display_name": "Arka Chakraborty",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0002-6315-2277",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6315-2277"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Arka Chakraborty",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6315-2277",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5119062644",
+          "display_name": "Anika Baitullah",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0004-9714-0196",
+          "observed_orcids": [
+            "https://orcid.org/0009-0004-9714-0196"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Anika Baitullah",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0004-9714-0196",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5126625593",
+          "display_name": "Tausif Islam Chowdhury",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0008-2385-8719",
+          "observed_orcids": [
+            "https://orcid.org/0009-0008-2385-8719"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Tausif Islam Chowdhury",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0008-2385-8719",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5086967940",
+          "display_name": "Nawaf Alnawmasi",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0001-5753-3025",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5753-3025"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4210088963",
+            "display_name": "University of Ha'il",
+            "ror": "https://ror.org/013w98a82",
+            "country_code": "SA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4210088963"
+            ]
+          }
+        ],
+        "countries": [
+          "SA"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Nawaf Alnawmasi",
+        "raw_affiliation_strings": [
+          "University of Hail, Hail, Saudi Arabia"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-5753-3025",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Hail, Hail, Saudi Arabia",
+            "institution_ids": [
+              "https://openalex.org/I4210088963"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5112503735",
+          "display_name": "Anandi K Dutta",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0002-7279-7752",
+          "observed_orcids": [
+            "https://orcid.org/0009-0002-7279-7752"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Anandi Dutta",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0002-7279-7752",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5122818672",
+          "display_name": "Subasish Das",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0002-1671-2753",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1671-2753"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Subasish Das",
+        "raw_affiliation_strings": [
+          "Civil Engineering, Texas State University, San Marcos, United States"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-1671-2753",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Civil Engineering, Texas State University, San Marcos, United States",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 52.3768,
+    "is_authors_truncated": false,
+    "has_fulltext": false,
+    "cited_by_count": 55,
+    "reviewed_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.99860684,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 87,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "58",
+      "issue": "8",
+      "first_page": "1",
+      "last_page": "35"
+    },
+    "is_retracted": false,
+    "is_pulled": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12026",
+      "display_name": "Explainable Artificial Intelligence (XAI)",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12026",
+        "display_name": "Explainable Artificial Intelligence (XAI)",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10743",
+        "display_name": "Software Testing and Debugging Techniques",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1712",
+          "display_name": "Software"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11689",
+        "display_name": "Adversarial Robustness in Machine Learning",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/mechanistic-interpretability",
+        "display_name": "mechanistic interpretability",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/neural-network-interpretability",
+        "display_name": "neural network interpretability",
+        "score": 0.7149999737739563
+      },
+      {
+        "id": "https://openalex.org/keywords/attention-mechanism",
+        "display_name": "attention mechanism",
+        "score": 0.4189999997615814
+      },
+      {
+        "id": "https://openalex.org/keywords/neural-circuits",
+        "display_name": "neural circuits",
+        "score": 0.5830000042915344
+      },
+      {
+        "id": "https://openalex.org/keywords/counterfactual-evaluation",
+        "display_name": "counterfactual evaluation",
+        "score": 0.7979999780654907
+      },
+      {
+        "id": "https://openalex.org/keywords/large-language-models",
+        "display_name": "large language models",
+        "score": 0.6819999814033508
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-transparency",
+        "display_name": "AI transparency",
+        "score": 0.7680000066757202
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-governance",
+        "display_name": "AI governance",
+        "score": 0.6919999718666077
+      },
+      {
+        "id": "https://openalex.org/keywords/model-reliability",
+        "display_name": "model reliability",
+        "score": 0.30799999833106995
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2781067378",
+        "wikidata": "https://www.wikidata.org/wiki/Q17027399",
+        "display_name": "Interpretability",
+        "level": 2,
+        "score": 0.9747999906539917
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.7512000203132629
+      },
+      {
+        "id": "https://openalex.org/C174348530",
+        "wikidata": "https://www.wikidata.org/wiki/Q188635",
+        "display_name": "Bridging (networking)",
+        "level": 2,
+        "score": 0.6054999828338623
+      },
+      {
+        "id": "https://openalex.org/C2522767166",
+        "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+        "display_name": "Data science",
+        "level": 1,
+        "score": 0.49410000443458557
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.47110000252723694
+      },
+      {
+        "id": "https://openalex.org/C188147891",
+        "wikidata": "https://www.wikidata.org/wiki/Q147638",
+        "display_name": "Cognitive science",
+        "level": 1,
+        "score": 0.4278999865055084
+      },
+      {
+        "id": "https://openalex.org/C58642233",
+        "wikidata": "https://www.wikidata.org/wiki/Q8269924",
+        "display_name": "Taxonomy (biology)",
+        "level": 2,
+        "score": 0.42410001158714294
+      },
+      {
+        "id": "https://openalex.org/C124304363",
+        "wikidata": "https://www.wikidata.org/wiki/Q673661",
+        "display_name": "Abstraction",
+        "level": 2,
+        "score": 0.3456999957561493
+      },
+      {
+        "id": "https://openalex.org/C39389867",
+        "wikidata": "https://www.wikidata.org/wiki/Q380767",
+        "display_name": "Corporate governance",
+        "level": 2,
+        "score": 0.3181000053882599
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.29330000281333923
+      },
+      {
+        "id": "https://openalex.org/C14224292",
+        "wikidata": "https://www.wikidata.org/wiki/Q13600188",
+        "display_name": "Conceptual framework",
+        "level": 2,
+        "score": 0.28040000796318054
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.274399995803833
+      },
+      {
+        "id": "https://openalex.org/C11671645",
+        "wikidata": "https://www.wikidata.org/wiki/Q5054567",
+        "display_name": "Causal model",
+        "level": 2,
+        "score": 0.2669999897480011
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1145/3787104",
+        "doi": "https://doi.org/10.1145/3787104",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3787104",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S157921468",
+          "display_name": "ACM Computing Surveys",
+          "issn_l": "0360-0300",
+          "issn": [
+            "0360-0300",
+            "1557-7341"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-a",
+            "jufo-3",
+            "ki-jl-2",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACM Computing Surveys",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "doi:10.2139/ssrn.5345552",
+        "doi": "https://doi.org/10.2139/ssrn.5345552",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2139/ssrn.5345552",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.2139/ssrn.5345552",
+      "doi": "https://doi.org/10.2139/ssrn.5345552",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2139/ssrn.5345552",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 117,
+    "referenced_works": [
+      "https://openalex.org/W128066468",
+      "https://openalex.org/W1849277567",
+      "https://openalex.org/W1982229380",
+      "https://openalex.org/W1996796871",
+      "https://openalex.org/W2039509869",
+      "https://openalex.org/W2084341220",
+      "https://openalex.org/W2118022153",
+      "https://openalex.org/W2149033360",
+      "https://openalex.org/W2149706766",
+      "https://openalex.org/W2169393322",
+      "https://openalex.org/W2253993278",
+      "https://openalex.org/W2258484932",
+      "https://openalex.org/W2282821441",
+      "https://openalex.org/W2439568532",
+      "https://openalex.org/W2585665652",
+      "https://openalex.org/W2594475271",
+      "https://openalex.org/W2594633041",
+      "https://openalex.org/W2605409611",
+      "https://openalex.org/W2616247523",
+      "https://openalex.org/W2618851150",
+      "https://openalex.org/W2786715987",
+      "https://openalex.org/W2792641098",
+      "https://openalex.org/W2793546384",
+      "https://openalex.org/W2917263758",
+      "https://openalex.org/W2934842096",
+      "https://openalex.org/W2936497627",
+      "https://openalex.org/W2945976633",
+      "https://openalex.org/W2951025380",
+      "https://openalex.org/W2953337107",
+      "https://openalex.org/W2962858109",
+      "https://openalex.org/W2971048680",
+      "https://openalex.org/W3010694149",
+      "https://openalex.org/W3025585762",
+      "https://openalex.org/W3093029790",
+      "https://openalex.org/W3109060525",
+      "https://openalex.org/W3112516115",
+      "https://openalex.org/W3128326203",
+      "https://openalex.org/W3132191748",
+      "https://openalex.org/W3134080822",
+      "https://openalex.org/W3134095442",
+      "https://openalex.org/W3197983285",
+      "https://openalex.org/W3215928733",
+      "https://openalex.org/W4205820386",
+      "https://openalex.org/W4206030016",
+      "https://openalex.org/W4213228517",
+      "https://openalex.org/W4224996539",
+      "https://openalex.org/W4229494842",
+      "https://openalex.org/W4232515367",
+      "https://openalex.org/W4283026156",
+      "https://openalex.org/W4286632029",
+      "https://openalex.org/W4288058217",
+      "https://openalex.org/W4296932880",
+      "https://openalex.org/W4297412003",
+      "https://openalex.org/W4297792514",
+      "https://openalex.org/W4308023630",
+      "https://openalex.org/W4309618451",
+      "https://openalex.org/W4312430207",
+      "https://openalex.org/W4312791030",
+      "https://openalex.org/W4316116432",
+      "https://openalex.org/W4316135772",
+      "https://openalex.org/W4319453780",
+      "https://openalex.org/W4319586337",
+      "https://openalex.org/W4323022345",
+      "https://openalex.org/W4327526719",
+      "https://openalex.org/W4365597196",
+      "https://openalex.org/W4367061030",
+      "https://openalex.org/W4385573591",
+      "https://openalex.org/W4386839891",
+      "https://openalex.org/W4387210443",
+      "https://openalex.org/W4387963693",
+      "https://openalex.org/W4389157175",
+      "https://openalex.org/W4390190202",
+      "https://openalex.org/W4390889563",
+      "https://openalex.org/W4393992045",
+      "https://openalex.org/W4394737082",
+      "https://openalex.org/W4394907038",
+      "https://openalex.org/W4395065622",
+      "https://openalex.org/W4395443869",
+      "https://openalex.org/W4400065290",
+      "https://openalex.org/W4400135851",
+      "https://openalex.org/W4400188660",
+      "https://openalex.org/W4400375635",
+      "https://openalex.org/W4401024111",
+      "https://openalex.org/W4402671619",
+      "https://openalex.org/W4403721552",
+      "https://openalex.org/W4403851170",
+      "https://openalex.org/W4404784049",
+      "https://openalex.org/W4404954924",
+      "https://openalex.org/W4404987111",
+      "https://openalex.org/W4405765362",
+      "https://openalex.org/W4406059511",
+      "https://openalex.org/W4406949968",
+      "https://openalex.org/W4409166493",
+      "https://openalex.org/W4410390425",
+      "https://openalex.org/W4410855238",
+      "https://openalex.org/W4411048702",
+      "https://openalex.org/W4412594747",
+      "https://openalex.org/W4413145956",
+      "https://openalex.org/W4414196982",
+      "https://openalex.org/W4415186122",
+      "https://openalex.org/W4415796704",
+      "https://openalex.org/W4415798500",
+      "https://openalex.org/W4417091950",
+      "https://openalex.org/W4417223409",
+      "https://openalex.org/W4417408219",
+      "https://openalex.org/W6966727485",
+      "https://openalex.org/W7099782867",
+      "https://openalex.org/W7131122897",
+      "https://openalex.org/W7133185117",
+      "https://openalex.org/W7133187725",
+      "https://openalex.org/W7133188536",
+      "https://openalex.org/W7133218086",
+      "https://openalex.org/W7133219754",
+      "https://openalex.org/W7133225605",
+      "https://openalex.org/W7133227500",
+      "https://openalex.org/W7133236469",
+      "https://openalex.org/W7171470562"
+    ],
+    "related_works": [
+      "https://openalex.org/W7171470562",
+      "https://openalex.org/W7167836443",
+      "https://openalex.org/W4395065622",
+      "https://openalex.org/W7166811405",
+      "https://openalex.org/W7125680013",
+      "https://openalex.org/W4410855238",
+      "https://openalex.org/W7222942849"
+    ],
+    "abstract_inverted_index": {
+      "Mechanistic": [
+        0
+      ],
+      "interpretability": [
+        1,
+        75,
+        110,
+        159
+      ],
+      "seeks": [
+        2
+      ],
+      "to": [
+        3,
+        126,
+        150
+      ],
+      "reverse-engineer": [
+        4
+      ],
+      "the": [
+        5,
+        58
+      ],
+      "internal": [
+        6
+      ],
+      "logic": [
+        7
+      ],
+      "of": [
+        8,
+        57,
+        103
+      ],
+      "neural": [
+        9
+      ],
+      "networks": [
+        10
+      ],
+      "by": [
+        11
+      ],
+      "uncovering": [
+        12
+      ],
+      "human-understandable": [
+        13
+      ],
+      "circuits,": [
+        14,
+        81
+      ],
+      "algorithms,": [
+        15
+      ],
+      "and": [
+        16,
+        37,
+        48,
+        64,
+        82,
+        90,
+        97,
+        132,
+        143,
+        164
+      ],
+      "causal": [
+        17,
+        135
+      ],
+      "structures": [
+        18
+      ],
+      "that": [
+        19,
+        27,
+        99
+      ],
+      "drive": [
+        20
+      ],
+      "model": [
+        21
+      ],
+      "behavior.": [
+        22
+      ],
+      "Unlike": [
+        23
+      ],
+      "post": [
+        24
+      ],
+      "hoc": [
+        25
+      ],
+      "explanations": [
+        26
+      ],
+      "describe": [
+        28
+      ],
+      "what": [
+        29
+      ],
+      "models": [
+        30
+      ],
+      "do,": [
+        31
+      ],
+      "this": [
+        32,
+        147
+      ],
+      "paradigm": [
+        33
+      ],
+      "focuses": [
+        34
+      ],
+      "on": [
+        35
+      ],
+      "why": [
+        36
+      ],
+      "how": [
+        38,
+        108,
+        157
+      ],
+      "they": [
+        39
+      ],
+      "compute,": [
+        40
+      ],
+      "tracing": [
+        41
+      ],
+      "information": [
+        42
+      ],
+      "flow": [
+        43
+      ],
+      "through": [
+        44
+      ],
+      "neurons,": [
+        45,
+        80
+      ],
+      "attention": [
+        46
+      ],
+      "heads,": [
+        47
+      ],
+      "activation": [
+        49
+      ],
+      "pathways.": [
+        50
+      ],
+      "This": [
+        51
+      ],
+      "survey": [
+        52,
+        148
+      ],
+      "provides": [
+        53
+      ],
+      "a": [
+        54
+      ],
+      "high-level": [
+        55
+      ],
+      "synthesis": [
+        56
+      ],
+      "field-highlighting": [
+        59
+      ],
+      "its": [
+        60
+      ],
+      "motivation,": [
+        61
+      ],
+      "conceptual": [
+        62
+      ],
+      "foundations,": [
+        63
+      ],
+      "methodological": [
+        65
+      ],
+      "taxonomy": [
+        66
+      ],
+      "rather": [
+        67
+      ],
+      "than": [
+        68
+      ],
+      "enumerating": [
+        69
+      ],
+      "individual": [
+        70
+      ],
+      "techniques.": [
+        71
+      ],
+      "We": [
+        72,
+        92
+      ],
+      "organize": [
+        73
+      ],
+      "mechanistic": [
+        74,
+        109,
+        158
+      ],
+      "across": [
+        76
+      ],
+      "three": [
+        77,
+        85
+      ],
+      "abstraction": [
+        78
+      ],
+      "layers—": [
+        79
+      ],
+      "algorithms": [
+        83
+      ],
+      "—and": [
+        84
+      ],
+      "evaluation": [
+        86
+      ],
+      "perspectives:": [
+        87
+      ],
+      "behavioral,": [
+        88
+      ],
+      "counterfactual,": [
+        89
+      ],
+      "causal.": [
+        91
+      ],
+      "further": [
+        93
+      ],
+      "discuss": [
+        94
+      ],
+      "representative": [
+        95
+      ],
+      "approaches": [
+        96
+      ],
+      "toolchains": [
+        98
+      ],
+      "enable": [
+        100
+      ],
+      "structural": [
+        101
+      ],
+      "analysis": [
+        102
+      ],
+      "modern": [
+        104
+      ],
+      "AI": [
+        105
+      ],
+      "systems,": [
+        106
+      ],
+      "outlining": [
+        107
+      ],
+      "bridges": [
+        111
+      ],
+      "theoretical": [
+        112
+      ],
+      "insights": [
+        113
+      ],
+      "with": [
+        114
+      ],
+      "practical": [
+        115
+      ],
+      "transparency.": [
+        116
+      ],
+      "Despite": [
+        117
+      ],
+      "rapid": [
+        118
+      ],
+      "progress,": [
+        119
+      ],
+      "challenges": [
+        120
+      ],
+      "persist": [
+        121
+      ],
+      "in": [
+        122,
+        166
+      ],
+      "scaling": [
+        123
+      ],
+      "these": [
+        124
+      ],
+      "analyses": [
+        125
+      ],
+      "frontier": [
+        127
+      ],
+      "models,": [
+        128
+      ],
+      "resolving": [
+        129
+      ],
+      "polysemantic": [
+        130
+      ],
+      "representations,": [
+        131
+      ],
+      "establishing": [
+        133
+      ],
+      "standardized": [
+        134
+      ],
+      "benchmarks.": [
+        136
+      ],
+      "By": [
+        137
+      ],
+      "connecting": [
+        138
+      ],
+      "historical": [
+        139
+      ],
+      "evolution,": [
+        140
+      ],
+      "current": [
+        141
+      ],
+      "methodologies,": [
+        142
+      ],
+      "emerging": [
+        144
+      ],
+      "research": [
+        145
+      ],
+      "directions,": [
+        146
+      ],
+      "aims": [
+        149
+      ],
+      "provide": [
+        151
+      ],
+      "an": [
+        152
+      ],
+      "integrative": [
+        153
+      ],
+      "framework": [
+        154
+      ],
+      "for": [
+        155
+      ],
+      "understanding": [
+        156
+      ],
+      "can": [
+        160
+      ],
+      "support": [
+        161
+      ],
+      "transparency,": [
+        162
+      ],
+      "reliability,": [
+        163
+      ],
+      "governance": [
+        165
+      ],
+      "large-scale": [
+        167
+      ],
+      "AI.": [
+        168
+      ]
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7125584057",
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 54
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-11-25T09:40:18.809321",
+    "created_date": "2026-01-25T00:00:00"
+  }
+}

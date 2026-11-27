@@ -1,0 +1,255 @@
+{
+  "issn": "1538-957X",
+  "title": "Traffic Injury Prevention",
+  "publisher": "Informa UK (Taylor & Francis)",
+  "issns": [
+    "1538-9588",
+    "1538-957X"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1791246852001,
+    "counts": {
+      "current-dois": 681,
+      "backfile-dois": 2601,
+      "total-dois": 3282
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2026,
+          257
+        ],
+        [
+          2019,
+          252
+        ],
+        [
+          2025,
+          234
+        ],
+        [
+          2024,
+          190
+        ],
+        [
+          2018,
+          184
+        ],
+        [
+          2013,
+          183
+        ],
+        [
+          2015,
+          171
+        ],
+        [
+          2016,
+          167
+        ],
+        [
+          2014,
+          157
+        ],
+        [
+          2022,
+          154
+        ],
+        [
+          2020,
+          152
+        ],
+        [
+          2021,
+          151
+        ],
+        [
+          2017,
+          144
+        ],
+        [
+          2023,
+          134
+        ],
+        [
+          2012,
+          96
+        ],
+        [
+          2009,
+          87
+        ],
+        [
+          2011,
+          84
+        ],
+        [
+          2010,
+          84
+        ],
+        [
+          2008,
+          84
+        ],
+        [
+          2003,
+          57
+        ],
+        [
+          2004,
+          55
+        ],
+        [
+          2006,
+          54
+        ],
+        [
+          2005,
+          54
+        ],
+        [
+          2007,
+          53
+        ],
+        [
+          2002,
+          44
+        ]
+      ]
+    },
+    "publisher": "Informa UK (Taylor & Francis)",
+    "coverage": {
+      "affiliations-current": 1.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 1.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.01027900146842878,
+      "funders-backfile": 0.1641676278354479,
+      "licenses-backfile": 0.05536332179930796,
+      "funders-current": 0.6387665198237885,
+      "affiliations-backfile": 0.5747789311803153,
+      "resource-links-backfile": 0.0130718954248366,
+      "orcids-backfile": 0.2103037293348712,
+      "funder-ror-ids-current": 0.01027900146842878,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.0,
+      "orcids-current": 0.538913362701909,
+      "similarity-checking-backfile": 0.905036524413687,
+      "references-backfile": 0.9730872741253364,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.09534794309880815,
+      "update-policies-backfile": 0.6612841214917339,
+      "licenses-current": 0.4140969162995595,
+      "award-numbers-current": 0.4390602055800294,
+      "abstracts-backfile": 0.0,
+      "resource-links-current": 0.2995594713656388,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.0,
+      "abstracts-current": 0.0,
+      "references-current": 1.0
+    },
+    "title": "Traffic Injury Prevention",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1791246852001,
+        "affiliations": 0.6630103595368678,
+        "abstracts": 0.0,
+        "orcids": 0.2784887263863498,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.1297989031078611,
+        "references": 0.9786715417428397,
+        "funders": 0.2626447288238879,
+        "similarity-checking": 0.9247410115783059,
+        "funder-ror-ids": 0.002132845825716027,
+        "award-numbers": 0.1666666666666667,
+        "ror-ids": 0.002132845825716027,
+        "update-policies": 0.7315661182205973,
+        "resource-links": 0.0725167580743449,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1791246852001,
+        "affiliations": 0.5747789311803153,
+        "abstracts": 0.0,
+        "orcids": 0.2103037293348712,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.05536332179930796,
+        "references": 0.9730872741253364,
+        "funders": 0.1641676278354479,
+        "similarity-checking": 0.905036524413687,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.09534794309880815,
+        "ror-ids": 0.0,
+        "update-policies": 0.6612841214917339,
+        "resource-links": 0.0130718954248366,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1791246852001,
+        "affiliations": 1.0,
+        "abstracts": 0.0,
+        "orcids": 0.538913362701909,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.4140969162995595,
+        "references": 1.0,
+        "funders": 0.6387665198237885,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 0.01027900146842878,
+        "award-numbers": 0.4390602055800294,
+        "ror-ids": 0.01027900146842878,
+        "update-policies": 1.0,
+        "resource-links": 0.2995594713656388,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": true,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": true,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": true,
+      "deposits-articles": true,
+      "deposits-affiliations-current": true,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": true,
+      "deposits-ror-ids-backfile": false,
+      "deposits-abstracts-backfile": false,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": false,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": true,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "1538-9588",
+      "1538-957X"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1538-9588"
+      },
+      {
+        "type": "electronic",
+        "value": "1538-957X"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:32+00:00"
+}

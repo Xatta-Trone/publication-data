@@ -1,0 +1,1090 @@
+{
+  "doi": "10.1080/23249935.2026.2649647",
+  "fetched_at": "2026-11-27T05:57:10+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2026-03-30T11:17:38Z",
+      "timestamp": 1774869458438,
+      "version": "3.50.1"
+    },
+    "reference-count": 151,
+    "publisher": "Informa UK Limited",
+    "funder": [
+      {
+        "DOI": "10.13039/100004932",
+        "name": "Texas Department of Transportation",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100004932",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Transportmetrica A: Transport Science"
+    ],
+    "DOI": "10.1080/23249935.2026.2649647",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2026-03-30T10:32:48Z",
+      "timestamp": 1774866768000
+    },
+    "page": "1-53",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Semantic modelling of pedestrian behaviours at shared-use path crossings: insights from BERT-based architectures and structural topic modelling"
+    ],
+    "prefix": "10.1080",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0007-8534-3633",
+        "authenticated-orcid": false,
+        "given": "Mahmuda Sultana",
+        "family": "Mimi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anandi K.",
+        "family": "Dutta",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bahar",
+        "family": "Dadashova",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas A&M Transportation Institute",
+            "place": [
+              "Bryan, USA"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0361198196155300106"
+      },
+      {
+        "key": "e_1_3_2_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsr.2024.08.009"
+      },
+      {
+        "key": "e_1_3_2_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01441647.2016.1200156"
+      },
+      {
+        "key": "e_1_3_2_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-024-72307-0"
+      },
+      {
+        "key": "e_1_3_2_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7302/7779"
+      },
+      {
+        "key": "e_1_3_2_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12239-023-0034-5"
+      },
+      {
+        "key": "e_1_3_2_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0361198105193900112"
+      },
+      {
+        "key": "e_1_3_2_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2012.09.024"
+      },
+      {
+        "key": "e_1_3_2_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tranpol.2020.12.013"
+      },
+      {
+        "key": "e_1_3_2_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trip.2022.100600"
+      },
+      {
+        "key": "e_1_3_2_12_1",
+        "volume-title": "Guide for Improving Pedestrian Safety at Uncontrolled Crossing Locations",
+        "author": "Blackburn L.",
+        "year": "2018",
+        "unstructured": "Blackburn, L., C. V. Zegeer, and K. Brookshire. 2018. Guide for Improving Pedestrian Safety at Uncontrolled Crossing Locations. Washington, DC: Federal Highway Administration Office of Safety."
+      },
+      {
+        "key": "e_1_3_2_13_1",
+        "first-page": "42",
+        "article-title": "The Disruptive Traveller? A Foucauldian Analysis of Cycleways",
+        "volume": "19",
+        "author": "Bonham J.",
+        "year": "2010",
+        "unstructured": "Bonham, J., and P. Cox. 2010. “The Disruptive Traveller? A Foucauldian Analysis of Cycleways.” Road & Transport Research: A Journal of Australian and New Zealand Research and Practice 19:42–53.",
+        "journal-title": "Road & Transport Research: A Journal of Australian and New Zealand Research and Practice"
+      },
+      {
+        "key": "e_1_3_2_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3141/1776-11"
+      },
+      {
+        "key": "e_1_3_2_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trc.2024.104642"
+      },
+      {
+        "key": "e_1_3_2_16_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen J. Z. Pu N. Zheng X. Wen H. Ding and X. Guo. 2024b. A Generative Deep Learning Approach for Crash Severity Modelling with Imbalanced Data. arXiv preprint arXiv:2404.02187.",
+        "DOI": "10.1016/j.trc.2024.104642"
+      },
+      {
+        "key": "e_1_3_2_17_1",
+        "first-page": "1925",
+        "volume-title": "ICCTP 2010: Integrated Transportation Systems: Green, Intelligent, Reliable",
+        "author": "Chen J.",
+        "year": "2010",
+        "unstructured": "Chen, J., Z. Xie, and C. Qian. 2010. “Traffic Conflict Models on Shared-use Paths Used by Pedestrians, Cyclists, and Electric Bicycle Riders.” In ICCTP 2010: Integrated Transportation Systems: Green, Intelligent, Reliable, 1925–1931. Reston, VA: American Society of Civil Engineers (ASCE)."
+      },
+      {
+        "key": "e_1_3_2_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1061/41127(382)208"
+      },
+      {
+        "key": "e_1_3_2_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1061/41039(345)422"
+      },
+      {
+        "key": "e_1_3_2_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2019.05.018"
+      },
+      {
+        "key": "e_1_3_2_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2022/2924008"
+      },
+      {
+        "key": "e_1_3_2_22_1",
+        "volume-title": "A Study of Bicycle/Motor Vehicle Accidents: Identification of Problem Types and Countermeasure Approaches, Volume I (No. DOT HS-803 315)",
+        "author": "Cross K. D.",
+        "year": "1977",
+        "unstructured": "Cross, K. D., and G. Fisher. 1977. A Study of Bicycle/Motor Vehicle Accidents: Identification of Problem Types and Countermeasure Approaches, Volume I (No. DOT HS-803 315). Washington, DC: National Highway Traffic Safety Administration."
+      },
+      {
+        "key": "e_1_3_2_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/tse/tdaa010"
+      },
+      {
+        "key": "e_1_3_2_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03611981231155187"
+      },
+      {
+        "key": "e_1_3_2_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1680/jmuen.16.00033"
+      },
+      {
+        "key": "e_1_3_2_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.1810.04805"
+      },
+      {
+        "key": "e_1_3_2_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3141/2387-15"
+      },
+      {
+        "key": "e_1_3_2_28_1",
+        "first-page": "28",
+        "article-title": "Living to Tell the Tale",
+        "volume": "70",
+        "author": "Do A. T.",
+        "year": "2006",
+        "unstructured": "Do, A. T., and D. L. Harkey. 2006. “Living to Tell the Tale.” Public Roads 70:28–33.",
+        "journal-title": "Public Roads"
+      },
+      {
+        "key": "e_1_3_2_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trpro.2018.12.053"
+      },
+      {
+        "key": "e_1_3_2_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fsoc.2022.886498"
+      },
+      {
+        "key": "e_1_3_2_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trf.2016.11.015"
+      },
+      {
+        "key": "e_1_3_2_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15389588.2019.1658083"
+      },
+      {
+        "key": "e_1_3_2_33_1",
+        "unstructured": "Federal Highway Administration. 2000. “FHWA and NHTSA Develop Pedestrian and Bicycle Crash Analysis Tool.” Public Roads 63 54."
+      },
+      {
+        "key": "e_1_3_2_34_1",
+        "unstructured": "Federal Highway Administration. 2022. PBCAT Pedestrian and Bicycle Crash Analysis Tool Version 3.0 User Guide (No. FHWA-HRT-22-071). Washington DC."
+      },
+      {
+        "key": "e_1_3_2_35_1",
+        "unstructured": "Fitzpatrick K. V. Iragavarapu M. A. Brewer D. Lord J. Hudson R. Avelar and J. Robertson. 2014. Characteristics of Texas Pedestrian Crashes and Evaluation of Driver Yielding at Pedestrian Treatments (Digital/Other)."
+      },
+      {
+        "key": "e_1_3_2_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42979-023-01798-x"
+      },
+      {
+        "key": "e_1_3_2_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2021.106264"
+      },
+      {
+        "key": "e_1_3_2_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15439/2020F20"
+      },
+      {
+        "key": "e_1_3_2_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41597-024-03661-x"
+      },
+      {
+        "key": "e_1_3_2_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trip.2023.100822"
+      },
+      {
+        "key": "e_1_3_2_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trf.2016.07.007"
+      },
+      {
+        "key": "e_1_3_2_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COM-IT-CON54601.2022.9850912"
+      },
+      {
+        "key": "e_1_3_2_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03611981211026302"
+      },
+      {
+        "key": "e_1_3_2_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3141/2069-09"
+      },
+      {
+        "key": "e_1_3_2_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.11175/easts.10.2109"
+      },
+      {
+        "key": "e_1_3_2_46_1",
+        "unstructured": "Hamilton I. 2021. PBCAT-Pedestrian and Bicycle Crash Analysis Tool Version 3.0 (No. FHWA-HRT-22-038). VHB/Vanasse Hangen Brustlin Inc. University of North Carolina at Chapel Hill. Highway Safety Research Center Turner-Fairbank Highway Research Center."
+      },
+      {
+        "key": "e_1_3_2_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1010920819831"
+      },
+      {
+        "key": "e_1_3_2_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trf.2016.04.005"
+      },
+      {
+        "key": "e_1_3_2_49_1",
+        "first-page": "31",
+        "article-title": "An Observational Study of Conflicts between Cyclists and Pedestrians in the City Centre",
+        "volume": "25",
+        "author": "Haworth N.",
+        "year": "2014",
+        "unstructured": "Haworth, N., A. Schramm, and A. K. Debnath. 2014. “An Observational Study of Conflicts between Cyclists and Pedestrians in the City Centre.” Journal of the Australasian College of Road Safety 25:31–40.",
+        "journal-title": "Journal of the Australasian College of Road Safety"
+      },
+      {
+        "key": "e_1_3_2_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijtst.2023.04.007"
+      },
+      {
+        "key": "e_1_3_2_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5121/ijdkp.2015.5201"
+      },
+      {
+        "key": "e_1_3_2_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3141/1773-05"
+      },
+      {
+        "key": "e_1_3_2_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0361198105193900104"
+      },
+      {
+        "key": "e_1_3_2_54_1",
+        "volume-title": "Bicycle Crash Types: A 1990s Informational Guide (No. FHWA-RD-96-104)",
+        "author": "Hunter W. W.",
+        "year": "1997",
+        "unstructured": "Hunter, W. W., W. E. Pein, and J. C. Stutts. 1997a. Bicycle Crash Types: A 1990s Informational Guide (No. FHWA-RD-96-104). Washington, DC: Federal Highway Administration."
+      },
+      {
+        "key": "e_1_3_2_55_1",
+        "volume-title": "Pedestrian Crash Types: A 1990s Informational Guide (No. FHWA-RD-96-163)",
+        "author": "Hunter W. W.",
+        "year": "1997",
+        "unstructured": "Hunter, W. W., J. C. Stutts, and W. E. Pein. 1997b. Pedestrian Crash Types: A 1990s Informational Guide (No. FHWA-RD-96-163). Washington, DC: Federal Highway Administration."
+      },
+      {
+        "key": "e_1_3_2_56_1",
+        "volume-title": "Pedestrian and Bicycle Crash Types of the Early 1990s (No. FHWA-RD-95-163)",
+        "author": "Hunter W. W.",
+        "year": "1996",
+        "unstructured": "Hunter, W. W., J. C. Stutts, W. E. Pein, and C. L. Cox. 1996. Pedestrian and Bicycle Crash Types of the Early 1990s (No. FHWA-RD-95-163). Washington, DC: Federal Highway Administration."
+      },
+      {
+        "key": "e_1_3_2_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2022.106908"
+      },
+      {
+        "key": "e_1_3_2_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iatssr.2016.04.001"
+      },
+      {
+        "key": "e_1_3_2_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trpro.2017.03.080"
+      },
+      {
+        "key": "e_1_3_2_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/19439962.2022.2155745"
+      },
+      {
+        "key": "e_1_3_2_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ssci.2023.106153"
+      },
+      {
+        "key": "e_1_3_2_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/OJCS.2025.3525560"
+      },
+      {
+        "key": "e_1_3_2_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2017.03.024"
+      },
+      {
+        "key": "e_1_3_2_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2019.105399"
+      },
+      {
+        "key": "e_1_3_2_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3141/1705-03"
+      },
+      {
+        "key": "e_1_3_2_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tra.2016.01.002"
+      },
+      {
+        "key": "e_1_3_2_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/001872087501700510"
+      },
+      {
+        "key": "e_1_3_2_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4108/eai.13-7-2018.159623"
+      },
+      {
+        "key": "e_1_3_2_69_1",
+        "unstructured": "Kingma D. P. and J. Ba. 2017. Adam: A Method for Stochastic Optimization."
+      },
+      {
+        "key": "e_1_3_2_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trc.2017.12.018"
+      },
+      {
+        "key": "e_1_3_2_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1061/JTEPBS.0000239"
+      },
+      {
+        "key": "e_1_3_2_72_1",
+        "volume-title": "Crossing Treatment Process for Safer Shared Use Path Crossings",
+        "author": "Kumfer W.",
+        "year": "2023",
+        "unstructured": "Kumfer, W., J. W. Wright, T. Combs, S. W. O’Brian, S. Kear, B. Carter, S. Searcy, J. Hamilton, J. Parkan, and L. Yost. 2023. Crossing Treatment Process for Safer Shared Use Path Crossings. Raleigh, NC: North Carolina State University, Institute for Transportation Research."
+      },
+      {
+        "key": "e_1_3_2_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cities.2024.105042"
+      },
+      {
+        "key": "e_1_3_2_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2020.105899"
+      },
+      {
+        "key": "e_1_3_2_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1061/(ASCE)IS.1943-555X.0000248"
+      },
+      {
+        "key": "e_1_3_2_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3495162"
+      },
+      {
+        "key": "e_1_3_2_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2023.107271"
+      },
+      {
+        "key": "e_1_3_2_78_1",
+        "unstructured": "Lin C.-Y. 2004. “Rouge: A Package for Automatic Evaluation of Summaries.” In Text Summarization Branches Out. 74–81."
+      },
+      {
+        "key": "e_1_3_2_79_1",
+        "unstructured": "Lindsey G. M. Peterka J. Wang and S. Hankey. 2017. Monitoring Shared-Use Paths: Applying Warrants for Pedestrian Hybrid Beacons and Traffic Signals."
+      },
+      {
+        "key": "e_1_3_2_80_1",
+        "unstructured": "Liu Y. M. Ott N. Goyal J. Du M. Joshi D. Chen O. Levy M. Lewis L. Zettlemoyer and V. Stoyanov. 2019. RoBERTa: A Robustly Optimized BERT Pretraining Approach."
+      },
+      {
+        "key": "e_1_3_2_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2021.106475"
+      },
+      {
+        "key": "e_1_3_2_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0361198196153800108"
+      },
+      {
+        "key": "e_1_3_2_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2023.3274199"
+      },
+      {
+        "key": "e_1_3_2_84_1",
+        "unstructured": "Malingan N. 2023. “HuggingFace DistilBERT [WWW Document].” Scaler Topics. Accessed 4 February 2025. https://www.scaler.com/topics/nlp/distilbert/."
+      },
+      {
+        "key": "e_1_3_2_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtrangeo.2019.102602"
+      },
+      {
+        "key": "e_1_3_2_86_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4271/2023-22-0007"
+      },
+      {
+        "key": "e_1_3_2_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4271/2024-22-0002"
+      },
+      {
+        "key": "e_1_3_2_88_1",
+        "unstructured": "Mofolasayo A. 2019. “Evaluation of How Driver’s Sight Lines Impact Available Stopping Distance for Conflicting Through and Left Turning Vehicles at Signalized Intersections.” In Canadian Transportation Research Forum 54th Annual Conference-Change Disruption and Innovation in Canadian Transportation: Navigating the New Normal//Changements Perturbations et Innovations Dans Les Transports Au Canada: Sur La Voie de La Nouvelle No."
+      },
+      {
+        "key": "e_1_3_2_89_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iatssr.2021.07.003"
+      },
+      {
+        "key": "e_1_3_2_90_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3605889"
+      },
+      {
+        "key": "e_1_3_2_91_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.procs.2017.05.339"
+      },
+      {
+        "key": "e_1_3_2_92_1",
+        "unstructured": "Muller B. 2022. BERT 101 – State of the Art NLP Model Explained [WWW Document]. Accessed 4 March 2025. https://huggingface.co/blog/bert-101."
+      },
+      {
+        "key": "e_1_3_2_93_1",
+        "unstructured": "National Center for Statistics and Analysis. 2024. Pedestrians Traffic Safety Facts 2022 (No. DOT HS 813 590)."
+      },
+      {
+        "key": "e_1_3_2_94_1",
+        "unstructured": "National Highway Traffic Safety Administration. 2024. Pedestrian Safety."
+      },
+      {
+        "key": "e_1_3_2_95_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Navarro K. F. V. Gay L. Golliard B. Johnston P. Leijdekkers E. Vaughan X. Wang and M.-A. Williams. 2013. “SocialCycle What Can a Mobile App Do to Encourage Cycling?” In 38th Annual IEEE Conference on Local Computer Networks-Workshops. IEEE 24–30.",
+        "DOI": "10.1109/LCNW.2013.6758494"
+      },
+      {
+        "key": "e_1_3_2_96_1",
+        "volume-title": "Best Practices Synthesis and Guidance in at-Grade Trail-Crossing Treatments",
+        "author": "Noyce D. A.",
+        "year": "2013",
+        "unstructured": "Noyce, D. A., Z. Li, J. Ash, and G. Khan. 2013. Best Practices Synthesis and Guidance in at-Grade Trail-Crossing Treatments. St. Paul, MN: Minnesota Department of Transportation, Research Services."
+      },
+      {
+        "key": "e_1_3_2_97_1",
+        "unstructured": "Ogawa S. Q. Chen K. Kawaguchi T. Narikawa M. Yoshimura and S. Lihua. 2013. “Effect of Visibility and Pedestrian Protection Performance on Pedestrian Accidents.” In 23rd International Technical Conference on the Enhanced Safety of Vehicles (ESV) Proceedings."
+      },
+      {
+        "key": "e_1_3_2_98_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03611981241260691"
+      },
+      {
+        "key": "e_1_3_2_99_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1061/(ASCE)TE.1943-5436.0000796"
+      },
+      {
+        "key": "e_1_3_2_100_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21203/rs.3.rs-3956898/v1"
+      },
+      {
+        "key": "e_1_3_2_101_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3115/1073083.1073135"
+      },
+      {
+        "key": "e_1_3_2_102_1",
+        "volume-title": "Shared-Use Path Level of Service Calculator\n                  Shared-Use Path Level of Service Calculator",
+        "author": "Patten R. S.",
+        "year": "2006",
+        "unstructured": "Patten, R. S., R. J. Schneider, J. L. Toole, J. E. Hummer, and N. M. Rouphail. 2006. Shared-Use Path Level of Service Calculator:Shared-Use Path Level of Service Calculator. Washington, DC: FHWA."
+      },
+      {
+        "key": "e_1_3_2_103_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3141/2198-14"
+      },
+      {
+        "key": "e_1_3_2_104_1",
+        "unstructured": "Phan S. G. E. Henter Y. Miyao and S. Satoh. 2017. Consensus-based Sequence Training for Video Captioning."
+      },
+      {
+        "key": "e_1_3_2_105_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00140138208925003"
+      },
+      {
+        "key": "e_1_3_2_106_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtrangeo.2018.10.018"
+      },
+      {
+        "key": "e_1_3_2_107_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.1706.09516"
+      },
+      {
+        "key": "e_1_3_2_108_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijtst.2017.05.002"
+      },
+      {
+        "key": "e_1_3_2_109_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3141/2299-10"
+      },
+      {
+        "key": "e_1_3_2_110_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jth.2023.101619"
+      },
+      {
+        "key": "e_1_3_2_111_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rahman S. S. Khan and N. Barnes. 2020. “Improved Visual-Semantic Alignment for Zero-Shot Object Detection.” In Proceedings of the AAAI Conference on Artificial Intelligence. 11932–11939.",
+        "DOI": "10.1609/aaai.v34i07.6868"
+      },
+      {
+        "key": "e_1_3_2_112_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Reimers N. and I. Gurevych. 2019. Sentence-bert: Sentence Embeddings Using Siamese Bert-Networks. arXiv preprint arXiv:1908.10084.",
+        "DOI": "10.18653/v1/D19-1410"
+      },
+      {
+        "key": "e_1_3_2_113_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01621459.2016.1141684"
+      },
+      {
+        "key": "e_1_3_2_114_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ajps.12103"
+      },
+      {
+        "key": "e_1_3_2_115_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/injuryprev-2011-040246"
+      },
+      {
+        "key": "e_1_3_2_116_1",
+        "unstructured": "Sanh V. L. Debut J. Chaumond and T. Wolf. 2020. DistilBERT a Distilled Version of BERT: Smaller Faster Cheaper and Lighter."
+      },
+      {
+        "key": "e_1_3_2_117_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cstp.2020.09.006"
+      },
+      {
+        "key": "e_1_3_2_118_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0361198118782251"
+      },
+      {
+        "key": "e_1_3_2_119_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0361198121998692"
+      },
+      {
+        "key": "e_1_3_2_120_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3141/2601-09"
+      },
+      {
+        "key": "e_1_3_2_121_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0361198105191800108"
+      },
+      {
+        "key": "e_1_3_2_122_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsr.2021.03.005"
+      },
+      {
+        "key": "e_1_3_2_123_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trf.2020.11.008"
+      },
+      {
+        "key": "e_1_3_2_124_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Smith L. N. 2017. Cyclical Learning Rates for Training Neural Networks.",
+        "DOI": "10.1109/WACV.2017.58"
+      },
+      {
+        "key": "e_1_3_2_125_1",
+        "volume-title": "Pedestrian Safety: The Identification of Precipitating Factors and Possible Countermeasures (No. FH-11-7312)",
+        "author": "Snyder M. B.",
+        "year": "1971",
+        "unstructured": "Snyder, M. B., and R. L. Knoblauch. 1971. Pedestrian Safety: The Identification of Precipitating Factors and Possible Countermeasures (No. FH-11-7312). Washington, DC: National Highway Traffic Safety Administration."
+      },
+      {
+        "key": "e_1_3_2_126_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Somvanshi S. G. Antariksa and S. Das. 2024. Enhanced Balanced-Generative Adversarial Networks to Predict Pedestrian Injury Types.",
+        "DOI": "10.2139/ssrn.4847615"
+      },
+      {
+        "key": "e_1_3_2_127_1",
+        "first-page": "728",
+        "article-title": "Incidence of Injuries in Motorcyclists Practitioners of Trails",
+        "volume": "55",
+        "author": "Sousa D. L.",
+        "year": "2021",
+        "unstructured": "Sousa, D. L., K. N. G. da Silva, E. Ferreira, and F. R. S. Morais. 2021. “Incidence of Injuries in Motorcyclists Practitioners of Trails.” Revista Brasileira de Ortopedia 55:728–735.",
+        "journal-title": "Revista Brasileira de Ortopedia"
+      },
+      {
+        "key": "e_1_3_2_128_1",
+        "unstructured": "Stanton N. A. V. Beanland M. Lenne and P. Salmon. 2013. A Self-Report Study of Factors Influencing Decision-Making at Rail Level Crossings: Comparing Car Drivers Motorcyclists Cyclists and Pedestrians."
+      },
+      {
+        "key": "e_1_3_2_129_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trf.2022.08.006"
+      },
+      {
+        "key": "e_1_3_2_130_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2017.02.018"
+      },
+      {
+        "key": "e_1_3_2_131_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/107769905303000401"
+      },
+      {
+        "key": "e_1_3_2_132_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.2012.300762"
+      },
+      {
+        "key": "e_1_3_2_133_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15502724.2017.1283233"
+      },
+      {
+        "key": "e_1_3_2_134_1",
+        "volume-title": "TxDOT Bicycle and Pedestrian Data Collection Program: 2023 Annual Report",
+        "author": "Texas Department of Transportation",
+        "year": "2023",
+        "unstructured": "Texas Department of Transportation. 2023. TxDOT Bicycle and Pedestrian Data Collection Program: 2023 Annual Report. Austin, TX: Texas Department of Transportation, Public Transportation Division."
+      },
+      {
+        "key": "e_1_3_2_135_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5604/01.3001.0013.6162"
+      },
+      {
+        "key": "e_1_3_2_136_1",
+        "unstructured": "Thomas L. D. Levitt M. Vann K. Blank K. Nordback and A. West. 2022. Pbcat Pedestrian and Bicycle Crash Analysis Tool Version 3.0 User Guide (Digital/Other)."
+      },
+      {
+        "key": "e_1_3_2_137_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.1706.03762"
+      },
+      {
+        "key": "e_1_3_2_138_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.is.2020.101582"
+      },
+      {
+        "key": "e_1_3_2_139_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03611981231157393"
+      },
+      {
+        "key": "e_1_3_2_140_1",
+        "unstructured": "Woolsey C. R. P. Bisht J. Rothman and G. Leroy. 2024. “Utilizing Large Language Models to Generate Synthetic Data to Increase the Performance of BERT-Based Neural Networks.” AMIA Summits on Translational Science Proceedings 2024 429."
+      },
+      {
+        "key": "e_1_3_2_141_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiang L. X. Jin G. Ding J. Han and L. Li. 2019. Incremental Few-shot Learning for Pedestrian Attribute Recognition. arXiv preprint arXiv:1906.00330.",
+        "DOI": "10.24963/ijcai.2019/543"
+      },
+      {
+        "key": "e_1_3_2_142_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.tbs.2024.100981"
+      },
+      {
+        "key": "e_1_3_2_143_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15389588.2024.2446979"
+      },
+      {
+        "key": "e_1_3_2_144_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcmr.2024.100032"
+      },
+      {
+        "key": "e_1_3_2_145_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ssci.2022.105741"
+      },
+      {
+        "key": "e_1_3_2_146_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsr.2020.02.020"
+      },
+      {
+        "key": "e_1_3_2_147_1",
+        "volume-title": "Pedestrian Facilities Users Guide – Providing Safety and Mobility (Technical Report No. FHWA-RD-01-102)",
+        "author": "Zeger C. V.",
+        "year": "2002",
+        "unstructured": "Zeger, C. V., C. Seiderman, P. Lagerwey, M. Cynecki, M. Ronkin, and R. Schneider. 2002. Pedestrian Facilities Users Guide – Providing Safety and Mobility (Technical Report No. FHWA-RD-01-102). McLean: Federal Highway Administration, Office of Safety Research and Development."
+      },
+      {
+        "key": "e_1_3_2_148_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.1904.09675"
+      },
+      {
+        "key": "e_1_3_2_149_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15568318.2019.1575495"
+      },
+      {
+        "key": "e_1_3_2_150_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2021.106402"
+      },
+      {
+        "key": "e_1_3_2_151_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2929",
+        "DOI": "10.1109/ACCESS.2024.3524620",
+        "article-title": "Addressing Data Imbalance in Crash Data: Evaluating Generative Adversarial Network’s Efficacy against Conventional Methods",
+        "volume": "13",
+        "author": "Zhou B.",
+        "year": "2024",
+        "unstructured": "Zhou, B., Q. Zhou, and Z. Li. 2024. “Addressing Data Imbalance in Crash Data: Evaluating Generative Adversarial Network’s Efficacy against Conventional Methods.” IEEE Access 13: 2929–2944.",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "e_1_3_2_152_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2025.107988"
+      }
+    ],
+    "container-title": [
+      "Transportmetrica A: Transport Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/23249935.2026.2649647",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2026-03-30T10:32:57Z",
+      "timestamp": 1774866777000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/23249935.2026.2649647"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ]
+    },
+    "references-count": 151,
+    "alternative-id": [
+      "10.1080/23249935.2026.2649647"
+    ],
+    "URL": "https://doi.org/10.1080/23249935.2026.2649647",
+    "relation": {},
+    "ISSN": [
+      "2324-9935",
+      "2324-9943"
+    ],
+    "issn-type": [
+      {
+        "value": "2324-9935",
+        "type": "print"
+      },
+      {
+        "value": "2324-9943",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ttra21",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ttra21",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2025-07-13",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-03-17",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-03-30",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

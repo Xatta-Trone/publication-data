@@ -1,0 +1,1271 @@
+{
+  "doi": "10.1145/3776588",
+  "fetched_at": "2026-11-27T05:57:11+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2026-11-26T08:30:31Z",
+      "timestamp": 1795681831294,
+      "version": "4.11.3"
+    },
+    "reference-count": 150,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "7",
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "ACM Comput. Surv."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          31
+        ]
+      ]
+    },
+    "abstract": "<jats:p>The rapid growth of edge devices has driven the demand for deploying artificial intelligence (AI) at the edge, giving rise to Tiny Machine Learning (TinyML) and its evolving counterpart, Tiny Deep Learning (TinyDL). While TinyML initially focused on enabling simple inference tasks on microcontrollers, the emergence of TinyDL marks a paradigm shift toward deploying deep learning models on severely resource-constrained hardware. This survey presents a comprehensive overview of the transition from TinyML to TinyDL, encompassing architectural innovations, hardware platforms, model optimization techniques, and software toolchains. We analyze state-of-the-art methods in quantization, pruning, and neural architecture search (NAS), and examine hardware trends from MCUs to dedicated neural accelerators. Furthermore, we categorize software deployment frameworks, compilers, and AutoML tools enabling practical on-device learning. Applications across domains such as computer vision, audio recognition, healthcare, and industrial monitoring are reviewed to illustrate the real-world impact of TinyDL. Finally, we identify emerging directions including neuromorphic computing, federated TinyDL, edge-native foundation models, and domain-specific co-design approaches. This survey aims to serve as a foundational resource for researchers and practitioners, offering a holistic view of the ecosystem and laying the groundwork for future advancements in edge AI.</jats:p>",
+    "DOI": "10.1145/3776588",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          13
+        ]
+      ],
+      "date-time": "2025-11-13T11:30:42Z",
+      "timestamp": 1763033442000
+    },
+    "page": "1-33",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 60,
+    "title": [
+      "From Tiny Machine Learning to Tiny Deep Learning: A Survey"
+    ],
+    "prefix": "10.1145",
+    "volume": "58",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0008-3723-0607",
+        "authenticated-orcid": false,
+        "given": "Shriyank",
+        "family": "Somvanshi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-0124-4814",
+        "authenticated-orcid": false,
+        "given": "Gaurab",
+        "family": "Chhetri",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1660-9764",
+        "authenticated-orcid": false,
+        "given": "Rohit",
+        "family": "Chakraborty",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-8534-3633",
+        "authenticated-orcid": false,
+        "given": "Mahmuda Sultana",
+        "family": "Mimi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-0594-9863",
+        "authenticated-orcid": false,
+        "given": "Sawgat Ahmed",
+        "family": "Shuvo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5525-5794",
+        "authenticated-orcid": false,
+        "given": "Kazi Sifatul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5866-035X",
+        "authenticated-orcid": false,
+        "given": "Syed",
+        "family": "Javed",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-8644-8326",
+        "authenticated-orcid": false,
+        "given": "Sharif Ahmed",
+        "family": "Rafat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-7279-7752",
+        "authenticated-orcid": false,
+        "given": "Anandi",
+        "family": "Dutta",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Civil Engineering, Texas State University",
+            "place": [
+              "San Marcos, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          24
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2022.3207200"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MCAS.2023.3302182"
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICAIIC54071.2022.9722636"
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ISCAS.2017.8050343"
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "unstructured": "Minh Tri Lê Pierre Wolinski and Julyan Arbel. 2023. Efficient neural networks for tiny machine learning: A comprehensive review. arXiv:2311.11883. Retrieved from https://arxiv.org/abs/2311.11883"
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JPROC.2019.2941458"
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "unstructured": "Stanislava Soro. 2021. TinyML for ubiquitous edge AI. arXiv:2102.01255. Retrieved from https://arxiv.org/abs/2102.01255"
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2023.3294111"
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jksuci.2021.11.019"
+      },
+      {
+        "key": "e_1_3_2_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MELECON53508.2022.9843050"
+      },
+      {
+        "key": "e_1_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iot.2023.100729"
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2024.3365349"
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MCOM.001.2300364"
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "unstructured": "Imopishak Thingom and N. Basanta Singh. 2023. A review on machine learning in IoT devices. International Journal of Digital Technologies 2 1 (2023) 123–127."
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3583683"
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/mi13060851"
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/electronics13173562"
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2022.3179047"
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ismail Lamaakal Ibrahim Ouahbi Khalid El Makkaoui Yassine Maleh Paweł Pławiak and Fahad Alblehai. 2024. A TinyDL model for gesture-based air handwriting Arabic numbers and simple Arabic letters recognition. IEEE Access 12 (2024) 76589–76600.",
+        "DOI": "10.1109/ACCESS.2024.3406631"
+      },
+      {
+        "key": "e_1_3_2_21_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Z. E. Ahmed A. A. Hashim R. A. Saeed and M. M. Saeed. 2024. TinyML network applications for smart cities. In TinyML for Edge Intelligence in IoT and LPWAN Networks B. S. Chaudhari S. N. Ghorpade M. Zennaro and R. Paškauskas (Eds.). Elsevier 423–451.",
+        "DOI": "10.1016/B978-0-44-322202-3.00023-3"
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Norah N. Alajlan and Dina M. Ibrahim. 2024. TinyML: Adopting tiny machine learning in smart cities. Journal of Autonomous Intelligence 7 4 (2024) 1–14.",
+        "DOI": "10.32629/jai.v7i4.1186"
+      },
+      {
+        "key": "e_1_3_2_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/VTC2020-Spring48590.2020.9128749"
+      },
+      {
+        "key": "e_1_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICMLA.2019.00118"
+      },
+      {
+        "key": "e_1_3_2_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4842-6168-2_7"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_2_26_2",
+        "first-page": "7437023",
+        "article-title": "Tiny machine learning for resource-constrained microcontrollers",
+        "volume": "2022",
+        "author": "Immonen Riku",
+        "year": "2022",
+        "unstructured": "Riku Immonen and Timo Hämäläinen. 2022. Tiny machine learning for resource-constrained microcontrollers. Journal of Sensors 2022, 1 (2022), 7437023.",
+        "journal-title": "Journal of Sensors"
+      },
+      {
+        "key": "e_1_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCE-Berlin53567.2021.9720009"
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11042-023-16740-9"
+      },
+      {
+        "key": "e_1_3_2_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JSEN.2022.3210773"
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s25103191"
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ismail Lamaakal Siham Essahraui Yassine Maleh Khalid El Makkaoui Ibrahim Ouahbi Mouncef Filali Bouami Ahmed A. Abd El-Latif May Almousa Jialiang Peng and Dusit Niyato. 2025. A comprehensive survey on tiny machine learning for human behavior analysis. IEEE Internet of Things Journal 12 16 (2025) 32419–32443.",
+        "DOI": "10.1109/JIOT.2025.3565688"
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "unstructured": "Colby Banbury Vijay Janapa Reddi Peter Torelli Jeremy Holleman Nat Jeffries Csaba Kiraly Pietro Montino David Kanter Sebastian Ahmed Danilo Pau et al. 2021. Mlperf tiny benchmark. arXiv:2106.07597. Retrieved from https://arxiv.org/abs/2106.07597"
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "unstructured": "Yipeng Sun and Andreas M. Kist. 2021. Deep learning on edge TPUs. arXiv:2108.13732. Retrieved from https://arxiv.org/abs/2108.13732"
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "unstructured": "Himax Technologies Inc. 2020. Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers. Retrieved August 15 2025 from https://www.globenewswire.com/news-release/2020/06/30/2055240/8267/en/Himax-Launches-WiseEye-WE-I-Plus-HX6537-A-to-Support-AI-Deep-Learning-with-Google-s-TensorFlow-Lite-for-Microcontrollers.html"
+      },
+      {
+        "key": "e_1_3_2_35_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shvetank Prakash Matthew Stewart Colby Banbury Mark Mazumder Pete Warden Brian Plancher and Vijay Janapa Reddi. 2023. Is tinyml sustainable? Commun. ACM 66 11 (2023) 68–77.",
+        "DOI": "10.1145/3608473"
+      },
+      {
+        "key": "e_1_3_2_36_2",
+        "article-title": "Measuring inference performance of machine-learning frameworks on edge-class devices with the MLMark benchmark",
+        "author": "Torelli Peter",
+        "year": "2021",
+        "unstructured": "Peter Torelli and Mohit Bangale. 2021. Measuring inference performance of machine-learning frameworks on edge-class devices with the MLMark benchmark. Techincal Report. Retrieved April 5, 2021 from https://www.eembc.org/techlit/articles/MLMARK-WHITEPAPERFINAL-1.pdf",
+        "journal-title": "Techincal Report"
+      },
+      {
+        "key": "e_1_3_2_37_2",
+        "unstructured": "Colby R. Banbury Vijay Janapa Reddi Max Lam William Fu Amin Fazel Jeremy Holleman Xinyuan Huang Robert Hurtado David Kanter Anton Lokhmotov et al. 2020. Benchmarking tinyml systems: Challenges and direction. arXiv:2003.04821. Retrieved from https://arxiv.org/abs/2003.04821"
+      },
+      {
+        "key": "e_1_3_2_38_2",
+        "unstructured": "Chiyuan Zhang Samy Bengio Moritz Hardt Benjamin Recht and Oriol Vinyals. 2016. Understanding deep learning requires rethinking generalization. arXiv:1611.03530. Retrieved from https://arxiv.org/abs/1611.03530"
+      },
+      {
+        "key": "e_1_3_2_39_2",
+        "unstructured": "Aakanksha Chowdhery Pete Warden Jonathon Shlens Andrew Howard and Rocky Rhodes. 2019. Visual wake words dataset. arXiv:1906.05721. Retrieved from https://arxiv.org/abs/1906.05721"
+      },
+      {
+        "key": "e_1_3_2_40_2",
+        "first-page": "11711",
+        "article-title": "MCUNet: Tiny deep learning on IoT devices",
+        "volume": "33",
+        "author": "Lin Ji",
+        "year": "2020",
+        "unstructured": "Ji Lin, Wei-Ming Chen, Yujun Lin, Chuang Gan, Song Han, et al. 2020. MCUNet: Tiny deep learning on IoT devices. Advances in Neural Information Processing Systems 33 (2020), 11711–11722.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_2_41_2",
+        "first-page": "49401",
+        "article-title": "Designing extremely memory-efficient CNNs for on-device vision tasks",
+        "volume": "8",
+        "author": "Lee Sangwon",
+        "year": "2020",
+        "unstructured": "Sangwon Lee, Jonghoon Choi, Sehoon Park, and Sungroh Yoon. 2020. Designing extremely memory-efficient CNNs for on-device vision tasks. IEEE Access 8 (2020), 49401–49413.",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "e_1_3_2_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3578938"
+      },
+      {
+        "key": "e_1_3_2_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s21124153"
+      },
+      {
+        "key": "e_1_3_2_44_2",
+        "unstructured": "Urmish Thakker Paul N. Whatmough Zhi-Gang Liu Matthew Mattina and Jesse Beu. 2020. Compressing language models using doped kronecker products. arXiv:2001.08896. Retrieved from https://arxiv.org/abs/2001.08896"
+      },
+      {
+        "key": "e_1_3_2_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3384419.3430769"
+      },
+      {
+        "key": "e_1_3_2_46_2",
+        "volume-title": "Proceedings of the Research Symposium on Tiny Machine Learning",
+        "author": "Chai Sek M.",
+        "year": "2021",
+        "unstructured": "Sek M. Chai. 2021. Quantization-guided training for compact TinyML models. In Proceedings of the Research Symposium on Tiny Machine Learning."
+      },
+      {
+        "key": "e_1_3_2_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-66770-2_22"
+      },
+      {
+        "key": "e_1_3_2_48_2",
+        "volume-title": "Proceedings of the Research Symposium on Tiny Machine Learning",
+        "author": "Fatemi Hamed",
+        "year": "2020",
+        "unstructured": "Hamed Fatemi, Vedant Karia, Tej Pandit, and Dhireesha Kudithipudi. 2020. TENT: Efficient quantization of neural networks on the tiny edge with tapered fixed point. In Proceedings of the Research Symposium on Tiny Machine Learning."
+      },
+      {
+        "key": "e_1_3_2_49_2",
+        "unstructured": "Forrest N. Iandola Song Han Matthew W. Moskewicz Khalid Ashraf William J. Dally and Kurt Keutzer. 2016. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size. arXiv:1602.07360. Retrieved from https://arxiv.org/abs/1602.07360"
+      },
+      {
+        "key": "e_1_3_2_50_2",
+        "unstructured": "Andrew G. Howard Menglong Zhu Bo Chen Dmitry Kalenichenko Weijun Wang Tobias Weyand Marco Andreetto and Hartwig Adam. 2017. Mobilenets: Efficient convolutional neural networks for mobile vision applications. arXiv:1704.04861. Retrieved from https://arxiv.org/abs/1704.04861"
+      },
+      {
+        "key": "e_1_3_2_51_2",
+        "first-page": "4510",
+        "article-title": "Mobilenetv2: Inverted residuals and linear bottlenecks",
+        "author": "Sandler Mark",
+        "year": "2018",
+        "unstructured": "Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, and Liang-Chieh Chen. 2018. Mobilenetv2: Inverted residuals and linear bottlenecks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 4510–4520.",
+        "journal-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+      },
+      {
+        "key": "e_1_3_2_52_2",
+        "unstructured": "Victor Sanh Lysandre Debut Julien Chaumond and Thomas Wolf. 2019. DistilBERT a distilled version of BERT: smaller faster cheaper and lighter. arXiv:1910.01108. Retrieved from https://arxiv.org/abs/1910.01108"
+      },
+      {
+        "key": "e_1_3_2_53_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xiaoqi Jiao Yichun Yin Lifeng Shang Xin Jiang Xiao Chen Linlin Li Fang Wang and Qun Liu. 2019. Tinybert: Distilling bert for natural language understanding. arXiv:1909.10351. Retrieved from https://arxiv.org/abs/1909.10351",
+        "DOI": "10.18653/v1/2020.findings-emnlp.372"
+      },
+      {
+        "key": "e_1_3_2_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-031-19809-0_35"
+      },
+      {
+        "key": "e_1_3_2_55_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.future.2023.07.002"
+      },
+      {
+        "key": "e_1_3_2_56_2",
+        "unstructured": "Hasib-Al Rashid Argho Sarkar Aryya Gangopadhyay Maryam Rahnemoonfar and Tinoosh Mohsenin. 2024. TinyVQA: Compact multimodal deep neural network for visual question answering on resource-constrained devices. arXiv:2404.03574. Retrieved from https://arxiv.org/abs/2404.03574"
+      },
+      {
+        "key": "e_1_3_2_57_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Md Maruf Hossain Shuvo Syed Kamrul Islam Jianlin Cheng and Bashir I. Morshed. 2022. Efficient acceleration of deep learning inference on resource-constrained edge devices: A review. Proceedings of the IEEE 111 1 (2022) 42–91.",
+        "DOI": "10.1109/JPROC.2022.3226481"
+      },
+      {
+        "key": "e_1_3_2_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su16177607"
+      },
+      {
+        "key": "e_1_3_2_59_2",
+        "unstructured": "Mohammad Javad Shafiee Francis Li Brendan Chwyl and Alexander Wong. 2017. Squishednets: Squishing squeezenet further for edge device scenarios via deep evolutionary synthesis. arXiv:1711.07459. Retrieved from https://arxiv.org/abs/1711.07459"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_2_60_2",
+        "first-page": "2940286",
+        "article-title": "An electronic component recognition algorithm based on deep learning with a faster SqueezeNet",
+        "volume": "2020",
+        "author": "Xu Yuanyuan",
+        "year": "2020",
+        "unstructured": "Yuanyuan Xu, Genke Yang, Jiliang Luo, and Jianan He. 2020. An electronic component recognition algorithm based on deep learning with a faster SqueezeNet. Mathematical Problems in Engineering 2020, 1 (2020), 2940286.",
+        "journal-title": "Mathematical Problems in Engineering"
+      },
+      {
+        "key": "e_1_3_2_61_2",
+        "first-page": "517",
+        "article-title": "Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers",
+        "volume": "3",
+        "author": "Banbury Colby",
+        "year": "2021",
+        "unstructured": "Colby Banbury, Chuteng Zhou, Igor Fedorov, Ramon Matas, Urmish Thakker, Dibakar Gope, Vijay Janapa Reddi, Matthew Mattina, and Paul Whatmough. 2021. Micronets: Neural network architectures for deploying tinyml applications on commodity microcontrollers. Proceedings of Machine Learning and Systems 3 (2021), 517–532.",
+        "journal-title": "Proceedings of Machine Learning and Systems"
+      },
+      {
+        "key": "e_1_3_2_62_2",
+        "unstructured": "Victor J. B. Jung Alessio Burrello Moritz Scherer Francesco Conti and Luca Benini. 2024. Optimizing the deployment of tiny transformers on low-power MCUs. IEEE Transactions on Computers 73 12 (2024) 3222–3235."
+      },
+      {
+        "key": "e_1_3_2_63_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neucom.2021.07.045"
+      },
+      {
+        "key": "e_1_3_2_64_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/frai.2021.676564"
+      },
+      {
+        "key": "e_1_3_2_65_2",
+        "first-page": "62414",
+        "article-title": "Pruning vs quantization: Which is better?",
+        "volume": "36",
+        "author": "Kuzmin Andrey",
+        "year": "2023",
+        "unstructured": "Andrey Kuzmin, Markus Nagel, Mart Van Baalen, Arash Behboodi, and Tijmen Blankevoort. 2023. Pruning vs quantization: Which is better? Advances in Neural Information Processing Systems 36 (2023), 62414–62427.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "issue": "15",
+        "key": "e_1_3_2_66_2",
+        "first-page": "565",
+        "article-title": "Neural network pruning techniques for efficient model compression",
+        "volume": "12",
+        "author": "Kumari K. A.",
+        "year": "2024",
+        "unstructured": "K. A. Kumari, S. Ahamad, T. Patil, K. Sardana, E. Muniyandy, and D. Pilli. 2024. Neural network pruning techniques for efficient model compression. International Journal of Intelligent Systems and Applications in Engineering 12, 15s (2024), 565–575.",
+        "journal-title": "International Journal of Intelligent Systems and Applications in Engineering"
+      },
+      {
+        "key": "e_1_3_2_67_2",
+        "unstructured": "Han Cai Chuang Gan Ji Lin and Song Han. 2021. Network augmentation for tiny deep learning. arXiv:2110.08890. Retrieved from https://arxiv.org/abs/2110.08890"
+      },
+      {
+        "key": "e_1_3_2_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ISPACS48206.2019.8986357"
+      },
+      {
+        "key": "e_1_3_2_69_2",
+        "first-page": "800",
+        "article-title": "Tensorflow lite micro: Embedded machine learning for tinyml systems",
+        "volume": "3",
+        "author": "David Robert",
+        "year": "2021",
+        "unstructured": "Robert David, Jared Duke, Advait Jain, Vijay Janapa Reddi, Nat Jeffries, Jian Li, Nick Kreeger, Ian Nappier, Meghna Natraj, Tiezhen Wang, et al. 2021. Tensorflow lite micro: Embedded machine learning for tinyml systems. Proceedings of Machine Learning and Systems 3 (2021), 800–811.",
+        "journal-title": "Proceedings of Machine Learning and Systems"
+      },
+      {
+        "key": "e_1_3_2_70_2",
+        "unstructured": "Shawn Hymel Jan Trivedi Louis Heller Sandeep Sharma Paul Fiedler Ajay Patel Anil Chandak Abhishek Sinha and Thomas Schmid. 2022. Edge impulse: An MLOps platform for tiny machine learning. arXiv:2212.03332. Retrieved from https://arxiv.org/abs/2212.03332"
+      },
+      {
+        "key": "e_1_3_2_71_2",
+        "article-title": "TensorFlow Lite Model Maker",
+        "author": "Edge Google AI",
+        "year": "2025",
+        "unstructured": "Google AI Edge. 2025. TensorFlow Lite Model Maker. Retrieved June 5, 2025 from https://ai.google.dev/edge/litert/libraries/modify",
+        "journal-title": "https://ai.google.dev/edge/litert/libraries/modify"
+      },
+      {
+        "key": "e_1_3_2_72_2",
+        "unstructured": "Towards Data Science. 2025. Pytorch – ExecuTorch Documentation. Retrieved August 10 2025 from https://docs.pytorch.org/executorch/stable/index.html"
+      },
+      {
+        "key": "e_1_3_2_73_2",
+        "unstructured": "Liangzhen Lai Naveen Suda and Vikas Chandra. 2018. CMSIS-NN: Efficient neural network kernels for arm Cortex-M CPUs. arXiv:1801.06601. Retrieved from https://arxiv.org/abs/1801.06601"
+      },
+      {
+        "key": "e_1_3_2_74_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Liu M. Jobst L. Guo X. Shi J. Partzsch and C. Mayr. 2023. Deploying machine learning models to ahead-of-time runtime on edge using MicroTVM. arXiv:2304.04842. Retrieved from https://arxiv.org/abs/2304.04842",
+        "DOI": "10.1145/3615338.3618125"
+      },
+      {
+        "key": "e_1_3_2_75_2",
+        "unstructured": "N. Rotem J. Fix S. Abdulrasool G. Catron S. Deng R. Dzhabarov N. Gibson J. Hegeman M. Lele R. Levenstein et al. 2018. Glow: Graph lowering compiler techniques for neural networks. arXiv:1805.00907. Retrieved from https://arxiv.org/abs/1805.00907"
+      },
+      {
+        "key": "e_1_3_2_76_1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Rory Conlin Keith Erickson Joseph Abbate and Egemen Kolemen. 2021. Keras2c: A library for converting Keras neural networks to real-time compatible C. Engineering Applications of Artificial Intelligence 100 Article 104188 (2021). DOI:10.1016/j.engappai.2021.104188",
+        "DOI": "10.1016/j.engappai.2021.104188"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_2_77_2",
+        "first-page": "801",
+        "article-title": "MLPACK: A scalable C++ machine learning library",
+        "volume": "14",
+        "author": "Curtin R. R.",
+        "year": "2013",
+        "unstructured": "R. R. Curtin, J. R. Cline, N. P. Slagle, W. B. March, P. Ram, N. A. Mehta, and A. G. Gray. 2013. MLPACK: A scalable C++ machine learning library. Journal of Machine Learning Research 14, 1 (2013), 801–805.",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "key": "e_1_3_2_78_2",
+        "article-title": "X-CUBE-AI: STM32Cube Expansion Package",
+        "year": "2025",
+        "unstructured": "STMicroelectronics. 2025. X-CUBE-AI: STM32Cube Expansion Package. Retrieved June 5, 2025 from https://www.st.com/resource/en/data_brief/x-cube-ai.pdf. (2025).",
+        "journal-title": "https://www.st.com/resource/en/data_brief/x-cube-ai.pdf"
+      },
+      {
+        "key": "e_1_3_2_79_2",
+        "unstructured": "J. Duarte E. Kreinar J. Ngadiuba et al. 2021. hls4ml: An open-source codesign workflow to empower scientific low-power machine learning devices. arXiv:2103.05579. Retrieved from https://arxiv.org/abs/2103.05579"
+      },
+      {
+        "key": "e_1_3_2_80_2",
+        "article-title": "OctoML: Accelerating ML model deployment",
+        "author": "Ltd. ARM",
+        "year": "2025",
+        "unstructured": "ARM Ltd.2025. OctoML: Accelerating ML model deployment. Retrieved June 5, 2025 from https://www.arm.com/partners/catalog/octoml. (2025). ARM Partner Catalog.",
+        "journal-title": "https://www.arm.com/partners/catalog/octoml"
+      },
+      {
+        "key": "e_1_3_2_81_2",
+        "article-title": "nebullvm: AI runtime optimization library",
+        "author": "Team Nebuly",
+        "year": "2024",
+        "unstructured": "Nebuly Team. 2024. nebullvm: AI runtime optimization library. Retrieved June 5, 2025 from https://pypi.org/project/nebullvm/. (2024).",
+        "journal-title": "https://pypi.org/project/nebullvm/"
+      },
+      {
+        "key": "e_1_3_2_82_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.inffus.2009.01.002"
+      },
+      {
+        "key": "e_1_3_2_83_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0282265"
+      },
+      {
+        "key": "e_1_3_2_84_2",
+        "unstructured": "J. Bai F. Lu K. Zhang et al. 2025. ONNX: Open Neural Network Exchange. GitHub repository. (2025). Retrieved August 17 2025 from https://github.com/onnx/onnx"
+      },
+      {
+        "key": "e_1_3_2_85_2",
+        "unstructured": "N. Vasilache et al. 2018. Tensor Comprehensions: Framework-agnostic high-performance machine learning abstractions. arXiv:1802.04730. Retrieved from https://arxiv.org/abs/1802.04730"
+      },
+      {
+        "key": "e_1_3_2_86_2",
+        "unstructured": "Neuton.AI. 2025. Neuton AI User Guide. Retrieved November 6 2025 from https://neuton.ai/uploads/user-guide.pdf"
+      },
+      {
+        "key": "e_1_3_2_87_2",
+        "volume-title": "From Cloud-First to Edge-First: The Future of Enterprise AI",
+        "year": "2025",
+        "unstructured": "LatentAI. 2025. From Cloud-First to Edge-First: The Future of Enterprise AI. White Paper. LatentAI. Retrieved from https://latentai.com/wp-content/uploads/2025/05/Cloud-to-Edge-White-Paper-FINAL.pdf"
+      },
+      {
+        "key": "e_1_3_2_88_2",
+        "article-title": "Get Started with Machine Learning on Arduino Nano 33 BLE Sense",
+        "year": "2025",
+        "unstructured": "Arduino. 2025. Get Started with Machine Learning on Arduino Nano 33 BLE Sense. Retrieved June 11, 2025 from https://docs.arduino.cc/tutorials/nano-33-ble-sense/get-started-with-machine-learning/ (2025).",
+        "journal-title": "https://docs.arduino.cc/tutorials/nano-33-ble-sense/get-started-with-machine-learning/"
+      },
+      {
+        "key": "e_1_3_2_89_2",
+        "unstructured": "NXP Semiconductors. 2025. eIQ Toolkit User Guide. Retrieved July 28 2025 from https://www.nxp.com/docs/en/user-guide/EIQTKUG-1.8.0.pdf. Version 1.8.0."
+      },
+      {
+        "key": "e_1_3_2_90_2",
+        "unstructured": "Don Kurian Dennis Sridhar Gopinath Chirag Gupta Ashish Kumar Aditya Kusupati Shishir G. Patil and Harsha Vardhan Simhadri. 2017. EdgeML: Machine Learning for resource-constrained edge devices. Retrieved August 26 2025 from https://github.com/Microsoft/EdgeML"
+      },
+      {
+        "key": "e_1_3_2_91_2",
+        "article-title": "TensorFlow Lite Object Detection on Android and Raspberry Pi",
+        "year": "2025",
+        "unstructured": "EdjeElectronics. 2025. TensorFlow Lite Object Detection on Android and Raspberry Pi. Retrieved June 11, 2025 from https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi (2025).",
+        "journal-title": "https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi"
+      },
+      {
+        "key": "e_1_3_2_92_2",
+        "article-title": "Model Optimization Toolkit",
+        "year": "2025",
+        "unstructured": "Sony. 2025. Model Optimization Toolkit. Retrieved June 11, 2025 from https://github.com/sony/model_optimization. (2025).",
+        "journal-title": "https://github.com/sony/model_optimization"
+      },
+      {
+        "key": "e_1_3_2_93_2",
+        "first-page": "1331",
+        "volume-title": "Proceedings of the 34th International Conference on Machine Learning - Volume 70 (ICML’17)",
+        "author": "Gupta Chirag",
+        "year": "2017",
+        "unstructured": "Chirag Gupta, Arun Sai Suggala, Ankit Goyal, Harsha Vardhan Simhadri, Bhargavi Paranjape, Ashish Kumar, Saurabh Goyal, Raghavendra Udupa, Manik Varma, and Prateek Jain. 2017. ProtoNN: Compressed and accurate kNN for resource-scarce devices. In Proceedings of the 34th International Conference on Machine Learning - Volume 70 (ICML’17). JMLR.org, 1331–1340."
+      },
+      {
+        "key": "e_1_3_2_94_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3532213.3532278"
+      },
+      {
+        "key": "e_1_3_2_95_2",
+        "volume-title": "Proceedings of the tinyML Research Symposium (tinyML Research Symposium ’22)",
+        "author": "Lu Qianyun",
+        "year": "2022",
+        "unstructured": "Qianyun Lu and Boris Murmann. 2022. Improving the energy efficiency and robustness of tinyML computer vision using log-gradient input images. In Proceedings of the tinyML Research Symposium (tinyML Research Symposium ’22). ACM. Also available as arXiv:2203.02571."
+      },
+      {
+        "key": "e_1_3_2_96_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.2405.00892"
+      },
+      {
+        "key": "e_1_3_2_97_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.procs.2022.01.042"
+      },
+      {
+        "key": "e_1_3_2_98_2",
+        "unstructured": "Andrew Barovic and Armin Moin. 2025. TinyML for speech recognition. arXiv:2504.16213. Retrieved from https://arxiv.org/abs/2504.16213"
+      },
+      {
+        "key": "e_1_3_2_99_2",
+        "article-title": "TinyML NLP scheme for semantic wireless sentiment classification with privacy preservation",
+        "author": "Radwan Ahmed Y.",
+        "year": "2025",
+        "unstructured": "Ahmed Y. Radwan, Mohammad Shehab, and Mohamed-Slim Alouini. 2025. TinyML NLP scheme for semantic wireless sentiment classification with privacy preservation. arXiv:2411.06291v3. Retrieved from https://arxiv.org/abs/2411.06291. Accepted at EuCNC & 6G Summit 2025.",
+        "journal-title": "arXiv:2411.06291v3"
+      },
+      {
+        "key": "e_1_3_2_100_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Souvika Sarkar Mohammad Fakhruddin Babar Md Mahadi Hassan Monowar Hasan and Shubhra Kanti Karmaker Santu. 2024. Processing natural language on embedded devices: How well do transformer models perform? In Proceedings of the 15th ACM/SPEC International Conference on Performance Engineering. 211–222.",
+        "DOI": "10.1145/3629526.3645054"
+      },
+      {
+        "key": "e_1_3_2_101_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICMLA58977.2023.00104"
+      },
+      {
+        "key": "e_1_3_2_102_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang Zhaolan Adrien Tousnakhoff Polina Kozyr Roman Rehausen Felix Bießmann Robert Lachlan Cedric Adjih and Emmanuel Baccelli. 2024. TinyChirp: Bird song recognition using TinyML models on low-power wireless acoustic sensors. In Proceedings of the 2024 IEEE 5th International Symposium on the Internet of Sounds (IS2). 1–10.",
+        "DOI": "10.1109/IS262782.2024.10704131"
+      },
+      {
+        "key": "e_1_3_2_103_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/GCCE53005.2021.9622022"
+      },
+      {
+        "key": "e_1_3_2_104_2",
+        "volume-title": "A Smart Design Framework for a Novel Reconfigurable Multi-processor Systems-on-chip (ASREM) Architecture",
+        "author": "Dutta Anandi",
+        "year": "2016",
+        "unstructured": "Anandi Dutta. 2016. A Smart Design Framework for a Novel Reconfigurable Multi-processor Systems-on-chip (ASREM) Architecture. Ph.D. dissertation. University of Louisiana at Lafayette, Lafayette, LA, USA."
+      },
+      {
+        "key": "e_1_3_2_105_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-60639-2_2"
+      },
+      {
+        "key": "e_1_3_2_106_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ISCAS48785.2022.9937293"
+      },
+      {
+        "key": "e_1_3_2_107_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3639856.3639903"
+      },
+      {
+        "key": "e_1_3_2_108_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-981-16-8862-1_45"
+      },
+      {
+        "key": "e_1_3_2_109_2",
+        "first-page": "172",
+        "volume-title": "International Summit Smart City 360°",
+        "author": "Oliveira Vítor M.",
+        "year": "2021",
+        "unstructured": "Vítor M. Oliveira and António H. J. Moreira. 2021. Edge AI system using a thermal camera for industrial anomaly detection. In International Summit Smart City 360°. Springer, 172–187."
+      },
+      {
+        "key": "e_1_3_2_110_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/electronics10222836"
+      },
+      {
+        "issue": "6",
+        "key": "e_1_3_2_111_2",
+        "first-page": "838",
+        "article-title": "IoT based smart agriculture",
+        "volume": "5",
+        "author": "Gondchawar Nikesh",
+        "year": "2016",
+        "unstructured": "Nikesh Gondchawar, R. S. Kawitkar, et al. 2016. IoT based smart agriculture. International Journal of Advanced Research in Computer and Communication Engineering 5, 6 (2016), 838–842.",
+        "journal-title": "International Journal of Advanced Research in Computer and Communication Engineering"
+      },
+      {
+        "key": "e_1_3_2_112_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-022-27980-y"
+      },
+      {
+        "key": "e_1_3_2_113_2",
+        "first-page": "476",
+        "volume-title": "Proceedings of the International Conference on Intelligent Manufacturing and Robotics",
+        "author": "Hing Kong Ka",
+        "year": "2024",
+        "unstructured": "Kong Ka Hing, Mehran Behjati, Vala Saleh, Yap Kian Meng, Anwar PP Abdul Majeed, and Yufan Zheng. 2024. Edge intelligence for wildlife conservation: Real-time hornbill call classification using tinyml. In Proceedings of the International Conference on Intelligent Manufacturing and Robotics. Springer, 476–488."
+      },
+      {
+        "key": "e_1_3_2_114_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MetroInd4.0IoT54413.2022.9831517"
+      },
+      {
+        "key": "e_1_3_2_115_2",
+        "unstructured": "Muhammad Abubakar Abdul Sattar Hamid Manzoor Khola Farooq and Muhammad Yousif. 2025. IIOT: An infusion of embedded systems TinyML and federated learning in industrial IoT. Journal of Computing & Biomedical Informatics 8 2 (2025) 1–11."
+      },
+      {
+        "key": "e_1_3_2_116_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iot.2021.100461"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_2_117_2",
+        "first-page": "65",
+        "article-title": "Enhancing cybersecurity in edge AI systems: A game-theoretic approach to threat detection and mitigation",
+        "volume": "25",
+        "author": "Pujari Mangesh",
+        "year": "2023",
+        "unstructured": "Mangesh Pujari, Anil Kumar Pakina, and Ashwin Sharma. 2023. Enhancing cybersecurity in edge AI systems: A game-theoretic approach to threat detection and mitigation. IOSR Journal of Computer Engineering 25, 3 (2023), 65–73.",
+        "journal-title": "IOSR Journal of Computer Engineering"
+      },
+      {
+        "key": "e_1_3_2_118_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IJCNN52387.2021.9533927"
+      },
+      {
+        "key": "e_1_3_2_119_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mark Mazumder Colby Banbury Josh Meyer Pete Warden and Vijay Janapa Reddi. 2021. Few-shot keyword spotting in any language. arXiv:2104.01454. Retrieved from https://arxiv.org/abs/2104.01454",
+        "DOI": "10.21437/Interspeech.2021-1966"
+      },
+      {
+        "key": "e_1_3_2_120_2",
+        "unstructured": "Kavya Kopparapu and Eric Lin. 2021. TinyFedTL: Federated transfer learning on tiny devices. arXiv:2110.01107. Retrieved from https://arxiv.org/abs/2110.01107"
+      },
+      {
+        "key": "e_1_3_2_121_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3462203.3475896"
+      },
+      {
+        "key": "e_1_3_2_122_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.56127/ijst.v3i3.1958"
+      },
+      {
+        "key": "e_1_3_2_123_2",
+        "unstructured": "Song Han Huizi Mao and William J. Dally. 2015. Deep compression: Compressing deep neural networks with pruning trained quantization and Huffman coding. arXiv:1510.00149. Retrieved from https://arxiv.org/abs/1510.00149"
+      },
+      {
+        "key": "e_1_3_2_124_2",
+        "volume-title": "Tinyml: Machine Learning with Tensorflow Lite on Arduino and Ultra-low-power Microcontrollers",
+        "author": "Warden Pete",
+        "year": "2019",
+        "unstructured": "Pete Warden and Daniel Situnayake. 2019. Tinyml: Machine Learning with Tensorflow Lite on Arduino and Ultra-low-power Microcontrollers. O’Reilly Media."
+      },
+      {
+        "key": "e_1_3_2_125_2",
+        "first-page": "578",
+        "volume-title": "Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18)",
+        "author": "Chen Tianqi",
+        "year": "2018",
+        "unstructured": "Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Haichen Shen, Meghan Cowan, Leyuan Wang, Yuwei Hu, Luis Ceze, et al. 2018. \\(\\lbrace\\) TVM \\(\\rbrace\\) : An automated \\(\\lbrace\\) End-to-End \\(\\rbrace\\) optimizing compiler for deep learning. In Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 18). 578–594."
+      },
+      {
+        "key": "e_1_3_2_126_2",
+        "unstructured": "Audrunas Gruslys Rémi Munos Ivo Danihelka Marc Lanctot and Alex Graves. 2016. Memory-efficient backpropagation through time. Advances in Neural Information Processing Systems (NeurIPS 2016) 29 (2016) 4125–4133."
+      },
+      {
+        "key": "e_1_3_2_127_2",
+        "first-page": "815",
+        "volume-title": "Proceedings of the International Conference on Machine Learning",
+        "author": "Cho Minsik",
+        "year": "2017",
+        "unstructured": "Minsik Cho and Daniel Brand. 2017. MEC: Memory-efficient convolution for deep neural network. In Proceedings of the International Conference on Machine Learning. PMLR, 815–824."
+      },
+      {
+        "key": "e_1_3_2_128_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2018.00286"
+      },
+      {
+        "key": "e_1_3_2_129_2",
+        "unstructured": "Jungwook Choi Zhuo Wang Swagath Venkataramani Pierce I-Jen Chuang Vijayalakshmi Srinivasan and Kailash Gopalakrishnan. 2018. Pact: Parameterized clipping activation for quantized neural networks. arXiv:1805.06085. Retrieved from https://arxiv.org/abs/1805.06085"
+      },
+      {
+        "key": "e_1_3_2_130_2",
+        "article-title": "Post training 4-bit quantization of convolutional networks for rapid-deployment",
+        "volume": "32",
+        "author": "Banner Ron",
+        "year": "2019",
+        "unstructured": "Ron Banner, Yury Nahshan, and Daniel Soudry. 2019. Post training 4-bit quantization of convolutional networks for rapid-deployment. Advances in Neural Information Processing Systems 32 (2019).",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_2_131_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2019.00881"
+      },
+      {
+        "key": "e_1_3_2_132_2",
+        "unstructured": "Shuchang Zhou Yuxin Wu Zekun Ni Xinyu Zhou He Wen and Yuheng Zou. 2016. Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients. arXiv:1606.06160. Retrieved from https://arxiv.org/abs/1606.06160"
+      },
+      {
+        "key": "e_1_3_2_133_2",
+        "unstructured": "Steven K. Esser Jeffrey L. McKinstry Deepika Bablani Rathinakumar Appuswamy and Dharmendra S. Modha. 2019. Learned step size quantization. arXiv:1902.08153. Retrieved from https://arxiv.org/abs/1902.08153"
+      },
+      {
+        "key": "e_1_3_2_134_2",
+        "unstructured": "TensorFlow Model Optimization Toolkit. 2018. Retrieved June 10 2024 from https://www.tensorflow.org/model_optimization"
+      },
+      {
+        "key": "e_1_3_2_135_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV48922.2021.00037"
+      },
+      {
+        "key": "e_1_3_2_136_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Han Cai Chuang Gan Tianzhe Wang Zhekai Zhang and Song Han. 2019. Once-for-all: Train one network and specialize it for efficient deployment. arXiv:1908.09791. Retrieved from https://arxiv.org/abs/1908.09791",
+        "DOI": "10.1145/3366423.3380259"
+      },
+      {
+        "key": "e_1_3_2_137_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICECS46596.2019.8965067"
+      },
+      {
+        "key": "e_1_3_2_138_2",
+        "volume-title": "Choosing the Best Memory for Developer AI Model White Paper",
+        "year": "2023",
+        "unstructured": "Ambiq. 2023. Choosing the Best Memory for Developer AI Model White Paper. White Paper. Ambiq. Retrieved from https://ambiq.com/wp-content/uploads/2023/06/Choosing-the-Best-Memory-for-Developer-AI-Model-WP.pdf"
+      },
+      {
+        "key": "e_1_3_2_139_2",
+        "unstructured": "Ji Lin Wei-Ming Chen Han Cai Chuang Gan and Song Han. 2021. Memory-efficient patch-based inference for tiny deep learning. Advances in Neural Information Processing Systems 34 (2021) 2346–2358."
+      },
+      {
+        "key": "e_1_3_2_140_2",
+        "unstructured": "Pete Warden. 2018. Speech commands: A dataset for limited-vocabulary speech recognition. arXiv:1804.03209. Retrieved from https://arxiv.org/abs/1804.03209"
+      },
+      {
+        "issue": "7",
+        "key": "e_1_3_2_141_2",
+        "first-page": "3",
+        "article-title": "Tiny imagenet visual recognition challenge",
+        "volume": "7",
+        "author": "Le Yann",
+        "year": "2015",
+        "unstructured": "Yann Le and Xuan Yang. 2015. Tiny imagenet visual recognition challenge. CS 231N 7, 7 (2015), 3.",
+        "journal-title": "CS 231N"
+      },
+      {
+        "key": "e_1_3_2_142_2",
+        "volume-title": "Learning Multiple Layers of Features from Tiny Images",
+        "author": "Krizhevsky Alex",
+        "year": "2009",
+        "unstructured": "Alex Krizhevsky. 2009. Learning Multiple Layers of Features from Tiny Images. Technical Report. University of Toronto. Retrieved from https://www.cs.utoronto.ca/kriz/learning-features-2009-TR.pdf"
+      },
+      {
+        "key": "e_1_3_2_143_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.34074/proc.240120"
+      },
+      {
+        "key": "e_1_3_2_144_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3517207.3526978"
+      },
+      {
+        "key": "e_1_3_2_145_2",
+        "unstructured": "Parin Shah Yuvaraj Govindarajulu Pavan Kulkarni and Manojkumar Parmar. 2024. Enhancing TinyML security: Study of adversarial attack transferability. arXiv:2407.11599. Retrieved from https://arxiv.org/abs/2407.11599"
+      },
+      {
+        "key": "e_1_3_2_146_2",
+        "unstructured": "Jacob Huckelberry Yuke Zhang Allison Sansone James Mickens Peter A. Beerel and Vijay Janapa Reddi. 2024. TinyML security: Exploring vulnerabilities in resource-constrained machine learning systems. arXiv:2411.07114. Retrieved from https://arxiv.org/abs/2411.07114"
+      },
+      {
+        "key": "e_1_3_2_147_2",
+        "unstructured": "Archit Parnami and Minwoo Lee. 2022. Learning from few examples: A summary of approaches to few-shot learning. arXiv:2203.04291. Retrieved from https://arxiv.org/abs/2203.04291"
+      },
+      {
+        "key": "e_1_3_2_148_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/app15010430"
+      },
+      {
+        "key": "e_1_3_2_149_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-58604-1_43"
+      },
+      {
+        "key": "e_1_3_2_150_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10586-024-04686-y"
+      },
+      {
+        "key": "e_1_3_2_151_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3724420"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3776588",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          24
+        ]
+      ],
+      "date-time": "2025-12-24T10:03:42Z",
+      "timestamp": 1766570622000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3776588"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          24
+        ]
+      ]
+    },
+    "references-count": 150,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            31
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1145/3776588"
+    ],
+    "URL": "https://doi.org/10.1145/3776588",
+    "relation": {},
+    "ISSN": [
+      "0360-0300",
+      "1557-7341"
+    ],
+    "issn-type": [
+      {
+        "value": "0360-0300",
+        "type": "print"
+      },
+      {
+        "value": "1557-7341",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          24
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-06-23",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-10-21",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-12-24",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "total": 43,
+  "unique_journals": 16,
+  "by_year": {
+    "2025": 11,
+    "2026": 32
+  },
+  "by_journal": [
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issns": [
+        "0361-1981",
+        "2169-4052"
+      ],
+      "publisher": "SAGE Publications",
+      "reviews": 9,
+      "by_year": {
+        "2025": 9
+      }
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issns": [
+        "0001-4575"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 8,
+      "by_year": {
+        "2026": 8
+      }
+    },
+    {
+      "journal": "Traffic Injury Prevention",
+      "issns": [
+        "1538-957X"
+      ],
+      "publisher": "Informa UK (Taylor & Francis)",
+      "reviews": 4,
+      "by_year": {
+        "2026": 4
+      }
+    },
+    {
+      "journal": "Transportation Engineering",
+      "issns": [
+        "2666-691X"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 4,
+      "by_year": {
+        "2026": 4
+      }
+    },
+    {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "issns": [
+        "2590-1982"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 4,
+      "by_year": {
+        "2026": 4
+      }
+    },
+    {
+      "journal": "Biosystems",
+      "issns": [
+        "0303-2647"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 2,
+      "by_year": {
+        "2026": 2
+      }
+    },
+    {
+      "journal": "Journal of Transportation Safety & Security",
+      "issns": [
+        "1943-9970"
+      ],
+      "publisher": "Informa UK (Taylor & Francis)",
+      "reviews": 2,
+      "by_year": {
+        "2025": 2
+      }
+    },
+    {
+      "journal": "Transport Policy",
+      "issns": [
+        "0967-070X"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 2,
+      "by_year": {
+        "2026": 2
+      }
+    },
+    {
+      "journal": "ACM Computing Surveys",
+      "issns": [
+        "1557-7341"
+      ],
+      "publisher": "Association for Computing Machinery",
+      "reviews": 1,
+      "by_year": {
+        "2026": 1
+      }
+    },
+    {
+      "journal": "Computer Science Review",
+      "issns": [
+        "1574-0137"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 1,
+      "by_year": {
+        "2026": 1
+      }
+    },
+    {
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "issns": [
+        "0952-1976"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 1,
+      "by_year": {
+        "2026": 1
+      }
+    },
+    {
+      "journal": "Journal of Public Transportation",
+      "issns": [
+        "1077-291X"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 1,
+      "by_year": {
+        "2026": 1
+      }
+    },
+    {
+      "journal": "Journal of Transport & Health",
+      "issns": [
+        "2214-1405"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 1,
+      "by_year": {
+        "2026": 1
+      }
+    },
+    {
+      "journal": "Results in Engineering",
+      "issns": [
+        "2590-1230"
+      ],
+      "publisher": "Elsevier",
+      "reviews": 1,
+      "by_year": {
+        "2026": 1
+      }
+    },
+    {
+      "journal": "SN Social Sciences",
+      "issns": [
+        "2662-9283"
+      ],
+      "publisher": "Springer-Verlag",
+      "reviews": 1,
+      "by_year": {
+        "2026": 1
+      }
+    },
+    {
+      "journal": "Scientific Reports",
+      "issns": [
+        "2045-2322"
+      ],
+      "publisher": "Springer Science and Business Media LLC",
+      "reviews": 1,
+      "by_year": {
+        "2026": 1
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "journal": "Journal of Public Transportation",
+      "issn": "1077-291X",
+      "publisher": "Elsevier",
+      "date": "2026-11-22",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Computer Science Review",
+      "issn": "1574-0137",
+      "publisher": "Elsevier",
+      "date": "2026-11-22",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issn": "0001-4575",
+      "publisher": "Elsevier",
+      "date": "2026-11-22",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issn": "0001-4575",
+      "publisher": "Elsevier",
+      "date": "2026-11-14",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "issn": "2590-1982",
+      "publisher": "Elsevier",
+      "date": "2026-11-01",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issn": "0001-4575",
+      "publisher": "Elsevier",
+      "date": "2026-10-31",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Biosystems",
+      "issn": "0303-2647",
+      "publisher": "Elsevier",
+      "date": "2026-10-23",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issn": "0001-4575",
+      "publisher": "Elsevier",
+      "date": "2026-10-19",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issn": "0001-4575",
+      "publisher": "Elsevier",
+      "date": "2026-10-19",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transportation Engineering",
+      "issn": "2666-691X",
+      "publisher": "Elsevier",
+      "date": "2026-09-30",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transportation Engineering",
+      "issn": "2666-691X",
+      "publisher": "Elsevier",
+      "date": "2026-09-25",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issn": "0001-4575",
+      "publisher": "Elsevier",
+      "date": "2026-09-25",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Journal of Transport & Health",
+      "issn": "2214-1405",
+      "publisher": "Elsevier",
+      "date": "2026-09-19",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issn": "0001-4575",
+      "publisher": "Elsevier",
+      "date": "2026-09-19",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Accident Analysis & Prevention",
+      "issn": "0001-4575",
+      "publisher": "Elsevier",
+      "date": "2026-09-09",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transportation Engineering",
+      "issn": "2666-691X",
+      "publisher": "Elsevier",
+      "date": "2026-08-13",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Biosystems",
+      "issn": "0303-2647",
+      "publisher": "Elsevier",
+      "date": "2026-08-05",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "issn": "2590-1982",
+      "publisher": "Elsevier",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "issn": "2590-1982",
+      "publisher": "Elsevier",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transportation Research Interdisciplinary Perspectives",
+      "issn": "2590-1982",
+      "publisher": "Elsevier",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transportation Engineering",
+      "issn": "2666-691X",
+      "publisher": "Elsevier",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transport Policy",
+      "issn": "0967-070X",
+      "publisher": "Elsevier",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Transport Policy",
+      "issn": "0967-070X",
+      "publisher": "Elsevier",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Traffic Injury Prevention",
+      "issn": "1538-957X",
+      "publisher": "Informa UK (Taylor & Francis)",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Traffic Injury Prevention",
+      "issn": "1538-957X",
+      "publisher": "Informa UK (Taylor & Francis)",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Traffic Injury Prevention",
+      "issn": "1538-957X",
+      "publisher": "Informa UK (Taylor & Francis)",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Traffic Injury Prevention",
+      "issn": "1538-957X",
+      "publisher": "Informa UK (Taylor & Francis)",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Scientific Reports",
+      "issn": "2045-2322",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Springer Nature"
+    },
+    {
+      "journal": "SN Social Sciences",
+      "issn": "2662-9283",
+      "publisher": "Springer-Verlag",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Springer Nature"
+    },
+    {
+      "journal": "Results in Engineering",
+      "issn": "2590-1230",
+      "publisher": "Elsevier",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "issn": "0952-1976",
+      "publisher": "Elsevier",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Elsevier Editorial"
+    },
+    {
+      "journal": "ACM Computing Surveys",
+      "issn": "1557-7341",
+      "publisher": "Association for Computing Machinery",
+      "date": "2026",
+      "year": 2026,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "0361-1981",
+      "publisher": "SAGE Publications",
+      "date": "2025-08",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "SAGE Publishing"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "0361-1981",
+      "publisher": "SAGE Publications",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "SAGE Publishing"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "0361-1981",
+      "publisher": "SAGE Publications",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "SAGE Publishing"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "0361-1981",
+      "publisher": "SAGE Publications",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "SAGE Publishing"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "2169-4052",
+      "publisher": "SAGE Publications",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "2169-4052",
+      "publisher": "SAGE Publications",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "2169-4052",
+      "publisher": "SAGE Publications",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "2169-4052",
+      "publisher": "SAGE Publications",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Transportation Research Record Journal of the Transportation Research Board",
+      "issn": "2169-4052",
+      "publisher": "SAGE Publications",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Journal of Transportation Safety & Security",
+      "issn": "1943-9970",
+      "publisher": "Informa UK (Taylor & Francis)",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    },
+    {
+      "journal": "Journal of Transportation Safety & Security",
+      "issn": "1943-9970",
+      "publisher": "Informa UK (Taylor & Francis)",
+      "date": "2025",
+      "year": 2025,
+      "role": "reviewer",
+      "type": "review",
+      "verified_by": "Web of Science Researcher Profiles"
+    }
+  ]
+}

@@ -1,0 +1,1189 @@
+{
+  "doi": "10.1007/s42421-026-00171-7",
+  "fetched_at": "2026-11-27T06:34:42+00:00",
+  "work": {
+    "id": "https://openalex.org/W7172492174",
+    "doi": "https://doi.org/10.1007/s42421-026-00171-7",
+    "title": "Crash Severity in Automated Vehicle Collisions: A Texas-Based Investigation Across Automation Levels",
+    "display_name": "Crash Severity in Automated Vehicle Collisions: A Texas-Based Investigation Across Automation Levels",
+    "alternate_titles": [],
+    "publication_year": 2026,
+    "publication_date": "2026-08-06",
+    "ids": {
+      "openalex": "https://openalex.org/W7172492174",
+      "doi": "https://doi.org/10.1007/s42421-026-00171-7"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1007/s42421-026-00171-7",
+      "doi": "https://doi.org/10.1007/s42421-026-00171-7",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s42421-026-00171-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s42421-026-00171-7.pdf",
+      "source": {
+        "id": "https://openalex.org/S4387287236",
+        "display_name": "Data Science for Transportation",
+        "issn_l": "2948-135X",
+        "issn": [
+          "2948-135X",
+          "2948-1368"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "jufo-1",
+          "norway-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Data Science for Transportation",
+      "raw_type": "journal-article"
+    },
+    "parent_works": [],
+    "lineage": [
+      "https://openalex.org/W7172492174"
+    ],
+    "child_works_count": 0,
+    "pull_notice_works": [],
+    "type": "article",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s42421-026-00171-7.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5116405783",
+          "display_name": "Gaurab Chhetri",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0000-0124-4814",
+          "observed_orcids": [
+            "https://orcid.org/0009-0000-0124-4814"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "contributor_roles": [],
+        "raw_author_name": "Gaurab Chhetri",
+        "raw_affiliation_strings": [
+          "Computer Science, Texas State University, 601, University Drive, San Marcos, TX, 78666, USA"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0000-0124-4814",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Computer Science, Texas State University, 601, University Drive, San Marcos, TX, 78666, USA",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5121749537",
+          "display_name": "Md Monzurul Islam",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0007-3670-6100",
+          "observed_orcids": [
+            "https://orcid.org/0009-0007-3670-6100"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Md Monzurul Islam",
+        "raw_affiliation_strings": [
+          "Civil Engineering, Texas State University, 601, University Drive, San Marcos, TX, 78666, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Civil Engineering, Texas State University, 601, University Drive, San Marcos, TX, 78666, USA",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5053621729",
+          "display_name": "Subasish Das",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0002-1671-2753",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1671-2753"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Subasish Das",
+        "raw_affiliation_strings": [
+          "Civil Engineering, Texas State University, 601, University Drive, San Marcos, TX, 78666, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Civil Engineering, Texas State University, 601, University Drive, San Marcos, TX, 78666, USA",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5116405783"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I13511017"
+    ],
+    "apc_list": {
+      "value": 3190,
+      "currency": "USD",
+      "value_usd": 3190
+    },
+    "apc_paid": {
+      "value": 3190,
+      "currency": "USD",
+      "value_usd": 3190
+    },
+    "fwci": 0.0,
+    "is_authors_truncated": false,
+    "has_fulltext": true,
+    "cited_by_count": 0,
+    "reviewed_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.0,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "8",
+      "issue": "3",
+      "first_page": "28",
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_pulled": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10370",
+      "display_name": "Traffic and Road Safety",
+      "score": 0.9556000232696533,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2213",
+        "display_name": "Safety, Risk, Reliability and Quality"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10370",
+        "display_name": "Traffic and Road Safety",
+        "score": 0.9556000232696533,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2213",
+          "display_name": "Safety, Risk, Reliability and Quality"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10525",
+        "display_name": "Human-Automation Interaction and Safety",
+        "score": 0.02410000003874302,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3307",
+          "display_name": "Human Factors and Ergonomics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11099",
+        "display_name": "Autonomous Vehicle Technology and Safety",
+        "score": 0.01119999960064888,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2203",
+          "display_name": "Automotive Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/autonomous-vehicles",
+        "display_name": "autonomous vehicles",
+        "score": 0.8240000009536743
+      },
+      {
+        "id": "https://openalex.org/keywords/crash-severity",
+        "display_name": "accident severity",
+        "score": 0.9779999852180481
+      },
+      {
+        "id": "https://openalex.org/keywords/vehicle-automation-levels",
+        "display_name": "vehicle automation levels",
+        "score": 0.8529999852180481
+      },
+      {
+        "id": "https://openalex.org/keywords/association-rule-mining",
+        "display_name": "association rule mining",
+        "score": 0.7129999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/injury-risk-factors",
+        "display_name": "injury risk factors",
+        "score": 0.6890000104904175
+      },
+      {
+        "id": "https://openalex.org/keywords/speed",
+        "display_name": "speed",
+        "score": 0.5360000133514404
+      },
+      {
+        "id": "https://openalex.org/keywords/road-type",
+        "display_name": "road type",
+        "score": 0.8640000224113464
+      },
+      {
+        "id": "https://openalex.org/keywords/driver-characteristics",
+        "display_name": "driver characteristics",
+        "score": 0.8059999942779541
+      },
+      {
+        "id": "https://openalex.org/keywords/road-design",
+        "display_name": "road design",
+        "score": 0.652999997138977
+      },
+      {
+        "id": "https://openalex.org/keywords/driver-training",
+        "display_name": "driver training",
+        "score": 0.8059999942779541
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C183469790",
+        "wikidata": "https://www.wikidata.org/wiki/Q333501",
+        "display_name": "Crash",
+        "level": 2,
+        "score": 0.9082000255584717
+      },
+      {
+        "id": "https://openalex.org/C115901376",
+        "wikidata": "https://www.wikidata.org/wiki/Q184199",
+        "display_name": "Automation",
+        "level": 2,
+        "score": 0.8378999829292297
+      },
+      {
+        "id": "https://openalex.org/C2776654903",
+        "wikidata": "https://www.wikidata.org/wiki/Q2601463",
+        "display_name": "SAFER",
+        "level": 2,
+        "score": 0.6535000205039978
+      },
+      {
+        "id": "https://openalex.org/C105339364",
+        "wikidata": "https://www.wikidata.org/wiki/Q2297740",
+        "display_name": "Software deployment",
+        "level": 2,
+        "score": 0.5924000144004822
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.4884999990463257
+      },
+      {
+        "id": "https://openalex.org/C121704057",
+        "wikidata": "https://www.wikidata.org/wiki/Q352070",
+        "display_name": "Collision",
+        "level": 2,
+        "score": 0.4674000144004822
+      },
+      {
+        "id": "https://openalex.org/C3017944768",
+        "wikidata": "https://www.wikidata.org/wiki/Q1450463",
+        "display_name": "Poison control",
+        "level": 2,
+        "score": 0.4562000036239624
+      },
+      {
+        "id": "https://openalex.org/C22212356",
+        "wikidata": "https://www.wikidata.org/wiki/Q775325",
+        "display_name": "Transport engineering",
+        "level": 1,
+        "score": 0.45190000534057617
+      },
+      {
+        "id": "https://openalex.org/C87833898",
+        "wikidata": "https://www.wikidata.org/wiki/Q1060280",
+        "display_name": "Advanced driver assistance systems",
+        "level": 2,
+        "score": 0.42739999294281006
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.41999998688697815
+      },
+      {
+        "id": "https://openalex.org/C26517878",
+        "wikidata": "https://www.wikidata.org/wiki/Q228039",
+        "display_name": "Key (lock)",
+        "level": 2,
+        "score": 0.4016999900341034
+      },
+      {
+        "id": "https://openalex.org/C166735990",
+        "wikidata": "https://www.wikidata.org/wiki/Q1750812",
+        "display_name": "Human factors and ergonomics",
+        "level": 3,
+        "score": 0.3898000121116638
+      },
+      {
+        "id": "https://openalex.org/C187155963",
+        "wikidata": "https://www.wikidata.org/wiki/Q629029",
+        "display_name": "Occupational safety and health",
+        "level": 2,
+        "score": 0.33660000562667847
+      },
+      {
+        "id": "https://openalex.org/C38652104",
+        "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+        "display_name": "Computer security",
+        "level": 1,
+        "score": 0.31139999628067017
+      },
+      {
+        "id": "https://openalex.org/C2775924081",
+        "wikidata": "https://www.wikidata.org/wiki/Q55608371",
+        "display_name": "Control (management)",
+        "level": 2,
+        "score": 0.3091000020503998
+      },
+      {
+        "id": "https://openalex.org/C3017903533",
+        "wikidata": "https://www.wikidata.org/wiki/Q9687",
+        "display_name": "Motor vehicle crash",
+        "level": 4,
+        "score": 0.30790001153945923
+      },
+      {
+        "id": "https://openalex.org/C190385971",
+        "wikidata": "https://www.wikidata.org/wiki/Q373494",
+        "display_name": "Injury prevention",
+        "level": 3,
+        "score": 0.3019999861717224
+      },
+      {
+        "id": "https://openalex.org/C21457203",
+        "wikidata": "https://www.wikidata.org/wiki/Q4056293",
+        "display_name": "Process automation system",
+        "level": 3,
+        "score": 0.28610000014305115
+      },
+      {
+        "id": "https://openalex.org/C192209626",
+        "wikidata": "https://www.wikidata.org/wiki/Q190909",
+        "display_name": "Focus (optics)",
+        "level": 2,
+        "score": 0.2743000090122223
+      },
+      {
+        "id": "https://openalex.org/C2780864053",
+        "wikidata": "https://www.wikidata.org/wiki/Q5147495",
+        "display_name": "Collision avoidance",
+        "level": 3,
+        "score": 0.2540000081062317
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1007/s42421-026-00171-7",
+        "doi": "https://doi.org/10.1007/s42421-026-00171-7",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s42421-026-00171-7",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s42421-026-00171-7.pdf",
+        "source": {
+          "id": "https://openalex.org/S4387287236",
+          "display_name": "Data Science for Transportation",
+          "issn_l": "2948-135X",
+          "issn": [
+            "2948-135X",
+            "2948-1368"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Data Science for Transportation",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1007/s42421-026-00171-7",
+      "doi": "https://doi.org/10.1007/s42421-026-00171-7",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s42421-026-00171-7",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s42421-026-00171-7.pdf",
+      "source": {
+        "id": "https://openalex.org/S4387287236",
+        "display_name": "Data Science for Transportation",
+        "issn_l": "2948-135X",
+        "issn": [
+          "2948-135X",
+          "2948-1368"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "jufo-1",
+          "norway-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Data Science for Transportation",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/9",
+        "score": 0.7207000255584717,
+        "display_name": "Industry, innovation and infrastructure"
+      },
+      {
+        "id": "https://metadata.un.org/sdg/11",
+        "score": 0.5142999887466431,
+        "display_name": "Sustainable cities and communities"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W7172492174.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W7172492174.grobid-xml"
+    },
+    "referenced_works_count": 65,
+    "referenced_works": [
+      "https://openalex.org/W316935178",
+      "https://openalex.org/W388371152",
+      "https://openalex.org/W1506285740",
+      "https://openalex.org/W2024529169",
+      "https://openalex.org/W2037965136",
+      "https://openalex.org/W2099121150",
+      "https://openalex.org/W2214443289",
+      "https://openalex.org/W2552845912",
+      "https://openalex.org/W2554599086",
+      "https://openalex.org/W2764319616",
+      "https://openalex.org/W2799403119",
+      "https://openalex.org/W2804564465",
+      "https://openalex.org/W2910049262",
+      "https://openalex.org/W2918169289",
+      "https://openalex.org/W2981505244",
+      "https://openalex.org/W2985526402",
+      "https://openalex.org/W2991480924",
+      "https://openalex.org/W2997080534",
+      "https://openalex.org/W2998574808",
+      "https://openalex.org/W3006729183",
+      "https://openalex.org/W3095737551",
+      "https://openalex.org/W3107840358",
+      "https://openalex.org/W3125233784",
+      "https://openalex.org/W3128598722",
+      "https://openalex.org/W3135693734",
+      "https://openalex.org/W3167380958",
+      "https://openalex.org/W3181177996",
+      "https://openalex.org/W3181902122",
+      "https://openalex.org/W3185118411",
+      "https://openalex.org/W3196762487",
+      "https://openalex.org/W3200043954",
+      "https://openalex.org/W3212971833",
+      "https://openalex.org/W4251427757",
+      "https://openalex.org/W4256270777",
+      "https://openalex.org/W4282925169",
+      "https://openalex.org/W4293059602",
+      "https://openalex.org/W4294911770",
+      "https://openalex.org/W4296468670",
+      "https://openalex.org/W4298119686",
+      "https://openalex.org/W4301594910",
+      "https://openalex.org/W4310909069",
+      "https://openalex.org/W4312036099",
+      "https://openalex.org/W4318475160",
+      "https://openalex.org/W4360603354",
+      "https://openalex.org/W4389946494",
+      "https://openalex.org/W4391021576",
+      "https://openalex.org/W4391051988",
+      "https://openalex.org/W4392338539",
+      "https://openalex.org/W4394784393",
+      "https://openalex.org/W4395047736",
+      "https://openalex.org/W4396669836",
+      "https://openalex.org/W4399420642",
+      "https://openalex.org/W4399772534",
+      "https://openalex.org/W4402068382",
+      "https://openalex.org/W4403117087",
+      "https://openalex.org/W4403559820",
+      "https://openalex.org/W4403666905",
+      "https://openalex.org/W4403888623",
+      "https://openalex.org/W4404450313",
+      "https://openalex.org/W6891974911",
+      "https://openalex.org/W6921466713",
+      "https://openalex.org/W6943607018",
+      "https://openalex.org/W7046116350",
+      "https://openalex.org/W7163376789",
+      "https://openalex.org/W7167628471"
+    ],
+    "related_works": [
+      "https://openalex.org/W7165857191",
+      "https://openalex.org/W7134911408",
+      "https://openalex.org/W7162290067",
+      "https://openalex.org/W7167611197",
+      "https://openalex.org/W7117652941",
+      "https://openalex.org/W7162644744",
+      "https://openalex.org/W7164510989",
+      "https://openalex.org/W3178012085",
+      "https://openalex.org/W4387937865",
+      "https://openalex.org/W3103655276"
+    ],
+    "abstract_inverted_index": {
+      "Crash": [
+        0
+      ],
+      "severity": [
+        1,
+        130,
+        151,
+        177
+      ],
+      "remains": [
+        2
+      ],
+      "a": [
+        3,
+        23,
+        127
+      ],
+      "critical": [
+        4
+      ],
+      "issue": [
+        5
+      ],
+      "despite": [
+        6
+      ],
+      "rapid": [
+        7
+      ],
+      "advances": [
+        8
+      ],
+      "in": [
+        9,
+        122,
+        135,
+        161,
+        183
+      ],
+      "vehicle": [
+        10,
+        17
+      ],
+      "automation.": [
+        11
+      ],
+      "This": [
+        12
+      ],
+      "study": [
+        13
+      ],
+      "contributes": [
+        14
+      ],
+      "to": [
+        15,
+        90,
+        144
+      ],
+      "automated": [
+        16
+      ],
+      "(AV)": [
+        18
+      ],
+      "safety": [
+        19
+      ],
+      "research": [
+        20
+      ],
+      "by": [
+        21,
+        66,
+        150
+      ],
+      "analyzing": [
+        22
+      ],
+      "Texas": [
+        24,
+        184
+      ],
+      "crash": [
+        25,
+        49,
+        146,
+        176
+      ],
+      "dataset": [
+        26
+      ],
+      "that": [
+        27,
+        35
+      ],
+      "spans": [
+        28
+      ],
+      "multiple": [
+        29
+      ],
+      "automation": [
+        30,
+        67,
+        74,
+        79,
+        153
+      ],
+      "levels,": [
+        31
+      ],
+      "unlike": [
+        32
+      ],
+      "most": [
+        33
+      ],
+      "studies": [
+        34
+      ],
+      "focus": [
+        36
+      ],
+      "on": [
+        37,
+        93
+      ],
+      "California.": [
+        38
+      ],
+      "Using": [
+        39
+      ],
+      "Association": [
+        40
+      ],
+      "Rules": [
+        41
+      ],
+      "Mining": [
+        42
+      ],
+      "(ARM),": [
+        43
+      ],
+      "it": [
+        44
+      ],
+      "identifies": [
+        45
+      ],
+      "key": [
+        46
+      ],
+      "relationships": [
+        47
+      ],
+      "among": [
+        48
+      ],
+      "factors,": [
+        50
+      ],
+      "such": [
+        51
+      ],
+      "as": [
+        52
+      ],
+      "speed,": [
+        53
+      ],
+      "road": [
+        54
+      ],
+      "type,": [
+        55,
+        57
+      ],
+      "collision": [
+        56
+      ],
+      "lighting,": [
+        58
+      ],
+      "weather,": [
+        59
+      ],
+      "and": [
+        60,
+        77,
+        96,
+        148,
+        152,
+        167,
+        178,
+        185
+      ],
+      "driver": [
+        61,
+        165
+      ],
+      "characteristics.": [
+        62
+      ],
+      "Crashes": [
+        63,
+        115
+      ],
+      "were": [
+        64,
+        87,
+        119
+      ],
+      "grouped": [
+        65
+      ],
+      "level:": [
+        68
+      ],
+      "assisted": [
+        69,
+        83
+      ],
+      "driving": [
+        70
+      ],
+      "(Level": [
+        71,
+        75
+      ],
+      "1),": [
+        72
+      ],
+      "partial": [
+        73,
+        100
+      ],
+      "2),": [
+        76
+      ],
+      "conditional–full": [
+        78
+      ],
+      "(Levels": [
+        80
+      ],
+      "3–5).": [
+        81
+      ],
+      "In": [
+        82
+      ],
+      "driving,": [
+        84
+      ],
+      "severe": [
+        85
+      ],
+      "injuries": [
+        86
+      ],
+      "frequently": [
+        88
+      ],
+      "linked": [
+        89
+      ],
+      "high": [
+        91
+      ],
+      "speeds": [
+        92,
+        103
+      ],
+      "narrow": [
+        94
+      ],
+      "roads": [
+        95
+      ],
+      "older": [
+        97
+      ],
+      "drivers.": [
+        98
+      ],
+      "For": [
+        99
+      ],
+      "automation,": [
+        101
+      ],
+      "moderate": [
+        102
+      ],
+      "combined": [
+        104
+      ],
+      "with": [
+        105
+      ],
+      "poor": [
+        106
+      ],
+      "traffic": [
+        107
+      ],
+      "control": [
+        108
+      ],
+      "or": [
+        109
+      ],
+      "complex": [
+        110
+      ],
+      "layouts": [
+        111
+      ],
+      "heightened": [
+        112
+      ],
+      "injury": [
+        113
+      ],
+      "risk.": [
+        114
+      ],
+      "involving": [
+        116
+      ],
+      "Levels": [
+        117
+      ],
+      "3–5": [
+        118
+      ],
+      "not": [
+        120
+      ],
+      "observed": [
+        121,
+        129
+      ],
+      "the": [
+        123
+      ],
+      "KA": [
+        124
+      ],
+      "category,": [
+        125
+      ],
+      "suggesting": [
+        126
+      ],
+      "lower": [
+        128
+      ],
+      "profile": [
+        131
+      ],
+      "for": [
+        132
+      ],
+      "higher-automation": [
+        133
+      ],
+      "crashes": [
+        134
+      ],
+      "this": [
+        136
+      ],
+      "dataset.": [
+        137
+      ],
+      "An": [
+        138
+      ],
+      "interactive": [
+        139
+      ],
+      "tool": [
+        140
+      ],
+      "was": [
+        141
+      ],
+      "also": [
+        142
+      ],
+      "developed": [
+        143
+      ],
+      "visualize": [
+        145
+      ],
+      "locations": [
+        147
+      ],
+      "factors": [
+        149
+      ],
+      "level.": [
+        154
+      ],
+      "Policy": [
+        155
+      ],
+      "recommendations": [
+        156
+      ],
+      "include": [
+        157
+      ],
+      "improving": [
+        158
+      ],
+      "roadway": [
+        159
+      ],
+      "design": [
+        160
+      ],
+      "high-risk": [
+        162
+      ],
+      "areas,": [
+        163
+      ],
+      "enhancing": [
+        164
+      ],
+      "training,": [
+        166
+      ],
+      "advancing": [
+        168
+      ],
+      "AV": [
+        169,
+        181
+      ],
+      "system": [
+        170
+      ],
+      "safety.": [
+        171
+      ],
+      "These": [
+        172
+      ],
+      "strategies": [
+        173
+      ],
+      "can": [
+        174
+      ],
+      "reduce": [
+        175
+      ],
+      "support": [
+        179
+      ],
+      "safer": [
+        180
+      ],
+      "deployment": [
+        182
+      ],
+      "beyond.": [
+        186
+      ]
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7172492174",
+    "counts_by_year": [],
+    "updated_date": "2026-11-22T12:46:00.618207",
+    "created_date": "2026-08-06T00:00:00"
+  }
+}

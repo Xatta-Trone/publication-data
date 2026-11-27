@@ -1,0 +1,843 @@
+{
+  "doi": "10.1016/j.cities.2026.107384",
+  "fetched_at": "2026-11-27T05:57:08+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2026-11-12T07:41:50Z",
+      "timestamp": 1794469310265,
+      "version": "4.9.1"
+    },
+    "reference-count": 50,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2026-11-01T00:00:00Z",
+          "timestamp": 1793491200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2026-11-01T00:00:00Z",
+          "timestamp": 1793491200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2026-11-01T00:00:00Z",
+          "timestamp": 1793491200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2026-11-01T00:00:00Z",
+          "timestamp": 1793491200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2026-11-01T00:00:00Z",
+          "timestamp": 1793491200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2026-11-01T00:00:00Z",
+          "timestamp": 1793491200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2026-11-01T00:00:00Z",
+          "timestamp": 1793491200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Cities"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cities.2026.107384",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2026-07-08T10:47:55Z",
+      "timestamp": 1783507675000
+    },
+    "page": "107384",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "C",
+    "title": [
+      "Toward safer micromobility: Identifying urban e-scooter crash severity factors through automated machine learning and crash narrative analysis"
+    ],
+    "prefix": "10.1016",
+    "volume": "178",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6152-8808",
+        "authenticated-orcid": false,
+        "given": "Jinli",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-4894-9131",
+        "authenticated-orcid": false,
+        "given": "Swastika",
+        "family": "Barua",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1660-9764",
+        "authenticated-orcid": false,
+        "given": "Rohit",
+        "family": "Chakraborty",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0005",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2025.108018",
+        "article-title": "Understanding e-scooter rider crash severity using a built environment typology: A two-stage clustering and random parameter model analysis",
+        "volume": "215",
+        "author": "Abdi",
+        "year": "2025",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0010",
+        "first-page": "1",
+        "article-title": "A priority based multi-level heterogeneity modelling framework for vulnerable road users",
+        "author": "Abdulrazaq",
+        "year": "2025",
+        "journal-title": "Transportmetrica A: Transport Science"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1016/j.iatssr.2025.03.004",
+        "article-title": "E-scooter crash severity in the United Kingdom: A comparative analysis using machine learning techniques and random parameters logit with heterogeneity in means and variances",
+        "volume": "49",
+        "author": "Agheli",
+        "year": "2025",
+        "journal-title": "IATSS Research"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0020",
+        "first-page": "187",
+        "author": "Angarita-Zapata",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0025",
+        "first-page": "1",
+        "article-title": "Automated and explainable artificial intelligence to enhance prediction of pedestrian injury severity",
+        "author": "Antariksa",
+        "year": "2025",
+        "journal-title": "IEEE Transactions on Intelligent Transportation Systems"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1136/injuryprev-2016-042045",
+        "article-title": "The role of intersection and street design on severity of bicycle-motor vehicle crashes",
+        "volume": "23",
+        "author": "Asgarzadeh",
+        "year": "2017",
+        "journal-title": "Injury Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1080/15389588.2022.2030057",
+        "article-title": "Modeling factors contributing to dockless e-scooter injury accidents in Austin, Texas",
+        "volume": "23",
+        "author": "Azimian",
+        "year": "2022",
+        "journal-title": "Traffic Injury Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "1531",
+        "DOI": "10.1016/j.ajem.2019.05.003",
+        "article-title": "Emergency department visits for electric scooter-related injuries after introduction of an urban rental program",
+        "volume": "37",
+        "author": "Badeau",
+        "year": "2019",
+        "journal-title": "The American Journal of Emergency Medicine"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0050",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2022.106833",
+        "article-title": "Web content mining analysis of e-scooter crash causes and implications in Germany",
+        "volume": "178",
+        "author": "Brauner",
+        "year": "2022",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "24990",
+        "DOI": "10.1109/JSTARS.2025.3603901",
+        "article-title": "Crowdsourcing data engine driven deep adaption network for global urban green space changes monitoring",
+        "volume": "18",
+        "author": "Chen",
+        "year": "2025",
+        "journal-title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "256",
+        "DOI": "10.1016/j.jsr.2020.12.016",
+        "article-title": "Severity of e-scooter rider injuries associated with trip characteristics",
+        "volume": "76",
+        "author": "Cicchino",
+        "year": "2021",
+        "journal-title": "Journal of Safety Research"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0065",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107533",
+        "article-title": "Unraveling the relation between cycling accidents and built environment typologies: Capturing spatial heterogeneity through a latent class discrete outcome model",
+        "volume": "200",
+        "author": "Costa",
+        "year": "2024",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "449",
+        "DOI": "10.1177/03611981211002523",
+        "article-title": "Topic models from crash narrative reports of motorcycle crash causation study",
+        "volume": "2675",
+        "author": "Das",
+        "year": "2021",
+        "journal-title": "Transportation Research Record: Journal of the Transportation Research Board"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "575",
+        "DOI": "10.1177/03611981231185770",
+        "article-title": "Case study on the traffic collision patterns of E-scooter riders",
+        "volume": "2678",
+        "author": "Das",
+        "year": "2024",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "349",
+        "DOI": "10.1177/03611981221121261",
+        "article-title": "News media mining to explore speed-crash-traffic association during COVID-19",
+        "volume": "2678",
+        "author": "Das",
+        "year": "2024",
+        "journal-title": "Transportation Research Record: Journal of the Transportation Research Board"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0085",
+        "series-title": "AutoGluon-tabular: Robust and accurate AutoML for structured data",
+        "author": "Erickson",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "4847",
+        "DOI": "10.1007/s00068-022-02019-5",
+        "article-title": "Risk assessment, consequences, and epidemiology of electric scooter accidents admitted to an emergency department: A prospective observational study",
+        "volume": "48",
+        "author": "Gan-El",
+        "year": "2022",
+        "journal-title": "European Journal of Trauma and Emergency Surgery"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0095",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2023.107408",
+        "article-title": "Injury severity analysis of single-vehicle and two-vehicle crashes with electric scooters: A random parameters approach with heterogeneity in means and variances",
+        "volume": "195",
+        "author": "Gao",
+        "year": "2024",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0100",
+        "series-title": "BERTopic: Neural topic modeling with a class-based TF-IDF procedure",
+        "author": "Grootendorst",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0105",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.scs.2022.103982",
+        "article-title": "Investigating the association between neighbourhood characteristics and e-scooter safety",
+        "volume": "83",
+        "author": "Heydari",
+        "year": "2022",
+        "journal-title": "Sustainable Cities and Society"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "1150",
+        "DOI": "10.1177/03611981211032216",
+        "article-title": "Injury burden of introducing E-scooters: A review of E-scooter injury studies using retrospective review of emergency department records, 2015–2019",
+        "volume": "2675",
+        "author": "Iroz-Elardo",
+        "year": "2021",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "4247",
+        "DOI": "10.1016/j.trpro.2016.05.396",
+        "article-title": "Exploration of vehicle impact speed–injury severity relationships for application in safer road design",
+        "volume": "14",
+        "author": "Jurewicz",
+        "year": "2016",
+        "journal-title": "Transportation Research Procedia"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0120",
+        "series-title": "Lightgbm: A highly efficient gradient boosting decision tree",
+        "author": "Ke",
+        "year": "2017"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.cities.2026.107384_bb0125",
+        "first-page": "117",
+        "article-title": "Accident mechanisms and injury patterns in e-scooter users: A retrospective analysis and comparison with cyclists",
+        "volume": "118",
+        "author": "Kleinertz",
+        "year": "2021",
+        "journal-title": "Deutsches Ärzteblatt International"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "706",
+        "DOI": "10.1038/s41598-022-25448-z",
+        "article-title": "Risk factors and injury patterns of e-scooter associated injuries in Germany",
+        "volume": "13",
+        "author": "Kleinertz",
+        "year": "2023",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0135",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0255828",
+        "article-title": "Crash severity analysis of vulnerable road users using machine learning",
+        "volume": "16",
+        "author": "Komol",
+        "year": "2021",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1016/j.trf.2024.07.024",
+        "article-title": "The role of innovative visibility aids on e-scooter riders’ conspicuity in daylight",
+        "volume": "106",
+        "author": "Komova",
+        "year": "2024",
+        "journal-title": "Transportation Research Part F: Traffic Psychology and Behaviour"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2020.105899",
+        "article-title": "Discovering latent themes in traffic fatal crash narratives using text mining analytics and network topology",
+        "volume": "150",
+        "author": "Kwayu",
+        "year": "2021",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "767",
+        "DOI": "10.1016/j.ijtst.2021.10.005",
+        "article-title": "Automatic topics extraction from crowdsourced cyclists near-miss and collision reports using text mining and artificial neural networks",
+        "volume": "11",
+        "author": "Kwayu",
+        "year": "2022",
+        "journal-title": "International Journal of Transportation Science and Technology"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "3533",
+        "DOI": "10.1007/s12205-024-1335-6",
+        "article-title": "Analysis of E-scooter risk factors by road types on different speed levels",
+        "volume": "28",
+        "author": "Kwon",
+        "year": "2024",
+        "journal-title": "KSCE Journal of Civil Engineering"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1016/j.ajem.2021.02.019",
+        "article-title": "Characterization of electric scooter injuries over 27 months at an urban level 1 trauma center",
+        "volume": "45",
+        "author": "Lavoie-Gagne",
+        "year": "2021",
+        "journal-title": "The American Journal of Emergency Medicine"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0165",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ssci.2022.105769",
+        "article-title": "Injuries and risk factors associated with bicycle and electric bike use in China: A systematic review and meta-analysis",
+        "volume": "152",
+        "author": "Li",
+        "year": "2022",
+        "journal-title": "Safety Science"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0170",
+        "series-title": "A unified approach to interpreting model predictions",
+        "author": "Lundberg",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0175",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2020.105954",
+        "article-title": "E-scooter safety: The riding risk analysis based on mobile sensing data",
+        "volume": "151",
+        "author": "Ma",
+        "year": "2021",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "662",
+        "DOI": "10.1177/03611981251376371",
+        "article-title": "Crash severity risk modeling strategies under data imbalance",
+        "volume": "2680",
+        "author": "Mamun",
+        "year": "2026",
+        "journal-title": "Transportation Research Record: Journal of the Transportation Research Board"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "1207",
+        "DOI": "10.1007/s00402-020-03589-y",
+        "article-title": "Incidence and severity of electric scooter related injuries after introduction of an urban rental programme in Vienna: A retrospective multicentre study",
+        "volume": "141",
+        "author": "Moftakhar",
+        "year": "2021",
+        "journal-title": "Archives of Orthopaedic and Trauma Surgery"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.jsr.2025.06.011",
+        "article-title": "Exploring e-scooter risk factors based on interpretable machine learning framework",
+        "volume": "94",
+        "author": "Pervez",
+        "year": "2025",
+        "journal-title": "Journal of Safety Research"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0195",
+        "article-title": "CatBoost: unbiased boosting with categorical features",
+        "volume": "31",
+        "author": "Prokhorenkova",
+        "year": "2018",
+        "journal-title": "Advances in neural information processing systems"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0200",
+        "series-title": "Sentence-bert: Sentence embeddings using siamese bert-networks, in: Proceedings of the 2019 conference on empirical methods in natural language processing and the 9th international joint conference on natural language processing (EMNLP-IJCNLP)",
+        "first-page": "3982",
+        "author": "Reimers",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1016/j.jsr.2021.03.005",
+        "article-title": "Comparison of motor vehicle-involved e-scooter and bicycle crashes using standardized crash typology",
+        "volume": "77",
+        "author": "Shah",
+        "year": "2021",
+        "journal-title": "Journal of Safety Research"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1084",
+        "DOI": "10.1016/j.joms.2020.09.026",
+        "article-title": "Intoxication is a significant risk factor for severe Craniomaxillofacial injuries in standing electric scooter accidents",
+        "volume": "79",
+        "author": "Shiffler",
+        "year": "2021",
+        "journal-title": "Journal of Oral and Maxillofacial Surgery"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0215",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.cities.2026.107017",
+        "article-title": "Understanding electric scooter safety through driver’s lens using protection motivation theory",
+        "volume": "173",
+        "author": "Sodha",
+        "year": "2026",
+        "journal-title": "Cities"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0220",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2021.106466",
+        "article-title": "Electric scooters accidents: Analyses of two Swedish accident data sets",
+        "volume": "163",
+        "author": "Stigson",
+        "year": "2021",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "443",
+        "DOI": "10.1080/19439962.2023.2230544",
+        "article-title": "Exploring the heterogeneities of factors affecting e-bicyclist severities in delivery e-scooter crashes",
+        "volume": "16",
+        "author": "Sun",
+        "year": "2024",
+        "journal-title": "Journal of Transportation Safety & Security"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0230",
+        "series-title": "E-scooter crash data analysis towards E-scooter automatic emergency braking system design and validation for automated vehicles*, in: 2024 IEEE intelligent vehicles symposium (IV)",
+        "author": "Thapa",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0235",
+        "article-title": "Unveiling systemic risks in sustainable safety management: Integrating BERTopic, LLM, and SNA for accident text mining",
+        "volume": "18",
+        "author": "Wang",
+        "year": "2026",
+        "journal-title": "Sustainability"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "41294",
+        "DOI": "10.1038/s41598-025-25142-w",
+        "article-title": "Application of text mining and causal analysis for risk identification in air traffic control safety operations",
+        "volume": "15",
+        "author": "Wang",
+        "year": "2025",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1016/j.jsr.2023.02.002",
+        "article-title": "What factors contribute to e-scooter crashes: A first look using a naturalistic riding approach",
+        "volume": "85",
+        "author": "White",
+        "year": "2023",
+        "journal-title": "Journal of Safety Research"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0250",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2020.105608",
+        "article-title": "Safety of micro-mobility: Analysis of E-scooter crashes by mining news reports",
+        "volume": "143",
+        "author": "Yang",
+        "year": "2020",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.cities.2026.107384_bb0255",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1061/JCEMD4.COENG-15499",
+        "article-title": "Uncovering the organizational vulnerability toward construction project accidents: BERTopic-based text mining analysis",
+        "volume": "151",
+        "author": "Zhang",
+        "year": "2025",
+        "journal-title": "Journal of Construction Engineering and Management"
+      }
+    ],
+    "container-title": [
+      "Cities"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0264275126006165?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0264275126006165?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          13
+        ]
+      ],
+      "date-time": "2026-08-13T11:24:31Z",
+      "timestamp": 1786620271000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006165"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11
+        ]
+      ]
+    },
+    "references-count": 50,
+    "alternative-id": [
+      "S0264275126006165"
+    ],
+    "URL": "https://doi.org/10.1016/j.cities.2026.107384",
+    "relation": {},
+    "ISSN": [
+      "0264-2751"
+    ],
+    "issn-type": [
+      {
+        "value": "0264-2751",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Toward safer micromobility: Identifying urban e-scooter crash severity factors through automated machine learning and crash narrative analysis",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Cities",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cities.2026.107384",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "107384"
+  }
+}

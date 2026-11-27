@@ -1,0 +1,856 @@
+{
+  "doi": "10.1016/j.jsr.2025.10.009",
+  "fetched_at": "2026-11-27T05:57:08+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          13
+        ]
+      ],
+      "date-time": "2026-11-13T02:31:54Z",
+      "timestamp": 1794537114865,
+      "version": "4.9.1"
+    },
+    "reference-count": 63,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2025-12-01T00:00:00Z",
+          "timestamp": 1764547200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2025-12-01T00:00:00Z",
+          "timestamp": 1764547200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Safety Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jsr.2025.10.009",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          18
+        ]
+      ],
+      "date-time": "2025-10-18T22:01:38Z",
+      "timestamp": 1760824898000
+    },
+    "page": "301-317",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "special_numbering": "C",
+    "title": [
+      "Crash risk patterns among older bicyclists: Insights from hybrid XGBoost-Cluster Correspondence Analysis"
+    ],
+    "prefix": "10.1016",
+    "volume": "95",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0007-8534-3633",
+        "authenticated-orcid": false,
+        "given": "Mahmuda Sultana",
+        "family": "Mimi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9536-3108",
+        "authenticated-orcid": false,
+        "given": "Abbas",
+        "family": "Sheykhfard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1016/j.aap.2018.03.003",
+        "article-title": "Cycling injury risk in London: A case-control study exploring the impact of cycle volumes, motor vehicle volumes, and road characteristics including speed limits",
+        "volume": "117",
+        "author": "Aldred",
+        "year": "2018",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.3141/1878-13",
+        "article-title": "Logistic Model for Rating Urban Bicycle Route Safety",
+        "volume": "1878",
+        "author": "Allen-Munley",
+        "year": "2004",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0015",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2023.107339",
+        "article-title": "Exploring temporal instability effects on bicyclist injury severities determinants for intersection and non-intersection-related crashes",
+        "volume": "194",
+        "author": "Alnawmasi",
+        "year": "2024",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jsr.2025.10.009_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "556",
+        "DOI": "10.1002/ajim.22849",
+        "article-title": "The impact of weather, road surface, time-of-day, and light conditions on severity of bicycle-motor vehicle crash injuries",
+        "volume": "61",
+        "author": "Asgarzadeh",
+        "year": "2018",
+        "journal-title": "American Journal of Industrial Medicine"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jsr.2025.10.009_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1001/jamaoto.2018.3351",
+        "article-title": "Association between conventional Bicycle helmet use and Facial Injuries after Bicycle Crashes",
+        "volume": "145",
+        "author": "Benjamin",
+        "year": "2019",
+        "journal-title": "JAMA Otolaryngology-Head & Neck Surgery"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0030",
+        "unstructured": "Carter, D. L., & Council, F. M. (2006). Factors Contributing to Pedestrian and Bicycle Crashes on Rural Highways. https://www.hsisinfo.org/pdf/hsis-rural-pedbike-final-report.pdf."
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0035",
+        "article-title": "CDC WISQARS - Web-based Injury Statistics Query and Reporting System",
+        "author": "Centers for Disease Control and Prevention",
+        "year": "2022",
+        "journal-title": "Centers for Disease Control and Prevention"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1016/j.trc.2014.08.018",
+        "article-title": "Safety-based path finding in urban areas for older drivers and bicyclists",
+        "volume": "48",
+        "author": "Chandra",
+        "year": "2014",
+        "journal-title": "Transportation Research Part C: Emerging Technologies"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0045",
+        "unstructured": "Chang, W., Cheng, J., Allaire, J. J., Sievert, C., Schloerke, B., Xie, Y., Allen, J., McPherson, J., Dipert, A., & Borges, B. (2024). shiny: Web Application Framework for R. https://shiny.posit.co/."
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "336",
+        "DOI": "10.1016/j.ssci.2015.06.016",
+        "article-title": "Built environment factors in explaining the automobile-involved bicycle crash frequencies: A spatial statistic approach",
+        "volume": "79",
+        "author": "Chen",
+        "year": "2015",
+        "journal-title": "Safety Science"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1016/j.aap.2015.11.002",
+        "article-title": "Built environment effects on cyclist injury severity in automobile-involved bicycle crashes",
+        "volume": "86",
+        "author": "Chen",
+        "year": "2016",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0050",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, C., Bialkowska-Jelinska, E., Williams, K., Lin, P.-S., Chintamani Shindgikar, S., Boyd, T., & Bonyani, G. (2024). Assessment of Pedestrian and Bicycle Safety at Commercial Driveways along Major Corridors. 34–46. https://doi.org/10.1061/9780784485514.004.",
+        "DOI": "10.1061/9780784485514.004"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jsr.2025.10.009_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1177/03611981211037891",
+        "article-title": "Identifying patterns of Key Factors in Sun Glare-Related Traffic Crashes",
+        "volume": "2676",
+        "author": "Das",
+        "year": "2022",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.jsr.2022.08.010",
+        "article-title": "Factors impacting bike crash severity in urban areas",
+        "volume": "83",
+        "author": "Dash",
+        "year": "2022",
+        "journal-title": "Journal of Safety Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1504/IJHFE.2016.076561",
+        "article-title": "Crossing time of older cyclists at signalised junctions",
+        "volume": "4",
+        "author": "De Waard",
+        "year": "2016",
+        "journal-title": "International Journal of Human Factors and Ergonomics"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0080",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2020.105652",
+        "article-title": "Roles of infrastructure and land use in bicycle crash exposure and frequency: A case study using Greater London bike sharing data",
+        "volume": "144",
+        "author": "Ding",
+        "year": "2020",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0085",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dubbeldam, R., Baten, C., Buurke, J. H., & Rietman, J. S. (2017). SOFIE, a bicycle that supports older cyclists? (01639323). 105, pp 117-123. https://doi.org/10.1016/j.aap.2016.09.006.",
+        "DOI": "10.1016/j.aap.2016.09.006"
+      },
+      {
+        "issue": "3–4",
+        "key": "10.1016/j.jsr.2025.10.009_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "264",
+        "DOI": "10.1504/IJHFE.2016.083520",
+        "article-title": "The acceptance of a prototype rear-view assistant for older cyclists: Two modalities of warnings compared",
+        "volume": "4",
+        "author": "Engbers",
+        "year": "2016",
+        "journal-title": "International Journal of Human Factors and Ergonomics"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "522",
+        "DOI": "10.1016/j.trf.2018.05.020",
+        "article-title": "Characteristics of older cyclists (65+) and factors associated with self-reported cycling accidents in the Netherlands",
+        "volume": "56",
+        "author": "Engbers",
+        "year": "2018",
+        "journal-title": "Transportation Research Part F: Traffic Psychology and Behaviour"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1504/IJHFE.2012.045274",
+        "article-title": "Improving the visibility of bicycle infrastructure",
+        "volume": "1",
+        "author": "Fabriek",
+        "year": "2012",
+        "journal-title": "International Journal of Human Factors and Ergonomics"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0105",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.trip.2022.100574",
+        "article-title": "Micromobility injury events: Motor vehicle crashes and other transportation systems factors",
+        "volume": "14",
+        "author": "Fang",
+        "year": "2022",
+        "journal-title": "Transportation Research Interdisciplinary Perspectives"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0110",
+        "unstructured": "Federal Highway Administration. (2022). National Household Travel Survey. https://nhts.ornl.gov/person-trips."
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/j.trd.2015.02.005",
+        "article-title": "Effects of e-bikes on bicycle use and mode share",
+        "volume": "36",
+        "author": "Fyhri",
+        "year": "2015",
+        "journal-title": "Transportation Research Part D: Transport and Environment"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "59",
+        "DOI": "10.1016/j.trf.2024.05.017",
+        "article-title": "How do vulnerable road users evaluate automated vehicles in urban traffic? a focus group study with pedestrians, cyclists, e-scooter riders, older adults, and people with walking disabilities",
+        "volume": "104",
+        "author": "Harkin",
+        "year": "2024",
+        "journal-title": "Transportation Research Part F: Traffic Psychology and Behaviour"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/j.trf.2018.02.008",
+        "article-title": "Investigating cycling kinematics and braking maneuvers in the real world: E-bikes make cyclists move faster, brake harder, and experience new conflicts",
+        "volume": "54",
+        "author": "Huertas-Leyva",
+        "year": "2018",
+        "journal-title": "Transportation Research Part F: Traffic Psychology and Behaviour"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0130",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kachadoorian, C., Mineta Transportation Institute, Office of the Assistant Secretary for Research and Technology, & California Department of Transportation. (2021). Cycling Past 50: A Closer Look into the World of Older Cyclists (01771675; Final Report, p. 98p) [Digital/other]. https://doi.org/10.31979/mti.2021.2112.",
+        "DOI": "10.31979/mti.2021.2112"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0135",
+        "unstructured": "Kachadoorian, C., Mineta Transportation Institute, Office of the Assistant Secretary for Research and Technology, & California Department of Transportation. (2023). Cycling Past 50: A Closer Look into the World of Older Cyclists, Year 4 Survey (01904462; p. 204p) [Digital/other]. https://transweb.sjsu.edu/research/2157.1-Older-Adults-Cycling-Active-Mobility."
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.jsr.2025.10.009_b0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "775",
+        "DOI": "10.1177/03611981221097395",
+        "article-title": "In-Depth Understanding of Near-Crash events through Pattern Recognition",
+        "volume": "2676",
+        "author": "Kong",
+        "year": "2022",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jsr.2025.10.009_b0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.1080/19439962.2019.1628140",
+        "article-title": "Cyclist injury severity analysis with mixed-logit models at intersections and nonintersection locations",
+        "volume": "13",
+        "author": "Lin",
+        "year": "2021",
+        "journal-title": "Journal of Transportation Safety & Security"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v091.i10",
+        "article-title": "Beyond Tandem Analysis: Joint Dimension Reduction and Clustering in R",
+        "volume": "91",
+        "author": "Markos",
+        "year": "2019",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0155",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Martínez-Ruiz, V., Jiménez-Mejías, E., Luna-del-Castillo, J. de D., García-Martín, M., Jiménez-Moleón, J. J., & Lardelli-Claret, P. (2014). Association of cyclists’ age and sex with risk of involvement in a crash before and after adjustment for cycling exposure. Accident Analysis & Prevention, 62, 259–267. https://doi.org/10.1016/j.aap.2013.10.011.",
+        "DOI": "10.1016/j.aap.2013.10.011"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1080/15389588.2017.1336663",
+        "article-title": "Features of fatal injuries in older cyclists in vehicle–bicycle accidents in Japan",
+        "volume": "19",
+        "author": "Matsui",
+        "year": "2018",
+        "journal-title": "Traffic Injury Prevention"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0165",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2024.107815",
+        "article-title": "Exploring patterns in older pedestrian involved crashes during nighttime",
+        "volume": "209",
+        "author": "Mimi",
+        "year": "2025",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jsr.2025.10.009_b0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "621",
+        "DOI": "10.1016/j.aap.2010.09.015",
+        "article-title": "Mixed logit analysis of bicyclist injury severity resulting from motor vehicle crashes at intersection and non-intersection locations",
+        "volume": "43",
+        "author": "Moore",
+        "year": "2011",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0175",
+        "unstructured": "National Highway Traffic Safety Administration. (2021). Traffic Safety Facts, 2019 data – bicyclists and other cyclists. Washington, DC: US Department of Transportation; 2021 (No. DOT HS 813 197)."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.3141/2555-12",
+        "article-title": "Road Lighting Effects on Bicycle and Pedestrian Accident Frequency: Case Study in Montreal, Quebec, Canada",
+        "volume": "2555",
+        "author": "Niaki",
+        "year": "2016",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jsr.2025.10.009_bib312",
+        "doi-asserted-by": "crossref",
+        "first-page": "496",
+        "DOI": "10.1111/j.1600-0838.2011.01299.x",
+        "article-title": "Health benefits of cycling: a systematic review",
+        "volume": "21",
+        "author": "Oja",
+        "year": "2011",
+        "journal-title": "Scand J Med Sci Sports"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0185",
+        "first-page": "278",
+        "article-title": "Bicycle injuries and helmet use: A systematic review and meta-analysis",
+        "volume": "46",
+        "author": "Olivier",
+        "year": "2017",
+        "journal-title": "International Journal of Epidemiology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "97",
+        "DOI": "10.1353/gpr.2021.0005",
+        "article-title": "Toward a Rural Vision Zero: A Qualitative Exploration of Bicyclist and Pedestrian Traffic fatalities in Small-Town and Rural Nebraska",
+        "volume": "31",
+        "author": "Piatkowski",
+        "year": "2021",
+        "journal-title": "Great Plains Research"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1016/j.aap.2017.04.020",
+        "article-title": "The effect of crash characteristics on cyclist injuries: An analysis of Virginia automobile-bicycle crash data",
+        "volume": "104",
+        "author": "Robartes",
+        "year": "2017",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.jsr.2025.10.009_b0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "1666",
+        "DOI": "10.1016/j.aap.2011.03.025",
+        "article-title": "The statistical analysis of highway crash-injury severities: A review and assessment of methodological alternatives",
+        "volume": "43",
+        "author": "Savolainen",
+        "year": "2011",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jsr.2025.10.009_b0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "853",
+        "DOI": "10.1016/j.aap.2010.11.005",
+        "article-title": "Road factors and bicycle–motor vehicle crashes at unsignalized priority intersections",
+        "volume": "43",
+        "author": "Schepers",
+        "year": "2011",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0215",
+        "unstructured": "Schepers, P., Klein Wolt, K., & Fishman, E. (2018). The Safety of E-Bikes in The Netherlands (Discussion Paper No. ITF Discussion Paper 2018/07). International Transport Forum, OECD. https://www.itf-oecd.org/sites/default/files/docs/safety-e-bikes-the-netherlands.pdf."
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1016/j.trf.2020.03.021",
+        "article-title": "The perception of bicycle crashes with and without motor vehicles: Which crash types do older and middle-aged cyclists fear most?",
+        "volume": "71",
+        "author": "Schepers",
+        "year": "2020",
+        "journal-title": "Transportation Research Part F: Traffic Psychology and Behaviour"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jsr.2025.10.009_b0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "647",
+        "DOI": "10.1016/j.jclinepi.2009.08.007",
+        "article-title": "A correspondence analysis revealed frailty deficits aggregate and are multidimensional",
+        "volume": "63",
+        "author": "Sourial",
+        "year": "2010",
+        "journal-title": "Journal of Clinical Epidemiology"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0225",
+        "unstructured": "Tark, J. (2022). Micromobility products-related deaths, injuries, and hazard patterns: 2017–2021. United States Consumer Product Safety Commission Report."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.3141/2236-08",
+        "article-title": "Safety Performance Functions for Bicycle Crashes in New Zealand and Australia",
+        "volume": "2236",
+        "author": "Turner",
+        "year": "2011",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "544",
+        "DOI": "10.1177/03611981211036681",
+        "article-title": "Effect of Various speed Management strategies on Bicycle Crashes for Urban roads in Central Florida",
+        "volume": "2676",
+        "author": "Ugan",
+        "year": "2022",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0240",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jth.2019.100605",
+        "article-title": "Differences in Life Space Area between older Non-Cyclists, conventional Cyclists and E-Bikers",
+        "volume": "14",
+        "author": "Van Cauwenberg",
+        "year": "2019",
+        "journal-title": "Journal of Transport & Health"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0245",
+        "first-page": "227",
+        "article-title": "Effects of e-biking on older adults’ biking and walking frequencies, health, functionality and life space area: A prospective observational study",
+        "volume": "156",
+        "author": "Van Cauwenberg",
+        "year": "2022",
+        "journal-title": "Transportation Research Part A: Policy and Practice"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "158",
+        "DOI": "10.1007/s11336-016-9514-0",
+        "article-title": "Cluster Correspondence Analysis",
+        "volume": "82",
+        "author": "van de Velden",
+        "year": "2017",
+        "journal-title": "Psychometrika"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0255",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.aap.2021.106201",
+        "article-title": "Traffic conflicts involving speed-pedelecs (fast electric bicycles): A naturalistic riding study",
+        "volume": "158",
+        "author": "Vlakveld",
+        "year": "2021",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "issue": "38",
+        "key": "10.1016/j.jsr.2025.10.009_b0260",
+        "article-title": "Influence of type of traffic control on injury severity in bicycle-motor vehicle crashes at intersections",
+        "volume": "2672",
+        "author": "Wahi",
+        "year": "2018",
+        "journal-title": "Transportation Research Record"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jsr.2025.10.009_b0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "769",
+        "DOI": "10.1080/00140139.2020.1755058",
+        "article-title": "Cycling on the edge: The effects of edge lines, slanted kerbstones, shoulder, and edge strips on cycling behaviour of cyclists older than 50 years",
+        "volume": "63",
+        "author": "Westerhuis",
+        "year": "2020",
+        "journal-title": "Ergonomics"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jsr.2025.10.009_b0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "294",
+        "DOI": "10.1504/IJHFE.2021.118225",
+        "article-title": "Enlightening cyclists: An evaluation study of a bicycle light communication system aimed to support older cyclists in traffic interactions",
+        "volume": "8",
+        "author": "Westerhuis",
+        "year": "2021",
+        "journal-title": "International Journal of Human Factors and Ergonomics"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0275",
+        "series-title": "Evaluation of Bicycle Helmets: A Report to the Royal Melbourne Institute of Technology",
+        "author": "Williams",
+        "year": "1991"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0280",
+        "unstructured": "Wisch, M., Lerner, M., Vukovic, E., Hynd, D., Fiorentino, A., & Fornells, A. (2017). Injury Patterns of Older Car Occupants, Older Pedestrians or Cyclists in Road Traffic Crashes with Passenger Cars in Europe – Results from SENIORS."
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0285",
+        "unstructured": "Wisch, M., Lerner, M., Vukovic, E., Schäfer, R., Hynd, D., Florentino, A., & Fornells, A. (2017). Road Traffic Crashes in Europe Involving Older Car Occupants, Older Pedestrians or Cyclists in Crashes with Passenger Cars—Results from SENIORS (01652645). 15p. https://www-nrd.nhtsa.dot.gov/departments/esv/25th/."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.jsr.2025.10.009_b0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "1751",
+        "DOI": "10.1016/j.aap.2011.04.006",
+        "article-title": "Motor vehicle–bicycle crashes in Beijing: Irregular maneuvers, crash patterns, and injury severity",
+        "volume": "43",
+        "author": "Yan",
+        "year": "2011",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0295",
+        "unstructured": "Zander, O., Ott, J., Wisch, M., Fornells, A., Fuchs, T., Hynd, D., Lemmen, P., Burleigh, M., Lopez-Valdes, F., Luera, A., Lundgren, C., & National Highway Traffic Safety Administration. (2017). Safety Enhanced Innovations for Older Road Users (Seniors): Further Development of Test and Assessment Procedures Towards an Improved Passive Protection of Pedestrians and Cyclists (01650146). 16p. https://www-nrd.nhtsa.dot.gov/departments/esv/25th/."
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.1016/j.aap.2015.10.025",
+        "article-title": "Are signalized intersections with cycle tracks safer? a case–control study based on automated surrogate safety analysis using video data",
+        "volume": "86",
+        "author": "Zangenehpour",
+        "year": "2016",
+        "journal-title": "Accident Analysis & Prevention"
+      },
+      {
+        "key": "10.1016/j.jsr.2025.10.009_b0305",
+        "unstructured": "Zegeer, C., Hunter, W., Staplin, L., Bents, F., Huey, R., Barlow, J., University of North Carolina, C. H., TransAnalytics, L., Westat, I., & Accessible Design for the Blind. (2012). White Papers for: “Toward Zero Deaths: A National Strategy on Highway Safety”—White Paper No. 5—Safer Vulnerable Road Users: Pedestrians, Bicyclists, Motorcyclists, and Older Users (01375859; White Paper, p. 59p) [Web]. http://safety.transportation.org/doc/web5%20Vulnerable%20Users%20White%20Paper.pdf."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jsr.2025.10.009_b0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "760",
+        "DOI": "10.1186/s12889-022-13152-6",
+        "article-title": "Demographics of road injuries and micromobility injuries among China, India, Japan, and the United States population: Evidence from an age-period-cohort analysis",
+        "volume": "22",
+        "author": "Zhao",
+        "year": "2022",
+        "journal-title": "BMC Public Health"
+      }
+    ],
+    "container-title": [
+      "Journal of Safety Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022437525001549?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022437525001549?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          31
+        ]
+      ],
+      "date-time": "2026-05-31T04:28:15Z",
+      "timestamp": 1780201695000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022437525001549"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "references-count": 63,
+    "alternative-id": [
+      "S0022437525001549"
+    ],
+    "URL": "https://doi.org/10.1016/j.jsr.2025.10.009",
+    "relation": {},
+    "ISSN": [
+      "0022-4375"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-4375",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Crash risk patterns among older bicyclists: Insights from hybrid XGBoost-Cluster Correspondence Analysis",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Safety Research",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jsr.2025.10.009",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 National Safety Council and Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

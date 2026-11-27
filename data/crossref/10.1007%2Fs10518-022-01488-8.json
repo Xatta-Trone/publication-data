@@ -1,0 +1,793 @@
+{
+  "doi": "10.1007/s10518-022-01488-8",
+  "fetched_at": "2026-11-27T05:57:06+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          29
+        ]
+      ],
+      "date-time": "2025-08-29T10:35:23Z",
+      "timestamp": 1756463723155,
+      "version": "3.37.3"
+    },
+    "reference-count": 60,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "13",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              24
+            ]
+          ],
+          "date-time": "2022-08-24T00:00:00Z",
+          "timestamp": 1661299200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              24
+            ]
+          ],
+          "date-time": "2022-08-24T00:00:00Z",
+          "timestamp": 1661299200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100009037",
+        "name": "Science and Technology Research Partnership for Sustainable Development",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100009037",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Bull Earthquake Eng"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1007/s10518-022-01488-8",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          24
+        ]
+      ],
+      "date-time": "2022-08-24T10:05:49Z",
+      "timestamp": 1661335549000
+    },
+    "page": "7347-7379",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "A nonlinear macromodel for simulating the in-plane behavior of unreinforced masonry (URM) infilled frames"
+    ],
+    "prefix": "10.1007",
+    "volume": "20",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2633-7344",
+        "authenticated-orcid": false,
+        "given": "S. M. Naheed",
+        "family": "Adnan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kazuto",
+        "family": "Matsukawa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yuji",
+        "family": "Haga",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yoshiaki",
+        "family": "Nakano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          24
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1488_CR1",
+        "unstructured": "Adnan SMN, Fukutomi Y, Haga Y, et al (2019a) Experimental study of vulnerable RC frames with unreinforced masonry infill wall Part 1: test program and results. In: Annual meeting of the architectural institute of Japan. Architectural Institue of Japan (AIJ), Kanazawa, pp 617–618"
+      },
+      {
+        "key": "1488_CR2",
+        "unstructured": "Adnan SMN, Haga Y, Matsukawa K, Nakano Y (2019b) Behavior of RC frame with low strength concrete and straight anchorage under extremely high axial loads. In: International symposium session on earthquake engineering, Japan association for earthquake engineering annual meeting. Japan Association for Earthquake Engineering (JAEE), Kyoto"
+      },
+      {
+        "key": "1488_CR3",
+        "unstructured": "Adnan SMN, Fukutomi Y, Haga Y, et al (2020) Behavior of poorly detailed RC frames with low strength concrete and URM infill under high axial loads. In: 17th World conference on earthquake engineering, Sendai, Japan. p Paper No. C001287"
+      },
+      {
+        "key": "1488_CR4",
+        "unstructured": "Adnan SMN (2020) A nonlinear macro-modelling approach for the in-plane behavior of RC frames with unreinforced masonry (URM) infill panels. Master’s dissertation, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan"
+      },
+      {
+        "key": "1488_CR5",
+        "unstructured": "AIJ (2010) AIJ standard for structural calculation of reinforced concrete structures (in Japanese). Architectural Institute of Japan, Tokyo"
+      },
+      {
+        "key": "1488_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1373",
+        "DOI": "10.1007/s10518-017-0248-x",
+        "volume": "16",
+        "author": "H Alwashali",
+        "year": "2018",
+        "unstructured": "Alwashali H, Torihata Y, Jin K, Maeda M (2018) Experimental observations on the in-plane behaviour of masonry wall infilled RC frames; focusing on deformation limits and backbone curve. Bull Earthq Eng 16:1373–1397",
+        "journal-title": "Bull Earthq Eng"
+      },
+      {
+        "key": "1488_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1071",
+        "DOI": "10.1061/(asce)0733-9445(2003)129:8(1071)",
+        "volume": "129",
+        "author": "PG Asteris",
+        "year": "2003",
+        "unstructured": "Asteris PG (2003) Lateral stiffness of brick masonry infilled plane frames. J Struct Eng 129:1071–1079. https://doi.org/10.1061/(asce)0733-9445(2003)129:8(1071)",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1508",
+        "DOI": "10.1061/(ASCE)ST.1943-541X.0000384",
+        "volume": "137",
+        "author": "PG Asteris",
+        "year": "2011",
+        "unstructured": "Asteris PG, Antoniou ST, Sophianopoulos DS, Chrysostomou CZ (2011) Mathematical macromodeling of infilled frames: state of the art. J Struct Eng 137:1508–1517",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR9",
+        "unstructured": "BSI (2005) BS 5628–1: 2005: Code of practice for the use of masonry: part 1: structural use of un-reinforced masonry"
+      },
+      {
+        "key": "1488_CR10",
+        "unstructured": "Masonry Standards Joint Committee (2011) Building code requirements for masonry structures (TMS 402–11/ACI 530–11/ASCE 5–11). Mason Soc Boulder, CO"
+      },
+      {
+        "key": "1488_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "578",
+        "DOI": "10.1061/(ASCE)0733-9445(1999)125:6(578)",
+        "volume": "125",
+        "author": "SG Buonopane",
+        "year": "1999",
+        "unstructured": "Buonopane SG, White RN (1999) Pseudodynamic testing of masonry infilled reinforced concrete frame. J Struct Eng 125:578–589",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR12",
+        "unstructured": "Chrysostomou CZ (1991) Effects of degrading infill walls on the nonlinear seismic response of two-dimensional steel frames. Doctoral dissertation, Cornell University"
+      },
+      {
+        "key": "1488_CR13",
+        "unstructured": "Crisafulli FJ (1997) Seismic behaviour of reinforced concrete structures with masonry infills. Civ. Eng. 404"
+      },
+      {
+        "key": "1488_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "865",
+        "DOI": "10.1139/l89-129",
+        "volume": "16",
+        "author": "JL Dawe",
+        "year": "1989",
+        "unstructured": "Dawe JL, Seah CK (1989) Behaviour of masonry infilled steel frames. Can J Civ Eng 16:865–876. https://doi.org/10.1139/l89-129",
+        "journal-title": "Can J Civ Eng"
+      },
+      {
+        "key": "1488_CR15",
+        "first-page": "593",
+        "volume": "81",
+        "author": "M Dhanasekhar",
+        "year": "1986",
+        "unstructured": "Dhanasekhar M, Page AW (1986) The influence of brick masonry infill properties on the behaviour of infilled frames. Proc Inst Civ Eng 81:593–605",
+        "journal-title": "Proc Inst Civ Eng"
+      },
+      {
+        "key": "1488_CR16",
+        "unstructured": "Durrani AJ, Luo YH (1994) Seismic retrofit of flat-slab buildings with masonry infills. In: Technical Report. National Center for Earthquake Engineering Research, pp 1–8"
+      },
+      {
+        "key": "1488_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "177",
+        "DOI": "10.1061/(ASCE)0733-9445(2003)129:2(177)",
+        "volume": "129",
+        "author": "WW El-Dakhakhni",
+        "year": "2003",
+        "unstructured": "El-Dakhakhni WW, Elgaaly M, Hamid AA (2003) Three-strut model for concrete masonry-infilled steel frames. J Struct Eng 129:177–185",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "458",
+        "DOI": "10.1016/j.compstruct.2005.02.017",
+        "volume": "73",
+        "author": "WW El-Dakhakhni",
+        "year": "2006",
+        "unstructured": "El-Dakhakhni WW, Hamid AA, Hakam ZHR, Elgaaly M (2006) Hazard mitigation and strengthening of unreinforced masonry walls using composites. Compos Struct 73:458–477",
+        "journal-title": "Compos Struct"
+      },
+      {
+        "key": "1488_CR19",
+        "unstructured": "FEMA 306 (1998) Evaluation of earthquake damaged concrete and masonry wall buildings: Basic procedures manual. ATC, Redwood City, CA, USA, ATC, Redwood City, CA, USA"
+      },
+      {
+        "key": "1488_CR20",
+        "unstructured": "Fiorato AE, Sozen MA, Gamble WL (1970) An investigation of the interaction of reinforced concrete frames with masonry filler walls. University of Illinois Engineering Experiment Station. College of…"
+      },
+      {
+        "key": "1488_CR21",
+        "unstructured": "Fukutomi Y, Haga Y, Matsukawa K, Nakano Y (2019) Experimental study of vulnerable RC frames with unreinforced masonry infill wall Part 2: Maximum strength evaluation. In: Annual meeting of the architectural institute of Japan. Architectural Institue of Japan (AIJ), Kanazawa, pp 619–629"
+      },
+      {
+        "key": "1488_CR22",
+        "unstructured": "Fukutomi Y (2019) Experimental study of vulnerable RC frames with unreinforced masonry infill wall (in Japanese). Master’s dissertation, Graduate School of Engineering, The University of Tokyo, Tokyo, Japan"
+      },
+      {
+        "key": "1488_CR23",
+        "first-page": "473",
+        "volume": "19",
+        "author": "M Holmes",
+        "year": "1961",
+        "unstructured": "Holmes M (1961) Steel frames with brickwork and concrete infilling. Proc Inst Civ Eng 19:473–478",
+        "journal-title": "Proc Inst Civ Eng"
+      },
+      {
+        "key": "1488_CR24",
+        "unstructured": "JBDPA (2016) Standard for seismic evaluation of existing reinforced concrete buildings (in Japanese). Japan building disaster prevention association, Tokyo, Japan"
+      },
+      {
+        "key": "1488_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1725",
+        "DOI": "10.1193/100714EQS152M",
+        "volume": "32",
+        "author": "K Jin",
+        "year": "2016",
+        "unstructured": "Jin K, Choi H, Nakano Y (2016) Experimental study on lateral strength evaluation of unreinforced masonry-infilled RC frame. Earthq Spectra 32:1725–1747. https://doi.org/10.1193/100714EQS152M",
+        "journal-title": "Earthq Spectra"
+      },
+      {
+        "issue": "2",
+        "key": "1488_CR26",
+        "first-page": "431",
+        "volume": "37",
+        "author": "T Kabeyasawa",
+        "year": "1983",
+        "unstructured": "Kabeyasawa T, Shoihara H, Otani S, Aoyama H (1983) Analysis of the full-scale seven-story reinforced concrete test structure. J Faculty Eng University of Tokyo 37(2):431–477",
+        "journal-title": "J Fac Eng Univ Tokyo"
+      },
+      {
+        "key": "1488_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "728",
+        "DOI": "10.1061/(ASCE)0899-1561(2007)19:9(728)",
+        "volume": "19",
+        "author": "HB Kaushik",
+        "year": "2007",
+        "unstructured": "Kaushik HB, Rai DC, Jain SK (2007) Stress-strain characteristics of clay brick masonry under uniaxial compression. J Mater Civ Eng 19:728–739",
+        "journal-title": "J Mater Civ Eng"
+      },
+      {
+        "key": "1488_CR28",
+        "unstructured": "Klingner RE, Bertero VV (1976) Infilled frames in earthquake-resistant construction. Rep No EERC 76–32, Univ California, Berkeley"
+      },
+      {
+        "key": "1488_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "2563",
+        "DOI": "10.1061/(ASCE)0733-9445(1984)110:11(2563)",
+        "volume": "110",
+        "author": "S-S Lai",
+        "year": "1984",
+        "unstructured": "Lai S-S, Will GT, Otani S (1984) Model for inelastic biaxial bending of concrete members. J Struct Eng 110:2563–2584",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR30",
+        "unstructured": "Li K-N, Aoyama H, Otani S (1988) Reinforced concrete columns under varying axial load and bi-directional lateral load reversals. In: Proceedings of the 9th world conference on earthquake engineering, Tokyo-Kyoto, Japan. pp 2–9"
+      },
+      {
+        "key": "1488_CR31",
+        "unstructured": "Li K-N, Otani S, Aoyama H (1991) R/C columns under axial and bi-directional lateral loads. In: Mechanics Computing in 1990’s and Beyond. ASCE, pp 681–685"
+      },
+      {
+        "key": "1488_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "17",
+        "DOI": "10.12989/sem.1993.1.1.017",
+        "volume": "1",
+        "author": "K-N Li",
+        "year": "1993",
+        "unstructured": "Li K-N, Otani S (1993) Multi-spring model for 3-dimensional analysis of RC members. Struct Eng Mech 1:17–30",
+        "journal-title": "Struct Eng Mech"
+      },
+      {
+        "key": "1488_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "551",
+        "DOI": "10.1016/0045-7949(84)90070-1",
+        "volume": "18",
+        "author": "T-C Liauw",
+        "year": "1984",
+        "unstructured": "Liauw T-C, Kwan K-H (1984) Nonlinear behaviour of non-integral infilled frames. Comput Struct 18:551–560",
+        "journal-title": "Comput Struct"
+      },
+      {
+        "key": "1488_CR34",
+        "first-page": "7",
+        "volume": "3",
+        "author": "L Liberatore",
+        "year": "2011",
+        "unstructured": "Liberatore L, Decanini LD (2011) Effect of infills on the seismic response of high-rise RC buildings designed as bare according to Eurocode 8. Ing Sismica 3:7–23",
+        "journal-title": "Ing Sismica"
+      },
+      {
+        "key": "1488_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "1295",
+        "DOI": "10.1061/(ASCE)0733-9445(1997)123:10(1295)",
+        "volume": "123",
+        "author": "A Madan",
+        "year": "1997",
+        "unstructured": "Madan A, Reinhorn AM, Mander JB, Valles RE (1997) Modeling of masonry infill panels for structural analysis. J Struct Eng 123:1295–1302",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "270",
+        "DOI": "10.1061/(ASCE)ST.1943-541X.0000294",
+        "volume": "137",
+        "author": "K Madhu",
+        "year": "2011",
+        "unstructured": "Madhu K, Mander JB (2011) Stress-block parameters for unconfined and confined concrete based on a unified stress-strain model. J Struct Eng 137:270–273. https://doi.org/10.1061/(ASCE)ST.1943-541X.0000294",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR37",
+        "first-page": "230",
+        "volume": "49",
+        "author": "RJ Mainstone",
+        "year": "1971",
+        "unstructured": "Mainstone RJ (1971) Summary of paper 7360. On the stiffness and strengths of infilled frames. Proc Inst Civ Eng 49:230",
+        "journal-title": "Proc Inst Civ Eng"
+      },
+      {
+        "key": "1488_CR38",
+        "unstructured": "Mainstone RJ (1974) Supplementary note on the stiffnesses and strengths of infilled frames. Building Research Establishment, Building Research Station"
+      },
+      {
+        "key": "1488_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "1804",
+        "DOI": "10.1061/(ASCE)0733-9445(1988)114:8(1804)",
+        "volume": "114",
+        "author": "JB Mander",
+        "year": "1988",
+        "unstructured": "Mander JB, Priestley MJN, Park R (1988) Theoretical stress-strain model for confined concrete. J Struct Eng 114:1804–1826",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR40",
+        "volume-title": "Open system for earthquake engineering simulation",
+        "author": "F McKenna",
+        "year": "2000",
+        "unstructured": "McKenna F, Fenves GL, Scott MH (2000) Open system for earthquake engineering simulation. Univ California, Berkeley, CA"
+      },
+      {
+        "key": "1488_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "228",
+        "DOI": "10.1061/(ASCE)0733-9445(1996)122:3(228)",
+        "volume": "122",
+        "author": "AB Mehrabi",
+        "year": "1996",
+        "unstructured": "Mehrabi AB, Benson Shing P, Schuller MP, Noland JL (1996) Experimental evaluation of masonry-infilled RC frames. J Struct Eng 122:228–237",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "56",
+        "DOI": "10.1061/(asce)0733-9445(2004)130:1(56)",
+        "volume": "130",
+        "author": "HA Moghaddam",
+        "year": "2004",
+        "unstructured": "Moghaddam HA (2004) Lateral load behavior of masonry infilled steel frames with repair and retrofit. J Struct Eng 130:56–63. https://doi.org/10.1061/(asce)0733-9445(2004)130:1(56)",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "599",
+        "DOI": "10.1016/j.engstruct.2017.07.002",
+        "volume": "150",
+        "author": "N Mohammad Noh",
+        "year": "2017",
+        "unstructured": "Mohammad Noh N, Liberatore L, Mollaioli F, Tesfamariam S (2017) Modelling of masonry infilled RC frames subjected to cyclic loads: State of the art review and modelling with OpenSees. Eng Struct 150:599–621. https://doi.org/10.1016/j.engstruct.2017.07.002",
+        "journal-title": "Eng Struct"
+      },
+      {
+        "key": "1488_CR44",
+        "first-page": "107",
+        "volume": "79",
+        "author": "H Mostafaei",
+        "year": "2004",
+        "unstructured": "Mostafaei H, Kabeyasawa T (2004) Investigation and analysis of damage to buildings during the 2003 Bam earthquake. Bull Earthq Res Institute, Univ Tokyo 79:107–132",
+        "journal-title": "Bull Earthq Res Institute, Univ Tokyo"
+      },
+      {
+        "key": "1488_CR45",
+        "unstructured": "NZSEE (2016) The Seismic Assessment of Existing Buildings: Technical Guidelines for Engineering Assessments"
+      },
+      {
+        "key": "1488_CR47",
+        "unstructured": "Page AW, Kleeman PW, Dhanasekar M (1985) An in-plane finite element model for brick masonry. In: New analysis techniques for structural masonry. ASCE, pp 1–18"
+      },
+      {
+        "key": "1488_CR48",
+        "unstructured": "Paul D (2015) Force flow mechanism and lateral capacity estimation of URM infilled RC frame using equivalent diagonal strut. Master’s dissertation, Graduate School of Engineering, The University of Tokyo"
+      },
+      {
+        "key": "1488_CR49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470172841",
+        "volume-title": "Seismic design of reinforced concrete and masonry buildings",
+        "author": "T Paulay",
+        "year": "1992",
+        "unstructured": "Paulay T, Priestley MJN (1992) Seismic design of reinforced concrete and masonry buildings. Wiley, New York"
+      },
+      {
+        "key": "1488_CR50",
+        "unstructured": "Polyakov S V (1960) On the interaction between masonry filler walls and enclosing frame when loaded in the plane of the wall. Transl Earthq Eng Earthq Eng Res Institute, Oakland, Calif pp 36–42"
+      },
+      {
+        "key": "1488_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "413",
+        "DOI": "10.1193/1.1585635",
+        "volume": "7",
+        "author": "MJN Priestley",
+        "year": "1991",
+        "unstructured": "Priestley MJN, Calvi GM (1991) Towards a capacity-design assessment procedure for reinforced concrete frames. Earthq Spectra 7:413–437",
+        "journal-title": "Earthq Spectra"
+      },
+      {
+        "key": "1488_CR52",
+        "unstructured": "Reinhorn AM, Madan A, Valles RE, et al (1995) Modeling of masonry infill panels for analysis of frame structures. Report NO. NCEER-95–018, National center for Earthquake Engineering Research"
+      },
+      {
+        "key": "1488_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "634",
+        "DOI": "10.1061/(asce)0733-9445(1995)121:4(634)",
+        "volume": "121",
+        "author": "A Saneinejad",
+        "year": "1995",
+        "unstructured": "Saneinejad A, Hobbs B (1995) Inelastic design of infilled frames. J Struct Eng 121:634–650. https://doi.org/10.1061/(asce)0733-9445(1995)121:4(634)",
+        "journal-title": "J Struct Eng"
+      },
+      {
+        "key": "1488_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "423",
+        "DOI": "10.12989/cac.2005.2.6.423",
+        "volume": "2",
+        "author": "MH Santhi",
+        "year": "2005",
+        "unstructured": "Santhi MH, Knight GMS, Muthumani K (2005) Evaluation of seismic response of soft-storey infilled frames. Comput Concr 2:423–437",
+        "journal-title": "Comput Concr"
+      },
+      {
+        "key": "1488_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "183",
+        "DOI": "10.1061/JSDEAG.0000849",
+        "volume": "88",
+        "author": "BS Smith",
+        "year": "1962",
+        "unstructured": "Smith BS (1962) Lateral stiffness of infilled frames. J Struct Div 88:183–226",
+        "journal-title": "J Struct Div"
+      },
+      {
+        "key": "1488_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1061/JSDEAG.0001387",
+        "volume": "92",
+        "author": "BS Smith",
+        "year": "1966",
+        "unstructured": "Smith BS (1966) Behavior of square infilled frames. J Struct Div 92:381–404",
+        "journal-title": "J Struct Div"
+      },
+      {
+        "key": "1488_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "711",
+        "DOI": "10.1002/(SICI)1096-9845(199607)25:7<711::AID-EQE576>3.0.CO;2-9",
+        "volume": "25",
+        "author": "E Spacone",
+        "year": "1996",
+        "unstructured": "Spacone E, Filippou FC, Taucer FF (1996) Fibre beam–column model for non-linear analysis of R/C frames: Part I. Formulation Earthq Eng Struct Dyn 25:711–725",
+        "journal-title": "Formulation Earthq Eng Struct Dyn"
+      },
+      {
+        "key": "1488_CR58",
+        "first-page": "31",
+        "volume": "44",
+        "author": "B Stafford Smith",
+        "year": "1969",
+        "unstructured": "Stafford Smith B, Carter C (1969) A method of analysis for infilled frames. Proc Inst Civ Eng 44:31–48",
+        "journal-title": "Proc Inst Civ Eng"
+      },
+      {
+        "key": "1488_CR59",
+        "unstructured": "Sugano S (1970) Experimental study on hysteretic characteristics of reinforced concrete members (in Japanese). Doctoral dissertation, Graduate School of Engineering, The University of Tokyo"
+      },
+      {
+        "key": "1488_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "4245",
+        "DOI": "10.1007/s10518-017-0139-1",
+        "volume": "15",
+        "author": "T Suzuki",
+        "year": "2017",
+        "unstructured": "Suzuki T, Choi H, Sanada Y et al (2017) Experimental evaluation of the in-plane behaviour of masonry wall infilled RC frames. Bull Earthq Eng 15:4245–4267",
+        "journal-title": "Bull Earthq Eng"
+      },
+      {
+        "key": "1488_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "401",
+        "DOI": "10.1002/eqe.4290130310",
+        "volume": "13",
+        "author": "V Thiruvengadam",
+        "year": "1985",
+        "unstructured": "Thiruvengadam V (1985) On the natural frequencies of infilled frames. Earthq Eng Struct Dyn 13:401–419",
+        "journal-title": "Earthq Eng Struct Dyn"
+      }
+    ],
+    "container-title": [
+      "Bulletin of Earthquake Engineering"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10518-022-01488-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10518-022-01488-8/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10518-022-01488-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          3
+        ]
+      ],
+      "date-time": "2022-10-03T13:14:48Z",
+      "timestamp": 1664802888000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s10518-022-01488-8"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          24
+        ]
+      ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+      "issue": "13",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1488"
+    ],
+    "URL": "https://doi.org/10.1007/s10518-022-01488-8",
+    "relation": {},
+    "ISSN": [
+      "1570-761X",
+      "1573-1456"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1570-761X"
+      },
+      {
+        "type": "electronic",
+        "value": "1573-1456"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          24
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "12 September 2021",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "24 July 2022",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "24 August 2022",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The Authors declare that they have no conflict of interest.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "doi": "10.1177/03611981261468749",
+  "fetched_at": "2026-11-27T05:57:12+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2026-08-19T17:42:34Z",
+      "timestamp": 1787161354043,
+      "version": "build-2736575974"
+    },
+    "reference-count": 34,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              16
+            ]
+          ],
+          "date-time": "2026-08-16T00:00:00Z",
+          "timestamp": 1786838400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Transportation Research Record: Journal of the Transportation Research Board"
+    ],
+    "abstract": "<jats:p>The study investigates injury severity patterns among non-motorists (e.g., pedestrians and bicyclists) in Illinois using interpretable machine learning models applied to crash data from 2021 to 2023. The dataset included variables such as roadway design, environmental context, crash characteristics, and driver behavior. To address class imbalance in injury severity labels, synthetic oversampling was employed. Feature selection was performed using Random Forest and XGBoost, followed by training TabNet and FT-Transformer models. TabNet achieved the highest accuracy under the balanced training configuration and showed the strongest performance on the original imbalanced dataset across precision, recall, and F1 score, while also providing intrinsic interpretability through sequential attention-based feature selection. SHAP analysis revealed that temporal and environmental factors significantly influenced early model decisions, with behavioral and infrastructure-related variables impacting subsequent stages. The findings emphasize optimizing lighting, enhancing traffic control, and addressing time-specific crash risks. The study underscores the potential of interpretable tabular deep learning in traffic safety analytics, advocating for integration with contextual, geospatial, and behavioral data for targeted interventions.</jats:p>",
+    "DOI": "10.1177/03611981261468749",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2026-08-17T05:16:55Z",
+      "timestamp": 1786943815000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Crash Risk Analysis of Non-Motorists using Interpretable Tabular Deep Learning"
+    ],
+    "prefix": "10.1177",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0007-3670-6100",
+        "authenticated-orcid": false,
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-5102-5182",
+        "authenticated-orcid": false,
+        "given": "Anannya",
+        "family": "Ghosh Tusti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-8534-3633",
+        "authenticated-orcid": false,
+        "given": "Mahmuda Sultana",
+        "family": "Mimi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-3723-0607",
+        "authenticated-orcid": false,
+        "given": "Shriyank",
+        "family": "Somvanshi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-2753",
+        "authenticated-orcid": false,
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ingram School of Engineering, Texas State University, San Marcos, TX"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_3_2_2",
+        "unstructured": "Illinois Department of Transportation. Illinois Vulnerable Road User Safety Assessment. Illinois Department of Transportation 2023."
+      },
+      {
+        "key": "e_1_3_3_3_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Olszewski P. Szagała P. Rabczenko D. Zielińska A. Investigating Safety of Vulnerable Road Users in Selected EU Countries. Journal of Safety Research Vol. 68 2019 pp. 49–57. https://doi.org/10.1016/j.jsr.2018.12.001",
+        "DOI": "10.1016/j.jsr.2018.12.001"
+      },
+      {
+        "key": "e_1_3_3_4_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Vilaça M. Silva N. Coelho M. C. Statistical Analysis of the Occurrence and Severity of Crashes Involving Vulnerable Road Users. Transportation Research Procedia Vol. 27 2017 pp. 1113–1120. https://doi.org/10.1016/j.trpro.2017.12.113",
+        "DOI": "10.1016/j.trpro.2017.12.113"
+      },
+      {
+        "key": "e_1_3_3_5_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Komol M. M. R. Hasan M. M. Elhenawy M. Yasmin S. Masoud M. Rakotonirainy A. Crash Severity Analysis of Vulnerable Road Users Using Machine Learning. PLoS One Vol. 16 No. 8 2021 p. e0255828. https://doi.org/10.1371/journal.pone.0255828",
+        "DOI": "10.1371/journal.pone.0255828"
+      },
+      {
+        "key": "e_1_3_3_6_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yuan Q. Chen H. Factor Comparison of Passenger-Vehicle to Vulnerable Road User Crashes in Beijing China. International Journal of Crashworthiness Vol. 22 No. 3 2017 pp. 260–270. https://doi.org/10.1080/13588265.2016.1248226",
+        "DOI": "10.1080/13588265.2016.1248226"
+      },
+      {
+        "key": "e_1_3_3_7_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hossain M. A. Ahmed S. Ray S. K. Bhuiyan M. M. I. Sabuj S. R. A Study on Road Accident Prediction and Contributing Factors Using Explainable Machine Learning Models: Analysis and Performance. Transportation Research Interdisciplinary Perspectives Vol. 19 2023 p. 100814. https://doi.org/10.1016/j.trip.2023.100814",
+        "DOI": "10.1016/j.trip.2023.100814"
+      },
+      {
+        "key": "e_1_3_3_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mlwa.2025.100792"
+      },
+      {
+        "key": "e_1_3_3_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s44444-025-00053-3"
+      },
+      {
+        "key": "e_1_3_3_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsr.2025.04.003"
+      },
+      {
+        "key": "e_1_3_3_11_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cappelli G. Nardoianni S. D’Apuzzo M. Nicolosi V. Interpretable Crash Severity Prediction Models to Improve Cyclist Safety. In Computational Science and Its Applications – ICCSA 2025 Workshops (O. Gervasi B. Murgante C. Garau Y. Karaca M. N. Faginas Lago F. Scorza and A. C. Braga eds.) Springer Nature Switzerland Cham 2025 pp. 319–334. https://doi.org/10.1007/978-3-031-97654-4_20",
+        "DOI": "10.1007/978-3-031-97654-4_20"
+      },
+      {
+        "key": "e_1_3_3_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1609/aaai.v35i8.16826"
+      },
+      {
+        "issue": "34",
+        "key": "e_1_3_3_13_2",
+        "first-page": "18932",
+        "article-title": "Revisiting Deep Learning Models for Tabular Data",
+        "author": "Gorishniy Y.",
+        "year": "2021",
+        "unstructured": "Gorishniy Y., Rubachev I., Khrulkov V., Babenko A. Revisiting Deep Learning Models for Tabular Data. Advances in Neural Information Processing Systems, Vol. 34, 2021, pp. 18932–18943.",
+        "journal-title": "Advances in Neural Information Processing Systems"
+      },
+      {
+        "key": "e_1_3_3_14_2",
+        "unstructured": "Somvanshi S. Das S. Javed S. A. Antariksa G. Hossain A. A Survey on Deep Tabular Learning. http://arxiv.org/abs/2410.12034. Accessed July 14 2025."
+      },
+      {
+        "key": "e_1_3_3_15_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kashifi M. T. Investigating Two-Wheelers Risk Factors for Severe Crashes Using an Interpretable Machine Learning Approach and SHAP Analysis. IATSS Research Vol. 47 No. 3 2023 pp. 357–371. https://doi.org/10.1016/j.iatssr.2023.07.005",
+        "DOI": "10.1016/j.iatssr.2023.07.005"
+      },
+      {
+        "key": "e_1_3_3_16_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hasan A. S. Jalayer M. Das S. Kabir Md. Asif Bin. Application of Machine Learning Models and SHAP to Examine Crashes Involving Young Drivers in New Jersey. International Journal of Transportation Science and Technology Vol. 14 2024 pp. 156–170. https://doi.org/10.1016/j.ijtst.2023.04.005",
+        "DOI": "10.1016/j.ijtst.2023.04.005"
+      },
+      {
+        "key": "e_1_3_3_17_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chawla N. V. Bowyer K. W. Hall L. O. Kegelmeyer W. P. SMOTE: Synthetic Minority Over-Sampling Technique. Journal of Artificial Intelligence Research Vol. 16 2002 pp. 321–357. https://doi.org/10.1613/jair.953",
+        "DOI": "10.1613/jair.953"
+      },
+      {
+        "key": "e_1_3_3_18_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rahman M. S. Abdel-Aty M. Hasan S. Cai Q. Applying Machine Learning Approaches to Analyze the Vulnerable Road-Users’ Crashes at Statewide Traffic Analysis Zones. Journal of Safety Research Vol. 70 2019 pp. 275–288. https://doi.org/10.1016/j.jsr.2019.04.008",
+        "DOI": "10.1016/j.jsr.2019.04.008"
+      },
+      {
+        "key": "e_1_3_3_19_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Elamrani Abou Elassad Z. Elamrani Abou Elassad D. Mousannif H. Imbalance-Learning Road Crash Assessment under Reduced Visibility Settings: A Proactive Multicriteria Decision-Making System. Journal of Ambient Intelligence and Smart Environments Vol. 16 No. 2 2024 pp. 215–240. https://doi.org/10.3233/AIS-230127",
+        "DOI": "10.3233/AIS-230127"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_3_20_2",
+        "first-page": "18",
+        "article-title": "Classification and Regression by randomForest",
+        "volume": "2",
+        "author": "Liaw A.",
+        "year": "2002",
+        "unstructured": "Liaw A., Wiener M., and others. Classification and Regression by randomForest. R News, Vol. 2, No. 3, 2002, pp. 18–22.",
+        "journal-title": "R News"
+      },
+      {
+        "key": "e_1_3_3_21_2",
+        "unstructured": "Prokhorenkova L. Gusev G. Vorobev A. Dorogush A. V. Gulin A. CatBoost: Unbiased Boosting with Categorical Features. http://arxiv.org/abs/1706.09516. Accessed July 14 2025."
+      },
+      {
+        "key": "e_1_3_3_22_2",
+        "unstructured": "Lundberg S. Lee S.-I. A Unified Approach to Interpreting Model Predictions. http://arxiv.org/abs/1705.07874. Accessed July 14 2025."
+      },
+      {
+        "key": "e_1_3_3_23_2",
+        "unstructured": "Ribeiro M. T. Singh S. Guestrin C. “Why Should I Trust You?”: Explaining the Predictions of Any Classifier. http://arxiv.org/abs/1602.04938. Accessed July 14 2025."
+      },
+      {
+        "key": "e_1_3_3_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-65847-2_4"
+      },
+      {
+        "key": "e_1_3_3_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15389588.2022.2059474"
+      },
+      {
+        "key": "e_1_3_3_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2020.105782"
+      },
+      {
+        "key": "e_1_3_3_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2015.04.025"
+      },
+      {
+        "key": "e_1_3_3_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12544-024-00686-6"
+      },
+      {
+        "key": "e_1_3_3_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15389588.2021.1995602"
+      },
+      {
+        "key": "e_1_3_3_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/19439962.2017.1354238"
+      },
+      {
+        "key": "e_1_3_3_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aap.2019.05.033"
+      },
+      {
+        "key": "e_1_3_3_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/tse/tdaf039"
+      },
+      {
+        "key": "e_1_3_3_33_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Johansson R. Vision Zero – Implementing a Policy for Traffic Safety. Safety Science Vol. 47 No. 6 2009 pp. 826–831. https://doi.org/10.1016/j.ssci.2008.10.023",
+        "DOI": "10.1016/j.ssci.2008.10.023"
+      },
+      {
+        "key": "e_1_3_3_34_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Stigson H. Krafft M. Tingvall C. Use of Fatal Real-Life Crashes to Analyze a Safe Road Transport System Model Including the Road User the Vehicle and the Road. Traffic Injury Prevention Vol. 9 No. 5 2008 pp. 463–471. https://doi.org/10.1080/15389580802335240",
+        "DOI": "10.1080/15389580802335240"
+      },
+      {
+        "key": "e_1_3_3_35_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Momin K. A. Hamim O. F. Hoque Md. S. McIlroy R. C. Integrating Design and System Approaches for Analyzing Road Traffic Collisions in Low-Income Settings. Accident Analysis & Prevention Vol. 214 2025 p. 107965. https://doi.org/10.1016/j.aap.2025.107965",
+        "DOI": "10.1016/j.aap.2025.107965"
+      }
+    ],
+    "container-title": [
+      "Transportation Research Record: Journal of the Transportation Research Board"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/03611981261468749",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/03611981261468749",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/03611981261468749",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2026-08-19T17:16:54Z",
+      "timestamp": 1787159814000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/03611981261468749"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          16
+        ]
+      ]
+    },
+    "references-count": 34,
+    "alternative-id": [
+      "10.1177/03611981261468749"
+    ],
+    "URL": "https://doi.org/10.1177/03611981261468749",
+    "relation": {},
+    "ISSN": [
+      "0361-1981",
+      "2169-4052"
+    ],
+    "issn-type": [
+      {
+        "value": "0361-1981",
+        "type": "print"
+      },
+      {
+        "value": "2169-4052",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          16
+        ]
+      ]
+    },
+    "article-number": "03611981261468749"
+  }
+}

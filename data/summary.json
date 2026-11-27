@@ -1,0 +1,122 @@
+{
+  "orcid_id": "0009-0007-3670-6100",
+  "total_publications": 23,
+  "author_position": {
+    "first": 5,
+    "second": 9,
+    "third_or_later": 9,
+    "unresolved": 0
+  },
+  "author_position_journal_articles": {
+    "first": 5,
+    "second": 7,
+    "third_or_later": 8,
+    "unresolved": 0
+  },
+  "by_type": {
+    "journal-article": 20,
+    "edited-book": 1,
+    "proceedings-article": 2
+  },
+  "unique_journals": 15,
+  "journals": {
+    "ACM Computing Surveys": 3,
+    "Accident Analysis & Prevention": 3,
+    "Cities": 2,
+    "Neurocomputing": 1,
+    "SoftwareX": 1,
+    "Data Science for Transportation": 1,
+    "Scientific Reports": 1,
+    "Transport Policy": 1,
+    "Transportation Research Record: Journal of the Transportation Research Board": 1,
+    "International Journal of Transportation Science and Technology": 1,
+    "Transportmetrica A: Transport Science": 1,
+    "Journal of Transportation Safety & Security": 1,
+    "IEEE Transactions on Intelligent Transportation Systems": 1,
+    "Journal of Safety Research": 1,
+    "Bulletin of Earthquake Engineering": 1
+  },
+  "other_venues": {
+    "None (edited-book)": 1,
+    "Proceedings of the 1st ACM SIGSPATIAL International Workshop on Spatial Intelligence for Smart and Connected Communities (proceedings-article)": 1,
+    "2025 IEEE International Conference on Data Mining Workshops (ICDMW) (proceedings-article)": 1
+  },
+  "citations": {
+    "scholar": {
+      "papers_with_data": 22,
+      "total": 781,
+      "h_index": 7,
+      "i10_index": 7
+    },
+    "openalex": {
+      "papers_with_data": 21,
+      "total": 637,
+      "h_index": 6,
+      "i10_index": 5
+    },
+    "crossref": {
+      "papers_with_data": 23,
+      "total": 319,
+      "h_index": 6,
+      "i10_index": 4
+    }
+  },
+  "scholar_profile": {
+    "name": "Md Monzurul Islam",
+    "profile_url": "https://scholar.google.com/citations?user=edkjFpwAAAAJ&hl=en",
+    "metrics": {
+      "citations": {
+        "all": 816,
+        "recent": 814
+      },
+      "h_index": {
+        "all": 9,
+        "recent": 9
+      },
+      "i10_index": {
+        "all": 9,
+        "recent": 9
+      },
+      "recent_label": "Since 2021"
+    },
+    "citations_per_year": {
+      "2024": 13,
+      "2025": 193,
+      "2026": 590
+    },
+    "article_count": 30,
+    "fetched_at": "2026-11-27T06:43:08+00:00"
+  },
+  "scholar_only_works": {
+    "total": 8,
+    "preprints": 7
+  },
+  "preprints_excluded": 8,
+  "name_variants_matched": [
+    "md monzurul islam"
+  ],
+  "unresolved": [],
+  "peer_reviews": {
+    "total": 43,
+    "unique_journals": 16,
+    "by_journal": {
+      "Transportation Research Record Journal of the Transportation Research Board": 9,
+      "Accident Analysis & Prevention": 8,
+      "Traffic Injury Prevention": 4,
+      "Transportation Engineering": 4,
+      "Transportation Research Interdisciplinary Perspectives": 4,
+      "Transport Policy": 2,
+      "Biosystems": 2,
+      "Journal of Transportation Safety & Security": 2,
+      "Engineering Applications of Artificial Intelligence": 1,
+      "SN Social Sciences": 1,
+      "Scientific Reports": 1,
+      "Results in Engineering": 1,
+      "ACM Computing Surveys": 1,
+      "Computer Science Review": 1,
+      "Journal of Public Transportation": 1,
+      "Journal of Transport & Health": 1
+    },
+    "unresolved_venues": []
+  }
+}

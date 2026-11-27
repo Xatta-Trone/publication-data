@@ -1,0 +1,227 @@
+{
+  "issn": "1943-9970",
+  "title": "Journal of Transportation Safety & Security",
+  "publisher": "Informa UK (Taylor & Francis)",
+  "issns": [
+    "1943-9962",
+    "1943-9970"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1791248327607,
+    "counts": {
+      "current-dois": 160,
+      "backfile-dois": 620,
+      "total-dois": 780
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2019,
+          107
+        ],
+        [
+          2025,
+          63
+        ],
+        [
+          2026,
+          55
+        ],
+        [
+          2020,
+          54
+        ],
+        [
+          2016,
+          54
+        ],
+        [
+          2023,
+          52
+        ],
+        [
+          2021,
+          50
+        ],
+        [
+          2022,
+          48
+        ],
+        [
+          2017,
+          43
+        ],
+        [
+          2014,
+          43
+        ],
+        [
+          2024,
+          42
+        ],
+        [
+          2018,
+          39
+        ],
+        [
+          2013,
+          28
+        ],
+        [
+          2012,
+          22
+        ],
+        [
+          2011,
+          22
+        ],
+        [
+          2010,
+          22
+        ],
+        [
+          2009,
+          21
+        ],
+        [
+          2015,
+          15
+        ]
+      ]
+    },
+    "publisher": "Informa UK (Taylor & Francis)",
+    "coverage": {
+      "affiliations-current": 0.99375,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 1.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.00625,
+      "funders-backfile": 0.3064516129032258,
+      "licenses-backfile": 0.01290322580645161,
+      "funders-current": 0.64375,
+      "affiliations-backfile": 0.6870967741935484,
+      "resource-links-backfile": 0.004838709677419355,
+      "orcids-backfile": 0.3403225806451613,
+      "funder-ror-ids-current": 0.00625,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.0,
+      "orcids-current": 0.4,
+      "similarity-checking-backfile": 1.0,
+      "references-backfile": 0.9274193548387097,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.2193548387096774,
+      "update-policies-backfile": 0.8241935483870968,
+      "licenses-current": 0.325,
+      "award-numbers-current": 0.5625,
+      "abstracts-backfile": 0.0,
+      "resource-links-current": 0.29375,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.0,
+      "abstracts-current": 0.0,
+      "references-current": 0.99375
+    },
+    "title": "Journal of Transportation Safety & Security",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1791248327607,
+        "affiliations": 0.75,
+        "abstracts": 0.0,
+        "orcids": 0.3525641025641026,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.07692307692307691,
+        "references": 0.941025641025641,
+        "funders": 0.3756410256410256,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 0.001282051282051282,
+        "award-numbers": 0.2897435897435897,
+        "ror-ids": 0.001282051282051282,
+        "update-policies": 0.8602564102564103,
+        "resource-links": 0.0641025641025641,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1791248327607,
+        "affiliations": 0.6870967741935484,
+        "abstracts": 0.0,
+        "orcids": 0.3403225806451613,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.01290322580645161,
+        "references": 0.9274193548387097,
+        "funders": 0.3064516129032258,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.2193548387096774,
+        "ror-ids": 0.0,
+        "update-policies": 0.8241935483870968,
+        "resource-links": 0.004838709677419355,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1791248327607,
+        "affiliations": 0.99375,
+        "abstracts": 0.0,
+        "orcids": 0.4,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 0.325,
+        "references": 0.99375,
+        "funders": 0.64375,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 0.00625,
+        "award-numbers": 0.5625,
+        "ror-ids": 0.00625,
+        "update-policies": 1.0,
+        "resource-links": 0.29375,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": false,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": true,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": true,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": true,
+      "deposits-articles": true,
+      "deposits-affiliations-current": true,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": true,
+      "deposits-ror-ids-backfile": false,
+      "deposits-abstracts-backfile": false,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": false,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": true,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "1943-9962",
+      "1943-9970"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1943-9962"
+      },
+      {
+        "type": "electronic",
+        "value": "1943-9970"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:33+00:00"
+}

@@ -1,0 +1,949 @@
+{
+  "doi": "10.1007/s42421-026-00171-7",
+  "fetched_at": "2026-11-27T06:34:40+00:00",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          7
+        ]
+      ],
+      "date-time": "2026-08-07T15:09:47Z",
+      "timestamp": 1786115387000,
+      "version": "build-2736575974"
+    },
+    "reference-count": 72,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2026-08-06T00:00:00Z",
+          "timestamp": 1785974400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2026-08-06T00:00:00Z",
+          "timestamp": 1785974400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Data Sci. Transp."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Crash severity remains a critical issue despite rapid advances in vehicle automation. This study contributes to automated vehicle (AV) safety research by analyzing a Texas crash dataset that spans multiple automation levels, unlike most studies that focus on California. Using Association Rules Mining (ARM), it identifies key relationships among crash factors, such as speed, road type, collision type, lighting, weather, and driver characteristics. Crashes were grouped by automation level: assisted driving (Level 1), partial automation (Level 2), and conditional–full automation (Levels 3–5). In assisted driving, severe injuries were frequently linked to high speeds on narrow roads and older drivers. For partial automation, moderate speeds combined with poor traffic control or complex layouts heightened injury risk. Crashes involving Levels 3–5 were not observed in the KA category, suggesting a lower observed severity profile for higher-automation crashes in this dataset. An interactive tool was also developed to visualize crash locations and factors by severity and automation level. Policy recommendations include improving roadway design in high-risk areas, enhancing driver training, and advancing AV system safety. These strategies can reduce crash severity and support safer AV deployment in Texas and beyond.</jats:p>",
+    "DOI": "10.1007/s42421-026-00171-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          6
+        ]
+      ],
+      "date-time": "2026-08-06T02:28:50Z",
+      "timestamp": 1785983330000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Crash Severity in Automated Vehicle Collisions: A Texas-Based Investigation Across Automation Levels"
+    ],
+    "prefix": "10.1007",
+    "volume": "8",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0000-0124-4814",
+        "authenticated-orcid": false,
+        "given": "Gaurab",
+        "family": "Chhetri",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Md Monzurul",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subasish",
+        "family": "Das",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "171_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "4931",
+        "DOI": "10.1038/s41467-024-48526-4",
+        "volume": "15",
+        "author": "M Abdel-Aty",
+        "year": "2024",
+        "unstructured": "Abdel-Aty M, Ding S (2024) A matched case-control analysis of autonomous vs human-driven vehicle accidents. Nat Commun 15(1):4931. https://doi.org/10.1038/s41467-024-48526-4",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "171_CR2",
+        "unstructured": "Agrawal R, Srikant R (1994) Fast algorithms for mining association rules in large databases. In: Proceedings of the 20th International Conference on Very Large Data Bases. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, VLDB ’94, pp 487–499"
+      },
+      {
+        "issue": "2",
+        "key": "171_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "207",
+        "DOI": "10.1145/170036.170072",
+        "volume": "22",
+        "author": "R Agrawal",
+        "year": "1993",
+        "unstructured": "Agrawal R, Imieliński T, Swami A (1993) Mining association rules between sets of items in large databases. SIGMOD Rec 22(2):207–216. https://doi.org/10.1145/170036.170072",
+        "journal-title": "SIGMOD Rec"
+      },
+      {
+        "key": "171_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.3390/safety10010001",
+        "volume": "10",
+        "author": "R Alms",
+        "year": "2023",
+        "unstructured": "Alms R, Wagner P (2023) Control transitions in level 3 automation: safety implications in mixed-autonomy traffic. Safety 10:1. https://doi.org/10.3390/safety10010001",
+        "journal-title": "Safety"
+      },
+      {
+        "issue": "11",
+        "key": "171_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "522",
+        "DOI": "10.1177/03611981211018461",
+        "volume": "2675",
+        "author": "MT Ashraf",
+        "year": "2021",
+        "unstructured": "Ashraf MT, Dey K, Mishra S et al (2021) Extracting rules from autonomous-vehicle-involved crashes by applying decision tree and association rule methods. Transp Res Rec 2675(11):522–533. https://doi.org/10.1177/03611981211018461",
+        "journal-title": "Transp Res Rec"
+      },
+      {
+        "key": "171_CR6",
+        "unstructured": "Azhdari M, Kashani AT, Amirifar S (2025) Capturing road-level heterogeneity in crash severity on two-lane rural highways: a multilevel mixed-effects approach. arXiv:2508.09941"
+      },
+      {
+        "key": "171_CR7",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Balakrishnan K (2022) Functional safety concept of “minimum risk maneuver” in conditional driving automation (level 3) vehicles. In: 10TH SAE India International Mobility Conference. SAE International. https://doi.org/10.4271/2022-28-0301",
+        "DOI": "10.4271/2022-28-0301"
+      },
+      {
+        "key": "171_CR8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Brin S, Motwani R, Ullman JD (1997) Dynamic itemset counting and implication rules for market basket data. In: Proceedings of the 1997 ACM SIGMOD international conference on Management of data. pp 255–264",
+        "DOI": "10.1145/253260.253325"
+      },
+      {
+        "key": "171_CR9",
+        "unstructured": "CARE Team (2023) CARE Database: Common Accident Data Set (CADaS) reference guide. Reference guide, European Commission, Directorate-General for Mobility and Transport, Brussels, Belgium. https://road-safety.transport.ec.europa.eu/system/files/2023-09/CADaS%20Glossary_v%203_8_1.pdf"
+      },
+      {
+        "issue": "1",
+        "key": "171_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1007/s10111-018-0484-0",
+        "volume": "21",
+        "author": "O Carsten",
+        "year": "2019",
+        "unstructured": "Carsten O, Martens MH (2019) How can humans understand their automated cars? HMI principles, problems and solutions. Cogn Technol Work 21(1):3–20. https://doi.org/10.1007/s10111-018-0484-0",
+        "journal-title": "Cogn Technol Work"
+      },
+      {
+        "key": "171_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "937",
+        "DOI": "10.1016/j.trf.2024.10.016",
+        "volume": "107",
+        "author": "R Chakraborty",
+        "year": "2024",
+        "unstructured": "Chakraborty R, Aaqib Javed S, Das S et al (2024) Impact of level 2 automation on driver behavior: a study using association rules mining. Transport Res F: Traffic Psychol Behav 107:937–950. https://doi.org/10.1016/j.trf.2024.10.016 (https://www.sciencedirect.com/science/article/pii/S1369847824002936)",
+        "journal-title": "Transport Res F: Traffic Psychol Behav"
+      },
+      {
+        "key": "171_CR12",
+        "unstructured": "Chang W, Cheng J, Allaire J et al (2026) shiny: web application framework for R. r package version 1.13.0.9000. https://shiny.posit.co/"
+      },
+      {
+        "issue": "6",
+        "key": "171_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "3659",
+        "DOI": "10.1080/10447318.2024.2342090",
+        "volume": "41",
+        "author": "N Chen",
+        "year": "2025",
+        "unstructured": "Chen N, Zuo Jy ZY (2025) The influence of incentives on drivers’ aggressive behaviors toward automated vehicles. Int J Hum Comput Interact 41(6):3659–3670",
+        "journal-title": "Int J Hum Comput Interact"
+      },
+      {
+        "key": "171_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "142",
+        "DOI": "10.1016/j.aap.2016.11.009",
+        "volume": "99",
+        "author": "JB Cicchino",
+        "year": "2017",
+        "unstructured": "Cicchino JB (2017) Effectiveness of forward collision warning and autonomous emergency braking systems in reducing front-to-rear crash rates. Accid Anal Prev 99:142–152. https://doi.org/10.1016/j.aap.2016.11.009 (https://www.sciencedirect.com/science/article/pii/S0001457516304006)",
+        "journal-title": "Accid Anal Prev"
+      },
+      {
+        "key": "171_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "110",
+        "DOI": "10.1016/j.aap.2016.11.013",
+        "volume": "99",
+        "author": "HE Clark",
+        "year": "2017",
+        "unstructured": "Clark HE, Perrone JA, Isler RB et al (2017) Fixating on the size-speed illusion of approaching railway trains: What we can learn from our eye movements. Accid Anal Prev 99:110–113. https://doi.org/10.1016/j.aap.2016.11.013 (https://www.sciencedirect.com/science/article/pii/S000145751630416X)",
+        "journal-title": "Accid Anal Prev"
+      },
+      {
+        "key": "171_CR16",
+        "unstructured": "Das S, Tsapakis I, Wei Z, et al (2022) Autonomous delivery vehicle as a disruptive technology: how to shape the future with a focus on safety? Digital/other. https://rosap.ntl.bts.gov/view/dot/64569"
+      },
+      {
+        "key": "171_CR17",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Deng M, Gluck A, Menassa C et al (2024) Predicting driver takeover performance in conditional automation (level 3) through physiological sensing [supporting dataset]. https://doi.org/10.7302/b312-3t56. https://rosap.ntl.bts.gov/view/dot/73132",
+        "DOI": "10.7302/b312-3t56"
+      },
+      {
+        "issue": "1",
+        "key": "171_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "879",
+        "DOI": "10.1177/10711813241275910",
+        "volume": "68",
+        "author": "W Ding",
+        "year": "2024",
+        "unstructured": "Ding W, Murzello Y, Cao S et al (2024) Exploring the relationship between drivers’ stationary gaze entropy and situation awareness in a level-3 automation driving simulation. Proc Hum Factors Ergonomics Soc Annu Meet 68(1):879–884. https://doi.org/10.1177/10711813241275910",
+        "journal-title": "Proc Hum Factors Ergonomics Soc Annu Meet"
+      },
+      {
+        "key": "171_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "105629",
+        "DOI": "10.1016/j.aap.2020.105629",
+        "volume": "144",
+        "author": "SD Doecke",
+        "year": "2020",
+        "unstructured": "Doecke SD, Baldock MR, Kloeden CN et al (2020) Impact speed and the risk of serious injury in vehicle crashes. Accid Anal Prev 144:105629. https://doi.org/10.1016/j.aap.2020.105629 (https://www.sciencedirect.com/science/article/pii/S0001457519318408)",
+        "journal-title": "Accid Anal Prev"
+      },
+      {
+        "key": "171_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "167",
+        "DOI": "10.1016/j.tra.2015.04.003",
+        "volume": "77",
+        "author": "DJ Fagnant",
+        "year": "2015",
+        "unstructured": "Fagnant DJ, Kockelman K (2015) Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations. Transp Res Part A Policy Pract 77:167–181. https://doi.org/10.1016/j.tra.2015.04.003 (https://www.sciencedirect.com/science/article/pii/S0965856415000804)",
+        "journal-title": "Transp Res Part A Policy Pract"
+      },
+      {
+        "issue": "11",
+        "key": "171_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "565",
+        "DOI": "10.1177/03611981211018473",
+        "volume": "2675",
+        "author": "A Farid",
+        "year": "2021",
+        "unstructured": "Farid A, Alrejjal A, Ksaibati K (2021) Two-lane highway crash severities: correlated random parameters modeling versus incorporating interaction effects. Transp Res Rec 2675(11):565–575. https://doi.org/10.1177/03611981211018473",
+        "journal-title": "Transp Res Rec"
+      },
+      {
+        "key": "171_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "100124",
+        "DOI": "10.1016/j.amar.2020.100124",
+        "volume": "27",
+        "author": "G Fountas",
+        "year": "2020",
+        "unstructured": "Fountas G, Fonzone A, Gharavi N et al (2020) The joint effect of weather and lighting conditions on injury severities of single-vehicle accidents. Anal Methods Accid Res 27:100124. https://doi.org/10.1016/j.amar.2020.100124 (https://www.sciencedirect.com/science/article/pii/S2213665720300142)",
+        "journal-title": "Anal Methods Accid Res"
+      },
+      {
+        "key": "171_CR23",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gluck A, Deng M, Zhao Y, et al (2022) Exploring driver physiological response during level 3 conditional driving automation. In: 2022 IEEE 3rd international conference on human-machine systems (ICHMS), pp 1–5. https://doi.org/10.1109/ICHMS56717.2022.9980597",
+        "DOI": "10.1109/ICHMS56717.2022.9980597"
+      },
+      {
+        "key": "171_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "107492",
+        "DOI": "10.1016/j.aap.2024.107492",
+        "volume": "199",
+        "author": "Y Guo",
+        "year": "2024",
+        "unstructured": "Guo Y, Liu P, Liu P et al (2024) What can we learn from the av crashes?—An association rule analysis for identifying the contributing risky factors. Accid Anal Prev 199:107492. https://doi.org/10.1016/j.aap.2024.107492 (https://www.sciencedirect.com/science/article/pii/S000145752400037X)",
+        "journal-title": "Accid Anal Prev"
+      },
+      {
+        "key": "171_CR25",
+        "unstructured": "Hayeri YM, Gade A, LaRochelle C et al (2021) The takeover conundrum: level 3 vehicle automation behavioral study. In: Transportation research board 100th annual meeting, transportation research board, Washington, DC, United States, p 19. paper No. TRBAM-21-02788. https://trid.trb.org/view/1759843"
+      },
+      {
+        "key": "171_CR26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/safety8030047",
+        "author": "T Hecht",
+        "year": "2022",
+        "unstructured": "Hecht T, Zhou W, Bengler K (2022) How to keep drivers attentive during level 2 automation? Development and evaluation of an HMI concept using affective elements and message framing. Safety. https://doi.org/10.3390/safety8030047",
+        "journal-title": "Safety"
+      },
+      {
+        "issue": "8",
+        "key": "171_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "919",
+        "DOI": "10.1177/03611981231223194",
+        "volume": "2678",
+        "author": "MM Hossain",
+        "year": "2024",
+        "unstructured": "Hossain MM, Lima MRA, Zhou H (2024) Severity analysis of secondary crashes on high-speed roadways: pattern recognition using association rule mining. Transp Res Rec 2678(8):919–931. https://doi.org/10.1177/03611981231223194",
+        "journal-title": "Transp Res Rec"
+      },
+      {
+        "key": "171_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "64",
+        "DOI": "10.1016/j.trf.2022.06.008",
+        "volume": "89",
+        "author": "W Hu",
+        "year": "2022",
+        "unstructured": "Hu W, Cicchino JB, Reagan IJ et al (2022) Use of level 1 and 2 driving automation on horizontal curves on interstates and freeways. Transport Res F: Traffic Psychol Behav 89:64–71. https://doi.org/10.1016/j.trf.2022.06.008 (https://www.sciencedirect.com/science/article/pii/S1369847822001292)",
+        "journal-title": "Transport Res F: Traffic Psychol Behav"
+      },
+      {
+        "key": "171_CR29",
+        "doi-asserted-by": "publisher",
+        "unstructured": "International Transport Forum (2018) Safer roads with automated vehicles? Tech. Rep. 55, OECD Publishing, Paris. https://doi.org/10.1787/b2881ccb-en",
+        "DOI": "10.1787/b2881ccb-en"
+      },
+      {
+        "issue": "04",
+        "key": "171_CR30",
+        "first-page": "364",
+        "volume": "10",
+        "author": "MA Islam",
+        "year": "2020",
+        "unstructured": "Islam MA, Singh P (2020) Intersection related crash injuries: a study on factors contributing to injury severity among younger and older drivers in summer and winter. J Transp Technol 10(04):364–379",
+        "journal-title": "J Transp Technol"
+      },
+      {
+        "key": "171_CR31",
+        "unstructured": "Islam MR, Kelarestaghi KB, Ermagun A (2019) Gender differences in injury severity risk of single-vehicle crashes in Virginia: a nested logit analysis of heterogeneity. arXiv:1901.03289"
+      },
+      {
+        "key": "171_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.1016/j.jsr.2015.12.003",
+        "volume": "56",
+        "author": "A Jafari Anarkooli",
+        "year": "2016",
+        "unstructured": "Jafari Anarkooli A, Hadji Hosseinlou M (2016) Analysis of the injury severity of crashes by considering different lighting conditions on two-lane rural roads. J Saf Res 56:57–65. https://doi.org/10.1016/j.jsr.2015.12.003 (https://www.sciencedirect.com/science/article/pii/S0022437515001073)",
+        "journal-title": "J Saf Res"
+      },
+      {
+        "issue": "5",
+        "key": "171_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "995",
+        "DOI": "10.1016/j.aap.2009.06.004",
+        "volume": "41",
+        "author": "L Keay",
+        "year": "2009",
+        "unstructured": "Keay L, Jasti S, Munoz B et al (2009) Urban and rural differences in older drivers’ failure to stop at stop signs. Accid Anal Prev 41(5):995–1000. https://doi.org/10.1016/j.aap.2009.06.004 (https://www.sciencedirect.com/science/article/pii/S0001457509001195)",
+        "journal-title": "Accid Anal Prev"
+      },
+      {
+        "key": "171_CR34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph20032338",
+        "author": "D Lee",
+        "year": "2023",
+        "unstructured": "Lee D, Guldmann JM, von Rabenau B (2023) Impact of driver’s age and gender, built environment, and road conditions on crash severity: a logit modeling approach. Int J Environ Res Public Health. https://doi.org/10.3390/ijerph20032338",
+        "journal-title": "Int J Environ Res Public Health"
+      },
+      {
+        "issue": "3",
+        "key": "171_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "e25000",
+        "DOI": "10.1016/j.heliyon.2024.e25000",
+        "volume": "10",
+        "author": "H Lee",
+        "year": "2024",
+        "unstructured": "Lee H, Kang M, Hwang K et al (2024) The typical av accident scenarios in the urban area obtained by clustering and association rule mining of real-world accident reports. Heliyon 10(3):e25000. https://doi.org/10.1016/j.heliyon.2024.e25000 (https://www.sciencedirect.com/science/article/pii/S2405844024010314)",
+        "journal-title": "Heliyon"
+      },
+      {
+        "key": "171_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "106281",
+        "DOI": "10.1016/j.aap.2021.106281",
+        "volume": "159",
+        "author": "Q Liu",
+        "year": "2021",
+        "unstructured": "Liu Q, Wang X, Wu X et al (2021) Crash comparison of autonomous and conventional vehicles using pre-crash scenario typology. Accid Anal Prev 159:106281. https://doi.org/10.1016/j.aap.2021.106281 (https://www.sciencedirect.com/science/article/pii/S0001457521003122)",
+        "journal-title": "Accid Anal Prev"
+      },
+      {
+        "issue": "10",
+        "key": "171_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "1391",
+        "DOI": "10.1080/00140139.2024.2324007",
+        "volume": "67",
+        "author": "Y Ma",
+        "year": "2024",
+        "unstructured": "Ma Y, Xing Y, Wu Y et al (2024) Influence of emotions on the aggressive driving behavior of online car-hailing drivers based on association rule mining. Ergonomics 67(10):1391–1404. https://doi.org/10.1080/00140139.2024.2324007. (pMID: 38613399)",
+        "journal-title": "Ergonomics"
+      },
+      {
+        "issue": "1",
+        "key": "171_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "1977",
+        "DOI": "10.1177/1071181319631363",
+        "volume": "63",
+        "author": "W McManus",
+        "year": "2019",
+        "unstructured": "McManus W, Chen J (2019) The effects of vehicle level of automation and warning type on responses to vehicle hacking. Proc Hum Factors Ergonomics Soc Annu Meet 63(1):1977. https://doi.org/10.1177/1071181319631363",
+        "journal-title": "Proc Hum Factors Ergonomics Soc Annu Meet"
+      },
+      {
+        "key": "171_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "274",
+        "DOI": "10.1016/j.trf.2014.09.005",
+        "volume": "27",
+        "author": "N Merat",
+        "year": "2014",
+        "unstructured": "Merat N, Jamson AH, Lai FC et al (2014) Transition to manual: driver behaviour when resuming control from a highly automated vehicle. Transport Res F: Traffic Psychol Behav 27:274–282. https://doi.org/10.1016/j.trf.2014.09.005. (Vehicle Automation and Driver Behaviour)",
+        "journal-title": "Transport Res F: Traffic Psychol Behav"
+      },
+      {
+        "key": "171_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "820",
+        "DOI": "10.1016/j.trf.2024.10.002",
+        "volume": "107",
+        "author": "G Merlhiot",
+        "year": "2024",
+        "unstructured": "Merlhiot G, Yousfi E (2024) Augmented reality HMI for distracted drivers in a level 3 automation: effects on takeover performance and safety. Transport Res F: Traffic Psychol Behav 107:820–833. https://doi.org/10.1016/j.trf.2024.10.002 (https://www.sciencedirect.com/science/article/pii/S1369847824002791)",
+        "journal-title": "Transport Res F: Traffic Psychol Behav"
+      },
+      {
+        "key": "171_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "82",
+        "DOI": "10.1016/j.trf.2021.05.017",
+        "volume": "81",
+        "author": "B Metz",
+        "year": "2021",
+        "unstructured": "Metz B, Wörle J, Hanig M et al (2021) Repeated usage of a motorway automated driving function: automation level and behavioural adaption. Transport Res F: Traffic Psychol Behav 81:82–100. https://doi.org/10.1016/j.trf.2021.05.017",
+        "journal-title": "Transport Res F: Traffic Psychol Behav"
+      },
+      {
+        "issue": "1",
+        "key": "171_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "1312",
+        "DOI": "10.1177/1071181321651300",
+        "volume": "65",
+        "author": "D Miele",
+        "year": "2021",
+        "unstructured": "Miele D, Ferraro J, Mouloua M (2021) Driver confidence and level of automation influencing trust in automated driving features. Proc Hum Factors Ergonomics Soc Annu Meet 65(1):1312–1316. https://doi.org/10.1177/1071181321651300",
+        "journal-title": "Proc Hum Factors Ergonomics Soc Annu Meet"
+      },
+      {
+        "key": "171_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "107815",
+        "DOI": "10.1016/j.aap.2024.107815",
+        "volume": "209",
+        "author": "MS Mimi",
+        "year": "2025",
+        "unstructured": "Mimi MS, Chakraborty R, Liu J et al (2025) Exploring patterns in older pedestrian involved crashes during nighttime. Accid Anal Prev 209:107815. https://doi.org/10.1016/j.aap.2024.107815 (http://www.sciencedirect.com/science/article/pii/S0001457524003609)",
+        "journal-title": "Accid Anal Prev"
+      },
+      {
+        "issue": "1",
+        "key": "171_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1177/1555343420983126",
+        "volume": "15",
+        "author": "AS Mueller",
+        "year": "2021",
+        "unstructured": "Mueller AS, Reagan IJ, Cicchino JB (2021) Addressing driver disengagement and proper system use: human factors recommendations for level 2 driving automation design. J Cogn Eng Decis Mak 15(1):3–27. https://doi.org/10.1177/1555343420983126",
+        "journal-title": "J Cogn Eng Decis Mak"
+      },
+      {
+        "key": "171_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "500",
+        "DOI": "10.1016/j.trf.2022.09.016",
+        "volume": "90",
+        "author": "AS Mueller",
+        "year": "2022",
+        "unstructured": "Mueller AS, Cicchino JB, Benedick A et al (2022) Bears in our midst: familiarity with level 2 driving automation and attending to surprise on-road events. Transport Res F: Traffic Psychol Behav 90:500–511. https://doi.org/10.1016/j.trf.2022.09.016 (https://www.sciencedirect.com/science/article/pii/S1369847822002133)",
+        "journal-title": "Transport Res F: Traffic Psychol Behav"
+      },
+      {
+        "key": "171_CR46",
+        "unstructured": "National Highway Traffic Safety Administration (2021) Traffic safety facts: automated vehicles. https://www.nhtsa.gov/vehicle-safety/automated-vehicles-safety. Accessed 21 May 2026"
+      },
+      {
+        "key": "171_CR47",
+        "unstructured": "National Highway Traffic Safety Administration (2022) Standing general order on crash reporting for automated driving systems (ADS) and advanced driver assistance systems (ADAS). https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting. Accessed 21 May 2026"
+      },
+      {
+        "issue": "Part I",
+        "key": "171_CR48",
+        "first-page": "431",
+        "volume": "7",
+        "author": "F Naujoks",
+        "year": "2014",
+        "unstructured": "Naujoks F, Mai C, Neukum A (2014) The effect of urgency of take-over requests during highly automated driving under distraction conditions. Adv Hum Asp Transp 7(Part I):431",
+        "journal-title": "Adv Hum Asp Transp"
+      },
+      {
+        "key": "171_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "504",
+        "DOI": "10.1016/j.trf.2023.03.007",
+        "volume": "94",
+        "author": "J Parker",
+        "year": "2023",
+        "unstructured": "Parker J, Wang M, Ojuri B et al (2023) Impact of level 2 automation and ADHD symptomatology on young drivers’ attention maintenance. Transport Res F: Traffic Psychol Behav 94:504–516. https://doi.org/10.1016/j.trf.2023.03.007 (https://www.sciencedirect.com/science/article/pii/S1369847823000578)",
+        "journal-title": "Transport Res F: Traffic Psychol Behav"
+      },
+      {
+        "key": "171_CR50",
+        "unstructured": "Perez MA, Terranova P, Metrey M et al (2024) Characterizing level 2 automation in a naturalistic driving fleet. Edition: Final Research Report, 08/2019-01/2024. https://rosap.ntl.bts.gov/view/dot/73281"
+      },
+      {
+        "issue": "5",
+        "key": "171_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "510",
+        "DOI": "10.1080/19439962.2024.2429095",
+        "volume": "17",
+        "author": "MA Rahman",
+        "year": "2025",
+        "unstructured": "Rahman MA, Chakraborty R, Das S et al (2025a) Identifying attribute associations in fatal speeding crashes using latent class clustering and association rule mining. J Transp Saf Secur 17(5):510–549. https://doi.org/10.1080/19439962.2024.2429095",
+        "journal-title": "J Transp Saf Secur"
+      },
+      {
+        "key": "171_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "293",
+        "DOI": "10.1016/j.ijtst.2024.04.011",
+        "volume": "17",
+        "author": "MA Rahman",
+        "year": "2025",
+        "unstructured": "Rahman MA, Mitran E, Codjoe J et al (2025b) Investigating the contributing factors of crashes on interstate bridges in Louisiana using latent class clustering and association rule mining. Int J Transp Sci Technol 17:293–311. https://doi.org/10.1016/j.ijtst.2024.04.011",
+        "journal-title": "Int J Transp Sci Technol"
+      },
+      {
+        "key": "171_CR53",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Rao SJ, Forkenbrock GJ (2021) Classification of level 2 driving events observed on public roads. Edition: Final Report. https://doi.org/10.21949/1530206. https://rosap.ntl.bts.gov/view/dot/54484",
+        "DOI": "10.21949/1530206"
+      },
+      {
+        "key": "171_CR54",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Russell SM, Blanco M, Atwood J et al (2018) Naturalistic study of level 2 driving automation functions. Edition: Final Report, November 2015–July 2018. https://doi.org/10.21949/1530167. https://rosap.ntl.bts.gov/view/dot/41939",
+        "DOI": "10.21949/1530167"
+      },
+      {
+        "key": "171_CR55",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Russell SM, Atwood J, McLaughlin SB (2021) Driver expectations for system control errors, driver engagement, and crash avoidance in level 2 driving automation systems. Edition: Final Report. https://doi.org/10.21949/1530205. https://rosap.ntl.bts.gov/view/dot/54443",
+        "DOI": "10.21949/1530205"
+      },
+      {
+        "key": "171_CR56",
+        "doi-asserted-by": "publisher",
+        "unstructured": "SAE International (2021) Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles. Tech. Rep. J3016_202104. SAE International. https://doi.org/10.4271/J3016_202104. https://www.sae.org/standards/content/j3016_202104/",
+        "DOI": "10.4271/J3016_202104"
+      },
+      {
+        "key": "171_CR57",
+        "unstructured": "Schoettle B, Sivak M (2015) A preliminary analysis of real-world crashes involving self-driving vehicles. Ann Arbor, MI (Tech. Rep. UMTRI-2015-34 tRID Accession No. 01644558)"
+      },
+      {
+        "issue": "6",
+        "key": "171_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "778",
+        "DOI": "10.1177/0018720818773636",
+        "volume": "60",
+        "author": "I Solís-Marcos",
+        "year": "2018",
+        "unstructured": "Solís-Marcos I, Ahlström C, Kircher K (2018) Performance of an additional task during level 2 automated driving: an on-road study comparing drivers with and without experience with partial automation. Hum Factors 60(6):778–792. https://doi.org/10.1177/0018720818773636",
+        "journal-title": "Hum Factors"
+      },
+      {
+        "key": "171_CR59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42421-026-00163-7",
+        "author": "S Somvanshi",
+        "year": "2026",
+        "unstructured": "Somvanshi S, Baitullah A, Rafat SA et al (2026a) Predicting glare-related traffic outcomes with transformer-based explainable tabular deep learning. Data Sci Transp. https://doi.org/10.1007/s42421-026-00163-7",
+        "journal-title": "Data Sci Transp"
+      },
+      {
+        "issue": "2",
+        "key": "171_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.1007/s42421-026-00162-8",
+        "volume": "8",
+        "author": "S Somvanshi",
+        "year": "2026",
+        "unstructured": "Somvanshi S, Dutta A, Das S (2026) Benchmarking advanced tabular AI models for classifying SAE automation levels in crash data. Data Sci Transp 8(2):19",
+        "journal-title": "Data Sci Transp"
+      },
+      {
+        "key": "171_CR61",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Souders D, Agrawal S, Peeta S (2022) Impacts of in-vehicle alert systems on situational awareness and driving performance in SAE level 3 vehicle automation. https://doi.org/10.5703/1288284317573",
+        "DOI": "10.5703/1288284317573"
+      },
+      {
+        "key": "171_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "397",
+        "DOI": "10.1016/j.trf.2022.08.013",
+        "volume": "90",
+        "author": "J Stapel",
+        "year": "2022",
+        "unstructured": "Stapel J, Happee R, Christoph M et al (2022) Exploring the usage of supervised driving automation in naturalistic conditions. Transport Res F: Traffic Psychol Behav 90:397–411. https://doi.org/10.1016/j.trf.2022.08.013 (https://www.sciencedirect.com/science/article/pii/S136984782200184X)",
+        "journal-title": "Transport Res F: Traffic Psychol Behav"
+      },
+      {
+        "key": "171_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "314",
+        "DOI": "10.1016/j.jsr.2024.09.016",
+        "volume": "91",
+        "author": "N Talukder",
+        "year": "2024",
+        "unstructured": "Talukder N, Lee C, Kim YH et al (2024) Effects of integrated takeover request warning with personal portable device on takeover time and post-takeover performance in level 3 driving automation. J Safety Res 91:314–325. https://doi.org/10.1016/j.jsr.2024.09.016 (https://www.sciencedirect.com/science/article/pii/S002243752400135X)",
+        "journal-title": "J Safety Res"
+      },
+      {
+        "issue": "3",
+        "key": "171_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "299",
+        "DOI": "10.1016/j.iatssr.2024.06.003",
+        "volume": "48",
+        "author": "R Tamakloe",
+        "year": "2024",
+        "unstructured": "Tamakloe R, Adanu EK (2024) Critical patterns associated with vehicle-pedestrian hit-and-run casualty injury severity under different weather conditions: An association rule mining approach. IATSS Res 48(3):299–318. https://doi.org/10.1016/j.iatssr.2024.06.003 (https://www.sciencedirect.com/science/article/pii/S0386111224000281)",
+        "journal-title": "IATSS Res"
+      },
+      {
+        "key": "171_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1016/j.jsr.2019.11.005",
+        "volume": "72",
+        "author": "ER Teoh",
+        "year": "2020",
+        "unstructured": "Teoh ER (2020) What’s in a name? Drivers’ perceptions of the use of five SAE level 2 driving automation systems. J Saf Res 72:145–151. https://doi.org/10.1016/j.jsr.2019.11.005 (https://www.sciencedirect.com/science/article/pii/S0022437519306577)",
+        "journal-title": "J Saf Res"
+      },
+      {
+        "key": "171_CR66",
+        "unstructured": "Trimble TE, Bishop R, Morgan JF et al (2014) Human factors evaluation of level 2 and level 3 automated driving concepts: past research, state of automation technology, and emerging system concepts. Tech. Rep. DOT HS 812 043, National Highway Traffic Safety Administration, Washington, DC. https://www.nhtsa.gov/document/human-factors-evaluation-level-2-and-level-3-automated-driving-concepts-0"
+      },
+      {
+        "key": "171_CR67",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Varotto SF, Mons C, Hogema JH et al (2022) Do adaptive cruise control and lane keeping systems make the longitudinal vehicle control safer? Insights into speeding and time gaps shorter than one second from a naturalistic driving study with SAE level 2 automation. Transp Res Part C Emerg Technol 141:103756. https://doi.org/10.1016/j.trc.2022.103756 (https://www.sciencedirect.com/science/article/pii/S0968090X22001899)",
+        "DOI": "10.1016/j.trc.2022.103756"
+      },
+      {
+        "key": "171_CR68",
+        "unstructured": "Waymo LLC (2021) Waymo safety report. https://waymo.com/safety/research/"
+      },
+      {
+        "issue": "1",
+        "key": "171_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.3141/2663-04",
+        "volume": "2663",
+        "author": "TJ Wright",
+        "year": "2017",
+        "unstructured": "Wright TJ, Agrawal R, Samuel S et al (2017) Effects of alert cue specificity on situation awareness in transfer of control in level 3 automation. Transp Res Rec 2663(1):27–33. https://doi.org/10.3141/2663-04",
+        "journal-title": "Transp Res Rec"
+      },
+      {
+        "key": "171_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.1016/j.jsr.2019.09.001",
+        "volume": "71",
+        "author": "C Xu",
+        "year": "2019",
+        "unstructured": "Xu C, Ding Z, Wang C et al (2019) Statistical analysis of the patterns and characteristics of connected and autonomous vehicle involved crashes. J Saf Res 71:41–47. https://doi.org/10.1016/j.jsr.2019.09.001 (https://www.sciencedirect.com/science/article/pii/S0022437519306152)",
+        "journal-title": "J Saf Res"
+      },
+      {
+        "key": "171_CR71",
+        "doi-asserted-by": "publisher",
+        "first-page": "106905",
+        "DOI": "10.1016/j.aap.2022.106905",
+        "volume": "180",
+        "author": "C Xu",
+        "year": "2023",
+        "unstructured": "Xu C, Louw TL, Merat N et al (2023) Drivers’ gaze patterns when resuming control with a head-up-display: effects of automation level and time budget. Accid Anal Prev 180:106905. https://doi.org/10.1016/j.aap.2022.106905",
+        "journal-title": "Accid Anal Prev"
+      },
+      {
+        "issue": "2003116",
+        "key": "171_CR72",
+        "first-page": "1",
+        "volume": "135",
+        "author": "Q Zhao",
+        "year": "2003",
+        "unstructured": "Zhao Q, Bhowmick SS (2003) Association rule mining: a survey. Nanyang Technol Univ Singap 135(2003116):1–20",
+        "journal-title": "Nanyang Technol Univ Singap"
+      }
+    ],
+    "container-title": [
+      "Data Science for Transportation"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s42421-026-00171-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s42421-026-00171-7",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s42421-026-00171-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          6
+        ]
+      ],
+      "date-time": "2026-08-06T02:28:58Z",
+      "timestamp": 1785983338000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s42421-026-00171-7"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          6
+        ]
+      ]
+    },
+    "references-count": 72,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "171"
+    ],
+    "URL": "https://doi.org/10.1007/s42421-026-00171-7",
+    "relation": {},
+    "ISSN": [
+      "2948-135X",
+      "2948-1368"
+    ],
+    "issn-type": [
+      {
+        "value": "2948-135X",
+        "type": "print"
+      },
+      {
+        "value": "2948-1368",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "22 May 2026",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "9 July 2026",
+        "order": 2,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "27 July 2026",
+        "order": 3,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "6 August 2026",
+        "order": 4,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Conflict of interest",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      }
+    ],
+    "article-number": "28"
+  }
+}

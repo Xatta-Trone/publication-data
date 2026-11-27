@@ -1,0 +1,177 @@
+{
+  "issn": "2662-9283",
+  "title": "SN Social Sciences",
+  "publisher": "Springer-Verlag",
+  "issns": [
+    "2662-9283"
+  ],
+  "source": "crossref",
+  "record": {
+    "last-status-check-time": 1791255079566,
+    "counts": {
+      "current-dois": 968,
+      "backfile-dois": 788,
+      "total-dois": 1756
+    },
+    "breakdowns": {
+      "dois-by-issued-year": [
+        [
+          2026,
+          493
+        ],
+        [
+          2022,
+          282
+        ],
+        [
+          2021,
+          273
+        ],
+        [
+          2025,
+          245
+        ],
+        [
+          2024,
+          230
+        ],
+        [
+          2023,
+          208
+        ],
+        [
+          2020,
+          25
+        ]
+      ]
+    },
+    "publisher": "Springer-Verlag",
+    "coverage": {
+      "affiliations-current": 0.0,
+      "affiliation-ror-ids-backfile": 0.0,
+      "similarity-checking-current": 1.0,
+      "descriptions-current": 0.0,
+      "ror-ids-current": 0.01756198347107438,
+      "funders-backfile": 0.3274111675126904,
+      "licenses-backfile": 1.0,
+      "funders-current": 0.2179752066115702,
+      "affiliations-backfile": 0.0,
+      "resource-links-backfile": 1.0,
+      "orcids-backfile": 0.9137055837563453,
+      "funder-ror-ids-current": 0.01756198347107438,
+      "update-policies-current": 1.0,
+      "ror-ids-backfile": 0.0,
+      "orcids-current": 0.8584710743801653,
+      "similarity-checking-backfile": 1.0,
+      "references-backfile": 0.9758883248730964,
+      "descriptions-backfile": 0.0,
+      "award-numbers-backfile": 0.1713197969543147,
+      "update-policies-backfile": 1.0,
+      "licenses-current": 1.0,
+      "award-numbers-current": 0.08057851239669421,
+      "abstracts-backfile": 0.2347715736040609,
+      "resource-links-current": 1.0,
+      "affiliation-ror-ids-current": 0.0,
+      "funder-ror-ids-backfile": 0.0,
+      "abstracts-current": 0.1570247933884298,
+      "references-current": 0.9865702479338843
+    },
+    "title": "SN Social Sciences",
+    "subjects": [],
+    "coverage-type": {
+      "all": {
+        "last-status-check-time": 1791255079566,
+        "affiliations": 0.0,
+        "abstracts": 0.1919134396355353,
+        "orcids": 0.8832574031890661,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9817767653758542,
+        "funders": 0.2670842824601367,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 0.00968109339407745,
+        "award-numbers": 0.1212984054669704,
+        "ror-ids": 0.00968109339407745,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "backfile": {
+        "last-status-check-time": 1791255079566,
+        "affiliations": 0.0,
+        "abstracts": 0.2347715736040609,
+        "orcids": 0.9137055837563453,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9758883248730964,
+        "funders": 0.3274111675126904,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 0.0,
+        "award-numbers": 0.1713197969543147,
+        "ror-ids": 0.0,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      },
+      "current": {
+        "last-status-check-time": 1791255079566,
+        "affiliations": 0.0,
+        "abstracts": 0.1570247933884298,
+        "orcids": 0.8584710743801653,
+        "affiliation-ror-ids": 0.0,
+        "licenses": 1.0,
+        "references": 0.9865702479338843,
+        "funders": 0.2179752066115702,
+        "similarity-checking": 1.0,
+        "funder-ror-ids": 0.01756198347107438,
+        "award-numbers": 0.08057851239669421,
+        "ror-ids": 0.01756198347107438,
+        "update-policies": 1.0,
+        "resource-links": 1.0,
+        "descriptions": 0.0
+      }
+    },
+    "flags": {
+      "deposits-abstracts-current": true,
+      "deposits-orcids-current": true,
+      "deposits-affiliation-ror-ids-current": false,
+      "deposits": true,
+      "deposits-affiliations-backfile": false,
+      "deposits-update-policies-backfile": true,
+      "deposits-similarity-checking-backfile": true,
+      "deposits-award-numbers-current": true,
+      "deposits-resource-links-current": true,
+      "deposits-ror-ids-current": true,
+      "deposits-articles": true,
+      "deposits-affiliations-current": false,
+      "deposits-affiliation-ror-ids-backfile": false,
+      "deposits-funders-current": true,
+      "deposits-references-backfile": true,
+      "deposits-funder-ror-ids-current": true,
+      "deposits-ror-ids-backfile": false,
+      "deposits-abstracts-backfile": true,
+      "deposits-licenses-backfile": true,
+      "deposits-award-numbers-backfile": true,
+      "deposits-descriptions-current": false,
+      "deposits-references-current": true,
+      "deposits-resource-links-backfile": true,
+      "deposits-descriptions-backfile": false,
+      "deposits-orcids-backfile": true,
+      "deposits-funders-backfile": true,
+      "deposits-funder-ror-ids-backfile": false,
+      "deposits-update-policies-current": true,
+      "deposits-similarity-checking-current": true,
+      "deposits-licenses-current": true
+    },
+    "ISSN": [
+      "2662-9283"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2662-9283"
+      }
+    ]
+  },
+  "fetched_at": "2026-11-27T06:08:38+00:00"
+}
