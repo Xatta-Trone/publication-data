@@ -1,6 +1,7 @@
 """Daily update: run every step, report what changed, build public/ for the website.
 
-Steps (critical ones stop the run; the others warn and keep the previous data):
+Steps, all in pipeline/ (critical ones stop the run; the others warn and keep
+the previous data):
     fetch_orcid.py        critical   works + peer reviews from ORCID
     fetch_crossref.py     critical   metadata for new DOIs (cached once per DOI)
     fetch_openalex.py     optional   citations / abstracts (refetched when stale)
@@ -28,6 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+PIPELINE = ROOT / "pipeline"
 DATA = ROOT / "data"
 PUBLIC = ROOT / "public"
 
@@ -92,7 +94,7 @@ def diff(before: dict, after: dict) -> dict:
 
 def run(script: str) -> tuple[bool, str]:
     t = time.time()
-    p = subprocess.run([sys.executable, str(ROOT / script)], cwd=ROOT, capture_output=True, text=True,
+    p = subprocess.run([sys.executable, str(PIPELINE / script)], cwd=ROOT, capture_output=True, text=True,
                        encoding="utf-8", errors="replace", env={**os.environ, "PYTHONIOENCODING": "utf-8"})
     out = (p.stdout + p.stderr).strip()
     print(f"\n=== {script} ({time.time() - t:.1f}s, exit {p.returncode}) ===\n{out}")

@@ -25,7 +25,7 @@ from urllib.parse import quote
 import requests
 from dotenv import load_dotenv
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (scripts live in pipeline/)
 WORKS = ROOT / "data" / "works.json"
 OUT = ROOT / "data" / "crossref"
 NOT_FOUND = OUT / "_not_found.json"
@@ -70,7 +70,7 @@ def main() -> None:
     retry_missing = "--retry-missing" in sys.argv[1:]
 
     if not WORKS.exists():
-        sys.exit("data/works.json not found; run fetch_orcid.py first")
+        sys.exit("data/works.json not found; run pipeline/fetch_orcid.py first")
     works = json.loads(WORKS.read_text(encoding="utf-8"))
     dois = sorted({norm_doi(w["external_ids"]["doi"]) for w in works if w.get("external_ids", {}).get("doi")})
 

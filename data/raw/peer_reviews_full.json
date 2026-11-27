@@ -347,76 +347,6 @@
   },
   {
     "created-date": {
-      "value": 1789796767293
-    },
-    "last-modified-date": {
-      "value": 1789796767293
-    },
-    "source": {
-      "source-orcid": null,
-      "source-client-id": {
-        "uri": "https://orcid.org/client/0000-0002-7423-0090",
-        "path": "0000-0002-7423-0090",
-        "host": "orcid.org"
-      },
-      "source-name": {
-        "value": "Elsevier Editorial "
-      },
-      "assertion-origin-orcid": null,
-      "assertion-origin-client-id": null,
-      "assertion-origin-name": null
-    },
-    "reviewer-role": "reviewer",
-    "review-identifiers": {
-      "external-id": [
-        {
-          "external-id-type": "source-work-id",
-          "external-id-value": "aadfc17f-0f2c-486c-b852-cb9a54e3b308",
-          "external-id-normalized": {
-            "value": "aadfc17f-0f2c-486c-b852-cb9a54e3b308",
-            "transient": true
-          },
-          "external-id-normalized-error": null,
-          "external-id-url": {
-            "value": ""
-          },
-          "external-id-relationship": "self"
-        }
-      ]
-    },
-    "review-url": null,
-    "review-type": "review",
-    "review-completion-date": {
-      "year": {
-        "value": "2026"
-      },
-      "month": null,
-      "day": null
-    },
-    "review-group-id": "issn:0967-070X",
-    "subject-external-identifier": null,
-    "subject-container-name": null,
-    "subject-type": null,
-    "subject-name": null,
-    "subject-url": null,
-    "convening-organization": {
-      "name": "Elsevier, Inc.",
-      "address": {
-        "city": "New York",
-        "region": "NY",
-        "country": "US"
-      },
-      "disambiguated-organization": {
-        "disambiguated-organization-identifier": "5953",
-        "disambiguation-source": "RINGGOLD"
-      }
-    },
-    "visibility": "public",
-    "put-code": 29092091,
-    "path": "/0009-0007-3670-6100/peer-review/29092091"
-  },
-  {
-    "created-date": {
       "value": 1778394461016
     },
     "last-modified-date": {
@@ -484,6 +414,76 @@
     "visibility": "public",
     "put-code": 26945822,
     "path": "/0009-0007-3670-6100/peer-review/26945822"
+  },
+  {
+    "created-date": {
+      "value": 1789796767293
+    },
+    "last-modified-date": {
+      "value": 1789796767293
+    },
+    "source": {
+      "source-orcid": null,
+      "source-client-id": {
+        "uri": "https://orcid.org/client/0000-0002-7423-0090",
+        "path": "0000-0002-7423-0090",
+        "host": "orcid.org"
+      },
+      "source-name": {
+        "value": "Elsevier Editorial "
+      },
+      "assertion-origin-orcid": null,
+      "assertion-origin-client-id": null,
+      "assertion-origin-name": null
+    },
+    "reviewer-role": "reviewer",
+    "review-identifiers": {
+      "external-id": [
+        {
+          "external-id-type": "source-work-id",
+          "external-id-value": "aadfc17f-0f2c-486c-b852-cb9a54e3b308",
+          "external-id-normalized": {
+            "value": "aadfc17f-0f2c-486c-b852-cb9a54e3b308",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": ""
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    "review-url": null,
+    "review-type": "review",
+    "review-completion-date": {
+      "year": {
+        "value": "2026"
+      },
+      "month": null,
+      "day": null
+    },
+    "review-group-id": "issn:0967-070X",
+    "subject-external-identifier": null,
+    "subject-container-name": null,
+    "subject-type": null,
+    "subject-name": null,
+    "subject-url": null,
+    "convening-organization": {
+      "name": "Elsevier, Inc.",
+      "address": {
+        "city": "New York",
+        "region": "NY",
+        "country": "US"
+      },
+      "disambiguated-organization": {
+        "disambiguated-organization-identifier": "5953",
+        "disambiguation-source": "RINGGOLD"
+      }
+    },
+    "visibility": "public",
+    "put-code": 29092091,
+    "path": "/0009-0007-3670-6100/peer-review/29092091"
   },
   {
     "created-date": {
@@ -989,76 +989,6 @@
   },
   {
     "created-date": {
-      "value": 1785905054997
-    },
-    "last-modified-date": {
-      "value": 1785905054997
-    },
-    "source": {
-      "source-orcid": null,
-      "source-client-id": {
-        "uri": "https://orcid.org/client/0000-0002-7423-0090",
-        "path": "0000-0002-7423-0090",
-        "host": "orcid.org"
-      },
-      "source-name": {
-        "value": "Elsevier Editorial "
-      },
-      "assertion-origin-orcid": null,
-      "assertion-origin-client-id": null,
-      "assertion-origin-name": null
-    },
-    "reviewer-role": "reviewer",
-    "review-identifiers": {
-      "external-id": [
-        {
-          "external-id-type": "source-work-id",
-          "external-id-value": "a956bc5b-59af-4e9d-8c01-54bfdbbb453d",
-          "external-id-normalized": {
-            "value": "a956bc5b-59af-4e9d-8c01-54bfdbbb453d",
-            "transient": true
-          },
-          "external-id-normalized-error": null,
-          "external-id-url": {
-            "value": ""
-          },
-          "external-id-relationship": "self"
-        }
-      ]
-    },
-    "review-url": null,
-    "review-type": "review",
-    "review-completion-date": {
-      "year": {
-        "value": "2026"
-      },
-      "month": null,
-      "day": null
-    },
-    "review-group-id": "issn:2590-1982",
-    "subject-external-identifier": null,
-    "subject-container-name": null,
-    "subject-type": null,
-    "subject-name": null,
-    "subject-url": null,
-    "convening-organization": {
-      "name": "Elsevier, Inc.",
-      "address": {
-        "city": "New York",
-        "region": "NY",
-        "country": "US"
-      },
-      "disambiguated-organization": {
-        "disambiguated-organization-identifier": "5953",
-        "disambiguation-source": "RINGGOLD"
-      }
-    },
-    "visibility": "public",
-    "put-code": 28361966,
-    "path": "/0009-0007-3670-6100/peer-review/28361966"
-  },
-  {
-    "created-date": {
       "value": 1793421866107
     },
     "last-modified-date": {
@@ -1126,6 +1056,76 @@
     "visibility": "public",
     "put-code": 29814699,
     "path": "/0009-0007-3670-6100/peer-review/29814699"
+  },
+  {
+    "created-date": {
+      "value": 1785905054997
+    },
+    "last-modified-date": {
+      "value": 1785905054997
+    },
+    "source": {
+      "source-orcid": null,
+      "source-client-id": {
+        "uri": "https://orcid.org/client/0000-0002-7423-0090",
+        "path": "0000-0002-7423-0090",
+        "host": "orcid.org"
+      },
+      "source-name": {
+        "value": "Elsevier Editorial "
+      },
+      "assertion-origin-orcid": null,
+      "assertion-origin-client-id": null,
+      "assertion-origin-name": null
+    },
+    "reviewer-role": "reviewer",
+    "review-identifiers": {
+      "external-id": [
+        {
+          "external-id-type": "source-work-id",
+          "external-id-value": "a956bc5b-59af-4e9d-8c01-54bfdbbb453d",
+          "external-id-normalized": {
+            "value": "a956bc5b-59af-4e9d-8c01-54bfdbbb453d",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": ""
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    "review-url": null,
+    "review-type": "review",
+    "review-completion-date": {
+      "year": {
+        "value": "2026"
+      },
+      "month": null,
+      "day": null
+    },
+    "review-group-id": "issn:2590-1982",
+    "subject-external-identifier": null,
+    "subject-container-name": null,
+    "subject-type": null,
+    "subject-name": null,
+    "subject-url": null,
+    "convening-organization": {
+      "name": "Elsevier, Inc.",
+      "address": {
+        "city": "New York",
+        "region": "NY",
+        "country": "US"
+      },
+      "disambiguated-organization": {
+        "disambiguated-organization-identifier": "5953",
+        "disambiguation-source": "RINGGOLD"
+      }
+    },
+    "visibility": "public",
+    "put-code": 28361966,
+    "path": "/0009-0007-3670-6100/peer-review/28361966"
   },
   {
     "created-date": {
@@ -1708,80 +1708,6 @@
   },
   {
     "created-date": {
-      "value": 1792448034437
-    },
-    "last-modified-date": {
-      "value": 1792448034437
-    },
-    "source": {
-      "source-orcid": null,
-      "source-client-id": {
-        "uri": "https://orcid.org/client/0000-0002-7423-0090",
-        "path": "0000-0002-7423-0090",
-        "host": "orcid.org"
-      },
-      "source-name": {
-        "value": "Elsevier Editorial "
-      },
-      "assertion-origin-orcid": null,
-      "assertion-origin-client-id": null,
-      "assertion-origin-name": null
-    },
-    "reviewer-role": "reviewer",
-    "review-identifiers": {
-      "external-id": [
-        {
-          "external-id-type": "source-work-id",
-          "external-id-value": "2c60f6f9-ef42-4fec-bbdc-9dcbdae21c73",
-          "external-id-normalized": {
-            "value": "2c60f6f9-ef42-4fec-bbdc-9dcbdae21c73",
-            "transient": true
-          },
-          "external-id-normalized-error": null,
-          "external-id-url": {
-            "value": ""
-          },
-          "external-id-relationship": "self"
-        }
-      ]
-    },
-    "review-url": null,
-    "review-type": "review",
-    "review-completion-date": {
-      "year": {
-        "value": "2026"
-      },
-      "month": {
-        "value": "10"
-      },
-      "day": {
-        "value": "19"
-      }
-    },
-    "review-group-id": "issn:0001-4575",
-    "subject-external-identifier": null,
-    "subject-container-name": null,
-    "subject-type": null,
-    "subject-name": null,
-    "subject-url": null,
-    "convening-organization": {
-      "name": "Elsevier, Inc.",
-      "address": {
-        "city": "New York",
-        "region": "NY",
-        "country": "US"
-      },
-      "disambiguated-organization": {
-        "disambiguated-organization-identifier": "5953",
-        "disambiguation-source": "RINGGOLD"
-      }
-    },
-    "visibility": "public",
-    "put-code": 29614430,
-    "path": "/0009-0007-3670-6100/peer-review/29614430"
-  },
-  {
-    "created-date": {
       "value": 1792448034425
     },
     "last-modified-date": {
@@ -1853,6 +1779,80 @@
     "visibility": "public",
     "put-code": 29614429,
     "path": "/0009-0007-3670-6100/peer-review/29614429"
+  },
+  {
+    "created-date": {
+      "value": 1792448034437
+    },
+    "last-modified-date": {
+      "value": 1792448034437
+    },
+    "source": {
+      "source-orcid": null,
+      "source-client-id": {
+        "uri": "https://orcid.org/client/0000-0002-7423-0090",
+        "path": "0000-0002-7423-0090",
+        "host": "orcid.org"
+      },
+      "source-name": {
+        "value": "Elsevier Editorial "
+      },
+      "assertion-origin-orcid": null,
+      "assertion-origin-client-id": null,
+      "assertion-origin-name": null
+    },
+    "reviewer-role": "reviewer",
+    "review-identifiers": {
+      "external-id": [
+        {
+          "external-id-type": "source-work-id",
+          "external-id-value": "2c60f6f9-ef42-4fec-bbdc-9dcbdae21c73",
+          "external-id-normalized": {
+            "value": "2c60f6f9-ef42-4fec-bbdc-9dcbdae21c73",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": ""
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    "review-url": null,
+    "review-type": "review",
+    "review-completion-date": {
+      "year": {
+        "value": "2026"
+      },
+      "month": {
+        "value": "10"
+      },
+      "day": {
+        "value": "19"
+      }
+    },
+    "review-group-id": "issn:0001-4575",
+    "subject-external-identifier": null,
+    "subject-container-name": null,
+    "subject-type": null,
+    "subject-name": null,
+    "subject-url": null,
+    "convening-organization": {
+      "name": "Elsevier, Inc.",
+      "address": {
+        "city": "New York",
+        "region": "NY",
+        "country": "US"
+      },
+      "disambiguated-organization": {
+        "disambiguated-organization-identifier": "5953",
+        "disambiguation-source": "RINGGOLD"
+      }
+    },
+    "visibility": "public",
+    "put-code": 29614430,
+    "path": "/0009-0007-3670-6100/peer-review/29614430"
   },
   {
     "created-date": {
@@ -2372,10 +2372,10 @@
   },
   {
     "created-date": {
-      "value": 1764481013347
+      "value": 1759207279488
     },
     "last-modified-date": {
-      "value": 1764481013347
+      "value": 1759207279488
     },
     "source": {
       "source-orcid": null,
@@ -2396,9 +2396,9 @@
       "external-id": [
         {
           "external-id-type": "source-work-id",
-          "external-id-value": "9eaa6c9c-306d-4a40-9ef9-18e3a276099b",
+          "external-id-value": "5463fe79-c29f-4f28-9258-fc4e3ac530a9",
           "external-id-normalized": {
-            "value": "9eaa6c9c-306d-4a40-9ef9-18e3a276099b",
+            "value": "5463fe79-c29f-4f28-9258-fc4e3ac530a9",
             "transient": true
           },
           "external-id-normalized-error": null,
@@ -2437,8 +2437,8 @@
       }
     },
     "visibility": "public",
-    "put-code": 23522609,
-    "path": "/0009-0007-3670-6100/peer-review/23522609"
+    "put-code": 22662477,
+    "path": "/0009-0007-3670-6100/peer-review/22662477"
   },
   {
     "created-date": {
@@ -2512,10 +2512,10 @@
   },
   {
     "created-date": {
-      "value": 1759207279488
+      "value": 1764481013347
     },
     "last-modified-date": {
-      "value": 1759207279488
+      "value": 1764481013347
     },
     "source": {
       "source-orcid": null,
@@ -2536,9 +2536,9 @@
       "external-id": [
         {
           "external-id-type": "source-work-id",
-          "external-id-value": "5463fe79-c29f-4f28-9258-fc4e3ac530a9",
+          "external-id-value": "9eaa6c9c-306d-4a40-9ef9-18e3a276099b",
           "external-id-normalized": {
-            "value": "5463fe79-c29f-4f28-9258-fc4e3ac530a9",
+            "value": "9eaa6c9c-306d-4a40-9ef9-18e3a276099b",
             "transient": true
           },
           "external-id-normalized-error": null,
@@ -2577,77 +2577,8 @@
       }
     },
     "visibility": "public",
-    "put-code": 22662477,
-    "path": "/0009-0007-3670-6100/peer-review/22662477"
-  },
-  {
-    "created-date": {
-      "value": 1794876466729
-    },
-    "last-modified-date": {
-      "value": 1794876466729
-    },
-    "source": {
-      "source-orcid": null,
-      "source-client-id": {
-        "uri": "https://orcid.org/client/APP-PIPD3W8Z8DY9GESR",
-        "path": "APP-PIPD3W8Z8DY9GESR",
-        "host": "orcid.org"
-      },
-      "source-name": {
-        "value": "Web of Science Researcher Profiles"
-      },
-      "assertion-origin-orcid": null,
-      "assertion-origin-client-id": null,
-      "assertion-origin-name": null
-    },
-    "reviewer-role": "reviewer",
-    "review-identifiers": {
-      "external-id": [
-        {
-          "external-id-type": "other-id",
-          "external-id-value": "eWWugU9o",
-          "external-id-normalized": {
-            "value": "ewwugu9o",
-            "transient": true
-          },
-          "external-id-normalized-error": null,
-          "external-id-url": {
-            "value": "https://publons.com/wos-op/review/author/eWWugU9o/"
-          },
-          "external-id-relationship": "self"
-        }
-      ]
-    },
-    "review-url": {
-      "value": "https://publons.com/wos-op/review/author/eWWugU9o/"
-    },
-    "review-type": "review",
-    "review-completion-date": {
-      "year": {
-        "value": "2025"
-      },
-      "month": null,
-      "day": null
-    },
-    "review-group-id": "issn:1943-9970",
-    "subject-external-identifier": null,
-    "subject-container-name": null,
-    "subject-type": "journal-article",
-    "subject-name": null,
-    "subject-url": null,
-    "convening-organization": {
-      "name": "Clarivate PLC",
-      "address": {
-        "city": "London",
-        "region": null,
-        "country": "GB"
-      },
-      "disambiguated-organization": null
-    },
-    "visibility": "public",
-    "put-code": 30105428,
-    "path": "/0009-0007-3670-6100/peer-review/30105428"
+    "put-code": 23522609,
+    "path": "/0009-0007-3670-6100/peer-review/23522609"
   },
   {
     "created-date": {
@@ -2720,6 +2651,75 @@
   },
   {
     "created-date": {
+      "value": 1794876466729
+    },
+    "last-modified-date": {
+      "value": 1794876466729
+    },
+    "source": {
+      "source-orcid": null,
+      "source-client-id": {
+        "uri": "https://orcid.org/client/APP-PIPD3W8Z8DY9GESR",
+        "path": "APP-PIPD3W8Z8DY9GESR",
+        "host": "orcid.org"
+      },
+      "source-name": {
+        "value": "Web of Science Researcher Profiles"
+      },
+      "assertion-origin-orcid": null,
+      "assertion-origin-client-id": null,
+      "assertion-origin-name": null
+    },
+    "reviewer-role": "reviewer",
+    "review-identifiers": {
+      "external-id": [
+        {
+          "external-id-type": "other-id",
+          "external-id-value": "eWWugU9o",
+          "external-id-normalized": {
+            "value": "ewwugu9o",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": "https://publons.com/wos-op/review/author/eWWugU9o/"
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    "review-url": {
+      "value": "https://publons.com/wos-op/review/author/eWWugU9o/"
+    },
+    "review-type": "review",
+    "review-completion-date": {
+      "year": {
+        "value": "2025"
+      },
+      "month": null,
+      "day": null
+    },
+    "review-group-id": "issn:1943-9970",
+    "subject-external-identifier": null,
+    "subject-container-name": null,
+    "subject-type": "journal-article",
+    "subject-name": null,
+    "subject-url": null,
+    "convening-organization": {
+      "name": "Clarivate PLC",
+      "address": {
+        "city": "London",
+        "region": null,
+        "country": "GB"
+      },
+      "disambiguated-organization": null
+    },
+    "visibility": "public",
+    "put-code": 30105428,
+    "path": "/0009-0007-3670-6100/peer-review/30105428"
+  },
+  {
+    "created-date": {
       "value": 1794876465261
     },
     "last-modified-date": {
@@ -2789,10 +2789,10 @@
   },
   {
     "created-date": {
-      "value": 1794876465748
+      "value": 1794876468471
     },
     "last-modified-date": {
-      "value": 1794876465748
+      "value": 1794876468471
     },
     "source": {
       "source-orcid": null,
@@ -2813,21 +2813,21 @@
       "external-id": [
         {
           "external-id-type": "other-id",
-          "external-id-value": "WnzMyEsP",
+          "external-id-value": "7Hv9t4Ab",
           "external-id-normalized": {
-            "value": "wnzmyesp",
+            "value": "7hv9t4ab",
             "transient": true
           },
           "external-id-normalized-error": null,
           "external-id-url": {
-            "value": "https://publons.com/wos-op/review/author/WnzMyEsP/"
+            "value": "https://publons.com/wos-op/review/author/7Hv9t4Ab/"
           },
           "external-id-relationship": "self"
         }
       ]
     },
     "review-url": {
-      "value": "https://publons.com/wos-op/review/author/WnzMyEsP/"
+      "value": "https://publons.com/wos-op/review/author/7Hv9t4Ab/"
     },
     "review-type": "review",
     "review-completion-date": {
@@ -2853,77 +2853,8 @@
       "disambiguated-organization": null
     },
     "visibility": "public",
-    "put-code": 30105427,
-    "path": "/0009-0007-3670-6100/peer-review/30105427"
-  },
-  {
-    "created-date": {
-      "value": 1794876467442
-    },
-    "last-modified-date": {
-      "value": 1794876467442
-    },
-    "source": {
-      "source-orcid": null,
-      "source-client-id": {
-        "uri": "https://orcid.org/client/APP-PIPD3W8Z8DY9GESR",
-        "path": "APP-PIPD3W8Z8DY9GESR",
-        "host": "orcid.org"
-      },
-      "source-name": {
-        "value": "Web of Science Researcher Profiles"
-      },
-      "assertion-origin-orcid": null,
-      "assertion-origin-client-id": null,
-      "assertion-origin-name": null
-    },
-    "reviewer-role": "reviewer",
-    "review-identifiers": {
-      "external-id": [
-        {
-          "external-id-type": "other-id",
-          "external-id-value": "TL6oAFKr",
-          "external-id-normalized": {
-            "value": "tl6oafkr",
-            "transient": true
-          },
-          "external-id-normalized-error": null,
-          "external-id-url": {
-            "value": "https://publons.com/wos-op/review/author/TL6oAFKr/"
-          },
-          "external-id-relationship": "self"
-        }
-      ]
-    },
-    "review-url": {
-      "value": "https://publons.com/wos-op/review/author/TL6oAFKr/"
-    },
-    "review-type": "review",
-    "review-completion-date": {
-      "year": {
-        "value": "2025"
-      },
-      "month": null,
-      "day": null
-    },
-    "review-group-id": "issn:2169-4052",
-    "subject-external-identifier": null,
-    "subject-container-name": null,
-    "subject-type": "journal-article",
-    "subject-name": null,
-    "subject-url": null,
-    "convening-organization": {
-      "name": "Clarivate PLC",
-      "address": {
-        "city": "London",
-        "region": null,
-        "country": "GB"
-      },
-      "disambiguated-organization": null
-    },
-    "visibility": "public",
-    "put-code": 30105430,
-    "path": "/0009-0007-3670-6100/peer-review/30105430"
+    "put-code": 30105431,
+    "path": "/0009-0007-3670-6100/peer-review/30105431"
   },
   {
     "created-date": {
@@ -2996,10 +2927,10 @@
   },
   {
     "created-date": {
-      "value": 1794876468471
+      "value": 1794876467442
     },
     "last-modified-date": {
-      "value": 1794876468471
+      "value": 1794876467442
     },
     "source": {
       "source-orcid": null,
@@ -3020,21 +2951,21 @@
       "external-id": [
         {
           "external-id-type": "other-id",
-          "external-id-value": "7Hv9t4Ab",
+          "external-id-value": "TL6oAFKr",
           "external-id-normalized": {
-            "value": "7hv9t4ab",
+            "value": "tl6oafkr",
             "transient": true
           },
           "external-id-normalized-error": null,
           "external-id-url": {
-            "value": "https://publons.com/wos-op/review/author/7Hv9t4Ab/"
+            "value": "https://publons.com/wos-op/review/author/TL6oAFKr/"
           },
           "external-id-relationship": "self"
         }
       ]
     },
     "review-url": {
-      "value": "https://publons.com/wos-op/review/author/7Hv9t4Ab/"
+      "value": "https://publons.com/wos-op/review/author/TL6oAFKr/"
     },
     "review-type": "review",
     "review-completion-date": {
@@ -3060,7 +2991,76 @@
       "disambiguated-organization": null
     },
     "visibility": "public",
-    "put-code": 30105431,
-    "path": "/0009-0007-3670-6100/peer-review/30105431"
+    "put-code": 30105430,
+    "path": "/0009-0007-3670-6100/peer-review/30105430"
+  },
+  {
+    "created-date": {
+      "value": 1794876465748
+    },
+    "last-modified-date": {
+      "value": 1794876465748
+    },
+    "source": {
+      "source-orcid": null,
+      "source-client-id": {
+        "uri": "https://orcid.org/client/APP-PIPD3W8Z8DY9GESR",
+        "path": "APP-PIPD3W8Z8DY9GESR",
+        "host": "orcid.org"
+      },
+      "source-name": {
+        "value": "Web of Science Researcher Profiles"
+      },
+      "assertion-origin-orcid": null,
+      "assertion-origin-client-id": null,
+      "assertion-origin-name": null
+    },
+    "reviewer-role": "reviewer",
+    "review-identifiers": {
+      "external-id": [
+        {
+          "external-id-type": "other-id",
+          "external-id-value": "WnzMyEsP",
+          "external-id-normalized": {
+            "value": "wnzmyesp",
+            "transient": true
+          },
+          "external-id-normalized-error": null,
+          "external-id-url": {
+            "value": "https://publons.com/wos-op/review/author/WnzMyEsP/"
+          },
+          "external-id-relationship": "self"
+        }
+      ]
+    },
+    "review-url": {
+      "value": "https://publons.com/wos-op/review/author/WnzMyEsP/"
+    },
+    "review-type": "review",
+    "review-completion-date": {
+      "year": {
+        "value": "2025"
+      },
+      "month": null,
+      "day": null
+    },
+    "review-group-id": "issn:2169-4052",
+    "subject-external-identifier": null,
+    "subject-container-name": null,
+    "subject-type": "journal-article",
+    "subject-name": null,
+    "subject-url": null,
+    "convening-organization": {
+      "name": "Clarivate PLC",
+      "address": {
+        "city": "London",
+        "region": null,
+        "country": "GB"
+      },
+      "disambiguated-organization": null
+    },
+    "visibility": "public",
+    "put-code": 30105427,
+    "path": "/0009-0007-3670-6100/peer-review/30105427"
   }
 ]

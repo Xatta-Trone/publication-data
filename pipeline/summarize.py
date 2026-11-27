@@ -24,7 +24,7 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import quote
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (scripts live in pipeline/)
 DATA = ROOT / "data"
 CROSSREF = DATA / "crossref"
 
@@ -496,7 +496,7 @@ def main() -> None:
         for name, n in pr["by_journal"].items():
             print(f"  {n:>3}  {name}")
         if pr["unresolved_venues"]:
-            print("  (run fetch_journals.py to resolve the [unresolved] ISSNs)")
+            print("  (run pipeline/fetch_journals.py to resolve the [unresolved] ISSNs)")
 
 
 if __name__ == "__main__":

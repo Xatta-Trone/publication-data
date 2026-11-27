@@ -32,7 +32,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (scripts live in pipeline/)
 DATA = ROOT / "data"
 RAW = DATA / "raw"
 

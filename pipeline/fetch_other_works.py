@@ -31,7 +31,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (scripts live in pipeline/)
 OTHER = ROOT / "data" / "other_works.json"
 OUT = ROOT / "data" / "other_works_meta"
 RETRY_NOT_FOUND = timedelta(days=7)
@@ -143,7 +143,7 @@ def from_crossref(session, work, mailto) -> dict | None:
 def main() -> None:
     load_dotenv(ROOT / ".env")
     if not OTHER.exists():
-        sys.exit("data/other_works.json not found; run fetch_scholar.py and summarize.py first")
+        sys.exit("data/other_works.json not found; run pipeline/fetch_scholar.py and pipeline/summarize.py first")
     works = json.loads(OTHER.read_text(encoding="utf-8"))
     refresh = "--refresh" in sys.argv[1:]
     oa_key = (os.getenv("OPENALEX_API_KEY") or "").strip()

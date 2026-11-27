@@ -26,7 +26,7 @@ import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (scripts live in pipeline/)
 OUT = ROOT / "data" / "scholar"
 BASE = "https://scholar.google.com"
 PAGE_SIZE = 100

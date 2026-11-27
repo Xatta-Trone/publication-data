@@ -21,7 +21,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (scripts live in pipeline/)
 REVIEWS = ROOT / "data" / "peer_reviews.json"
 OUT = ROOT / "data" / "journals"
 

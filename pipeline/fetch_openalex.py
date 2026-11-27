@@ -23,7 +23,7 @@ from urllib.parse import quote
 import requests
 from dotenv import load_dotenv
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent  # repo root (scripts live in pipeline/)
 WORKS = ROOT / "data" / "works.json"
 OUT = ROOT / "data" / "openalex"
 NOT_FOUND = OUT / "_not_found.json"
