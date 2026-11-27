@@ -96,6 +96,11 @@ the next run incremental on a fresh runner.
   match against spellings learned from the iD-matched papers
   (`summary.json → name_variants_matched`). Never hard-code the name. A name
   match must be unique within a paper, otherwise the position is "unresolved".
+- **Co-authors** (`summary.json → co_authors`, `summarize.co_author_counts()`):
+  counted publications only; group authors (Crossref author without `family`,
+  flagged `org: true`) are skipped. One person = same ORCID iD, else same name
+  with spaces removed or same first + last name. Per person: `papers`,
+  `papers_i_am_not_first`, `papers_they_are_first`.
 - **Matching Scholar to ORCID works:** normalized title, `SequenceMatcher`
   ratio ≥ 0.92, each Scholar entry used once.
 - **Peer reviews:** publish journal/date/role/publisher only. The reviewed
@@ -128,6 +133,8 @@ the next run incremental on a fresh runner.
   issns, publisher, reviews, by_year}], reviews[{journal, issn, publisher, date,
   year, role, type, verified_by}]`.
 - `summary.json`: counts (`author_position`, `journals`, `by_type`),
+  `co_authors{unique, unique_when_i_am_not_first, papers_i_am_not_first,
+  list[{name, orcid, papers, papers_i_am_not_first, papers_they_are_first}]}`,
   `citations{scholar, openalex, crossref}`, `scholar_profile`, `peer_reviews`.
 - `last_run.json`: per-step status and `changes` (new works/preprints/reviews,
   citation changes).

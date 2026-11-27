@@ -167,17 +167,20 @@
       {
         "name": "National Cooperative Highway Research Program",
         "orcid": null,
-        "is_me": false
+        "is_me": false,
+        "org": true
       },
       {
         "name": "Transportation Research Board",
         "orcid": null,
-        "is_me": false
+        "is_me": false,
+        "org": true
       },
       {
         "name": "National Academies of Sciences, Engineering, and Medicine",
         "orcid": null,
-        "is_me": false
+        "is_me": false,
+        "org": true
       }
     ],
     "volume": null,

@@ -257,11 +257,62 @@ def author_list(work: dict, cr: dict | None) -> tuple[list[dict], str]:
     if cr and cr.get("author"):
         return [
             {"name": " ".join(filter(None, [a.get("given"), a.get("family")])) or a.get("name"),
-             "orcid": (a.get("ORCID") or "").rsplit("/", 1)[-1] or None}
+             "orcid": (a.get("ORCID") or "").rsplit("/", 1)[-1] or None,
+             "org": not a.get("family")}  # group author, e.g. "Transportation Research Board"
             for a in cr["author"]
         ], "crossref"
     return [{"name": c.get("name"), "orcid": c.get("orcid")} for c in work.get("contributors", [])
             if (c.get("role") or "author") == "author"], "orcid"
+
+
+def co_author_counts(pubs: list[dict]) -> dict:
+    """Count papers per co-author (counted works only; organisations skipped).
+
+    The same person is grouped by ORCID iD; otherwise by name, matched with
+    spaces removed ("GhoshTusti" = "Ghosh Tusti") or by first + last name
+    ("Anandi K. Dutta" = "Anandi Dutta"). The most common spelling is shown.
+    """
+    def keys(name: str) -> list[str]:
+        t = norm_name(name).split()
+        return ["c:" + "".join(t)] + (["fl:" + t[0] + " " + t[-1]] if len(t) > 1 else [])
+
+    alias: dict[str, str] = {}  # name key -> person id
+    for p in pubs:  # people with an iD first, so their spellings anchor the group
+        for a in p["authors"]:
+            if a.get("orcid") and not a["is_me"]:
+                for k in keys(a["name"]):
+                    alias.setdefault(k, "o:" + a["orcid"])
+    people: dict[str, dict] = {}
+    for p in pubs:
+        me_first = p.get("my_position") == 1
+        seen = set()
+        for i, a in enumerate(p["authors"], 1):
+            if a["is_me"] or a.get("org") or not norm_name(a["name"]):
+                continue
+            ks = keys(a["name"])
+            pid = "o:" + a["orcid"] if a.get("orcid") else next((alias[k] for k in ks if k in alias), ks[0])
+            for k in ks:
+                alias.setdefault(k, pid)
+            if pid in seen:
+                continue
+            seen.add(pid)
+            e = people.setdefault(pid, {"names": Counter(), "orcid": None, "papers": 0,
+                                        "papers_i_am_not_first": 0, "papers_they_are_first": 0})
+            e["names"][a["name"]] += 1
+            e["orcid"] = e["orcid"] or a.get("orcid")
+            e["papers"] += 1
+            e["papers_i_am_not_first"] += not me_first
+            e["papers_they_are_first"] += i == 1
+    rows = [{"name": e["names"].most_common(1)[0][0], "orcid": e["orcid"],
+             **{k: e[k] for k in ("papers", "papers_i_am_not_first", "papers_they_are_first")}}
+            for e in people.values()]
+    rows.sort(key=lambda r: (-r["papers"], -r["papers_i_am_not_first"], r["name"]))
+    return {
+        "unique": len(rows),
+        "unique_when_i_am_not_first": sum(r["papers_i_am_not_first"] > 0 for r in rows),
+        "papers_i_am_not_first": sum(p.get("my_position") not in (1, None) for p in pubs),
+        "list": rows,
+    }
 
 
 def peer_review_venues() -> tuple[dict, list[str]]:
@@ -415,7 +466,8 @@ def main() -> None:
                                    "date_online_source", "date_issue", "date_created", "my_position",
                                    "citations_openalex", "citations_crossref", "is_open_access", "oa_url")},
             "url": f"https://doi.org/{p['doi']}" if p["doi"] else w.get("url"),
-            "authors": [{"name": a["name"], "orcid": a["orcid"], "is_me": i == p["position"]}
+            "authors": [{"name": a["name"], "orcid": a["orcid"], "is_me": i == p["position"],
+                         **({"org": True} if a.get("org") else {})}
                         for i, a in enumerate(p["authors"], 1)],
             "volume": (cr or {}).get("volume"),
             "issue": (cr or {}).get("issue"),
@@ -524,6 +576,7 @@ def main() -> None:
         "journals": dict(Counter(r["venue"] for r in journals).most_common()),
         "other_venues": dict(Counter(f'{r["venue"]} ({r["type"]})' for r in other).most_common()),
         "citations": citation_summary(rows),
+        "co_authors": co_author_counts(pubs),
         "scholar_profile": {k: scholar[k] for k in ("name", "profile_url", "metrics", "citations_per_year",
                                                     "article_count", "fetched_at")} if scholar else None,
         "scholar_only_works": {"total": len(scholar_only),
@@ -561,6 +614,12 @@ def main() -> None:
     print(f"  Third or later:   {ap['third_or_later']}")
     if ap["unresolved"]:
         print(f"  Unresolved:       {ap['unresolved']}  -> {summary['unresolved']}")
+    ca = summary["co_authors"]
+    print(f"\nCo-authors: {ca['unique']} unique ({ca['unique_when_i_am_not_first']} on the "
+          f"{ca['papers_i_am_not_first']} papers where I am not first author)")
+    for r in ca["list"][:10]:
+        print(f"  {r['papers']:>3} papers  {r['papers_i_am_not_first']:>3} not-first  "
+              f"{r['papers_they_are_first']:>3} as first  {r['name']}")
     print(f"\nJournals ({summary['unique_journals']} unique, {len(journals)} articles):")
     for name, n in summary["journals"].items():
         print(f"  {n:>3}  {name}")

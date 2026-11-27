@@ -61,6 +61,237 @@
       "i10_index": 4
     }
   },
+  "co_authors": {
+    "unique": 32,
+    "unique_when_i_am_not_first": 28,
+    "papers_i_am_not_first": 18,
+    "list": [
+      {
+        "name": "Subasish Das",
+        "orcid": "0000-0002-1671-2753",
+        "papers": 22,
+        "papers_i_am_not_first": 17,
+        "papers_they_are_first": 1
+      },
+      {
+        "name": "Mahmuda Sultana Mimi",
+        "orcid": "0009-0007-8534-3633",
+        "papers": 10,
+        "papers_i_am_not_first": 9,
+        "papers_they_are_first": 4
+      },
+      {
+        "name": "Shriyank Somvanshi",
+        "orcid": "0009-0008-3723-0607",
+        "papers": 10,
+        "papers_i_am_not_first": 8,
+        "papers_they_are_first": 5
+      },
+      {
+        "name": "Rohit Chakraborty",
+        "orcid": "0000-0002-1660-9764",
+        "papers": 8,
+        "papers_i_am_not_first": 6,
+        "papers_they_are_first": 1
+      },
+      {
+        "name": "Swastika Barua",
+        "orcid": "0009-0008-4894-9131",
+        "papers": 6,
+        "papers_i_am_not_first": 6,
+        "papers_they_are_first": 2
+      },
+      {
+        "name": "Gaurab Chhetri",
+        "orcid": "0009-0000-0124-4814",
+        "papers": 5,
+        "papers_i_am_not_first": 5,
+        "papers_they_are_first": 1
+      },
+      {
+        "name": "Anannya Ghosh Tusti",
+        "orcid": "0009-0001-5102-5182",
+        "papers": 5,
+        "papers_i_am_not_first": 4,
+        "papers_they_are_first": 1
+      },
+      {
+        "name": "Tausif Islam Chowdhury",
+        "orcid": "0009-0008-2385-8719",
+        "papers": 5,
+        "papers_i_am_not_first": 3,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Anandi Dutta",
+        "orcid": "0009-0002-7279-7752",
+        "papers": 4,
+        "papers_i_am_not_first": 4,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Amir Rafe",
+        "orcid": "0000-0002-4089-2088",
+        "papers": 3,
+        "papers_i_am_not_first": 3,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Sazzad Bin Bashar Polock",
+        "orcid": "0009-0005-5505-4174",
+        "papers": 3,
+        "papers_i_am_not_first": 3,
+        "papers_they_are_first": 1
+      },
+      {
+        "name": "Abbas Sheykhfard",
+        "orcid": "0000-0002-9536-3108",
+        "papers": 2,
+        "papers_i_am_not_first": 2,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Syed Javed",
+        "orcid": "0000-0001-5866-035X",
+        "papers": 2,
+        "papers_i_am_not_first": 2,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Jinli Liu",
+        "orcid": "0000-0002-6152-8808",
+        "papers": 2,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 1
+      },
+      {
+        "name": "Sharif Ahmed Rafat",
+        "orcid": "0009-0002-8644-8326",
+        "papers": 2,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Anika Baitullah",
+        "orcid": "0009-0004-9714-0196",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Arka Chakraborty",
+        "orcid": "0000-0002-6315-2277",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Bahar Dadashova",
+        "orcid": null,
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Darrell Anderson",
+        "orcid": "0009-0002-0258-505X",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Diwas Pandit",
+        "orcid": "0009-0005-8481-2851",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Kazi Sifatul Islam",
+        "orcid": "0000-0002-5525-5794",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Kazuto Matsukawa",
+        "orcid": null,
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Nawaf Alnawmasi",
+        "orcid": "0000-0001-5753-3025",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "S. M. Naheed Adnan",
+        "orcid": "0000-0002-2633-7344",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 1
+      },
+      {
+        "name": "Sawgat Ahmed Shuvo",
+        "orcid": "0009-0007-0594-9863",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Xinyue Ye",
+        "orcid": "0000-0001-8838-9476",
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Yoshiaki Nakano",
+        "orcid": null,
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Yuji Haga",
+        "orcid": null,
+        "papers": 1,
+        "papers_i_am_not_first": 1,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Adam Pike",
+        "orcid": null,
+        "papers": 1,
+        "papers_i_am_not_first": 0,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Kayvan Aghabayk",
+        "orcid": null,
+        "papers": 1,
+        "papers_i_am_not_first": 0,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Md Sadman Islam",
+        "orcid": null,
+        "papers": 1,
+        "papers_i_am_not_first": 0,
+        "papers_they_are_first": 0
+      },
+      {
+        "name": "Mohammad Jalayer",
+        "orcid": null,
+        "papers": 1,
+        "papers_i_am_not_first": 0,
+        "papers_they_are_first": 0
+      }
+    ]
+  },
   "scholar_profile": {
     "name": "Md Monzurul Islam",
     "profile_url": "https://scholar.google.com/citations?user=edkjFpwAAAAJ&hl=en",

@@ -175,6 +175,8 @@ th { color: var(--text-3); font-weight: 500; font-size: 12px; text-transform: up
 td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
 tr:last-child td { border-bottom: none; }
 .inline-bar { display: inline-block; height: 8px; border-radius: 0 4px 4px 0; background: var(--bar); vertical-align: middle; margin-right: 8px; }
+#coauthor-table td.n { white-space: nowrap; }
+@media (max-width: 600px) { #coauthor-table .inline-bar { display: none; } }
 
 footer { color: var(--text-3); font-size: 13px; padding: 32px 0 48px; border-top: 1px solid var(--border); margin-top: 32px; }
 footer ul { padding-left: 18px; margin: 6px 0; }
@@ -201,6 +203,7 @@ footer ul { padding-left: 18px; margin: 6px 0; }
     <a href="#publications">Publications</a>
     <a href="#preprints">Preprints</a>
     <a href="#journals">Journals</a>
+    <a href="#coauthors">Co-authors</a>
     <a href="#reviews">Peer reviews</a>
   </div>
 </nav>
@@ -257,6 +260,13 @@ footer ul { padding-left: 18px; margin: 6px 0; }
     <h2>Journals</h2>
     <p class="section-note">Where the counted publications appeared.</p>
     <div class="card tbl-wrap"><table id="journal-table"></table></div>
+  </section>
+
+  <section id="coauthors">
+    <h2>Co-authors</h2>
+    <p class="section-note">People on the counted publications, by number of papers together. Organisations are not included.</p>
+    <div class="tiles" id="coauthor-tiles"></div>
+    <div class="card tbl-wrap"><table id="coauthor-table"></table></div>
   </section>
 
   <section id="reviews">
@@ -451,6 +461,23 @@ footer ul { padding-left: 18px; margin: 6px 0; }
       `</tbody>`;
   }
 
+  function renderCoauthors(sum) {
+    const ca = sum.co_authors || { list: [] };
+    const top = ca.list[0];
+    $("#coauthor-tiles").innerHTML = [
+      [ca.unique, "Co-authors", "unique people"],
+      [ca.unique_when_i_am_not_first, "When I'm not first author", `across ${fmt(ca.papers_i_am_not_first)} papers`],
+      [top?.papers, "Most papers together", top?.name || ""],
+    ].map(([v, l, s]) => `<div class="tile"><div class="v">${fmt(v)}</div><div class="l">${l}</div><div class="s">${esc(s)}</div></div>`).join("");
+    const max = Math.max(...ca.list.map((r) => r.papers), 1);
+    $("#coauthor-table").innerHTML =
+      `<thead><tr><th>Co-author</th><th class="n">Papers together</th><th class="n">When I'm not first</th><th class="n">They're first author</th></tr></thead><tbody>` +
+      ca.list.map((r) => `<tr><td>${r.orcid ? `<a href="https://orcid.org/${esc(r.orcid)}">${esc(r.name)}</a>` : esc(r.name)}</td>` +
+        `<td class="n"><span class="inline-bar" style="width:${(r.papers / max) * 80}px"></span>${r.papers}</td>` +
+        `<td class="n">${r.papers_i_am_not_first || ""}</td><td class="n">${r.papers_they_are_first || ""}</td></tr>`).join("") +
+      `</tbody>`;
+  }
+
   function renderReviews(rev) {
     const years = Object.keys(rev.by_year || {});
     $("#review-tiles").innerHTML = [
@@ -504,6 +531,7 @@ footer ul { padding-left: 18px; margin: 6px 0; }
       renderPubs(pubs);
       renderPreprints(pre);
       renderJournals(sum);
+      renderCoauthors(sum);
       renderReviews(rev);
       renderFooter(last, sum);
       navSpy();
