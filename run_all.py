@@ -85,6 +85,8 @@ def diff(before: dict, after: dict) -> dict:
         "new_works": new("works"),
         "removed_works": gone("works"),
         "new_preprints": new("preprints"),
+        # left the preprint list: published (see data/preprints_published.json) or deleted
+        "preprints_moved_off": gone("preprints"),
         "new_peer_reviews": len(new("peer_reviews")),
         "removed_peer_reviews": len(gone("peer_reviews")),
         "citation_changes": cite_changes,
@@ -119,6 +121,8 @@ def report_md(last_run: dict) -> str:
               for s in last_run["steps"]]
     lines += ["", f"- New works: {len(c['new_works'])}" + "".join(f"\n  - {t}" for t in c["new_works"]),
               f"- New preprints: {len(c['new_preprints'])}" + "".join(f"\n  - {t}" for t in c["new_preprints"]),
+              f"- Preprints now published (or removed): {len(c['preprints_moved_off'])}"
+              + "".join(f"\n  - {t}" for t in c["preprints_moved_off"]),
               f"- New peer reviews: {c['new_peer_reviews']}",
               f"- Scholar total citations: {c['scholar_total']['from']} -> {c['scholar_total']['to']}",
               f"- Papers with citation changes: {len(c['citation_changes'])}"]

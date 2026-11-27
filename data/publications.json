@@ -43,6 +43,7 @@
     "primary_topic": null,
     "keywords": [],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": null,
     "scholar_url": null,
     "is_preprint": false
@@ -116,6 +117,7 @@
     "primary_topic": null,
     "keywords": [],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": 84,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:GnPB-g6toBAC",
     "is_preprint": false
@@ -197,6 +199,7 @@
       "cyclist safety"
     ],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:BqipwSGYUEgC",
     "is_preprint": false
@@ -265,6 +268,12 @@
       "urban transport"
     ],
     "citations_by_year": {},
+    "preprint_links": [
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-9751845/v1",
+        "source": "Research Square"
+      }
+    ],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:YFjsv_pBGBYC",
     "is_preprint": false
@@ -344,6 +353,7 @@
       "convolutional neural networks"
     ],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:blknAaTinKkC",
     "is_preprint": false
@@ -414,6 +424,7 @@
       "Illinois"
     ],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:JV2RwH3_ST0C",
     "is_preprint": false
@@ -473,6 +484,7 @@
       "driver training"
     ],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:isC4tDSrTZIC",
     "is_preprint": false
@@ -545,6 +557,7 @@
     "citations_by_year": {
       "2026": 2
     },
+    "preprint_links": [],
     "citations_scholar": 2,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:_Qo2XoVZTnwC",
     "is_preprint": false
@@ -629,6 +642,7 @@
     "citations_by_year": {
       "2026": 1
     },
+    "preprint_links": [],
     "citations_scholar": 1,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:mB3voiENLucC",
     "is_preprint": false
@@ -700,6 +714,12 @@
     "citations_by_year": {
       "2026": 1
     },
+    "preprint_links": [
+      {
+        "url": "https://doi.org/10.2139/ssrn.5489583",
+        "source": "SSRN Electronic Journal"
+      }
+    ],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:mVmsd5A6BfQC",
     "is_preprint": false
@@ -766,6 +786,7 @@
       "risk factors"
     ],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:IWHjjKOFINEC",
     "is_preprint": false
@@ -833,6 +854,7 @@
       "road safety policy"
     ],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:-f6ydRqryjwC",
     "is_preprint": false
@@ -917,6 +939,12 @@
       "2026": 10,
       "2025": 3
     },
+    "preprint_links": [
+      {
+        "url": "https://doi.org/10.2139/ssrn.5141686",
+        "source": "SSRN Electronic Journal"
+      }
+    ],
     "citations_scholar": 21,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:2osOgNQ5qMEC",
     "is_preprint": false
@@ -1013,6 +1041,12 @@
       "2026": 54,
       "2025": 1
     },
+    "preprint_links": [
+      {
+        "url": "https://doi.org/10.2139/ssrn.5345552",
+        "source": "SSRN Electronic Journal"
+      }
+    ],
     "citations_scholar": 61,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:9ZlFYXVOiuMC",
     "is_preprint": false
@@ -1089,6 +1123,7 @@
     "citations_by_year": {
       "2026": 2
     },
+    "preprint_links": [],
     "citations_scholar": 1,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:aqlVkmm33-oC",
     "is_preprint": false
@@ -1195,6 +1230,12 @@
       "2026": 123,
       "2025": 15
     },
+    "preprint_links": [
+      {
+        "url": "http://arxiv.org/abs/2506.18927",
+        "source": "arXiv"
+      }
+    ],
     "citations_scholar": 142,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:Se3iqnhoufwC",
     "is_preprint": false
@@ -1266,6 +1307,12 @@
       "2026": 6,
       "2025": 1
     },
+    "preprint_links": [
+      {
+        "url": "http://arxiv.org/abs/2506.08051",
+        "source": "arXiv"
+      }
+    ],
     "citations_scholar": 11,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:LkGwnXOMwfcC",
     "is_preprint": false
@@ -1332,6 +1379,7 @@
       "2026": 2,
       "2025": 1
     },
+    "preprint_links": [],
     "citations_scholar": 4,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:_kc_bZDykSQC",
     "is_preprint": false
@@ -1399,6 +1447,7 @@
       "crash contributing factors"
     ],
     "citations_by_year": {},
+    "preprint_links": [],
     "citations_scholar": 0,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:YOwf2qJgpHMC",
     "is_preprint": false
@@ -1470,6 +1519,7 @@
     "citations_by_year": {
       "2026": 3
     },
+    "preprint_links": [],
     "citations_scholar": 3,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:ULOm3_A8WrAC",
     "is_preprint": false
@@ -1542,6 +1592,12 @@
       "2025": 127,
       "2024": 4
     },
+    "preprint_links": [
+      {
+        "url": "http://arxiv.org/abs/2411.06078",
+        "source": "arXiv"
+      }
+    ],
     "citations_scholar": 419,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:d1gkVwhDpl0C",
     "is_preprint": false
@@ -1611,6 +1667,7 @@
       "2026": 16,
       "2025": 5
     },
+    "preprint_links": [],
     "citations_scholar": 25,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:zYLM7Y9cAGgC",
     "is_preprint": false
@@ -1678,6 +1735,7 @@
       "2024": 2,
       "2023": 1
     },
+    "preprint_links": [],
     "citations_scholar": 7,
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=edkjFpwAAAAJ&pagesize=100&citation_for_view=edkjFpwAAAAJ:u5HHmVD_uO8C",
     "is_preprint": false

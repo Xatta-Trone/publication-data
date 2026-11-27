@@ -82,6 +82,16 @@ the next run incremental on a fresh runner.
   moves a work to `preprints.json`. All counts, journal lists and citation
   totals in `summary.json` use non-preprints only. Everything on Scholar but not
   on ORCID also goes to `preprints.json` (`kind`: `preprint` or `other`).
+- **Published preprints leave the preprint list.** `summarize.link_preprints()`
+  attaches a preprint to a publication (as `preprint_versions`) when an
+  identifier matches — the preprint's DOI/arXiv id appears in the publication's
+  OpenAlex `locations` or Crossref `relation`, or arXiv lists the journal DOI
+  (`published_doi`) — or, as a fallback, titles match (ratio ≥ 0.90) **and** ≥ 2
+  author surnames are shared. Linked ones are recorded in
+  `data/preprints_published.json` and reported as "Preprints now published" in
+  the run summary. `fetch_other_works.py` re-checks preprint metadata weekly so
+  arXiv's journal DOI is noticed. When Scholar lists a preprint and its journal
+  version separately, `match_scholar` gives the ORCID work the non-preprint entry.
 - **Finding the owner in author lists:** ORCID iD match first; otherwise a name
   match against spellings learned from the iD-matched papers
   (`summary.json → name_variants_matched`). Never hard-code the name. A name
@@ -109,7 +119,9 @@ the next run incremental on a fresh runner.
   date_online, date_issue, date_created, url, authors[{name, orcid, is_me}],
   my_position, volume, issue, pages, citations_scholar, citations_openalex,
   citations_crossref, is_open_access, oa_url, abstract, primary_topic, keywords,
-  citations_by_year, scholar_url, is_preprint`.
+  citations_by_year, scholar_url, is_preprint, preprint_links[{url, source}]`
+  (earlier versions known to OpenAlex), and `preprint_versions[...]` when a
+  preprint from our own list was linked to it.
 - `preprints.json`: same core fields plus `listed_on` (`orcid`/`scholar`),
   `kind`, `authors_text` (Scholar's shortened list when full authors unknown).
 - `peer_reviews.json`: `total, unique_journals, by_year, by_journal[{journal,

@@ -367,13 +367,20 @@ footer ul { padding-left: 18px; margin: 6px 0; }
     const kind = preprint ? `<span class="chip">${p.kind === "preprint" ? "Preprint" : "Not on ORCID"}</span>` : `<span class="chip">${esc(typeLabel(p.type))}</span>`;
     const doi = p.doi ? `<a href="https://doi.org/${esc(p.doi)}" target="_blank" rel="noopener">DOI</a>` : "";
     const sch = p.scholar_url ? `<a href="${esc(p.scholar_url)}" target="_blank" rel="noopener">Scholar</a>` : "";
+    // Earlier versions: from OpenAlex, plus preprints this pipeline linked to the paper.
+    const seen = new Set();
+    const preLinks = [
+      ...(p.preprint_links || []).map((l) => ({ url: l.url, label: l.source })),
+      ...(p.preprint_versions || []).map((v) => ({ url: v.url || (v.doi && `https://doi.org/${v.doi}`), label: v.venue })),
+    ].filter((l) => l.url && !seen.has(l.url.toLowerCase().replace(/^https?:\/\//, "")) && seen.add(l.url.toLowerCase().replace(/^https?:\/\//, "")));
+    const pre = preLinks.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener" title="${esc(l.label || "")}">Preprint${l.label ? ` (${esc(l.label.replace(/ Electronic Journal$/, ""))})` : ""}</a>`).join("");
     const abs = p.abstract ? `<details class="abs"><summary>Abstract</summary><p>${esc(p.abstract)}</p></details>` : "";
     const href = p.url || (p.doi ? `https://doi.org/${p.doi}` : p.scholar_url);
     return `<li class="pub">
       <p class="t">${href ? `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(p.title)}</a>` : esc(p.title)}</p>
       <p class="au">${authorsHtml(p)}</p>
       <div class="meta">${venue}${vol ? `<span>${vol}</span>` : ""}${date ? `<span>${esc(date)}</span>` : ""}
-        ${kind}${posChip}${citeTxt}${oa}${doi}${sch}</div>${abs}</li>`;
+        ${kind}${posChip}${citeTxt}${oa}${doi}${pre}${sch}</div>${abs}</li>`;
   }
 
   function renderOverview(sum, pubs, pre, rev) {

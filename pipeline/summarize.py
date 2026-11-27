@@ -114,7 +114,8 @@ def load_scholar() -> dict | None:
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
 
 
-def match_scholar(titles: list[str], articles: list[dict]) -> dict[int, dict]:
+def match_scholar(titles: list[str], articles: list[dict],
+                  want_preprint: list[bool] | None = None) -> dict[int, dict]:
     """Map index in `titles` -> Scholar article, by near-identical normalized title.
 
     Scholar recases titles and sometimes swaps punctuation, so a ratio >= 0.92
@@ -124,16 +125,21 @@ def match_scholar(titles: list[str], articles: list[dict]) -> dict[int, dict]:
     keys = [title_key(a["title"]) for a in articles]
     used: set[int] = set()
     out: dict[int, dict] = {}
+    preprint_entry = [any(h in (a.get("venue") or "").lower() for h in PREPRINT_HINTS) for a in articles]
     for i, t in enumerate(titles):
         tk = title_key(t)
-        best, score = None, 0.0
+        cands = []
         for j, k in enumerate(keys):
             if j in used:
                 continue
             s = 1.0 if k == tk else SequenceMatcher(None, tk, k).ratio()
-            if s > score:
-                best, score = j, s
-        if best is not None and score >= 0.92:
+            if s >= 0.92:
+                cands.append((s, j))
+        if cands:
+            # If Scholar lists a preprint and its journal version separately under
+            # the same title, give the ORCID work the non-preprint entry.
+            want_pre = bool(want_preprint and want_preprint[i])
+            best = max(cands, key=lambda c: (preprint_entry[c[1]] == want_pre, c[0]))[1]
             used.add(best)
             out[i] = articles[best]
     return out
@@ -161,6 +167,78 @@ def is_my_name(name: str | None, variants: set[str]) -> bool:
 
 
 PREPRINT_HINTS = ("arxiv", "ssrn", "preprint", "research square", "techrxiv", "medrxiv", "biorxiv", "osf")
+
+
+def version_keys(*values: str | None) -> set[str]:
+    """Normalized identifiers for one version of a work: bare DOIs and arXiv ids."""
+    keys = set()
+    for v in values:
+        if not v:
+            continue
+        s = str(v).strip().lower()
+        if m := re.search(r"arxiv[^0-9]{0,12}(\d{4}\.\d{4,5})", s):
+            keys.add(f"arxiv:{m.group(1)}")
+        if m := re.search(r"(10\.\d{4,9}/[^\s?#]+)", s):
+            keys.add(m.group(1).rstrip("/"))
+    return keys
+
+
+def published_version_keys(doi: str | None) -> set[str]:
+    """Identifiers of every version of a published work that OpenAlex or
+    Crossref know about (its own DOI, plus linked preprints)."""
+    keys = version_keys(doi)
+    oa = openalex_record(doi) if doi else None
+    for loc in (oa or {}).get("locations", []):
+        keys |= version_keys(loc.get("landing_page_url"), loc.get("pdf_url"))
+    cr = crossref_record(doi) if doi else None
+    for rel in ("has-preprint", "is-version-of", "has-version"):
+        for r in ((cr or {}).get("relation") or {}).get(rel, []):
+            keys |= version_keys(r.get("id"))
+    return keys
+
+
+def surnames(authors: list[dict] | None, authors_text: str | None = None) -> set[str]:
+    names = [a.get("name") for a in authors] if authors else (authors_text or "").split(",")
+    return {norm_name(n).split()[-1] for n in names if n and norm_name(n) and "..." not in n}
+
+
+def link_preprints(pubs: list[dict], preprints: list[dict]) -> tuple[list[dict], list[dict]]:
+    """Attach preprints that now have a published version to that publication
+    (pub["preprint_versions"]) and return (still-unpublished preprints, linked).
+
+    Linked when, in order of preference:
+      1. an identifier of the preprint (DOI / arXiv id, incl. a journal DOI the
+         authors added on arXiv) is a known version of the publication
+         (publication DOI, OpenAlex locations, Crossref relations), or
+      2. titles are near-identical (ratio >= 0.90) and they share >= 2 surnames.
+    """
+    from difflib import SequenceMatcher
+    index: dict[str, dict] = {}
+    for p in pubs:
+        for k in published_version_keys(p.get("doi")):
+            index.setdefault(k, p)
+
+    remaining, linked = [], []
+    for pre in preprints:
+        keys = version_keys(pre.get("doi"), pre.get("url"), pre.get("published_doi"))
+        target, how = next(((index[k], "identifier") for k in keys if k in index), (None, None))
+        if not target:
+            pk, ps = title_key(pre["title"]), surnames(pre.get("authors"), pre.get("authors_text"))
+            for p in pubs:
+                if (SequenceMatcher(None, pk, title_key(p["title"])).ratio() >= 0.90
+                        and len(ps & surnames(p.get("authors"))) >= 2):
+                    target, how = p, "title"
+                    break
+        if target:
+            target.setdefault("preprint_versions", []).append({
+                "title": pre["title"], "doi": pre.get("doi"), "url": pre.get("url"),
+                "venue": pre.get("venue"), "citations_scholar": pre.get("citations_scholar"),
+                "linked_by": how,
+            })
+            linked.append({**pre, "published_as": target.get("doi") or target["title"], "linked_by": how})
+        else:
+            remaining.append(pre)
+    return remaining, linked
 
 
 PREPRINT_TYPES = ("posted-content", "preprint")
@@ -350,13 +428,20 @@ def main() -> None:
             "primary_topic": ((oa or {}).get("primary_topic") or {}).get("display_name"),
             "keywords": [k.get("display_name") for k in (oa or {}).get("keywords", [])],
             "citations_by_year": {c["year"]: c["cited_by_count"] for c in (oa or {}).get("counts_by_year", [])},
+            # earlier versions OpenAlex knows about (arXiv, SSRN, Research Square, ...)
+            "preprint_links": [
+                {"url": loc.get("landing_page_url"), "source": (loc.get("source") or {}).get("display_name")}
+                for loc in (oa or {}).get("locations", [])
+                if loc.get("version") == "submittedVersion" and loc.get("landing_page_url")
+            ],
         })
 
     # Google Scholar: citation counts for matched papers, and entries ORCID lacks.
     scholar = load_scholar()
     scholar_only = []
     if scholar:
-        matched = match_scholar([r["title"] for r in rows], scholar["articles"])
+        matched = match_scholar([r["title"] for r in rows], scholar["articles"],
+                                [is_preprint(r["type"], r["venue"]) for r in rows])
         for i, (row, pub) in enumerate(zip(rows, pubs)):
             sa = matched.get(i)
             row["citations_scholar"] = (sa["citations"] or 0) if sa else None
@@ -377,6 +462,7 @@ def main() -> None:
                         "my_position": pos,
                         "position_bucket": position_bucket(pos),
                         "doi": meta.get("doi"),
+                        "published_doi": meta.get("published_doi"),
                         "url": meta.get("url") or a["scholar_url"],
                         "date": meta.get("date"),
                         "venue_resolved": meta.get("venue"),
@@ -409,13 +495,19 @@ def main() -> None:
         if any(p["doi"] and p["doi"].lower() == (a.get("doi") or "").lower() for p in preprints):
             continue
         preprints.append({
-            "doi": a.get("doi"), "title": a["title"], "type": a.get("work_type") or "preprint",
+            "doi": a.get("doi"), "published_doi": a.get("published_doi"),
+            "title": a["title"], "type": a.get("work_type") or "preprint",
             "venue": a.get("venue_resolved") or a["venue"], "year": a["year"], "date_online": a.get("date"),
             "my_position": a.get("my_position"), "citations_scholar": a.get("citations"),
             "url": a.get("url") or a["scholar_url"], "scholar_url": a["scholar_url"],
             "authors": a.get("authors_full"), "authors_text": a["authors"], "listed_on": "scholar",
             "kind": a["kind"],
         })
+    # A preprint whose published version is now on ORCID leaves the preprint list
+    # and is shown as a version of that publication instead.
+    preprints, published_preprints = link_preprints(pubs, preprints)
+    (DATA / "preprints_published.json").write_text(json.dumps(published_preprints, indent=2, ensure_ascii=False),
+                                                   encoding="utf-8")
     preprints.sort(key=lambda r: r.get("date_online") or str(r.get("year") or ""), reverse=True)
     (DATA / "preprints.json").write_text(json.dumps(preprints, indent=2, ensure_ascii=False), encoding="utf-8")
 

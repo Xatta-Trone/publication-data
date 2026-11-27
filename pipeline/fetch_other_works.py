@@ -8,9 +8,11 @@ Scholar shortens author lists and its per-paper pages are off limits to bots
   3. Crossref title search, as a last resort
 A result is accepted only if its title is a near-exact match.
 
-Cached once per work in data/other_works_meta/<scholar_id>.json, since author
-lists don't change. Works no source could match are saved with "found": false
-and retried after 7 days (they may simply be too new). --refresh refetches all.
+Cached per work in data/other_works_meta/<scholar_id>.json. Non-preprints are
+fetched once. Preprints are re-checked every 7 days, because an arXiv entry
+gains the journal DOI once the paper is published (summarize.py then moves it
+off the preprint list). Works no source could match are saved with
+"found": false and retried after 7 days. --refresh refetches all.
 
 Run summarize.py afterwards; it merges these into data/other_works.json.
 """
@@ -35,6 +37,7 @@ ROOT = Path(__file__).resolve().parent.parent  # repo root (scripts live in pipe
 OTHER = ROOT / "data" / "other_works.json"
 OUT = ROOT / "data" / "other_works_meta"
 RETRY_NOT_FOUND = timedelta(days=7)
+REFRESH_PREPRINTS = timedelta(days=7)  # same cadence; kept separate for clarity
 ATOM = {"a": "http://www.w3.org/2005/Atom", "arxiv": "http://arxiv.org/schemas/atom"}
 
 
@@ -80,7 +83,9 @@ def from_arxiv(session, work) -> dict | None:
         "authors": [{"name": a.findtext("a:name", "", ATOM).strip(), "orcid": None}
                     for a in entry.findall("a:author", ATOM)],
         "date": (entry.findtext("a:published", "", ATOM) or "")[:10] or None,
-        "doi": (entry.findtext("arxiv:doi", None, ATOM) or f"10.48550/arxiv.{arxiv_id}").lower(),
+        "doi": f"10.48550/arxiv.{arxiv_id}",
+        # DOI of the published version, once the authors add it on arXiv
+        "published_doi": (entry.findtext("arxiv:doi", None, ATOM) or "").lower() or None,
         "url": f"https://arxiv.org/abs/{arxiv_id}",
         "venue": "arXiv",
         "type": "preprint",
@@ -159,7 +164,10 @@ def main() -> None:
         if p.exists() and not refresh:
             prev = json.loads(p.read_text(encoding="utf-8"))
             age = datetime.now(timezone.utc) - datetime.fromisoformat(prev["fetched_at"])
-            if prev.get("found") or age < RETRY_NOT_FOUND:
+            # Found records are kept, except preprints: re-check those weekly, since
+            # arXiv entries gain a journal DOI once the paper is published.
+            is_pre = prev.get("type") in ("preprint", "posted-content")
+            if (prev.get("found") and not is_pre) or age < REFRESH_PREPRINTS:
                 skipped += 1
                 continue
         meta = from_arxiv(session, w) or from_openalex(session, w, oa_key) or from_crossref(session, w, mailto)

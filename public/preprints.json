@@ -1,6 +1,7 @@
 [
   {
     "doi": "10.21203/rs.3.rs-10819066/v1",
+    "published_doi": null,
     "title": "Exploring the Role of Automated Emergency Braking in Traffic Crash Patterns Using Multivariate Data Mining Method",
     "type": "preprint",
     "venue": "Research Square",
@@ -48,6 +49,7 @@
   },
   {
     "doi": "10.48550/arxiv.2607.20505",
+    "published_doi": null,
     "title": "HERMES: Heterogeneous Edge-Relational Multi-Head Embedded SSM Attention for Traffic Conflict Prediction at Signalized Intersections",
     "type": "preprint",
     "venue": "arXiv",
@@ -75,6 +77,7 @@
   },
   {
     "doi": "10.21203/rs.3.rs-9973892/v1",
+    "published_doi": null,
     "title": "Toward Safer Bicycle Infrastructure: Policy Insights from Temporal Stability and Heterogeneous Crash Severity in Bike Lane-Involved Crashes",
     "type": "preprint",
     "venue": "Research Square",
@@ -107,6 +110,7 @@
   },
   {
     "doi": "10.48550/arxiv.2508.19239",
+    "published_doi": null,
     "title": "Model context protocols in adaptive transport systems: A survey",
     "type": "preprint",
     "venue": "arXiv",
@@ -164,6 +168,7 @@
   },
   {
     "doi": "10.48550/arxiv.2506.04238",
+    "published_doi": null,
     "title": "A Review on Influx of Bio-Inspired Algorithms: Critique and Improvement Needs",
     "type": "preprint",
     "venue": "arXiv",
@@ -226,6 +231,7 @@
   },
   {
     "doi": "10.48550/arxiv.2506.03160",
+    "published_doi": null,
     "title": "Applying MambaAttention, TabPFN, and TabTransformers to Classify SAE Automation Levels in Crashes",
     "type": "preprint",
     "venue": "arXiv",
@@ -278,6 +284,7 @@
   },
   {
     "doi": "10.2139/ssrn.5679762",
+    "published_doi": null,
     "title": "Realism and causality in synthetic data generation: A survey",
     "type": "posted-content",
     "venue": "Elsevier BV",
@@ -330,6 +337,7 @@
   },
   {
     "doi": null,
+    "published_doi": null,
     "title": "Not Just Another Survey on Physics-Informed Neural Networks (PINNs): Foundations, Advances, and Open Problems",
     "type": "preprint",
     "venue": "Advances, and Open Problems (August 19, 2025) , 2025",
