@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-27T07:00:14+00:00",
-  "finished_at": "2026-11-27T07:00:20+00:00",
+  "started_at": "2026-11-27T07:00:41+00:00",
+  "finished_at": "2026-11-27T07:00:43+00:00",
   "ok": true,
   "steps": [
     {
@@ -31,7 +31,7 @@
       "step": "fetch_scholar.py",
       "critical": false,
       "ok": true,
-      "last_line": "Cached copy is 0.3 h old (< 24 h); not contacting Scholar. Use --refresh to force."
+      "last_line": "Cached copy is 0.3 h old (< 20 h); not contacting Scholar. Use --refresh to force."
     },
     {
       "step": "summarize.py",
