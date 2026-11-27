@@ -437,10 +437,11 @@ footer ul { padding-left: 18px; margin: 6px 0; }
       parts.map((p) => `<div><i style="background:${p[2]}"></i>${p[0]}<b>${p[1]} <span style="color:var(--text-3);font-weight:400">(${Math.round((p[1] / total) * 100)}%)</span></b></div>`).join("") +
       `</div>`;
 
-    const top = (sum.co_authors?.list || []).slice(0, 2);
+    const top = [...(sum.co_authors?.list || [])].filter((r) => r.papers_they_are_first)
+      .sort((a, b) => b.papers_they_are_first - a.papers_they_are_first || b.papers - a.papers).slice(0, 2);
     $("#top-coauthors").innerHTML = top.length
-      ? `<h4>Top co-authors</h4>` + top.map((r) =>
-          `<div><span>${esc(r.name)}</span><b>${r.papers} <span class="s" style="font-weight:400">papers</span></b></div>`).join("") +
+      ? `<h4>Most often first author when I'm not</h4>` + top.map((r) =>
+          `<div><span>${esc(r.name)}</span><b>${r.papers_they_are_first} <span class="s" style="font-weight:400">papers</span></b></div>`).join("") +
         `<a href="#coauthors" style="font-size:12px">All ${fmt(sum.co_authors.unique)} co-authors →</a>`
       : "";
   }
