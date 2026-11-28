@@ -1,6 +1,6 @@
 {
   "doi": "10.1007/s42421-026-00171-7",
-  "fetched_at": "2026-11-27T06:34:42+00:00",
+  "fetched_at": "2026-11-28T15:41:39+00:00",
   "work": {
     "id": "https://openalex.org/W7172492174",
     "doi": "https://doi.org/10.1007/s42421-026-00171-7",
@@ -615,8 +615,8 @@
     "awards": [],
     "funders": [],
     "has_content": {
-      "pdf": true,
-      "grobid_xml": true
+      "grobid_xml": true,
+      "pdf": true
     },
     "content_urls": {
       "pdf": "https://content.openalex.org/works/W7172492174.pdf",

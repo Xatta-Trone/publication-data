@@ -10,10 +10,10 @@
     "date_issue": "2026-12",
     "date_created": "2026-11-26",
     "my_position": 1,
-    "citations_openalex": null,
+    "citations_openalex": 0,
     "citations_crossref": 0,
-    "is_open_access": null,
-    "oa_url": null,
+    "is_open_access": true,
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S235271102600748X/pdf",
     "url": "https://doi.org/10.1016/j.softx.2026.103258",
     "authors": [
       {
@@ -36,12 +36,24 @@
     "issue": null,
     "pages": "103258",
     "publisher": "Elsevier BV",
-    "abstract": null,
-    "abstract_source": null,
-    "openalex_id": null,
+    "abstract": "Advanced Visualization and Intelligent System for Tabular Analytics (AVISTA) is a domain-independent desktop platform for developing, evaluating, and documenting tabular machine learning workflows. The software provides a graphical, project-based environment for dataset import, feature and target configuration, preprocessing, data splitting, class-imbalance handling, model training, performance evaluation, and report generation. AVISTA supports conventional machine learning algorithms, deep tabular architectures, and tabular foundation models through an extensible registry-based design. Native .avista project files preserve analytical configurations, preprocessing objects, split artifacts, trained models, predictions, metrics, and reports, supporting workflow traceability and same-environment repeatability. External validation across three public datasets evaluated five models—Logistic Regression, Random Forest, XGBoost, FT-Transformer, and TabPFN 2.5—against corresponding standalone Python implementations, with additional comparisons using Orange Data Mining for conventional machine learning models. Across 15 AVISTA–Python comparisons, the mean absolute differences were 0.0086 in accuracy and 0.0100 in macro-F1, while nine AVISTA–Orange comparisons yielded corresponding differences of 0.0037 and 0.0085. Individual comparisons demonstrated exact agreement for several model–dataset combinations, alongside dataset-dependent variations, with the largest differences observed for FT-Transformer on NPHA (0.0629 in accuracy and 0.1127 in macro-F1). These findings provide a transparent assessment of predictive consistency across heterogeneous model families and highlight AVISTA's potential as an extensible platform for systematic and traceable tabular machine-learning experimentation.",
+    "abstract_source": "openalex",
+    "openalex_id": "https://openalex.org/W7240040549",
     "fwci": null,
-    "primary_topic": null,
-    "keywords": [],
+    "primary_topic": "Machine Learning and Data Classification",
+    "keywords": [
+      "tabular machine learning",
+      "tabular foundation models",
+      "graphical user interface",
+      "model registry",
+      "class imbalance handling",
+      "data preprocessing",
+      "TabPFN",
+      "XGBoost",
+      "random forest",
+      "logistic regression",
+      "Orange Data Mining"
+    ],
     "citations_by_year": {},
     "preprint_links": [],
     "citations_scholar": null,
@@ -542,7 +554,7 @@
     "abstract": null,
     "abstract_source": null,
     "openalex_id": "https://openalex.org/W7167729637",
-    "fwci": 4.708,
+    "fwci": 4.6543,
     "primary_topic": "Traffic and Road Safety",
     "keywords": [
       "electric scooters",
@@ -625,7 +637,7 @@
     "abstract": null,
     "abstract_source": null,
     "openalex_id": "https://openalex.org/W7162290067",
-    "fwci": 2.354,
+    "fwci": 2.3271,
     "primary_topic": "Traffic and Road Safety",
     "keywords": [
       "autonomous vehicles",
@@ -700,7 +712,7 @@
     "abstract": null,
     "abstract_source": null,
     "openalex_id": "https://openalex.org/W4414201927",
-    "fwci": 3.7564,
+    "fwci": 3.7054,
     "primary_topic": "Disaster Management and Resilience",
     "keywords": [
       "wildfire evacuation",
@@ -1027,7 +1039,7 @@
     "abstract": "Mechanistic interpretability seeks to reverse-engineer the internal logic of neural networks by uncovering human-understandable circuits, algorithms, and causal structures that drive model behavior. Unlike post hoc explanations that describe what models do, this paradigm focuses on why and how they compute, tracing information flow through neurons, attention heads, and activation pathways. This survey provides a high-level synthesis of the field-highlighting its motivation, conceptual foundations, and methodological taxonomy rather than enumerating individual techniques. We organize mechanistic interpretability across three abstraction layers— neurons , circuits , and algorithms —and three evaluation perspectives: behavioral , counterfactual , and causal . We further discuss representative approaches and toolchains that enable structural analysis of modern AI systems, outlining how mechanistic interpretability bridges theoretical insights with practical transparency. Despite rapid progress, challenges persist in scaling these analyses to frontier models, resolving polysemantic representations, and establishing standardized causal benchmarks. By connecting historical evolution, current methodologies, and emerging research directions, this survey aims to provide an integrative framework for understanding how mechanistic interpretability can support transparency, reliability, and governance in large-scale AI.",
     "abstract_source": "crossref",
     "openalex_id": "https://openalex.org/W7125584057",
-    "fwci": 52.3768,
+    "fwci": 51.7861,
     "primary_topic": "Explainable Artificial Intelligence (XAI)",
     "keywords": [
       "mechanistic interpretability",
@@ -1109,7 +1121,7 @@
     "abstract": null,
     "abstract_source": null,
     "openalex_id": "https://openalex.org/W7117994958",
-    "fwci": 4.708,
+    "fwci": 4.6543,
     "primary_topic": "Traffic and Road Safety",
     "keywords": [
       "fatal crashes",
@@ -1142,7 +1154,7 @@
     "date_issue": "2026-05-31",
     "date_created": "2025-11-13",
     "my_position": 2,
-    "citations_openalex": 138,
+    "citations_openalex": 139,
     "citations_crossref": 60,
     "is_open_access": true,
     "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3776588",
@@ -1211,7 +1223,7 @@
     "abstract": "The rapid growth of edge devices has driven the demand for deploying artificial intelligence (AI) at the edge, giving rise to Tiny Machine Learning (TinyML) and its evolving counterpart, Tiny Deep Learning (TinyDL). While TinyML initially focused on enabling simple inference tasks on microcontrollers, the emergence of TinyDL marks a paradigm shift toward deploying deep learning models on severely resource-constrained hardware. This survey presents a comprehensive overview of the transition from TinyML to TinyDL, encompassing architectural innovations, hardware platforms, model optimization techniques, and software toolchains. We analyze state-of-the-art methods in quantization, pruning, and neural architecture search (NAS), and examine hardware trends from MCUs to dedicated neural accelerators. Furthermore, we categorize software deployment frameworks, compilers, and AutoML tools enabling practical on-device learning. Applications across domains such as computer vision, audio recognition, healthcare, and industrial monitoring are reviewed to illustrate the real-world impact of TinyDL. Finally, we identify emerging directions including neuromorphic computing, federated TinyDL, edge-native foundation models, and domain-specific co-design approaches. This survey aims to serve as a foundational resource for researchers and practitioners, offering a holistic view of the ecosystem and laying the groundwork for future advancements in edge AI.",
     "abstract_source": "crossref",
     "openalex_id": "https://openalex.org/W4415164192",
-    "fwci": 24.4142,
+    "fwci": 24.3422,
     "primary_topic": "Advanced Neural Network Applications",
     "keywords": [
       "TinyML",
@@ -1230,7 +1242,7 @@
       "hardware-software co-design"
     ],
     "citations_by_year": {
-      "2026": 123,
+      "2026": 124,
       "2025": 15
     },
     "preprint_links": [
@@ -1298,7 +1310,7 @@
     "abstract": "Understanding the spatial and temporal dynamics of automated vehicle (AV) crash severity is critical for advancing urban mobility safety and infrastructure planning. In this work, we introduce ST-GraphNet, a spatio-temporal graph neural network framework designed to model and predict AV crash severity by using both finegrained and region-aggregated spatial graphs. Using a balanced dataset of 2,352 real-world AV-related crash reports from Texas (2024), including geospatial coordinates, crash timestamps, SAE automation levels, and narrative descriptions, we construct two complementary graph representations: (1) a fine-grained graph with individual crash events as nodes, where edges are defined via spatio-temporal proximity; and (2) a coarse-grained graph where crashes are aggregated into Hexagonal Hierarchical Spatial Indexing (H3)-based spatial cells, connected through hexagonal adjacency. Each node in the graph is enriched with multimodal data, including semantic, spatial, and temporal attributes, including textual embeddings from crash narratives using a pretrained Sentence-BERT model. We evaluate various graph neural network (GNN) architectures, such as Graph Convolutional Networks (GCN), Graph Attention Networks (GAT), NodeFormer, and Dynamic Hypergraph Neural Networks (DHGNN), to classify crash severity and predict high-risk regions. Our proposed ST-GraphNet, which utilizes a DHGNN backbone on the coarse-grained H3 graph, achieves a test accuracy of 98.81%, substantially outperforming the best finegrained model (61.4% test accuracy). These findings highlight the effectiveness of spatial aggregation, dynamic message passing, and multi-modal feature integration in capturing the complex spatio-temporal patterns underlying AV crash severity.",
     "abstract_source": "openalex",
     "openalex_id": "https://openalex.org/W4415622881",
-    "fwci": 1.0306,
+    "fwci": 1.0254,
     "primary_topic": "Advanced Graph Neural Networks",
     "keywords": [
       "autonomous vehicles",
@@ -1538,7 +1550,7 @@
     "date_issue": "2026-01-31",
     "date_created": "2025-06-06",
     "my_position": 3,
-    "citations_openalex": 387,
+    "citations_openalex": 391,
     "citations_crossref": 195,
     "is_open_access": true,
     "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3743128",
@@ -1577,7 +1589,7 @@
     "abstract": "This review study explores the theoretical foundations, evolution, applications, and future potential of Kolmogorov–Arnold Networks (KAN), a neural network model inspired by the Kolmogorov–Arnold representation theorem. KANs set themselves apart from traditional neural networks by employing learnable, spline-parameterized functions rather than fixed activation functions, allowing for flexible and interpretable representations of high-dimensional functions. The review explores Kan’s architectural strengths, including adaptive edge-based activation functions that enhance parameter efficiency and scalability across varied applications such as time series forecasting, computational biomedicine, and graph learning. Key advancements including Temporal-KAN (T-KAN), FastKAN, and Partial Differential Equation (PDE) KAN illustrate KAN’s growing applicability in dynamic environments, significantly improving interpretability, computational efficiency, and adaptability for complex function approximation tasks. Moreover, the article discusses KANs integration with other architectures, such as convolutional, recurrent, and transformer-based models, showcasing its versatility in complementing established neural networks for tasks that require hybrid approaches. Despite its strengths, KAN faces computational challenges in high-dimensional and noisy data settings, sparking continued research into optimization strategies, regularization techniques, and hybrid models. This article highlights KANs expanding role in modern neural architectures and outlines future directions to enhance its computational efficiency, interpretability, and scalability in data-intensive applications.",
     "abstract_source": "crossref",
     "openalex_id": "https://openalex.org/W4411095744",
-    "fwci": 67.0527,
+    "fwci": 67.1424,
     "primary_topic": "Neural Networks and Applications",
     "keywords": [
       "Kolmogorov-Arnold networks",
@@ -1591,8 +1603,8 @@
       "parameter efficiency"
     ],
     "citations_by_year": {
-      "2026": 256,
-      "2025": 127,
+      "2026": 259,
+      "2025": 128,
       "2024": 4
     },
     "preprint_links": [

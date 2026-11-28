@@ -1,6 +1,6 @@
 {
   "doi": "10.1007/s10518-022-01488-8",
-  "fetched_at": "2026-11-27T06:21:39+00:00",
+  "fetched_at": "2026-11-28T15:41:39+00:00",
   "work": {
     "id": "https://openalex.org/W4293216355",
     "doi": "https://doi.org/10.1007/s10518-022-01488-8",
@@ -645,9 +645,9 @@
     "best_oa_location": null,
     "sustainable_development_goals": [
       {
-        "display_name": "Industry, innovation and infrastructure",
         "id": "https://metadata.un.org/sdg/9",
-        "score": 0.428600013256073
+        "score": 0.428600013256073,
+        "display_name": "Industry, innovation and infrastructure"
       }
     ],
     "study_designs": [],

@@ -1,6 +1,6 @@
 {
   "doi": "10.1109/icdmw69685.2025.00217",
-  "fetched_at": "2026-11-27T06:21:39+00:00",
+  "fetched_at": "2026-11-28T15:41:39+00:00",
   "work": {
     "id": "https://openalex.org/W7134911408",
     "doi": "https://doi.org/10.1109/icdmw69685.2025.00217",
@@ -549,14 +549,14 @@
     "best_oa_location": null,
     "sustainable_development_goals": [
       {
-        "display_name": "Industry, innovation and infrastructure",
         "id": "https://metadata.un.org/sdg/9",
-        "score": 0.7207000255584717
+        "score": 0.7207000255584717,
+        "display_name": "Industry, innovation and infrastructure"
       },
       {
-        "display_name": "Sustainable cities and communities",
         "id": "https://metadata.un.org/sdg/11",
-        "score": 0.5142999887466431
+        "score": 0.5142999887466431,
+        "display_name": "Sustainable cities and communities"
       }
     ],
     "study_designs": [],

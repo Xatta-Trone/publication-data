@@ -1,6 +1,6 @@
 {
   "doi": "10.1145/3776588",
-  "fetched_at": "2026-11-27T06:21:39+00:00",
+  "fetched_at": "2026-11-28T15:41:39+00:00",
   "work": {
     "id": "https://openalex.org/W4415164192",
     "doi": "https://doi.org/10.1145/3776588",
@@ -563,13 +563,13 @@
     ],
     "apc_list": null,
     "apc_paid": null,
-    "fwci": 24.4142,
+    "fwci": 24.3422,
     "is_authors_truncated": false,
     "has_fulltext": true,
-    "cited_by_count": 138,
+    "cited_by_count": 139,
     "reviewed_by_count": 0,
     "citation_normalized_percentile": {
-      "value": 0.99810521,
+      "value": 0.99809069,
       "is_in_top_1_percent": true,
       "is_in_top_10_percent": true
     },
@@ -1683,14 +1683,14 @@
     "counts_by_year": [
       {
         "year": 2026,
-        "cited_by_count": 123
+        "cited_by_count": 124
       },
       {
         "year": 2025,
         "cited_by_count": 15
       }
     ],
-    "updated_date": "2026-11-26T09:34:50.682384",
+    "updated_date": "2026-11-28T09:27:14.034486",
     "created_date": "2025-10-14T00:00:00"
   }
 }

@@ -1,6 +1,6 @@
 {
   "doi": "10.1016/j.ijtst.2026.01.005",
-  "fetched_at": "2026-11-27T06:21:39+00:00",
+  "fetched_at": "2026-11-28T15:41:39+00:00",
   "work": {
     "id": "https://openalex.org/W7204443151",
     "doi": "https://doi.org/10.1016/j.ijtst.2026.01.005",
@@ -826,14 +826,14 @@
     },
     "sustainable_development_goals": [
       {
-        "display_name": "Industry, innovation and infrastructure",
         "id": "https://metadata.un.org/sdg/9",
-        "score": 1.0
+        "score": 1.0,
+        "display_name": "Industry, innovation and infrastructure"
       },
       {
-        "display_name": "Sustainable cities and communities",
         "id": "https://metadata.un.org/sdg/11",
-        "score": 0.7250000238418579
+        "score": 0.7250000238418579,
+        "display_name": "Sustainable cities and communities"
       }
     ],
     "study_designs": [],

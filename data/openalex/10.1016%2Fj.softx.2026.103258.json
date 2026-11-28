@@ -1,0 +1,1229 @@
+{
+  "doi": "10.1016/j.softx.2026.103258",
+  "fetched_at": "2026-11-28T15:41:39+00:00",
+  "work": {
+    "id": "https://openalex.org/W7240040549",
+    "doi": "https://doi.org/10.1016/j.softx.2026.103258",
+    "title": "AVISTA: An extensible desktop platform for reproducible tabular machine learning and deep learning analytics",
+    "display_name": "AVISTA: An extensible desktop platform for reproducible tabular machine learning and deep learning analytics",
+    "alternate_titles": [],
+    "publication_year": 2026,
+    "publication_date": "2026-11-26",
+    "ids": {
+      "openalex": "https://openalex.org/W7240040549",
+      "doi": "https://doi.org/10.1016/j.softx.2026.103258"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.softx.2026.103258",
+      "doi": "https://doi.org/10.1016/j.softx.2026.103258",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.softx.2026.103258",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S235271102600748X/pdf",
+      "source": {
+        "id": "https://openalex.org/S2506067282",
+        "display_name": "SoftwareX",
+        "issn_l": "2352-7110",
+        "issn": [
+          "2352-7110"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "dongbi-d",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-200",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "SoftwareX",
+      "raw_type": "journal-article"
+    },
+    "parent_works": [],
+    "lineage": [
+      "https://openalex.org/W7240040549"
+    ],
+    "child_works_count": 0,
+    "pull_notice_works": [],
+    "type": "software-paper",
+    "is_traditional": true,
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S235271102600748X/pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5117855305",
+          "display_name": "Md Monzurul Islam",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0007-3670-6100",
+          "observed_orcids": [
+            "https://orcid.org/0009-0007-3670-6100"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "contributor_roles": [],
+        "raw_author_name": "Md Monzurul Islam",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, TX, 78666, USA"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0007-3670-6100",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, TX, 78666, USA",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5098934039",
+          "display_name": "Shriyank Somvanshi",
+          "type": null,
+          "orcid": "https://orcid.org/0009-0008-3723-0607",
+          "observed_orcids": [
+            "https://orcid.org/0009-0008-3723-0607"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Shriyank Somvanshi",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, TX, 78666, USA"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0008-3723-0607",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, TX, 78666, USA",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5053621729",
+          "display_name": "Subasish Das",
+          "type": null,
+          "orcid": "https://orcid.org/0000-0002-1671-2753",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1671-2753"
+          ]
+        },
+        "acted_on_behalf_of": [],
+        "institutions": [
+          {
+            "id": "https://openalex.org/I13511017",
+            "display_name": "Texas State University",
+            "ror": "https://ror.org/05h9q1g27",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "contributor_roles": [],
+        "raw_author_name": "Subasish Das",
+        "raw_affiliation_strings": [
+          "Texas State University, San Marcos, TX, 78666, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Texas State University, San Marcos, TX, 78666, USA",
+            "institution_ids": [
+              "https://openalex.org/I13511017"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5117855305"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I13511017"
+    ],
+    "apc_list": {
+      "value": 1200,
+      "currency": "USD",
+      "value_usd": 1200
+    },
+    "apc_paid": {
+      "value": 1200,
+      "currency": "USD",
+      "value_usd": 1200
+    },
+    "fwci": null,
+    "is_authors_truncated": false,
+    "has_fulltext": true,
+    "cited_by_count": 0,
+    "reviewed_by_count": 0,
+    "citation_normalized_percentile": null,
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "36",
+      "issue": null,
+      "first_page": "103258",
+      "last_page": "103258"
+    },
+    "is_retracted": false,
+    "is_pulled": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12535",
+      "display_name": "Machine Learning and Data Classification",
+      "score": 0.5473999977111816,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12535",
+        "display_name": "Machine Learning and Data Classification",
+        "score": 0.5473999977111816,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11986",
+        "display_name": "Scientific Computing and Data Management",
+        "score": 0.39010000228881836,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1802",
+          "display_name": "Information Systems and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/18",
+          "display_name": "Decision Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13373",
+        "display_name": "Data Mining and Machine Learning Applications",
+        "score": 0.01489999983459711,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/tabular-machine-learning",
+        "display_name": "tabular machine learning",
+        "score": 0.9430000185966492
+      },
+      {
+        "id": "https://openalex.org/keywords/tabular-foundation-models",
+        "display_name": "tabular foundation models",
+        "score": 0.9850000143051147
+      },
+      {
+        "id": "https://openalex.org/keywords/graphical-user-interface",
+        "display_name": "graphical user interface",
+        "score": 0.5989999771118164
+      },
+      {
+        "id": "https://openalex.org/keywords/model-registry",
+        "display_name": "model registry",
+        "score": 0.40299999713897705
+      },
+      {
+        "id": "https://openalex.org/keywords/class-imbalance-handling",
+        "display_name": "class imbalance handling",
+        "score": 0.5830000042915344
+      },
+      {
+        "id": "https://openalex.org/keywords/data-preprocessing",
+        "display_name": "data preprocessing",
+        "score": 0.5640000104904175
+      },
+      {
+        "id": "https://openalex.org/keywords/tabpfn",
+        "display_name": "TabPFN",
+        "score": 0.9229999780654907
+      },
+      {
+        "id": "https://openalex.org/keywords/xgboost",
+        "display_name": "XGBoost",
+        "score": 0.6769999861717224
+      },
+      {
+        "id": "https://openalex.org/keywords/random-forest",
+        "display_name": "random forest",
+        "score": 0.609000027179718
+      },
+      {
+        "id": "https://openalex.org/keywords/logistic-regression",
+        "display_name": "logistic regression",
+        "score": 0.8709999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/orange-data-mining",
+        "display_name": "Orange Data Mining",
+        "score": 0.7059999704360962
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.8165000081062317
+      },
+      {
+        "id": "https://openalex.org/C519991488",
+        "wikidata": "https://www.wikidata.org/wiki/Q28865",
+        "display_name": "Python (programming language)",
+        "level": 2,
+        "score": 0.7515000104904175
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.7228000164031982
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.714900016784668
+      },
+      {
+        "id": "https://openalex.org/C177212765",
+        "wikidata": "https://www.wikidata.org/wiki/Q627335",
+        "display_name": "Workflow",
+        "level": 2,
+        "score": 0.6779000163078308
+      },
+      {
+        "id": "https://openalex.org/C108583219",
+        "wikidata": "https://www.wikidata.org/wiki/Q197536",
+        "display_name": "Deep learning",
+        "level": 2,
+        "score": 0.6086000204086304
+      },
+      {
+        "id": "https://openalex.org/C34736171",
+        "wikidata": "https://www.wikidata.org/wiki/Q918333",
+        "display_name": "Preprocessor",
+        "level": 2,
+        "score": 0.5388000011444092
+      },
+      {
+        "id": "https://openalex.org/C79158427",
+        "wikidata": "https://www.wikidata.org/wiki/Q485396",
+        "display_name": "Analytics",
+        "level": 2,
+        "score": 0.5005000233650208
+      },
+      {
+        "id": "https://openalex.org/C2777904410",
+        "wikidata": "https://www.wikidata.org/wiki/Q7397",
+        "display_name": "Software",
+        "level": 2,
+        "score": 0.4952999949455261
+      },
+      {
+        "id": "https://openalex.org/C169258074",
+        "wikidata": "https://www.wikidata.org/wiki/Q245748",
+        "display_name": "Random forest",
+        "level": 2,
+        "score": 0.48190000653266907
+      },
+      {
+        "id": "https://openalex.org/C153876917",
+        "wikidata": "https://www.wikidata.org/wiki/Q899704",
+        "display_name": "Traceability",
+        "level": 2,
+        "score": 0.429500013589859
+      },
+      {
+        "id": "https://openalex.org/C10551718",
+        "wikidata": "https://www.wikidata.org/wiki/Q5227332",
+        "display_name": "Data pre-processing",
+        "level": 2,
+        "score": 0.41670000553131104
+      },
+      {
+        "id": "https://openalex.org/C36464697",
+        "wikidata": "https://www.wikidata.org/wiki/Q451553",
+        "display_name": "Visualization",
+        "level": 2,
+        "score": 0.40860000252723694
+      },
+      {
+        "id": "https://openalex.org/C32833848",
+        "wikidata": "https://www.wikidata.org/wiki/Q4115054",
+        "display_name": "Extensibility",
+        "level": 2,
+        "score": 0.3709999918937683
+      },
+      {
+        "id": "https://openalex.org/C2776436953",
+        "wikidata": "https://www.wikidata.org/wiki/Q5163215",
+        "display_name": "Consistency (knowledge bases)",
+        "level": 2,
+        "score": 0.3686999976634979
+      },
+      {
+        "id": "https://openalex.org/C124101348",
+        "wikidata": "https://www.wikidata.org/wiki/Q172491",
+        "display_name": "Data mining",
+        "level": 1,
+        "score": 0.36739999055862427
+      },
+      {
+        "id": "https://openalex.org/C59732488",
+        "wikidata": "https://www.wikidata.org/wiki/Q2528440",
+        "display_name": "Visual analytics",
+        "level": 3,
+        "score": 0.3231000006198883
+      },
+      {
+        "id": "https://openalex.org/C83209312",
+        "wikidata": "https://www.wikidata.org/wiki/Q1053367",
+        "display_name": "Predictive analytics",
+        "level": 2,
+        "score": 0.31869998574256897
+      },
+      {
+        "id": "https://openalex.org/C172367668",
+        "wikidata": "https://www.wikidata.org/wiki/Q6504956",
+        "display_name": "Data visualization",
+        "level": 3,
+        "score": 0.31790000200271606
+      },
+      {
+        "id": "https://openalex.org/C95623464",
+        "wikidata": "https://www.wikidata.org/wiki/Q1096149",
+        "display_name": "Classifier (UML)",
+        "level": 2,
+        "score": 0.29649999737739563
+      },
+      {
+        "id": "https://openalex.org/C45804977",
+        "wikidata": "https://www.wikidata.org/wiki/Q7239673",
+        "display_name": "Predictive modelling",
+        "level": 2,
+        "score": 0.28029999136924744
+      },
+      {
+        "id": "https://openalex.org/C148524875",
+        "wikidata": "https://www.wikidata.org/wiki/Q6975395",
+        "display_name": "F1 score",
+        "level": 2,
+        "score": 0.2669999897480011
+      },
+      {
+        "id": "https://openalex.org/C75684735",
+        "wikidata": "https://www.wikidata.org/wiki/Q858810",
+        "display_name": "Big data",
+        "level": 2,
+        "score": 0.2662999927997589
+      },
+      {
+        "id": "https://openalex.org/C45942800",
+        "wikidata": "https://www.wikidata.org/wiki/Q245652",
+        "display_name": "Ensemble learning",
+        "level": 2,
+        "score": 0.25270000100135803
+      },
+      {
+        "id": "https://openalex.org/C93361087",
+        "wikidata": "https://www.wikidata.org/wiki/Q4426698",
+        "display_name": "Data consistency",
+        "level": 2,
+        "score": 0.2515999972820282
+      },
+      {
+        "id": "https://openalex.org/C2776401178",
+        "wikidata": "https://www.wikidata.org/wiki/Q12050496",
+        "display_name": "Feature (linguistics)",
+        "level": 2,
+        "score": 0.2515000104904175
+      },
+      {
+        "id": "https://openalex.org/C2778827112",
+        "wikidata": "https://www.wikidata.org/wiki/Q22245680",
+        "display_name": "Feature engineering",
+        "level": 3,
+        "score": 0.2502000033855438
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.softx.2026.103258",
+        "doi": "https://doi.org/10.1016/j.softx.2026.103258",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.softx.2026.103258",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S235271102600748X/pdf",
+        "source": {
+          "id": "https://openalex.org/S2506067282",
+          "display_name": "SoftwareX",
+          "issn_l": "2352-7110",
+          "issn": [
+            "2352-7110"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-d",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-200",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SoftwareX",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1016/j.softx.2026.103258",
+      "doi": "https://doi.org/10.1016/j.softx.2026.103258",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.softx.2026.103258",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S235271102600748X/pdf",
+      "source": {
+        "id": "https://openalex.org/S2506067282",
+        "display_name": "SoftwareX",
+        "issn_l": "2352-7110",
+        "issn": [
+          "2352-7110"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "dongbi-d",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-200",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "SoftwareX",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W7240040549.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W7240040549.grobid-xml"
+    },
+    "referenced_works_count": 12,
+    "referenced_works": [
+      "https://openalex.org/W2036318837",
+      "https://openalex.org/W2131850886",
+      "https://openalex.org/W2133990480",
+      "https://openalex.org/W3011307848",
+      "https://openalex.org/W3137081859",
+      "https://openalex.org/W3160033795",
+      "https://openalex.org/W3174082502",
+      "https://openalex.org/W4399448095",
+      "https://openalex.org/W4406170795",
+      "https://openalex.org/W4416234289",
+      "https://openalex.org/W6910681941",
+      "https://openalex.org/W6945111357"
+    ],
+    "related_works": [
+      "https://openalex.org/W7225415967",
+      "https://openalex.org/W4378876385",
+      "https://openalex.org/W7208794045",
+      "https://openalex.org/W7147054559",
+      "https://openalex.org/W7222882916",
+      "https://openalex.org/W4388481884",
+      "https://openalex.org/W7134279660",
+      "https://openalex.org/W7221151771",
+      "https://openalex.org/W4400142077",
+      "https://openalex.org/W3011307848"
+    ],
+    "abstract_inverted_index": {
+      "Advanced": [
+        0
+      ],
+      "Visualization": [
+        1
+      ],
+      "and": [
+        2,
+        17,
+        34,
+        46,
+        58,
+        82,
+        87,
+        104,
+        135,
+        148,
+        174,
+        191,
+        201
+      ],
+      "Intelligent": [
+        3
+      ],
+      "System": [
+        4
+      ],
+      "for": [
+        5,
+        14,
+        30,
+        118,
+        155,
+        167,
+        199
+      ],
+      "Tabular": [
+        6
+      ],
+      "Analytics": [
+        7
+      ],
+      "(AVISTA)": [
+        8
+      ],
+      "is": [
+        9
+      ],
+      "a": [
+        10,
+        26,
+        181
+      ],
+      "domain-independent": [
+        11
+      ],
+      "desktop": [
+        12
+      ],
+      "platform": [
+        13,
+        198
+      ],
+      "developing,": [
+        15
+      ],
+      "evaluating,": [
+        16
+      ],
+      "documenting": [
+        18
+      ],
+      "tabular": [
+        19,
+        56,
+        59,
+        203
+      ],
+      "machine": [
+        20,
+        52,
+        120
+      ],
+      "learning": [
+        21,
+        53,
+        121
+      ],
+      "workflows.": [
+        22
+      ],
+      "The": [
+        23
+      ],
+      "software": [
+        24
+      ],
+      "provides": [
+        25
+      ],
+      "graphical,": [
+        27
+      ],
+      "project-based": [
+        28
+      ],
+      "environment": [
+        29
+      ],
+      "dataset": [
+        31
+      ],
+      "import,": [
+        32
+      ],
+      "feature": [
+        33
+      ],
+      "target": [
+        35
+      ],
+      "configuration,": [
+        36
+      ],
+      "preprocessing,": [
+        37
+      ],
+      "data": [
+        38
+      ],
+      "splitting,": [
+        39
+      ],
+      "class-imbalance": [
+        40
+      ],
+      "handling,": [
+        41
+      ],
+      "model": [
+        42,
+        189
+      ],
+      "training,": [
+        43
+      ],
+      "performance": [
+        44
+      ],
+      "evaluation,": [
+        45
+      ],
+      "report": [
+        47
+      ],
+      "generation.": [
+        48
+      ],
+      "AVISTA": [
+        49
+      ],
+      "supports": [
+        50
+      ],
+      "conventional": [
+        51,
+        119
+      ],
+      "algorithms,": [
+        54
+      ],
+      "deep": [
+        55
+      ],
+      "architectures,": [
+        57
+      ],
+      "foundation": [
+        60
+      ],
+      "models": [
+        61
+      ],
+      "through": [
+        62
+      ],
+      "an": [
+        63,
+        196
+      ],
+      "extensible": [
+        64,
+        197
+      ],
+      "registry-based": [
+        65
+      ],
+      "design.": [
+        66
+      ],
+      "Native": [
+        67
+      ],
+      ".avista": [
+        68
+      ],
+      "project": [
+        69
+      ],
+      "files": [
+        70
+      ],
+      "preserve": [
+        71
+      ],
+      "analytical": [
+        72
+      ],
+      "configurations,": [
+        73
+      ],
+      "preprocessing": [
+        74
+      ],
+      "objects,": [
+        75
+      ],
+      "split": [
+        76
+      ],
+      "artifacts,": [
+        77
+      ],
+      "trained": [
+        78
+      ],
+      "models,": [
+        79
+      ],
+      "predictions,": [
+        80
+      ],
+      "metrics,": [
+        81
+      ],
+      "reports,": [
+        83
+      ],
+      "supporting": [
+        84
+      ],
+      "workflow": [
+        85
+      ],
+      "traceability": [
+        86
+      ],
+      "same-environment": [
+        88
+      ],
+      "repeatability.": [
+        89
+      ],
+      "External": [
+        90
+      ],
+      "validation": [
+        91
+      ],
+      "across": [
+        92,
+        187
+      ],
+      "three": [
+        93
+      ],
+      "public": [
+        94
+      ],
+      "datasets": [
+        95
+      ],
+      "evaluated": [
+        96
+      ],
+      "five": [
+        97
+      ],
+      "models—Logistic": [
+        98
+      ],
+      "Regression,": [
+        99
+      ],
+      "Random": [
+        100
+      ],
+      "Forest,": [
+        101
+      ],
+      "XGBoost,": [
+        102
+      ],
+      "FT-Transformer,": [
+        103
+      ],
+      "TabPFN": [
+        105
+      ],
+      "2.5—against": [
+        106
+      ],
+      "corresponding": [
+        107,
+        144
+      ],
+      "standalone": [
+        108
+      ],
+      "Python": [
+        109
+      ],
+      "implementations,": [
+        110
+      ],
+      "with": [
+        111,
+        162
+      ],
+      "additional": [
+        112
+      ],
+      "comparisons": [
+        113,
+        142,
+        151
+      ],
+      "using": [
+        114
+      ],
+      "Orange": [
+        115
+      ],
+      "Data": [
+        116
+      ],
+      "Mining": [
+        117
+      ],
+      "models.": [
+        122
+      ],
+      "Across": [
+        123
+      ],
+      "15": [
+        124
+      ],
+      "AVISTA–Python": [
+        125
+      ],
+      "comparisons,": [
+        126
+      ],
+      "the": [
+        127,
+        163
+      ],
+      "mean": [
+        128
+      ],
+      "absolute": [
+        129
+      ],
+      "differences": [
+        130,
+        145,
+        165
+      ],
+      "were": [
+        131
+      ],
+      "0.0086": [
+        132
+      ],
+      "in": [
+        133,
+        137,
+        172,
+        176
+      ],
+      "accuracy": [
+        134,
+        173
+      ],
+      "0.0100": [
+        136
+      ],
+      "macro-F1,": [
+        138
+      ],
+      "while": [
+        139
+      ],
+      "nine": [
+        140
+      ],
+      "AVISTA–Orange": [
+        141
+      ],
+      "yielded": [
+        143
+      ],
+      "of": [
+        146,
+        184
+      ],
+      "0.0037": [
+        147
+      ],
+      "0.0085.": [
+        149
+      ],
+      "Individual": [
+        150
+      ],
+      "demonstrated": [
+        152
+      ],
+      "exact": [
+        153
+      ],
+      "agreement": [
+        154
+      ],
+      "several": [
+        156
+      ],
+      "model–dataset": [
+        157
+      ],
+      "combinations,": [
+        158
+      ],
+      "alongside": [
+        159
+      ],
+      "dataset-dependent": [
+        160
+      ],
+      "variations,": [
+        161
+      ],
+      "largest": [
+        164
+      ],
+      "observed": [
+        166
+      ],
+      "FT-Transformer": [
+        168
+      ],
+      "on": [
+        169
+      ],
+      "NPHA": [
+        170
+      ],
+      "(0.0629": [
+        171
+      ],
+      "0.1127": [
+        175
+      ],
+      "macro-F1).": [
+        177
+      ],
+      "These": [
+        178
+      ],
+      "findings": [
+        179
+      ],
+      "provide": [
+        180
+      ],
+      "transparent": [
+        182
+      ],
+      "assessment": [
+        183
+      ],
+      "predictive": [
+        185
+      ],
+      "consistency": [
+        186
+      ],
+      "heterogeneous": [
+        188
+      ],
+      "families": [
+        190
+      ],
+      "highlight": [
+        192
+      ],
+      "AVISTA's": [
+        193
+      ],
+      "potential": [
+        194
+      ],
+      "as": [
+        195
+      ],
+      "systematic": [
+        200
+      ],
+      "traceable": [
+        202
+      ],
+      "machine-learning": [
+        204
+      ],
+      "experimentation.": [
+        205
+      ]
+    },
+    "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W7240040549",
+    "counts_by_year": [],
+    "updated_date": "2026-11-28T09:27:14.034486",
+    "created_date": "2026-11-27T00:00:00"
+  }
+}

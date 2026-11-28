@@ -1,6 +1,6 @@
 {
   "doi": "10.1177/03611981261468749",
-  "fetched_at": "2026-11-27T06:21:39+00:00",
+  "fetched_at": "2026-11-28T15:41:39+00:00",
   "work": {
     "id": "https://openalex.org/W7203599571",
     "doi": "https://doi.org/10.1177/03611981261468749",
@@ -636,19 +636,19 @@
     "best_oa_location": null,
     "sustainable_development_goals": [
       {
-        "display_name": "Sustainable cities and communities",
         "id": "https://metadata.un.org/sdg/11",
-        "score": 0.7646999955177307
+        "score": 0.7646999955177307,
+        "display_name": "Sustainable cities and communities"
       },
       {
-        "display_name": "Good health and well-being",
         "id": "https://metadata.un.org/sdg/3",
-        "score": 0.5683000087738037
+        "score": 0.5683000087738037,
+        "display_name": "Good health and well-being"
       },
       {
-        "display_name": "Reduced inequalities",
         "id": "https://metadata.un.org/sdg/10",
-        "score": 0.4074000120162964
+        "score": 0.4074000120162964,
+        "display_name": "Reduced inequalities"
       }
     ],
     "study_designs": [],
