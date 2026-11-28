@@ -2,7 +2,7 @@
   {
     "title": "A Review on Influx of Bio-Inspired Algorithms: Critique and Improvement Needs",
     "authors": "S Somvanshi, MM Islam, SA Javed, G Chhetri, KS Islam, TI Chowdhury, ...",
-    "venue": "arXiv preprint arXiv:2506.04238 , 2025",
+    "venue": "arXiv preprint arXiv:2506.04238, 2025",
     "year": 2025,
     "citations": 16,
     "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14444917354076055547,8813858719760492761",
@@ -69,7 +69,7 @@
   {
     "title": "Model context protocols in adaptive transport systems: A survey",
     "authors": "G Chhetri, S Somvanshi, MM Islam, S Brotee, MS Mimi, D Koirala, ...",
-    "venue": "arXiv preprint arXiv:2508.19239 , 2025",
+    "venue": "arXiv preprint arXiv:2508.19239, 2025",
     "year": 2025,
     "citations": 11,
     "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=834540261289384132",
@@ -131,7 +131,7 @@
   {
     "title": "Realism and causality in synthetic data generation: A survey",
     "authors": "G Chhetri, S Somvanshi, MS Mimi, MW Ansari, MM Islam, S Barua, S Das",
-    "venue": "Available at SSRN 5679762 , 2025",
+    "venue": "Available at SSRN 5679762, 2025",
     "year": 2025,
     "citations": 3,
     "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8605616093358355557",
@@ -188,7 +188,7 @@
   {
     "title": "Not Just Another Survey on Physics-Informed Neural Networks (PINNs): Foundations, Advances, and Open Problems",
     "authors": "S Somvanshi, MO Aibinu, R Chakraborty, MM Islam, MS Mimi, D Koirala, ...",
-    "venue": "Advances, and Open Problems (August 19, 2025) , 2025",
+    "venue": "Advances, and Open Problems (August 19, 2025), 2025",
     "year": 2025,
     "citations": 3,
     "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4362245111131023579",
@@ -203,7 +203,7 @@
   {
     "title": "Applying MambaAttention, TabPFN, and TabTransformers to Classify SAE Automation Levels in Crashes",
     "authors": "S Somvanshi, AG Tusti, MS Mimi, MM Islam, SBB Polock, A Dutta, S Das",
-    "venue": "arXiv preprint arXiv:2506.03160 , 2025",
+    "venue": "arXiv preprint arXiv:2506.03160, 2025",
     "year": 2025,
     "citations": 2,
     "cited_by_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6985345037776615375",
@@ -260,7 +260,7 @@
   {
     "title": "Exploring the Role of Automated Emergency Braking in Traffic Crash Patterns Using Multivariate Data Mining Method",
     "authors": "MM Islam, MS Mimi, SA Rafat, TI Chowdhury, A Chakraborty, S Das",
-    "venue": "",
+    "venue": null,
     "year": 2026,
     "citations": null,
     "cited_by_url": null,
@@ -312,7 +312,7 @@
   {
     "title": "HERMES: Heterogeneous Edge-Relational Multi-Head Embedded SSM Attention for Traffic Conflict Prediction at Signalized Intersections",
     "authors": "MM Islam, S Das",
-    "venue": "arXiv preprint arXiv:2607.20505 , 2026",
+    "venue": "arXiv preprint arXiv:2607.20505, 2026",
     "year": 2026,
     "citations": null,
     "cited_by_url": null,
@@ -344,7 +344,7 @@
   {
     "title": "Toward Safer Bicycle Infrastructure: Policy Insights from Temporal Stability and Heterogeneous Crash Severity in Bike Lane-Involved Crashes",
     "authors": "SBB Polock, S Das, MM Islam",
-    "venue": "",
+    "venue": null,
     "year": 2026,
     "citations": null,
     "cited_by_url": null,

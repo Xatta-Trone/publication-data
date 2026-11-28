@@ -27,12 +27,20 @@ public/        published to GitHub Pages
 | `fetch_crossref.py` | Crossref metadata per DOI | once per DOI |
 | `fetch_openalex.py` | OpenAlex citations, abstracts, topics | refreshed daily |
 | `fetch_journals.py` | Journal names for peer-review ISSNs | once per ISSN |
-| `fetch_scholar.py` | Google Scholar profile (1 request) | at most once per day |
+| `fetch_scholar.py` | Google Scholar profile (1 request; SerpApi if Scholar blocks it) | at most once per day |
 | `summarize.py` | Builds the outputs below | — |
 | `fetch_other_works.py` | Full authors for Scholar-only works (arXiv/OpenAlex/Crossref) | once per work |
 
 If an optional step fails (e.g. Scholar blocks the request), the run continues
 with the previous data for that source.
+
+Google Scholar usually blocks GitHub's runners (HTTP 403). With `SERPAPI_KEY`
+set, `fetch_scholar.py` then reads the same profile once through
+[SerpApi](https://serpapi.com/google-scholar-author-api). The daily schedule
+uses about 31 of the free plan's 250 searches a month. The script stops at
+`SERPAPI_MONTHLY_LIMIT` (default 200, counted in `data/scholar/serpapi_usage.json`),
+or when the account has fewer than `SERPAPI_RESERVE` (20) searches left. Run
+`python pipeline/fetch_scholar.py --serpapi` to test it (uses 1 search).
 
 ## Published files
 

@@ -25,7 +25,8 @@ pipeline/             one script per step (each runnable on its own)
   fetch_crossref.py     Crossref record per DOI             -> data/crossref/<urlencoded-doi>.json
   fetch_openalex.py     OpenAlex record per DOI             -> data/openalex/<urlencoded-doi>.json
   fetch_journals.py     journal name per peer-review ISSN   -> data/journals/<ISSN>.json
-  fetch_scholar.py      Scholar profile page (1 request)    -> data/scholar/profile.json
+  fetch_scholar.py      Scholar profile page (1 request,    -> data/scholar/profile.json
+                        SerpApi fallback when blocked)         (+ serpapi.json, serpapi_usage.json)
   summarize.py          joins everything                    -> data/publications.json, preprints.json,
                                                                peer_reviews_public.json, summary.json,
                                                                other_works.json, authorship.csv
@@ -59,7 +60,7 @@ enrichment source must never block publishing.
 | Crossref | never once saved (delete the file to refetch); 404s listed in `_not_found.json` | DOI, lowercased, URL-encoded |
 | OpenAlex | older than `OPENALEX_MAX_AGE_DAYS` (workflow: 0.8); misses retried daily | same as Crossref |
 | Journal names | never once saved | ISSN, uppercased |
-| Scholar | older than `SCHOLAR_MAX_AGE_HOURS` (workflow: 20) | single file |
+| Scholar (direct or SerpApi) | older than `SCHOLAR_MAX_AGE_HOURS` (workflow: 20) | single file |
 | Other-works metadata | never once found; misses retried after 7 days | Scholar `citation_for_view` id |
 
 The workflow commits `data/` back to the repo after each run; that is what makes
@@ -74,9 +75,18 @@ the next run incremental on a fresh runner.
 - **Google Scholar:** exactly one request per run, to
   `/citations?user=<id>&pagesize=100`, which `robots.txt` allows. Do not add
   paging (`cstart=`), per-article pages (`view_op=view_citation`), proxies,
-  rotating user agents, or CAPTCHA handling. On a CAPTCHA/429 the script exits
-  and keeps the old data. Full author lists for Scholar-only works come from
+  rotating user agents, or CAPTCHA handling. On a CAPTCHA/403/429 the script
+  falls back to SerpApi if `SERPAPI_KEY` is set, otherwise it exits and keeps
+  the old data. Full author lists for Scholar-only works come from
   arXiv / OpenAlex / Crossref instead (`fetch_other_works.py`).
+- **SerpApi budget (250 searches/month plan):** at most one search per run,
+  only after the direct request failed and only when the cache is stale. Never
+  page (`start=`), never call per-article or `cites` engines. Guards: local
+  monthly counter `data/scholar/serpapi_usage.json` vs `SERPAPI_MONTHLY_LIMIT`
+  (workflow: 200), and the free `account.json` check vs `SERPAPI_RESERVE` (20).
+  `SERPAPI_KEY` is a secret: SerpApi errors are reported by status code, never
+  by URL, and `search_metadata` is stripped before saving `serpapi.json`.
+  `profile.json → source` says which path produced the data.
 - **Preprints are not counted.** `summarize.is_preprint()` (Crossref type
   `posted-content`/`preprint`, or venue mentions arXiv/SSRN/Research Square/…)
   moves a work to `preprints.json`. All counts, journal lists and citation
@@ -162,10 +172,10 @@ python -m http.server 8765 --directory public   # view the page at localhost:876
 
 ## Known gaps / next steps
 
-- **Scholar from GitHub Actions** is often blocked (datacenter IPs). The run
-  then reuses the last Scholar data. Options if it stays blocked: run
-  `pipeline/fetch_scholar.py` locally and push; a self-hosted runner; a paid
-  Scholar API. Check `last_run.json` → step `fetch_scholar.py`.
+- **Scholar from GitHub Actions** is blocked (HTTP 403, datacenter IPs), so
+  the daily run uses the SerpApi fallback. If SerpApi is out of budget, the
+  run reuses the last Scholar data. Check `last_run.json` → step
+  `fetch_scholar.py` and `data/scholar/profile.json → source`.
 - **Abstracts** are missing for ~half the papers (Elsevier deposits none).
   Could add a hand-maintained overrides file.
 - **Manual overrides** (featured papers, code/data links, corresponding
