@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-28T15:41:37+00:00",
-  "finished_at": "2026-11-28T15:41:40+00:00",
+  "started_at": "2026-11-28T17:40:34+00:00",
+  "finished_at": "2026-11-28T17:40:36+00:00",
   "ok": true,
   "steps": [
     {
@@ -30,8 +30,8 @@
     {
       "step": "fetch_scholar.py",
       "critical": false,
-      "ok": false,
-      "last_line": "requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://scholar.google.com/citations?user=edkjFpwAAAAJ&hl=en&pagesize=100"
+      "ok": true,
+      "last_line": "Cached copy is 0.1 h old (< 20 h); not contacting Scholar. Use --refresh to force."
     },
     {
       "step": "summarize.py",
@@ -61,8 +61,8 @@
     "removed_peer_reviews": 0,
     "citation_changes": {},
     "scholar_total": {
-      "from": 816,
-      "to": 816
+      "from": 818,
+      "to": 818
     }
   }
 }
